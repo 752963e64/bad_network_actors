@@ -1,0 +1,42 @@
+{
+  "ip": "146.70.196.85",
+  "city": "Budapest",
+  "region": "Budapest",
+  "country": "HU",
+  "loc": "47.4984,19.0404",
+  "postal": "1132",
+  "timezone": "Europe/Budapest",
+  "asn": {
+    "asn": "AS9009",
+    "name": "M247 Europe SRL",
+    "domain": "m247.com",
+    "route": "146.70.196.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "M247 LTD Budapest Infrastructure",
+    "domain": "m247.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "Mullvad"
+  },
+  "abuse": {
+    "address": "Victor Hugo u. 11-15, Budapest, 1132, Budapest, Hungary",
+    "country": "HU",
+    "email": "abuse@m247.com",
+    "name": "M247 LTD Budapest Infrastructure",
+    "network": "146.70.196.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

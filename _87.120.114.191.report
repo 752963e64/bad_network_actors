@@ -1,0 +1,42 @@
+{
+  "ip": "87.120.114.191",
+  "city": "Lelystad",
+  "region": "Flevoland",
+  "country": "NL",
+  "loc": "52.5083,5.4750",
+  "postal": "8224",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS401115",
+    "name": "EKABI",
+    "domain": "ekabi.net",
+    "route": "87.120.114.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Ekabi LLC",
+    "domain": "ekabi.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "1942 Broadway St. STE 314C Boulder CO 80302 United States",
+    "country": "US",
+    "email": "abuse@ekabi.net",
+    "name": "Ekabi LLC",
+    "network": "87.120.114.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "173.239.196.189",
+  "city": "Colombo",
+  "region": "Western Province",
+  "country": "LK",
+  "loc": "6.9355,79.8487",
+  "postal": "00100",
+  "timezone": "Asia/Colombo",
+  "asn": {
+    "asn": "AS206092",
+    "name": "Internet Utilities Europe and Asia Limited",
+    "domain": "netutils.io",
+    "route": "173.239.196.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Avast Software",
+    "domain": "avast.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "ExpressVPN"
+  },
+  "abuse": {
+    "address": "6th Floor 9 Appold Street London, EC2A 2AP",
+    "country": "US",
+    "email": "report@abuseradar.com",
+    "name": "Internet Utilities Abuse Contact",
+    "network": "173.239.196.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

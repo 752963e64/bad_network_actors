@@ -1,0 +1,41 @@
+{
+  "ip": "203.190.43.37",
+  "city": "Kasihan",
+  "region": "Yogyakarta",
+  "country": "ID",
+  "loc": "-7.8269,110.3292",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS45317",
+    "name": "Jaringan Lintas Utara, PT",
+    "domain": "jatara.net.id",
+    "route": "203.190.43.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PT Jaring Lintas Utara",
+    "domain": "jatara.net.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT Jaring Lintas Utara, Jl. Seturan Raya Kav. Madukismo 31, Yogyakarta, 55281",
+    "country": "ID",
+    "email": "abuse@jataramail.net",
+    "name": "Joko Prasetyo",
+    "network": "203.190.40.0/21",
+    "phone": "+62-274-4332974"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

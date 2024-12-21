@@ -1,0 +1,42 @@
+{
+  "ip": "94.50.161.14",
+  "city": "Perm",
+  "region": "Perm Krai",
+  "country": "RU",
+  "loc": "58.0105,56.2502",
+  "postal": "614530",
+  "timezone": "Asia/Yekaterinburg",
+  "asn": {
+    "asn": "AS12389",
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "route": "94.50.160.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Dynamic distribution IP's for broadband services",
+    "domain": "rt.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "PJSC Rostelecom Technical Team",
+    "network": "94.50.160.0/20",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

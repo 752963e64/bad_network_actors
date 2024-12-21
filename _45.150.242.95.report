@@ -1,0 +1,42 @@
+{
+  "ip": "45.150.242.95",
+  "hostname": "user-45-150-242-95.tpe01.tw.misaka.io",
+  "city": "Taipei",
+  "region": "Taiwan",
+  "country": "TW",
+  "loc": "25.0531,121.5264",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS23961",
+    "name": "Misaka Network, Inc.",
+    "domain": "misaka.io",
+    "route": "45.150.242.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Misaka Network, Inc.",
+    "domain": "misaka.io",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Suite, 19901, Dover, UNITED STATES",
+    "country": "US",
+    "email": "abuse@misaka.email",
+    "name": "Abuse-C Role",
+    "network": "45.150.242.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

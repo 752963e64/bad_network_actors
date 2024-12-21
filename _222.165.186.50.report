@@ -1,0 +1,42 @@
+{
+  "ip": "222.165.186.50",
+  "city": "Colombo",
+  "region": "Western Province",
+  "country": "LK",
+  "loc": "6.9355,79.8487",
+  "postal": "00100",
+  "timezone": "Asia/Colombo",
+  "asn": {
+    "asn": "AS9329",
+    "name": "Sri Lanka Telecom Internet",
+    "domain": "slt.lk",
+    "route": "222.165.128.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Internet Service Provider in Sri Lanka",
+    "domain": "slt.com.lk",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Internet Division, 7th floor, OTS Building, Sri Lanka Telecom, Lotus Road, Colombo-1",
+    "country": "LK",
+    "email": "aselaeranda@slt.com.lk",
+    "name": "Asela Eranda",
+    "network": "222.165.186.0/24",
+    "phone": "+94-11-2021913"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

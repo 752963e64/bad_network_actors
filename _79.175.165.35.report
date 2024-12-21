@@ -1,0 +1,40 @@
+{
+  "ip": "79.175.165.35",
+  "city": "Shiraz",
+  "region": "Fars",
+  "country": "IR",
+  "loc": "29.6103,52.5311",
+  "timezone": "Asia/Tehran",
+  "asn": {
+    "asn": "AS25184",
+    "name": "Afranet",
+    "domain": "afranet.com",
+    "route": "79.175.165.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Afranet",
+    "domain": "afranet.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No. 20 ,Sahand Str. , Beheshti Ave. , Tehran, Iran",
+    "country": "IR",
+    "email": "abuse@afranet.com",
+    "name": "AFRANET Abuse Role",
+    "network": "79.175.128.0/18",
+    "phone": "+98-21-81180"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

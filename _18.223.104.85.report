@@ -1,0 +1,43 @@
+{
+  "ip": "18.223.104.85",
+  "hostname": "scan.cypex.ai",
+  "city": "Columbus",
+  "region": "Ohio",
+  "country": "US",
+  "loc": "39.9612,-82.9988",
+  "postal": "43215",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS16509",
+    "name": "Amazon.com, Inc.",
+    "domain": "amazon.com",
+    "route": "18.220.0.0/14",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Amazon Technologies Inc.",
+    "domain": "amazon.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, WA, Seattle, Amazon Web Services Elastic Compute Cloud, EC2, 410 Terry Avenue North, 98109-5210",
+    "country": "US",
+    "email": "trustandsafety@support.aws.com",
+    "name": "Amazon EC2 Abuse",
+    "network": "18.32.0.0-18.255.255.255",
+    "phone": "+1-206-555-0000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "4.36.92.118",
+  "city": "Houston",
+  "region": "Texas",
+  "country": "US",
+  "loc": "29.7633,-95.3633",
+  "postal": "77002",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS3356",
+    "name": "Level 3 Parent, LLC",
+    "domain": "lumen.com",
+    "route": "4.0.0.0/9",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Level 3 Parent, LLC",
+    "domain": "lumen.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, LA, Monroe, 100 CenturyLink Drive, 71203",
+    "country": "US",
+    "email": "abuse@level3.com",
+    "name": "L3 Abuse Contact",
+    "network": "4.0.0.0/9",
+    "phone": "+1-877-453-8353"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "45.232.151.21",
+  "city": "Lima",
+  "region": "Lima Province",
+  "country": "PE",
+  "loc": "-12.0432,-77.0282",
+  "postal": "15001",
+  "timezone": "America/Lima",
+  "asn": {
+    "asn": "AS266757",
+    "name": "SATELITAL TELECOMUNICACIONES S.A.C",
+    "domain": "globalfiber.com.pe",
+    "route": "45.232.151.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SATELITAL TELECOMUNICACIONES S.A.C",
+    "domain": "globalfiber.net.pe",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Psj. Los Cipreses, 18,, - Huancayo -",
+    "country": "PE",
+    "email": "lucero.cusicuna@globalfiber.com.pe",
+    "name": "Grozny Lucero Cusicuna Mucha",
+    "network": "45.232.148.0/22",
+    "phone": "+51  942991309"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

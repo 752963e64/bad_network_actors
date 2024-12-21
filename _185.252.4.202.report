@@ -1,0 +1,46 @@
+{
+  "ip": "185.252.4.202",
+  "city": "Aldeamayor de San Martín",
+  "region": "Castille and León",
+  "country": "ES",
+  "loc": "41.5126,-4.6395",
+  "postal": "47162",
+  "timezone": "Europe/Madrid",
+  "asn": {
+    "asn": "AS15704",
+    "name": "XTRA TELECOM S.A.",
+    "domain": "masmovil.es",
+    "route": "185.252.4.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SETEL CONECTA S.L.",
+    "domain": "setelconecta.com",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Yoigo",
+    "mcc": "214",
+    "mnc": "04"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Calle Colombia 45 Puerta 9, 37003, SALAMANCA, SPAIN",
+    "country": "CO",
+    "email": "cgr@setelconecta.com",
+    "name": "Abuse-C Role",
+    "network": "185.252.4.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

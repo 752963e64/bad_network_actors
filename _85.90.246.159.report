@@ -1,0 +1,42 @@
+{
+  "ip": "85.90.246.159",
+  "hostname": "85-90-246-159.ip.linodeusercontent.com",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "postal": "60306",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS63949",
+    "name": "Akamai Connected Cloud",
+    "domain": "linode.com",
+    "route": "85.90.244.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Linode, LLC",
+    "domain": "linode.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "249 Arch Street, Philadelphia, PA 19106, USA",
+    "country": "DE",
+    "email": "abuse@linode.com",
+    "name": "Linode Abuse Support",
+    "network": "85.90.244.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

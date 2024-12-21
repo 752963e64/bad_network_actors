@@ -1,0 +1,43 @@
+{
+  "ip": "190.6.220.130",
+  "hostname": "customer-190-6-220-130.megacable.com.ar",
+  "city": "La Punta",
+  "region": "San Luis",
+  "country": "AR",
+  "loc": "-33.1837,-66.3127",
+  "postal": "5703",
+  "timezone": "America/Argentina/San_Luis",
+  "asn": {
+    "asn": "AS28015",
+    "name": "MERCO COMUNICACIONES",
+    "domain": "gciservicios.com.ar",
+    "route": "190.6.220.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "MERCO COMUNICACIONES",
+    "domain": "gciservicios.com.ar",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "25 de Mayo, 565, ofic 5º, 1002 - Capital Federal - CF",
+    "country": "AR",
+    "email": "fbrandenburg@gciservicios.com.ar",
+    "name": "Federico Brandenburg",
+    "network": "190.6.208.0/20",
+    "phone": "+54 11 43158899 [21]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "207.180.241.149",
+  "hostname": "vmi1778049.contaboserver.net",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "postal": "60306",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS51167",
+    "name": "Contabo GmbH",
+    "domain": "contabo.com",
+    "route": "207.180.240.0/23",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Contabo GmbH",
+    "domain": "contabo.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Contabo GmbH, Aschauer Str. 32a, 81549 Muenchen, Germany",
+    "country": "DE",
+    "email": "abuse@contabo.de",
+    "name": "Contabo GmbH",
+    "network": "207.180.224.0/19",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

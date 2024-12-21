@@ -1,0 +1,41 @@
+{
+  "ip": "108.165.179.179",
+  "city": "São Paulo",
+  "region": "São Paulo",
+  "country": "BR",
+  "loc": "-23.5475,-46.6361",
+  "postal": "01000-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS210356",
+    "name": "KAUA REIS DA SILVA trading as BattleHost",
+    "domain": "batt.host",
+    "route": "108.165.179.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "BattleHost",
+    "domain": "ipxo.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Doutor Adolfo de Assis, 59, Santos SP, Brazil",
+    "country": "BR",
+    "email": "kaua@batt.host",
+    "name": "Abuse contact role object",
+    "network": "108.165.179.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "186.208.132.132",
+  "hostname": "132-208-186-132.host132.abcrede.net.br",
+  "city": "Junqueirópolis",
+  "region": "São Paulo",
+  "country": "BR",
+  "loc": "-21.5147,-51.4336",
+  "postal": "17890-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS28265",
+    "name": "ABCREDE PROVEDOR DE INTERNET LTDA",
+    "domain": "abcrede.com.br",
+    "route": "186.208.132.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ABCREDE PROVEDOR DE INTERNET LTDA",
+    "domain": "abcrede.tec.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abcrede@abcrede.com.br",
+    "name": "AbcRede - Ltda ME",
+    "network": "186.208.128.0/20",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

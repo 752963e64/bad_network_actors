@@ -1,0 +1,42 @@
+{
+  "ip": "81.211.37.66",
+  "hostname": "mail.place.ru",
+  "city": "Moscow",
+  "region": "Moscow",
+  "country": "RU",
+  "loc": "55.7522,37.6156",
+  "postal": "101000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS3216",
+    "name": "PJSC \"Vimpelcom\"",
+    "domain": "beeline.ru",
+    "route": "81.211.0.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "115230 Russia, Moscow",
+    "domain": "sovintel.ru",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "111250 Russia Moscow, Krasnokazarmennaya, 12",
+    "country": "RU",
+    "email": "abuse-b2b@beeline.ru",
+    "name": "Sovintel Abuse Department",
+    "network": "81.211.37.64/27",
+    "phone": "+7 495 7871000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

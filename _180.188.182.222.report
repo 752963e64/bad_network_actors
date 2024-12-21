@@ -1,0 +1,42 @@
+{
+  "ip": "180.188.182.222",
+  "city": "Hong Kong",
+  "region": "Hong Kong",
+  "country": "HK",
+  "loc": "22.2783,114.1747",
+  "postal": "999077",
+  "timezone": "Asia/Hong_Kong",
+  "asn": {
+    "asn": "AS10118",
+    "name": "Hutchison Telephone Company Limited",
+    "domain": "three.com.hk",
+    "route": "180.188.180.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "DOMAIN FIVE ENTERPRISES LIMITED",
+    "domain": "domainla.org",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "12/F., Two Harbourfront,, 22 Tak Fung Street,, Hunghom, Kowloon.",
+    "country": "HK",
+    "email": "netadm@hthk.com",
+    "name": "ABUSE DOMAINFIVEHK",
+    "network": "180.188.128.0/18",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

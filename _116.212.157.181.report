@@ -1,0 +1,40 @@
+{
+  "ip": "116.212.157.181",
+  "city": "Phnom Penh",
+  "region": "Phnom Penh",
+  "country": "KH",
+  "loc": "11.5625,104.9160",
+  "timezone": "Asia/Phnom_Penh",
+  "asn": {
+    "asn": "AS38235",
+    "name": "ANGKOR DATA COMMUNICATION",
+    "domain": "mekongnet.com.kh",
+    "route": "116.212.157.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "MekongNet, Internet Service Provider (ISP), Internet Exchange Provider (IXP) and Internet Data Exchange Center (IDX)",
+    "domain": "mekongnet.com.kh",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "AnAnA Building, # 95, Norodom Blvd, Phnom Penh, Cambodia",
+    "country": "KH",
+    "email": "abuse@corp.mekongnet.com.kh",
+    "name": "ABUSE MEKONGNETKH",
+    "network": "116.212.157.0/24",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

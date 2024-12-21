@@ -1,0 +1,43 @@
+{
+  "ip": "162.248.54.126",
+  "hostname": "el-pregonero.com",
+  "city": "Miami",
+  "region": "Florida",
+  "country": "US",
+  "loc": "25.7743,-80.1937",
+  "postal": "33101",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS27640",
+    "name": "GIGAS HOSTING USA, LLC",
+    "domain": "gigas.com",
+    "route": "162.248.52.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "GIGAS HOSTING USA, LLC",
+    "domain": "gigas.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, FL, Miami, ONE SE THIRD AVE. 25TH FLOOR, C/O PEDRO FREYRE, 33131",
+    "country": "US",
+    "email": "arin@gigas.com",
+    "name": "Jose Arribas",
+    "network": "162.248.52.0/22",
+    "phone": "+1-786-220-3245"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

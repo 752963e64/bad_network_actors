@@ -1,0 +1,42 @@
+{
+  "ip": "80.94.93.219",
+  "city": "Timişoara",
+  "region": "Timiș County",
+  "country": "RO",
+  "loc": "45.7537,21.2257",
+  "postal": "300001",
+  "timezone": "Europe/Bucharest",
+  "asn": {
+    "asn": "AS47890",
+    "name": "UNMANAGED LTD",
+    "domain": "unmanaged.uk",
+    "route": "80.94.93.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "UNMANAGED LTD",
+    "domain": "unmanaged.uk",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "382 Kenton Road, Harrow, Middlesex, United Kingdom, HA3 8DP",
+    "country": "GB",
+    "email": "abuse@unmanaged.uk",
+    "name": "Abuse contact role object",
+    "network": "80.94.93.0/24",
+    "phone": "+44 (0) 333 305 0020"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

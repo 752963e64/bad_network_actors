@@ -1,0 +1,42 @@
+{
+  "ip": "103.225.57.85",
+  "city": "Patna",
+  "region": "Bihar",
+  "country": "IN",
+  "loc": "25.5941,85.1356",
+  "postal": "800001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS58762",
+    "name": "candor infosolution Pvt Ltd",
+    "domain": "candorsolution.com",
+    "route": "103.225.57.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "candor infosolution Pvt Ltd",
+    "domain": "candor.nl",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "7 A bersarai New delhi",
+    "country": "IN",
+    "email": "support@candorsolution.com",
+    "name": "kaushal kumar",
+    "network": "103.225.56.0/22",
+    "phone": "+91-11-71860200"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

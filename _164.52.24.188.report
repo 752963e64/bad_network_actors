@@ -1,0 +1,42 @@
+{
+  "ip": "164.52.24.188",
+  "city": "Tokyo",
+  "region": "Tokyo",
+  "country": "JP",
+  "loc": "35.6895,139.6917",
+  "postal": "101-8656",
+  "timezone": "Asia/Tokyo",
+  "asn": {
+    "asn": "AS63199",
+    "name": "CDS Global Cloud Co., Ltd",
+    "domain": "cdsglobalcloud.com",
+    "route": "164.52.24.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "UCUL-JP",
+    "domain": "urbanconnectedcloud.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "401 RAYLAND ST STE 200-A, Reno, NV 89502, USA",
+    "country": "US",
+    "email": "abuse@urbanconnectedcloud.com",
+    "name": "UCUL Abuse",
+    "network": "164.52.24.0/24",
+    "phone": "+1-213-375-3998"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

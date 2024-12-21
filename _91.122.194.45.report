@@ -1,0 +1,42 @@
+{
+  "ip": "91.122.194.45",
+  "city": "Nar'yan-Mar",
+  "region": "Nenets",
+  "country": "RU",
+  "loc": "67.6387,53.0037",
+  "postal": "166000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS12389",
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "route": "91.122.192.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ATNET-RU",
+    "domain": "atnet.ru",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "PJSC Rostelecom Technical Team",
+    "network": "91.122.192.0/20",
+    "phone": "+7 8182 650361"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

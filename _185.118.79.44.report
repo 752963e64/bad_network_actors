@@ -1,0 +1,42 @@
+{
+  "ip": "185.118.79.44",
+  "city": "New York City",
+  "region": "New York",
+  "country": "US",
+  "loc": "40.7143,-74.0060",
+  "postal": "10001",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS214738",
+    "name": "WEHOST LLC",
+    "domain": "wehost.gg",
+    "route": "185.118.79.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "WEHOST LLC",
+    "domain": "wehost.gg",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "6844 Bardstown Road, Louisville, KY, 40291",
+    "country": "US",
+    "email": "Admin@wehost.gg",
+    "name": "ADMIN",
+    "network": "185.118.79.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

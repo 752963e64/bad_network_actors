@@ -1,0 +1,41 @@
+{
+  "ip": "182.253.112.36",
+  "city": "Weleri",
+  "region": "Central Java",
+  "country": "ID",
+  "loc": "-6.9713,110.0666",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS17451",
+    "name": "BIZNET NETWORKS",
+    "domain": "biznetnetworks.com",
+    "route": "182.253.112.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Biznet Networks",
+    "domain": "biznetnetworks.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Biznet Networks, Midplaza 2, 8th Floor, Jl. Jend Sudirman Kav 10-11, Jakarta 10220",
+    "country": "ID",
+    "email": "abuse@biz.net.id",
+    "name": "BIZNET ADMIN",
+    "network": "182.253.0.0/16",
+    "phone": "+62-21-570-8888"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

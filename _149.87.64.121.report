@@ -1,0 +1,42 @@
+{
+  "ip": "149.87.64.121",
+  "city": "Buenos Aires",
+  "region": "Buenos Aires F.D.",
+  "country": "AR",
+  "loc": "-34.6131,-58.3772",
+  "postal": "1871",
+  "timezone": "America/Argentina/Buenos_Aires",
+  "asn": {
+    "asn": "AS52444",
+    "name": "Pogliotti & Pogliotti Construcciones S.A.",
+    "domain": "sitsa.com.ar",
+    "route": "149.87.64.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Pogliotti & Pogliotti Construcciones S.A.",
+    "domain": "sitsa.com.ar",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, DC, Washington, 2450 N street, NW, 20037",
+    "country": "US",
+    "email": "abuse@cogentco.com",
+    "name": "Cogent Abuse",
+    "network": "149.87.0.0/16",
+    "phone": "+1-877-875-4311"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "117.209.89.0",
+  "city": "Madgaon",
+  "region": "Goa",
+  "country": "IN",
+  "loc": "15.2750,73.9579",
+  "postal": "403707",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS9829",
+    "name": "National Internet Backbone",
+    "domain": "bsnl.co.in",
+    "route": "117.209.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Broadband Multiplay Prepaid , O/o DGM BB, NOC BSNL Bangalore",
+    "domain": "bsnl.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Internet Cell, Bharat Sanchar Nigam Limited., 8th Floor,148-B Statesman House, Barakhamba Road, New Delhi - 110 001",
+    "country": "IN",
+    "email": "abuse1@bsnl.co.in",
+    "name": "ABUSE BSNLIN",
+    "network": "117.209.0.0/17",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

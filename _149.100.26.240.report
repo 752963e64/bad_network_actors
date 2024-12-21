@@ -1,0 +1,42 @@
+{
+  "ip": "149.100.26.240",
+  "city": "Mijas",
+  "region": "Andalusia",
+  "country": "ES",
+  "loc": "36.5958,-4.6373",
+  "postal": "29649",
+  "timezone": "Europe/Madrid",
+  "asn": {
+    "asn": "AS200845",
+    "name": "AVATEL TELECOM, SA",
+    "domain": "avatel.es",
+    "route": "149.100.24.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Avatel Telecom S.A.U",
+    "domain": "avatel.es",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "AVDA TRANSICION ESPAÑOLA, NUM. 26 PARQUE EMPRESARIAL OMEGA, EDIFICIO F, 28108, Madrid, SPAIN",
+    "country": "ES",
+    "email": "abuse@avatel.es",
+    "name": "Abuse Avatel",
+    "network": "149.100.24.0/21",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

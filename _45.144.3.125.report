@@ -1,0 +1,42 @@
+{
+  "ip": "45.144.3.125",
+  "city": "Dolgoprudnyy",
+  "region": "Moscow Oblast",
+  "country": "RU",
+  "loc": "55.9496,37.5018",
+  "postal": "141700",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS51659",
+    "name": "LLC Baxet",
+    "domain": "baxet.ru",
+    "route": "45.144.2.0/23",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "LLC Baxet",
+    "domain": "baxet.ru",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Zelenograd, Sosnovaya alleya, 4, str 2, 33, 124489 Moscow, RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "noc@baxet.ru",
+    "name": "BAXET NOC",
+    "network": "45.144.3.0/24",
+    "phone": "+7 495 6680903"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

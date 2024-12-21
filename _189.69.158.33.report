@@ -1,0 +1,43 @@
+{
+  "ip": "189.69.158.33",
+  "hostname": "189-69-158-33.dial-up.telesp.net.br",
+  "city": "São Paulo",
+  "region": "São Paulo",
+  "country": "BR",
+  "loc": "-23.5475,-46.6361",
+  "postal": "01000-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS27699",
+    "name": "TELEFÔNICA BRASIL S.A",
+    "domain": "telefonica.com.br",
+    "route": "189.68.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TELEFÔNICA BRASIL S.A",
+    "domain": "telefonica.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse.br@telefonica.com",
+    "name": "CSIRT TELEFONICA BR",
+    "network": "189.68.0.0/15",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

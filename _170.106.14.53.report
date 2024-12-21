@@ -1,0 +1,36 @@
+{
+  "ip": "170.106.14.53",
+  "city": "Ashburn",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0437,-77.4875",
+  "postal": "20147",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS132203",
+    "name": "Tencent Building, Kejizhongyi Avenue",
+    "domain": "tencent.com",
+    "route": "170.106.14.0/23",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "16 COLLYER QUAY, # 18-29, INCOME AT RAFFLES, SINGAPORE",
+    "country": "SG",
+    "email": "qcloud_net_duty@tencent.com",
+    "name": "ABUSE ACEVILLEPTELTDSG",
+    "network": "170.106.0.0/16",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

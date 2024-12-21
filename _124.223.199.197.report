@@ -1,0 +1,44 @@
+{
+  "ip": "124.223.199.197",
+  "city": "Shanghai",
+  "region": "Shanghai",
+  "country": "CN",
+  "loc": "31.2222,121.4581",
+  "postal": "200000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS45090",
+    "name": "Shenzhen Tencent Computer Systems Company Limited",
+    "domain": "tencent.com",
+    "route": "124.223.192.0/18",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Tencent cloud computing (Beijing) Co., Ltd.",
+    "domain": "tencent.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Beijing, China",
+    "country": "CN",
+    "email": "ipas@cnnic.cn",
+    "name": "ABUSE CNNICCN",
+    "network": "124.220.0.0/14",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "ip": "124.223.199.197",
+    "total": 1,
+    "domains": [
+      "powerless.cloud"
+    ]
+  }
+}

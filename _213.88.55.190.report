@@ -1,0 +1,42 @@
+{
+  "ip": "213.88.55.190",
+  "city": "Astrakhan",
+  "region": "Astrakhan Oblast",
+  "country": "RU",
+  "loc": "46.3497,48.0408",
+  "postal": "414000",
+  "timezone": "Europe/Astrakhan",
+  "asn": {
+    "asn": "AS12714",
+    "name": "PJSC MegaFon",
+    "domain": "wifire.ru",
+    "route": "213.88.32.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Net By Net Holding LLC",
+    "domain": "netbynet.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC MegaFon, 41, Oruzheyniy lane, Moscow, 127006, Russian Federation",
+    "country": "RU",
+    "email": "abuse-mailbox@megafon.ru",
+    "name": "MegaFon PJSC - Internet Service Network Operation Center",
+    "network": "213.88.0.0-213.88.55.255",
+    "phone": "+7 495 980 2800"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

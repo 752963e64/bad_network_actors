@@ -1,0 +1,42 @@
+{
+  "ip": "168.121.221.224",
+  "city": "Lima",
+  "region": "Lima Province",
+  "country": "PE",
+  "loc": "-12.0432,-77.0282",
+  "postal": "15001",
+  "timezone": "America/Lima",
+  "asn": {
+    "asn": "AS27843",
+    "name": "WIN EMPRESAS S.A.C.",
+    "domain": "optical.pe",
+    "route": "168.121.220.0/23",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "RELLANO INVESTIGACION DE MARKETING S.A.",
+    "domain": "easy-telecom.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Av. Javier Prado Este 1498 Piso 2, 1498,, 27 - LIMA - LI",
+    "country": "PE",
+    "email": "soporte@EASY-TELECOM.COM",
+    "name": "CARLOS ZAPATA LUCANO",
+    "network": "168.121.221.224/29",
+    "phone": "+51 1 955479703 []"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

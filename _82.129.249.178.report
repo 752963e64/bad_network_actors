@@ -1,0 +1,41 @@
+{
+  "ip": "82.129.249.178",
+  "city": "Cairo",
+  "region": "Cairo",
+  "country": "EG",
+  "loc": "30.0626,31.2497",
+  "timezone": "Africa/Cairo",
+  "asn": {
+    "asn": "AS24835",
+    "name": "Vodafone Data",
+    "domain": "vodafone.com.eg",
+    "route": "82.129.224.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Vodafone Data",
+    "domain": "vodafone.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Vodafone, Cairo, Egypt",
+    "country": "EG",
+    "email": "Ramy.Mohamed-AbdelSalam@vodafone.com",
+    "name": "Ramy Mohamed",
+    "network": "82.129.128.0/17",
+    "phone": "tel:+20-102-808-5001"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

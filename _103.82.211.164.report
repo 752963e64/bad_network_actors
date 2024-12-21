@@ -1,0 +1,42 @@
+{
+  "ip": "103.82.211.164",
+  "city": "Hosūr",
+  "region": "Tamil Nadu",
+  "country": "IN",
+  "loc": "12.7365,77.8326",
+  "postal": "562109",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS135780",
+    "name": "AirFiber Networks Pvt Ltd",
+    "domain": "airfiber.co.in",
+    "route": "103.82.211.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "AirFiber Networks Pvt Ltd",
+    "domain": "airfiber.co.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "79/1 taluk office road ,hosur,Dharmapuri,Tamil Nadu-635109",
+    "country": "IN",
+    "email": "support@airfiber.co.in",
+    "name": "manager admin",
+    "network": "103.82.208.0/22",
+    "phone": "+91 4344223600"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

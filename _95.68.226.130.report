@@ -1,0 +1,42 @@
+{
+  "ip": "95.68.226.130",
+  "city": "Ulyanovsk",
+  "region": "Ulyanovsk",
+  "country": "RU",
+  "loc": "54.3282,48.3866",
+  "postal": "432000",
+  "timezone": "Europe/Ulyanovsk",
+  "asn": {
+    "asn": "AS12389",
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "route": "95.68.128.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Rostelecom",
+    "domain": "rt.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "PJSC Rostelecom Technical Team",
+    "network": "95.68.224.0/20",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

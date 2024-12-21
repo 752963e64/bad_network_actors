@@ -1,0 +1,42 @@
+{
+  "ip": "178.54.78.190",
+  "hostname": "unallocated.sta.synapse.net.ua",
+  "city": "Vyshhorod",
+  "region": "Kiev",
+  "country": "UA",
+  "loc": "50.5848,30.4898",
+  "postal": "01001",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS29107",
+    "name": "Private \"Stock company \"Sater\"",
+    "domain": "sater.com.ua",
+    "route": "178.54.0.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Private Stock company Sater",
+    "domain": "synapse.net.ua",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Degtyarivskaya str. 50, Kiev, Ukraine, 04112",
+    "country": "UA",
+    "email": "abuse@synapse.net.ua",
+    "name": "Abuse-C Role",
+    "network": "178.54.0.0/17",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

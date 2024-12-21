@@ -1,0 +1,41 @@
+{
+  "ip": "46.100.91.13",
+  "city": "Kermanshah",
+  "region": "Kermanshah Province",
+  "country": "IR",
+  "loc": "34.3142,47.0650",
+  "timezone": "Asia/Tehran",
+  "asn": {
+    "asn": "AS58224",
+    "name": "Iran Telecommunication Company PJS",
+    "domain": "tci.ir",
+    "route": "46.100.88.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telecommunication Company of Azarbayejan Sharghi",
+    "domain": "tci.ir",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Azarbayejan Sharghi - Tabriz - Telecommunication Company of Azarbayejan Sharghi",
+    "country": "IR",
+    "email": "m.pourfakheri@tci.ir",
+    "name": "Abuse Contact",
+    "network": "46.100.84.0-46.100.95.255",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

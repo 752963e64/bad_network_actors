@@ -1,0 +1,43 @@
+{
+  "ip": "179.52.211.56",
+  "hostname": "56.211.52.179.d.dyn.claro.net.do",
+  "city": "Santo Domingo Oeste",
+  "region": "Santo Domingo Province",
+  "country": "DO",
+  "loc": "18.5000,-70.0000",
+  "postal": "10212",
+  "timezone": "America/Santo_Domingo",
+  "asn": {
+    "asn": "AS6400",
+    "name": "Compañía Dominicana de Teléfonos S. A.",
+    "domain": "claro.com.do",
+    "route": "179.52.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Compañía Dominicana de Teléfonos S. A.",
+    "domain": "codetel.net.do",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Av. Jhon F Kennedy # 54, 1101, -, 1377 - Santo Domingo - DN",
+    "country": "DO",
+    "email": "abuse@codetel.net.do",
+    "name": "Erick OReilly",
+    "network": "179.52.0.0/15",
+    "phone": "+1809  8092202000 [2298]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

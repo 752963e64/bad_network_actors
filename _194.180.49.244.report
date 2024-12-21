@@ -1,0 +1,42 @@
+{
+  "ip": "194.180.49.244",
+  "city": "Warsaw",
+  "region": "Mazovia",
+  "country": "PL",
+  "loc": "52.2298,21.0118",
+  "postal": "00-002",
+  "timezone": "Europe/Warsaw",
+  "asn": {
+    "asn": "AS201814",
+    "name": "MEVSPACE sp. z o.o.",
+    "domain": "mevspace.com",
+    "route": "194.180.49.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Neterra Ltd.",
+    "domain": "neterra.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Hauptstrasse 31 , 92361, berngau, DE",
+    "country": "DE",
+    "email": "abuse@razinet.site",
+    "name": "Abuse contact role object",
+    "network": "194.180.49.0/24",
+    "phone": "+4917661200655"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

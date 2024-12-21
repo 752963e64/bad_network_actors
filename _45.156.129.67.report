@@ -1,0 +1,43 @@
+{
+  "ip": "45.156.129.67",
+  "hostname": "sh-chi-us-gp1-wk102c.internet-census.org",
+  "city": "Chicago",
+  "region": "Illinois",
+  "country": "US",
+  "loc": "41.8500,-87.6500",
+  "postal": "60666",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS211680",
+    "name": "NSEC - Sistemas Informaticos, S.A.",
+    "domain": "nsec.pt",
+    "route": "45.156.129.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "INAP-CHI-1",
+    "domain": "bitsight.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Operations for Internet Census Group, https://internet-census.org",
+    "country": "US",
+    "email": "optout@internet-census.org",
+    "name": "Abuse-C Role",
+    "network": "45.156.129.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

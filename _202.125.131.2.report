@@ -1,0 +1,42 @@
+{
+  "ip": "202.125.131.2",
+  "hostname": "worldtel-2.khi77d1.pie.net.pk",
+  "city": "Karachi",
+  "region": "Sindh",
+  "country": "PK",
+  "loc": "24.8608,67.0104",
+  "postal": "74000",
+  "timezone": "Asia/Karachi",
+  "asn": {
+    "asn": "AS9557",
+    "name": "Paknet Limited Merged into PTCL",
+    "domain": "ptcl.net.pk",
+    "route": "202.125.131.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ITI, Lahore ,Pakistan",
+    "domain": "pie.net.pk",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "2nd Floor, International Gateway Exchange Building,, PTCL Complex, 7th Road, Satellite Town Rawalpindi, Pakistan",
+    "country": "PK",
+    "email": "mansoor@pie.net.pk",
+    "name": "Mansoor ul Hassan",
+    "network": "202.125.131.0/30",
+    "phone": "+92-51-4434470"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

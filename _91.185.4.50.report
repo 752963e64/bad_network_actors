@@ -1,0 +1,40 @@
+{
+  "ip": "91.185.4.50",
+  "city": "Astana",
+  "region": "Astana",
+  "country": "KZ",
+  "loc": "51.1801,71.4460",
+  "timezone": "Asia/Almaty",
+  "asn": {
+    "asn": "AS41798",
+    "name": "JSC Transtelecom",
+    "domain": "ttc.kz",
+    "route": "91.185.4.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Transtelecom Kazakhstan Network",
+    "domain": "ttc.kz",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "JSC Transtelecom, Serik Azelkhanov, Kunaev 10, 010000 ASTANA, KAZAKHSTAN",
+    "country": "KZ",
+    "email": "azelkhanov@rambler.ru",
+    "name": "Abuse-C Role",
+    "network": "91.185.4.0/24",
+    "phone": "+7 7172 610805"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

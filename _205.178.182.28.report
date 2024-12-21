@@ -1,0 +1,43 @@
+{
+  "ip": "205.178.182.28",
+  "hostname": "us-losangeles4.allsafevpn.com",
+  "city": "Los Angeles",
+  "region": "California",
+  "country": "US",
+  "loc": "34.0559,-118.2666",
+  "postal": "90017",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS36231",
+    "name": "Tempest Hosting, LLC",
+    "domain": "tempest.net",
+    "route": "205.178.182.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Tempest Hosting, LLC",
+    "domain": "tempest.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, AZ, Scottsdale, 7144 E. Stetson Drive, Suite 300, 85251",
+    "country": "US",
+    "email": "abuse@tempest.net",
+    "name": "Abuse Department",
+    "network": "205.178.182.0/23",
+    "phone": "+1-602-704-3002"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

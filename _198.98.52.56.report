@@ -1,0 +1,44 @@
+{
+  "ip": "198.98.52.56",
+  "city": "New York City",
+  "region": "New York",
+  "country": "US",
+  "loc": "40.7143,-74.0060",
+  "postal": "10001",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS53667",
+    "name": "FranTech Solutions",
+    "domain": "frantech.ca",
+    "route": "198.98.48.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "FranTech Solutions",
+    "domain": "frantech.ca",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, NJ, New Providence, 1253 Springfield Ave #269, 07974",
+    "country": "US",
+    "email": "abuse@router.pm",
+    "name": "Kristof Slevens",
+    "network": "198.98.52.51-198.98.52.58",
+    "phone": "+1-720-515-0057"
+  },
+  "domains": {
+    "ip": "198.98.52.56",
+    "total": 1,
+    "domains": [
+      "ceramicchair.com"
+    ]
+  }
+}

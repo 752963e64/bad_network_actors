@@ -1,0 +1,49 @@
+{
+  "ip": "84.32.84.89",
+  "city": "Vilnius",
+  "region": "Vilnius",
+  "country": "LT",
+  "loc": "54.6892,25.2798",
+  "postal": "01001",
+  "timezone": "Europe/Vilnius",
+  "anycast": true,
+  "asn": {
+    "asn": "AS47583",
+    "name": "Hostinger International Limited",
+    "domain": "hostinger.com",
+    "route": "84.32.84.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "UAB Nacionalinis Telekomunikaciju Tinklas",
+    "domain": "ntt.lt",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "6th Floor 9 Appold Street London, EC2A 2AP",
+    "country": "LT",
+    "email": "report@abuseradar.com",
+    "name": "Internet Utilities Abuse Contact",
+    "network": "84.32.84.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "84.32.84.89",
+    "total": 1499,
+    "domains": [
+      "mycodetips.com",
+      "flippingheck.com",
+      "madebyher.me",
+      "cypertstech.net",
+      "especiaspucara.com"
+    ]
+  }
+}

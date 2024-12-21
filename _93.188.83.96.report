@@ -1,0 +1,46 @@
+{
+  "ip": "93.188.83.96",
+  "city": "Tashkent",
+  "region": "Tashkent",
+  "country": "UZ",
+  "loc": "41.2647,69.2163",
+  "timezone": "Asia/Tashkent",
+  "asn": {
+    "asn": "AS8193",
+    "name": "\"Uzbektelekom\" Joint Stock Company",
+    "domain": "bkm.uz",
+    "route": "93.188.80.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Uzbektelekom Joint Stock Company",
+    "domain": "bkm.uz",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Alisher Navoi Avenue, 28A, Shaykhontohur District, Tashkent, Uzbekistan",
+    "country": "UZ",
+    "email": "ripe@bkm.uz",
+    "name": "Role of Uzbektelecom JSC",
+    "network": "93.188.82.0/23",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "93.188.83.96",
+    "total": 4,
+    "domains": [
+      "geedbro.uz",
+      "bombom.uz",
+      "shiribom.uz",
+      "restu.uz"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "154.213.184.66",
+  "city": "Aachen",
+  "region": "North Rhine-Westphalia",
+  "country": "DE",
+  "loc": "50.7766,6.0834",
+  "postal": "52062",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS51396",
+    "name": "Pfcloud UG",
+    "domain": "pfcloud.io",
+    "route": "154.213.184.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Pfcloud UG",
+    "domain": "pfcloud.io",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ebene, MU, Mahe, Seychelles",
+    "country": "SC",
+    "email": "abuse@pfcloud.io",
+    "name": "Pfcloud UG",
+    "network": "154.213.184.0/24",
+    "phone": "tel:+248-4-610-795"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

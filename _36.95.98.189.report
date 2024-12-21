@@ -1,0 +1,41 @@
+{
+  "ip": "36.95.98.189",
+  "city": "Palembang",
+  "region": "South Sumatra",
+  "country": "ID",
+  "loc": "-2.9167,104.7458",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS7713",
+    "name": "PT Telekomunikasi Indonesia",
+    "domain": "telin.net",
+    "route": "36.95.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PT Telekomunikasi Indonesia",
+    "domain": "telkom.co.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT. TELKOM INDONESIA, STO Telkom Gambir 3th Floor, Medan Merdeka Selatan, JAKARTA",
+    "country": "ID",
+    "email": "abuse@telkom.co.id",
+    "name": "ABUSE IDTELKOMID",
+    "network": "36.64.0.0/11",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

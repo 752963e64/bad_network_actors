@@ -1,0 +1,42 @@
+{
+  "ip": "192.71.244.67",
+  "hostname": "67.244.71.192.in-addr.arpa",
+  "city": "Ljubljana",
+  "region": "Ljubljana",
+  "country": "SI",
+  "loc": "46.0511,14.5051",
+  "postal": "1500",
+  "timezone": "Europe/Ljubljana",
+  "asn": {
+    "asn": "AS48894",
+    "name": "Optimus IT d.o.o.",
+    "domain": "optimus.si",
+    "route": "192.71.244.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "EDIS Infrastructure in Slovenia",
+    "domain": "edis.at",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "Browsec"
+  },
+  "abuse": {
+    "address": "EDIS GmbH",
+    "country": "AT",
+    "email": "abuse@edis.at",
+    "name": "Abuse handler 1224",
+    "network": "192.71.244.0/24",
+    "phone": "+43 316 827500300"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

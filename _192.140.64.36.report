@@ -1,0 +1,42 @@
+{
+  "ip": "192.140.64.36",
+  "hostname": "192-140-64-36.wtdtelecom-ba.com.br",
+  "city": "Casa Nova",
+  "region": "Bahia",
+  "country": "BR",
+  "loc": "-9.1742,-40.9751",
+  "postal": "47300-000",
+  "timezone": "America/Bahia",
+  "asn": {
+    "asn": "AS266550",
+    "name": "WTD TELECOM",
+    "domain": "wtdtelecom.com.br",
+    "route": "192.140.64.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "WTD TELECOM",
+    "domain": "wtdtelecom-ba.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "josue.wtd@gmail.com",
+    "name": "JOSUE BISPO SANTANA",
+    "network": "192.140.64.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

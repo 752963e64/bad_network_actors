@@ -1,0 +1,43 @@
+{
+  "ip": "139.162.3.204",
+  "hostname": "139-162-3-204.ip.linodeusercontent.com",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.2897,103.8501",
+  "postal": "018989",
+  "timezone": "Asia/Singapore",
+  "asn": {
+    "asn": "AS63949",
+    "name": "Akamai Connected Cloud",
+    "domain": "linode.com",
+    "route": "139.162.0.0/19",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Linode, LLC",
+    "domain": "linode.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "249 Arch Street, Philadelphia, PA 19106, USA",
+    "country": "SG",
+    "email": "abuse@linode.com",
+    "name": "Linode, LLC",
+    "network": "139.162.0.1-139.162.31.255",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

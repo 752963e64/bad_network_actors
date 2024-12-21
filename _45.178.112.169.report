@@ -1,0 +1,43 @@
+{
+  "ip": "45.178.112.169",
+  "hostname": "45.178.112.169.seegfibras.com.br",
+  "city": "Cuiabá",
+  "region": "Mato Grosso",
+  "country": "BR",
+  "loc": "-15.5961,-56.0967",
+  "postal": "78000-000",
+  "timezone": "America/Cuiaba",
+  "asn": {
+    "asn": "AS269037",
+    "name": "SEEG SERVICOS E TECNOLOGIAS LTDA",
+    "domain": "l2mtelecom.com.br",
+    "route": "45.178.112.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SEEG SERVICOS E TECNOLOGIAS LTDA",
+    "domain": "seegfibras.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "henrique.hmas@gmail.com",
+    "name": "Henrique Matias Andrade Santos",
+    "network": "45.178.112.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "ip": "107.189.4.198",
+  "city": "Luxembourg",
+  "region": "Luxembourg",
+  "country": "LU",
+  "loc": "49.6117,6.1300",
+  "postal": "L-1114",
+  "timezone": "Europe/Luxembourg",
+  "asn": {
+    "asn": "AS53667",
+    "name": "FranTech Solutions",
+    "domain": "frantech.ca",
+    "route": "107.189.0.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "BuyVM",
+    "domain": "frantech.ca",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CA, BC, Victoria, 3252 Glasgow Ave, Unit #401, V8X 1M2",
+    "country": "CA",
+    "email": "admin@frantech.ca",
+    "name": "Francisco Dias",
+    "network": "107.189.0.0/21",
+    "phone": "+1-778-977-8246"
+  },
+  "domains": {
+    "ip": "107.189.4.198",
+    "total": 1,
+    "domains": [
+      "growmore.club"
+    ]
+  }
+}

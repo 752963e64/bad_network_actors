@@ -1,0 +1,43 @@
+{
+  "ip": "212.115.230.207",
+  "hostname": "207.230.pppoe.fregat.ua",
+  "city": "Dnipro",
+  "region": "Dnipropetrovsk",
+  "country": "UA",
+  "loc": "48.4666,35.0407",
+  "postal": "49000",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS15377",
+    "name": "TRADITIONAL LLC",
+    "domain": "fregat.com",
+    "route": "212.115.224.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "FREGAT",
+    "domain": "fregat.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Naberezhna Peremohy St, 26b, 49094, Dnipro, UKRAINE",
+    "country": "UA",
+    "email": "abuse@fregat.net",
+    "name": "Abuse-C Role",
+    "network": "212.115.230.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

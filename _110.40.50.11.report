@@ -1,0 +1,42 @@
+{
+  "ip": "110.40.50.11",
+  "city": "Chengdu",
+  "region": "Sichuan",
+  "country": "CN",
+  "loc": "30.6667,104.0667",
+  "postal": "610000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS38283",
+    "name": "CHINANET SiChuan Telecom Internet Data Center",
+    "domain": "chinatelecom.cn",
+    "route": "110.40.32.0/19",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Chengdu Giant Times Technology Co.,Ltd",
+    "domain": "poweridc.cn",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Beijing, China",
+    "country": "CN",
+    "email": "ipas@cnnic.cn",
+    "name": "ABUSE CNNICCN",
+    "network": "110.40.32.0/19",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

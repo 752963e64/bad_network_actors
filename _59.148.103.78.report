@@ -1,0 +1,42 @@
+{
+  "ip": "59.148.103.78",
+  "hostname": "059148103078.ctinets.com",
+  "city": "Tuen Mun",
+  "region": "Tuen Mun",
+  "country": "HK",
+  "loc": "22.3917,113.9716",
+  "postal": "999077",
+  "timezone": "Asia/Hong_Kong",
+  "asn": {
+    "asn": "AS9269",
+    "name": "Hong Kong Broadband Network Ltd.",
+    "domain": "hkbn.net",
+    "route": "59.148.64.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Hong Kong Broadband Network Ltd",
+    "domain": "hkbn.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "15/F Trans Asia Centre, 18 Kin Hong Street, Kwai Chung, N.T.",
+    "country": "HK",
+    "email": "abuse@hkbn.net",
+    "name": "ABUSE HKBNHK",
+    "network": "59.148.0.0/15",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

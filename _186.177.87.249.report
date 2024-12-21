@@ -1,0 +1,41 @@
+{
+  "ip": "186.177.87.249",
+  "city": "San José",
+  "region": "San José",
+  "country": "CR",
+  "loc": "9.9333,-84.0833",
+  "postal": "40602",
+  "timezone": "America/Costa_Rica",
+  "asn": {
+    "asn": "AS262197",
+    "name": "MILLICOM CABLE COSTA RICA S.A.",
+    "domain": "tigostar.cr",
+    "route": "186.177.80.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "MILLICOM CABLE COSTA RICA S.A.",
+    "domain": "tigostar.cr",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Cartago, 4, Condominio La Rueda, Casa L4, - - Cartago - Cartago",
+    "country": "CR",
+    "email": "edward.sarmiento@tigo.co.cr",
+    "name": "Edward Sarmiento Saborio",
+    "network": "186.177.0.0/17",
+    "phone": "+506  60800774 [40309200]"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "172.105.216.137",
+  "hostname": "172-105-216-137.ip.linodeusercontent.com",
+  "city": "Tokyo",
+  "region": "Tokyo",
+  "country": "JP",
+  "loc": "35.6895,139.6917",
+  "postal": "101-8656",
+  "timezone": "Asia/Tokyo",
+  "asn": {
+    "asn": "AS63949",
+    "name": "Akamai Connected Cloud",
+    "domain": "linode.com",
+    "route": "172.105.192.0/19",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Linode",
+    "domain": "linode.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, PA, Philadelphia, 249 Arch St, 19106",
+    "country": "US",
+    "email": "abuse@linode.com",
+    "name": "Linode Abuse Support",
+    "network": "172.105.148.0-172.105.255.255",
+    "phone": "+1-609-380-7100"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

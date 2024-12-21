@@ -1,0 +1,42 @@
+{
+  "ip": "203.76.121.98",
+  "hostname": "121.98.nuclear.link3.net",
+  "city": "Dhaka",
+  "region": "Dhaka Division",
+  "country": "BD",
+  "loc": "23.7104,90.4074",
+  "postal": "1000",
+  "timezone": "Asia/Dhaka",
+  "asn": {
+    "asn": "AS23688",
+    "name": "Link3 Technologies Ltd.",
+    "domain": "link3.net",
+    "route": "203.76.121.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Link3 Technologies Ltd.",
+    "domain": "link3.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Police Plaza Concord, Tower-1, 13th floor, 144 Gulshan Avenue, Gulshan, Dhaka 1212, Bangladesh",
+    "country": "BD",
+    "email": "abuse@link3.net",
+    "name": "ABUSE LINK3BD",
+    "network": "203.76.119.1-203.76.126.254",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

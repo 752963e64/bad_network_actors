@@ -1,0 +1,43 @@
+{
+  "ip": "93.51.56.47",
+  "hostname": "93-51-56-47.ip289.fastwebnet.it",
+  "city": "Bergamo",
+  "region": "Lombardy",
+  "country": "IT",
+  "loc": "45.6960,9.6672",
+  "postal": "24100",
+  "timezone": "Europe/Rome",
+  "asn": {
+    "asn": "AS12874",
+    "name": "Fastweb SpA",
+    "domain": "fastweb.it",
+    "route": "93.48.0.0/13",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Fastweb SpA",
+    "domain": "fastweb.it",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Via Caracciolo, 51, 20155 Milano MI, Italy",
+    "country": "IT",
+    "email": "abuse@fastweb.it",
+    "name": "Fastweb Abuse",
+    "network": "93.51.56.0/24",
+    "phone": "+39 02 45451"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

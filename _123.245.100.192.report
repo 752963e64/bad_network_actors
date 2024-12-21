@@ -1,0 +1,42 @@
+{
+  "ip": "123.245.100.192",
+  "city": "Shanghai",
+  "region": "Shanghai",
+  "country": "CN",
+  "loc": "31.2222,121.4581",
+  "postal": "200000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4134",
+    "name": "CHINANET-BACKBONE",
+    "domain": "chinatelecom.com.cn",
+    "route": "123.244.0.0/14",
+    "type": "isp"
+  },
+  "company": {
+    "name": "JunQu3-SY-LN",
+    "domain": "chinatelecom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.6,feiyun    Road,hunnan    District,Shenyang",
+    "country": "CN",
+    "email": "shenchen.ln@chinatelecom.cn",
+    "name": "CHINANET-LN Network Administrater Chinatelecom Liaoning Branch",
+    "network": "123.245.96.0/19",
+    "phone": "+86-18940001400"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

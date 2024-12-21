@@ -1,0 +1,42 @@
+{
+  "ip": "218.201.44.194",
+  "city": "Chongqing",
+  "region": "Chongqing",
+  "country": "CN",
+  "loc": "29.5603,106.5577",
+  "postal": "401100",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS9808",
+    "name": "China Mobile Communications Group Co., Ltd.",
+    "domain": "10086.cn",
+    "route": "218.201.44.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Chong Qing Yi Dong IDC Yong HU",
+    "domain": "cqmc.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "NO.300, L building, 6th street, keyuan, high-tech, industrial zone, Chongqing,400041",
+    "country": "CN",
+    "email": "chenming@cq.chinamobile.com",
+    "name": "ming chen",
+    "network": "218.201.44.4-218.201.47.254",
+    "phone": "+86-13983247186"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

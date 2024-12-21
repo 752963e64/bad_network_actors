@@ -1,0 +1,42 @@
+{
+  "ip": "78.138.137.110",
+  "hostname": "110.137.138.78.in-addr.arpa",
+  "city": "Kazan",
+  "region": "Tatarstan Republic",
+  "country": "RU",
+  "loc": "55.7887,49.1221",
+  "postal": "422525",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS28840",
+    "name": "PJSC \"TATTELECOM\"",
+    "domain": "tattelecom.ru",
+    "route": "78.138.136.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Kazan Broad-band access pools",
+    "domain": "tattelecom.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Tattelecom, Lutfulla N. Shafigullin, Ershova str, 57, 420061, Kazan, RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "adm-group@tattelecom.ru",
+    "name": "Abuse-C Role",
+    "network": "78.138.128.0/19",
+    "phone": "+7 843 2990354"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "194.247.187.187",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "postal": "60306",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS57043",
+    "name": "HOSTKEY B.V.",
+    "domain": "hostkey.com",
+    "route": "194.247.187.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "HOSTKEY B.V.",
+    "domain": "hostkey.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "W Frederik Hermansstr 91, 1011DG, Amsterdam, NETHERLANDS",
+    "country": "NL",
+    "email": "abuse@hostkey.nl",
+    "name": "Hostkey_NL abuse",
+    "network": "194.247.186.0/23",
+    "phone": "+31208203777"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

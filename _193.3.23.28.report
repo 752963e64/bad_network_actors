@@ -1,0 +1,44 @@
+{
+  "ip": "193.3.23.28",
+  "city": "Moscow",
+  "region": "Moscow",
+  "country": "RU",
+  "loc": "55.7522,37.6156",
+  "postal": "102136",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS212913",
+    "name": "FOP Hornostay Mykhaylo Ivanovych",
+    "domain": "time-host.net",
+    "route": "193.3.23.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "iNet Ltd",
+    "domain": "inetworkx.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ivana Pulyuya St, 32-1-129, 79071 Lviv, Ukraine",
+    "country": "UA",
+    "email": "admin@time-host.net",
+    "name": "FOP Hornostay Mykhaylo Ivanovych",
+    "network": "193.3.23.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "193.3.23.28",
+    "total": 1,
+    "domains": [
+      "thin-trades.space"
+    ]
+  }
+}

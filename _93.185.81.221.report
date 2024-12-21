@@ -1,0 +1,41 @@
+{
+  "ip": "93.185.81.221",
+  "city": "Beirut",
+  "region": "Beyrouth",
+  "country": "LB",
+  "loc": "33.8933,35.5016",
+  "timezone": "Asia/Beirut",
+  "asn": {
+    "asn": "AS9051",
+    "name": "IncoNet Data Management sal",
+    "domain": "idm.net.lb",
+    "route": "93.185.81.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ACTEL S.A.L.",
+    "domain": "actelnetworks.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Jisr el BACHA - Beirut",
+    "country": "LB",
+    "email": "noc@idm.net.lb",
+    "name": "IDM NOC",
+    "network": "93.185.80.0/21",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

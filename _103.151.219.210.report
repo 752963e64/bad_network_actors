@@ -1,0 +1,42 @@
+{
+  "ip": "103.151.219.210",
+  "hostname": "ip-210.219.hsp.net",
+  "city": "Cibinong",
+  "region": "West Java",
+  "country": "ID",
+  "loc": "-6.4817,106.8542",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS58495",
+    "name": "PT Parsaoran Global Datatrans",
+    "domain": "hsp.net.id",
+    "route": "103.151.219.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "MENTARI INTERNATIONAL SCHOOL - YAYASAN PERKEMBANGAN ANAK INDONESIA",
+    "domain": "mis.sch.id",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "MENTARI INTERNATIONAL SCHOOL, YAYASAN PERKEMBANGAN ANAK INDONESIA, Jalan HJ. Jian No. 6, Cipete Utara, Kebayoran Baru",
+    "country": "ID",
+    "email": "abuse@mis.sch.id",
+    "name": "Hendra Utomo",
+    "network": "103.151.218.0/23",
+    "phone": "+62-21-3000 1100"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

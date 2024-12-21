@@ -1,0 +1,45 @@
+{
+  "ip": "45.86.86.11",
+  "city": "Chisinau",
+  "region": "Chișinău Municipality",
+  "country": "MD",
+  "loc": "47.0056,28.8575",
+  "postal": "MD-2000",
+  "timezone": "Europe/Chisinau",
+  "asn": {
+    "asn": "AS200019",
+    "name": "ALEXHOST SRL",
+    "domain": "alexhost.com",
+    "route": "45.86.86.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "ALEXHOST SRL",
+    "domain": "alexhost.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "str. C. Brancusi nr. 3, Chisinau, Moldova",
+    "country": "MD",
+    "email": "abuse@alexhost.com",
+    "name": "Abuse-C Role",
+    "network": "45.86.86.0/25",
+    "phone": "+37379600002"
+  },
+  "domains": {
+    "ip": "45.86.86.11",
+    "total": 2,
+    "domains": [
+      "cartevitale-traitement.info",
+      "assistance-carte-vitale.info"
+    ]
+  }
+}

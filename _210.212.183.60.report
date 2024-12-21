@@ -1,0 +1,42 @@
+{
+  "ip": "210.212.183.60",
+  "city": "Pune",
+  "region": "Maharashtra",
+  "country": "IN",
+  "loc": "18.5196,73.8554",
+  "postal": "411001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS9829",
+    "name": "National Internet Backbone",
+    "domain": "bsnl.co.in",
+    "route": "210.212.176.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "The Director",
+    "domain": "coep.ac.in",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Internet Cell, Bharat Sanchar Nigam Limited., 8th Floor,148-B Statesman House, Barakhamba Road, New Delhi - 110 001",
+    "country": "IN",
+    "email": "abuse1@bsnl.co.in",
+    "name": "ABUSE BSNLIN",
+    "network": "210.212.183.32/27",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

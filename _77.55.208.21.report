@@ -1,0 +1,42 @@
+{
+  "ip": "77.55.208.21",
+  "hostname": "dedicated-aia21.rev.nazwa.pl",
+  "city": "Warsaw",
+  "region": "Mazovia",
+  "country": "PL",
+  "loc": "52.2298,21.0118",
+  "postal": "00-002",
+  "timezone": "Europe/Warsaw",
+  "asn": {
+    "asn": "AS15967",
+    "name": "Nazwa.pl Sp.z.o.o.",
+    "domain": "nazwa.pl",
+    "route": "77.55.208.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "VPS and dedicated servers",
+    "domain": "nazwa.pl",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "nazwa.pl, ul. Pana Tadeusza 2, 30-727 Krakow, Poland",
+    "country": "PL",
+    "email": "abuse@netart.com",
+    "name": "NETART GROUP Administrator",
+    "network": "77.55.192.0-77.55.239.255",
+    "phone": "+48 801 332233"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "193.228.1.130",
+  "city": "Istanbul",
+  "region": "Istanbul",
+  "country": "TR",
+  "loc": "41.0138,28.9497",
+  "postal": "34096",
+  "timezone": "Europe/Istanbul",
+  "asn": {
+    "asn": "AS201575",
+    "name": "TradeZone LLC",
+    "domain": "worldbus.ge",
+    "route": "193.228.1.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "TradeZone LLC",
+    "domain": "worldbus.ge",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "GEORGIA, Tbilisi, 0103, Isani District, Telavi Street N45a, Apartment N28",
+    "country": "GE",
+    "email": "abuse@worldbus.ge",
+    "name": "Abuse-C Role",
+    "network": "193.228.1.0/24",
+    "phone": "+995 322 112 200"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "37.211.12.160",
+  "city": "Ar Rayyān",
+  "region": "Baladīyat ar Rayyān",
+  "country": "QA",
+  "loc": "25.2919,51.4244",
+  "timezone": "Asia/Qatar",
+  "asn": {
+    "asn": "AS42298",
+    "name": "Ooredoo Q.S.C.",
+    "domain": "ooredoo.qa",
+    "route": "37.211.0.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "MOBILE-BROADBAND-POOL",
+    "domain": "ooredoo.qa",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Qatar-Doha-P.o.Box-217 - OOREDOO - ISP",
+    "country": "QA",
+    "email": "abuse@qatar.net.qa",
+    "name": "OOREDOO Qatar Abuse Acoount",
+    "network": "37.211.0.1-37.211.63.254",
+    "phone": "+974 4440-084"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

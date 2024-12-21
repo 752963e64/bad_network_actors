@@ -1,0 +1,42 @@
+{
+  "ip": "190.242.42.134",
+  "city": "Bogotá",
+  "region": "Bogota D.C.",
+  "country": "CO",
+  "loc": "4.6097,-74.0817",
+  "postal": "111411",
+  "timezone": "America/Bogota",
+  "asn": {
+    "asn": "AS262191",
+    "name": "LIBERTY NETWORKS DE COLOMBIA S.A.S",
+    "domain": "cwnetworks.com",
+    "route": "190.242.42.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ART MEDICA S.A.S",
+    "domain": "tigo.com.co",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Cra. 16 Nro. 11A Sur 100, 100, --, NA - Medellin - An",
+    "country": "CO",
+    "email": "adm.internet@tigo.com.co",
+    "name": "AdmInternet Tigo Col",
+    "network": "190.242.42.132/30",
+    "phone": "+57  45150505 [0]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "45.181.122.33",
+  "city": "Rancagua",
+  "region": "O'Higgins Region",
+  "country": "CL",
+  "loc": "-34.1708,-70.7444",
+  "postal": "2820000",
+  "timezone": "America/Santiago",
+  "asn": {
+    "asn": "AS269733",
+    "name": "INTERPIT TELECOMUNICACIONES LTDA",
+    "domain": "interpit.cl",
+    "route": "45.181.122.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "INTERPIT TELECOMUNICACIONES LTDA",
+    "domain": "interpit.cl",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Nueva Providencia, 1363, Oficina 1404, - Santiago -",
+    "country": "CL",
+    "email": "imendez@interpit.cl",
+    "name": "Italo Méndez",
+    "network": "45.181.120.0/22",
+    "phone": "+56  226175100"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

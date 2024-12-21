@@ -1,0 +1,43 @@
+{
+  "ip": "31.220.1.144",
+  "hostname": "biende.faithfulpoint.com",
+  "city": "Lelystad",
+  "region": "Flevoland",
+  "country": "NL",
+  "loc": "52.5083,5.4750",
+  "postal": "8224",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS206264",
+    "name": "Amarutu Technology Ltd",
+    "domain": "koddos.net",
+    "route": "31.220.0.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "KODDOS",
+    "domain": "koddos.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Level23, One Island East, Westlands Rd, Quarry Bay, Hong Kong",
+    "country": "HK",
+    "email": "abuse@koddos.com",
+    "name": "KODDOS ROLE",
+    "network": "31.220.0.0/22",
+    "phone": "+852 3750 7973"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

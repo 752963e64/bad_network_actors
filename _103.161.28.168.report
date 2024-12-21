@@ -1,0 +1,41 @@
+{
+  "ip": "103.161.28.168",
+  "city": "Surajpur",
+  "region": "Chhattisgarh",
+  "country": "IN",
+  "loc": "23.2135,82.8684",
+  "postal": "497229",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS141488",
+    "name": "Jai Mahamaya Computer Solution",
+    "domain": "",
+    "route": "103.161.28.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Jai Mahamaya Computer Solution",
+    "domain": "jmcsnet.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "MAIN ROAD BISHRAMPUR NEAR DHANSHRI HOTEL AMBEDKAR CHOWK, Surajpur Chhatisgarh,Ambikapur,Chhattisgarh-497226",
+    "country": "IN",
+    "email": "support@jmcsnet.in",
+    "name": "Jairam upadhayay",
+    "network": "103.161.28.0/23",
+    "phone": "+91 77752220920"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

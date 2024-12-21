@@ -1,0 +1,43 @@
+{
+  "ip": "111.169.52.233",
+  "hostname": "fl1-111-169-52-233.aic.mesh.ad.jp",
+  "city": "Nagoya",
+  "region": "Aichi",
+  "country": "JP",
+  "loc": "35.1815,136.9064",
+  "postal": "460-0002",
+  "timezone": "Asia/Tokyo",
+  "asn": {
+    "asn": "AS2518",
+    "name": "BIGLOBE Inc.",
+    "domain": "biglobe.co.jp",
+    "route": "111.168.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "BIGLOBE Inc.",
+    "domain": "biglobe.co.jp",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",
+    "country": "JP",
+    "email": "hostmaster@nic.ad.jp",
+    "name": "",
+    "network": "111.168.0.0/15",
+    "phone": "+81-3-5297-2311"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

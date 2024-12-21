@@ -1,0 +1,42 @@
+{
+  "ip": "50.115.173.79",
+  "city": "Seattle",
+  "region": "Washington",
+  "country": "US",
+  "loc": "47.6062,-122.3321",
+  "postal": "98101",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS32875",
+    "name": "Wowrack.com",
+    "domain": "wowrack.com",
+    "route": "50.115.160.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Virpus",
+    "domain": "virpus.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Burbank, 303 N Glenoaks Blvd. STE 200, 91502",
+    "country": "US",
+    "email": "abuse@virpus.com",
+    "name": "Network Operations",
+    "network": "50.115.160.0/20",
+    "phone": "+1-888-977-6638"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

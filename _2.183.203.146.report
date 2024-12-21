@@ -1,0 +1,41 @@
+{
+  "ip": "2.183.203.146",
+  "city": "Orūmīyeh",
+  "region": "West Azerbaijan",
+  "country": "IR",
+  "loc": "37.5527,45.0761",
+  "timezone": "Asia/Tehran",
+  "asn": {
+    "asn": "AS58224",
+    "name": "Iran Telecommunication Company PJS",
+    "domain": "tci.ir",
+    "route": "2.183.202.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "telecommunication company Of ardabil",
+    "domain": "tci.ir",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ardabil - Telecommunicatipn Company of Ardabil",
+    "country": "IR",
+    "email": "me.khosravi@tci.ir",
+    "name": "Abuse Contact",
+    "network": "2.183.202.0/23",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

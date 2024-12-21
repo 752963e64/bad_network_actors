@@ -1,0 +1,42 @@
+{
+  "ip": "38.175.118.176",
+  "city": "Oslo",
+  "region": "Oslo",
+  "country": "NO",
+  "loc": "59.9127,10.7461",
+  "postal": "0001",
+  "timezone": "Europe/Oslo",
+  "asn": {
+    "asn": "AS35487",
+    "name": "Misaka Network, Inc.",
+    "domain": "misaka.io",
+    "route": "38.175.118.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Misaka Network, Inc.",
+    "domain": "misaka.io",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Suite, 19901, Dover, UNITED STATES",
+    "country": "US",
+    "email": "abuse@misaka.email",
+    "name": "Abuse-C Role",
+    "network": "38.175.118.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

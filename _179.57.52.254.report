@@ -1,0 +1,42 @@
+{
+  "ip": "179.57.52.254",
+  "city": "Puerto Montt",
+  "region": "Los Lagos Region",
+  "country": "CL",
+  "loc": "-41.4693,-72.9424",
+  "postal": "5480000",
+  "timezone": "America/Santiago",
+  "asn": {
+    "asn": "AS14117",
+    "name": "Telefonica del Sur S.A.",
+    "domain": "telsur.cl",
+    "route": "179.57.48.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telefonica del Sur S.A.",
+    "domain": "telsur.cl",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Moneda, 920, -, NONE - Santiago - SA",
+    "country": "CL",
+    "email": "netadmin@grupogtd.com",
+    "name": "Manuel Suanez Berrios",
+    "network": "179.56.0.0/15",
+    "phone": "+56  224139000 [0000]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

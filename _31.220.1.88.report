@@ -1,0 +1,42 @@
+{
+  "ip": "31.220.1.88",
+  "city": "Moers",
+  "region": "North Rhine-Westphalia",
+  "country": "DE",
+  "loc": "51.4534,6.6326",
+  "postal": "47441",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS206264",
+    "name": "Amarutu Technology Ltd",
+    "domain": "koddos.net",
+    "route": "31.220.0.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "KODDOS",
+    "domain": "koddos.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Level23, One Island East, Westlands Rd, Quarry Bay, Hong Kong",
+    "country": "HK",
+    "email": "abuse@koddos.com",
+    "name": "KODDOS ROLE",
+    "network": "31.220.0.0/22",
+    "phone": "+852 3750 7973"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

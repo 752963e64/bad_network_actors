@@ -1,0 +1,42 @@
+{
+  "ip": "103.118.156.108",
+  "city": "Klang",
+  "region": "Selangor",
+  "country": "MY",
+  "loc": "3.0367,101.4433",
+  "postal": "41250",
+  "timezone": "Asia/Kuala_Lumpur",
+  "asn": {
+    "asn": "AS137963",
+    "name": "MT Microtel Technology Sdn Bhd",
+    "domain": "microteltechnology.com",
+    "route": "103.118.156.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "MT Microtel Technology Sdn Bhd",
+    "domain": "microteltechnology.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Unit 02-03 to 02-05, Level 2, Tower B,, The Vertical,, Bangsar South, , No 8, Jalan Kerinchi, KUALA",
+    "country": "MY",
+    "email": "dmarc_report@nubitel.co",
+    "name": "ABUSE NUBITELMY",
+    "network": "103.118.156.0/24",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

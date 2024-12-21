@@ -1,0 +1,42 @@
+{
+  "ip": "197.206.220.106",
+  "city": "Tlemcen",
+  "region": "Tlemcen",
+  "country": "DZ",
+  "loc": "34.8783,-1.3150",
+  "postal": "13000",
+  "timezone": "Africa/Algiers",
+  "asn": {
+    "asn": "AS36947",
+    "name": "Telecom Algeria",
+    "domain": "algerietelecom.dz",
+    "route": "197.206.192.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telecom Algeria",
+    "domain": "algerietelecom.dz",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Alger",
+    "country": "DZ",
+    "email": "security@djaweb.dz",
+    "name": "Security Departement",
+    "network": "197.206.0.0/16",
+    "phone": "tel:+213-21-91-12-24"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

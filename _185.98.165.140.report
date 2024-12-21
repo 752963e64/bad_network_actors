@@ -1,0 +1,41 @@
+{
+  "ip": "185.98.165.140",
+  "city": "Aprilia",
+  "region": "Lazio",
+  "country": "IT",
+  "loc": "41.5945,12.6542",
+  "postal": "04011",
+  "timezone": "Europe/Rome",
+  "asn": {
+    "asn": "AS200689",
+    "name": "TELEIMPIANTI SRL",
+    "domain": "teleimpianti.it",
+    "route": "185.98.164.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TELEIMPIANTI SRL",
+    "domain": "teleimpianti.it",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "VIA SELCIATELLA 119, 04011, APRILIA, ITALY",
+    "country": "IT",
+    "email": "clienti@teleimpiantisrl.net",
+    "name": "Abuse-C Role",
+    "network": "185.98.164.0/23",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

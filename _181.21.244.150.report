@@ -1,0 +1,43 @@
+{
+  "ip": "181.21.244.150",
+  "hostname": "181-21-244-150.speedy.com.ar",
+  "city": "San Juan",
+  "region": "San Juan",
+  "country": "AR",
+  "loc": "-31.5375,-68.5364",
+  "postal": "5400",
+  "timezone": "America/Argentina/San_Juan",
+  "asn": {
+    "asn": "AS22927",
+    "name": "Telefonica de Argentina",
+    "domain": "telefonica.com.ar",
+    "route": "181.20.0.0/14",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telefonica de Argentina",
+    "domain": "telefonica.com.ar",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "AV. ING. HUERGO, 723,, 1065 - Capital Federal - BA",
+    "country": "AR",
+    "email": "tasamail.ar@TELEFONICA.COM",
+    "name": "Telefonica de Argentina",
+    "network": "181.20.0.0/14",
+    "phone": "+54 11 43335000 []"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

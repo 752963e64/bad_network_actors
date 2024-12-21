@@ -1,0 +1,42 @@
+{
+  "ip": "165.154.206.139",
+  "city": "Los Angeles",
+  "region": "California",
+  "country": "US",
+  "loc": "34.0522,-118.2437",
+  "postal": "90009",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS142002",
+    "name": "Scloud Pte Ltd",
+    "domain": "scloud.sg",
+    "route": "165.154.206.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Scloud Pte Ltd t/a Scloud Pte Ltd",
+    "domain": "scloud.sg",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "BLK71 Ayer Rajah Crescent # 05-24/25/26",
+    "country": "SG",
+    "email": "enquiry@scloud.sg",
+    "name": "ABUSE SCLOUDPTELTDSG",
+    "network": "165.154.192.0/20",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

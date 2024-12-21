@@ -1,0 +1,41 @@
+{
+  "ip": "196.203.21.2",
+  "city": "Tunis",
+  "region": "Tunis Governorate",
+  "country": "TN",
+  "loc": "36.8190,10.1658",
+  "timezone": "Africa/Tunis",
+  "asn": {
+    "asn": "AS37671",
+    "name": "3S INF",
+    "domain": "3s.com.tn",
+    "route": "196.203.16.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "ATI - Agence Tunisienne Internet",
+    "domain": "ati.tn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Immeuble Ennour Centre Urbain Nord (Cité des Sciences), 1082 Tunis, TN",
+    "country": "TN",
+    "email": "mohamed.zegdene@3s.com.tn",
+    "name": "Zegdene Mohamed",
+    "network": "196.203.16.0/20",
+    "phone": "tel:+216-70-014-072"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

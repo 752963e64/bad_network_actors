@@ -1,0 +1,42 @@
+{
+  "ip": "5.101.6.194",
+  "city": "Saint Petersburg",
+  "region": "St.-Petersburg",
+  "country": "RU",
+  "loc": "59.9386,30.3141",
+  "postal": "195213",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS34665",
+    "name": "Petersburg Internet Network ltd.",
+    "domain": "pindc.ru",
+    "route": "5.101.6.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "s80.spb-dc's objects",
+    "domain": "pindc.ru",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "58 Malaya Balkanskaya, Saint-Petersburg, 192029, RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "abuse@pindc.ru",
+    "name": "PINDC Support and NOC Teams",
+    "network": "5.101.6.0/24",
+    "phone": "+78126772525"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

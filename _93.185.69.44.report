@@ -1,0 +1,41 @@
+{
+  "ip": "93.185.69.44",
+  "city": "Shevchenko",
+  "region": "Mangghystaū",
+  "country": "KZ",
+  "loc": "43.6481,51.1722",
+  "timezone": "Asia/Aqtau",
+  "asn": {
+    "asn": "AS35104",
+    "name": "Jusan Mobile JSC",
+    "domain": "kaztranscom.kz",
+    "route": "93.185.69.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Jusan Mobile JSC",
+    "domain": "jusanmobile.kz",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Almaty, Kazakhstan",
+    "country": "KZ",
+    "email": "abuse@kaztranscom.kz",
+    "name": "Department of Information Security",
+    "network": "93.185.69.0/24",
+    "phone": "+7 727 2377394"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

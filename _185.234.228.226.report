@@ -1,0 +1,42 @@
+{
+  "ip": "185.234.228.226",
+  "hostname": "pppoe.hi-link.ru",
+  "city": "Irkutsk",
+  "region": "Irkutsk Oblast",
+  "country": "RU",
+  "loc": "52.2978,104.2964",
+  "postal": "664000",
+  "timezone": "Asia/Irkutsk",
+  "asn": {
+    "asn": "AS50187",
+    "name": "BaikalWestCom",
+    "domain": "hi-link.ru",
+    "route": "185.234.228.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "BaikalWestCom",
+    "domain": "hi-link.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Napolnaya str, 343, 664019, Irkutsk, RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "yuri@hi-link.ru",
+    "name": "Abuse-C Role",
+    "network": "185.234.228.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

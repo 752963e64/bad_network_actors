@@ -1,0 +1,43 @@
+{
+  "ip": "87.248.174.91",
+  "hostname": "87-248-174-91.starnet.md",
+  "city": "Chisinau",
+  "region": "Chișinău Municipality",
+  "country": "MD",
+  "loc": "47.0056,28.8575",
+  "postal": "MD-2000",
+  "timezone": "Europe/Chisinau",
+  "asn": {
+    "asn": "AS31252",
+    "name": "StarNet Solutii SRL",
+    "domain": "starnet.md",
+    "route": "87.248.160.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "StarNet Solutii SRL",
+    "domain": "starnet.md",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "StarNet Solutii SRL, 170, Columna str., MD2004 Chisinau, Moldova, Republic of",
+    "country": "MD",
+    "email": "abuse@starnet.md",
+    "name": "StarNet Administrator",
+    "network": "87.248.160.0/19",
+    "phone": "+373 (22) 844444"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

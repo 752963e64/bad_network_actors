@@ -1,0 +1,42 @@
+{
+  "ip": "109.194.42.217",
+  "hostname": "dynamicip-109-194-42-217.pppoe.tomsk.ertelecom.ru",
+  "city": "Tomsk",
+  "region": "Tomsk Oblast",
+  "country": "RU",
+  "loc": "56.5003,84.9820",
+  "postal": "634000",
+  "timezone": "Asia/Tomsk",
+  "asn": {
+    "asn": "AS56981",
+    "name": "JSC \"ER-Telecom Holding\"",
+    "domain": "ertelecom.ru",
+    "route": "109.194.32.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CJSC ER-Telecom Holding Tomsk branch",
+    "domain": "ertelecom.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "JSC ER-Telecom, 111, str. Shosse Kosmonavtov, 614000 Perm, Russian Federation",
+    "country": "RU",
+    "email": "abuse@domru.ru",
+    "name": "ER-Telecom ISP Contact Role",
+    "network": "109.194.40.0/21",
+    "phone": "+7 342 2462233"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

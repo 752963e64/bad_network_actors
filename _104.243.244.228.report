@@ -1,0 +1,42 @@
+{
+  "ip": "104.243.244.228",
+  "city": "Seattle",
+  "region": "Washington",
+  "country": "US",
+  "loc": "47.6062,-122.3321",
+  "postal": "98101",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS212238",
+    "name": "Datacamp Limited",
+    "domain": "datacamp.co.uk",
+    "route": "104.243.244.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "MICFO-US",
+    "domain": "micfo.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "PureVPN"
+  },
+  "abuse": {
+    "address": "US, TX, Houston, 10685-B Hazelhurst Dr. #14783, Houston, TX 77043, USA, 77043",
+    "country": "US",
+    "email": "admin@pointtoserver.com",
+    "name": "Uzair Gadit",
+    "network": "104.243.244.0/24",
+    "phone": "+1-217-651-4225"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

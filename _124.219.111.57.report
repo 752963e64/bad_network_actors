@@ -1,0 +1,42 @@
+{
+  "ip": "124.219.111.57",
+  "hostname": "124-219-111-57.vdslpro.static.apol.com.tw",
+  "city": "Taipei",
+  "region": "Taiwan",
+  "country": "TW",
+  "loc": "25.0531,121.5264",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS24154",
+    "name": "Asia Pacific Broadband Fixed Lines Co., Ltd.",
+    "domain": "aptg.com.tw",
+    "route": "124.219.108.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Asia Pacific On-line Services Inc.",
+    "domain": "apol.com.tw",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "3F., No. 123, Sec. 4, Bade Rd., Songshan Dist., Taipei 105, Taiwan",
+    "country": "TW",
+    "email": "hostmaster@twnic.tw",
+    "name": "ABUSE TWNICAP",
+    "network": "124.219.0.0/17",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "222.175.101.108",
+  "city": "Qingdao",
+  "region": "Shandong",
+  "country": "CN",
+  "loc": "36.0649,120.3804",
+  "postal": "266000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS58540",
+    "name": "Jinan,250000",
+    "domain": "chinatelecom.cn",
+    "route": "222.175.101.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "CHINANET SHANDONG PROVINCE NETWORK",
+    "domain": "chinatelecom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.31 ,jingrong street,beijing, 100032",
+    "country": "CN",
+    "email": "anti-spam@chinatelecom.cn",
+    "name": "ABUSE CHINANETCN",
+    "network": "222.173.0.0-222.175.255.255",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

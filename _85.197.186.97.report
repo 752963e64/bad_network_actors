@@ -1,0 +1,42 @@
+{
+  "ip": "85.197.186.97",
+  "city": "Kristianstad",
+  "region": "Skåne",
+  "country": "SE",
+  "loc": "56.0313,14.1524",
+  "postal": "290 30",
+  "timezone": "Europe/Stockholm",
+  "asn": {
+    "asn": "AS34622",
+    "name": "Bredband i Kristianstad AB",
+    "domain": "bik.nu",
+    "route": "85.197.128.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Bredband i Kristianstad AB",
+    "domain": "bik.nu",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Industrigatan 86",
+    "country": "SE",
+    "email": "abuse@bikab.com",
+    "name": "BIK ABUSE",
+    "network": "85.197.184.0/21",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

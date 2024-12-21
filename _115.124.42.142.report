@@ -1,0 +1,37 @@
+{
+  "ip": "115.124.42.142",
+  "city": "Kolkata",
+  "region": "West Bengal",
+  "country": "IN",
+  "loc": "22.5626,88.3630",
+  "postal": "700001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS58765",
+    "name": "Bittel Telecom Pvt Ltd",
+    "domain": "bittel.in",
+    "route": "115.124.42.0/24",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Mousumi Apartment ,56 Sreenagar Main road Kolkata- 700094",
+    "country": "IN",
+    "email": "support@getnetwork.in",
+    "name": "GET NETWORK LTD - network administrator",
+    "network": "115.124.42.0/24",
+    "phone": "+91-33-3008-5858"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

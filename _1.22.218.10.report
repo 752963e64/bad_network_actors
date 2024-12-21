@@ -1,0 +1,42 @@
+{
+  "ip": "1.22.218.10",
+  "city": "Indore",
+  "region": "Madhya Pradesh",
+  "country": "IN",
+  "loc": "22.7179,75.8333",
+  "postal": "452002",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS45528",
+    "name": "Tikona Infinet Ltd.",
+    "domain": "tikona.in",
+    "route": "1.22.218.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Tikona Infinet Ltd.",
+    "domain": "tikona.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "C69, Sector 58, Noida,NOIDA,Uttar Pradesh-201307",
+    "country": "IN",
+    "email": "Sudhir.Kumar@tikona.in",
+    "name": "NOC Manager",
+    "network": "1.22.0.0/15",
+    "phone": "+91 01204580519"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "37.60.239.46",
+  "hostname": "vmi2119086.contaboserver.net",
+  "city": "Düsseldorf",
+  "region": "North Rhine-Westphalia",
+  "country": "DE",
+  "loc": "51.2217,6.7762",
+  "postal": "40210",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS51167",
+    "name": "Contabo GmbH",
+    "domain": "contabo.com",
+    "route": "37.60.224.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Contabo GmbH",
+    "domain": "contabo.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Contabo GmbH, Aschauer Str. 32a, 81549 Muenchen, Germany",
+    "country": "DE",
+    "email": "abuse@contabo.de",
+    "name": "Contabo GmbH",
+    "network": "37.60.224.0/20",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

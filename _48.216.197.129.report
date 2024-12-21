@@ -1,0 +1,43 @@
+{
+  "ip": "48.216.197.129",
+  "hostname": "azpdegb88.stretchoid.com",
+  "city": "Washington",
+  "region": "District of Columbia",
+  "country": "US",
+  "loc": "38.8951,-77.0364",
+  "postal": "20004",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS8075",
+    "name": "Microsoft Corporation",
+    "domain": "microsoft.com",
+    "route": "48.216.0.0/14",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Microsoft Limited",
+    "domain": "microsoft.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "One Microsoft Way, Redmond, WA 98052",
+    "country": "US",
+    "email": "abuse@microsoft.com",
+    "name": "Microsoft Abuse Contact",
+    "network": "48.192.0.0/10",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "180.76.237.47",
+  "city": "Beijing",
+  "region": "Beijing",
+  "country": "CN",
+  "loc": "39.9075,116.3972",
+  "postal": "100000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS38365",
+    "name": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com",
+    "route": "180.76.224.0/20",
+    "type": "education"
+  },
+  "company": {
+    "name": "Beijing Baidu Netcom Science and Technology Co., Ltd.",
+    "domain": "baidu.com",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Beijing, China",
+    "country": "CN",
+    "email": "ipas@cnnic.cn",
+    "name": "ABUSE CNNICCN",
+    "network": "180.76.0.0/16",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

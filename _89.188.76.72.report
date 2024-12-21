@@ -1,0 +1,43 @@
+{
+  "ip": "89.188.76.72",
+  "hostname": "vps1112.basicserver.io",
+  "city": "Fredericia",
+  "region": "South Denmark",
+  "country": "DK",
+  "loc": "55.5657,9.7526",
+  "postal": "7000",
+  "timezone": "Europe/Copenhagen",
+  "asn": {
+    "asn": "AS48854",
+    "name": "team.blue Denmark A/S",
+    "domain": "team.blue",
+    "route": "89.188.72.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "ZITCOM A/S",
+    "domain": "zitcom.dk",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Højvangen 4, Skanderborg 8660, Denmark",
+    "country": "DK",
+    "email": "dk-abuse@team.blue",
+    "name": "team.blue Denmark Network",
+    "network": "89.188.72.0/21",
+    "phone": "+45 70235566"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

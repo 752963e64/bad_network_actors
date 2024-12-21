@@ -1,0 +1,43 @@
+{
+  "ip": "167.86.96.8",
+  "hostname": "ip-8-96-86-167.static.contabo.net",
+  "city": "Worms",
+  "region": "Rheinland-Pfalz",
+  "country": "DE",
+  "loc": "49.6328,8.3592",
+  "postal": "67547",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS51167",
+    "name": "Contabo GmbH",
+    "domain": "contabo.com",
+    "route": "167.86.96.0/23",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Contabo GmbH",
+    "domain": "contabo.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Contabo GmbH, Aschauer Str. 32a, 81549 Muenchen, Germany",
+    "country": "DE",
+    "email": "abuse@contabo.de",
+    "name": "Contabo GmbH",
+    "network": "167.86.96.0/19",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

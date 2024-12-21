@@ -1,0 +1,42 @@
+{
+  "ip": "194.153.216.108",
+  "city": "Sterling",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0062,-77.4286",
+  "postal": "20163",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS204928",
+    "name": "Bonsai Hosting ltd",
+    "domain": "bonsaihosting.com",
+    "route": "194.153.216.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Bonsai Hosting ltd",
+    "domain": "bonsaihosting.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "UNITED KINGDOM, Preston, pr23aq, 80 lytham road",
+    "country": "GB",
+    "email": "abuse@bonsaihosting.com",
+    "name": "Abuse-C Role",
+    "network": "194.153.216.0/24",
+    "phone": "+447418344378"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

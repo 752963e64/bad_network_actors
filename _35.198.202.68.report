@@ -1,0 +1,43 @@
+{
+  "ip": "35.198.202.68",
+  "hostname": "68.202.198.35.bc.googleusercontent.com",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.2897,103.8501",
+  "postal": "018989",
+  "timezone": "Asia/Singapore",
+  "asn": {
+    "asn": "AS396982",
+    "name": "Google LLC",
+    "domain": "google.com",
+    "route": "35.198.192.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Google LLC",
+    "domain": "google.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Mountain View, 1600 Amphitheatre Parkway, 94043",
+    "country": "US",
+    "email": "google-cloud-compliance@google.com",
+    "name": "GC Abuse",
+    "network": "35.192.0.0/12",
+    "phone": "+1-650-253-0000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

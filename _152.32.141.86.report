@@ -1,0 +1,40 @@
+{
+  "ip": "152.32.141.86",
+  "city": "Lagos",
+  "region": "Lagos",
+  "country": "NG",
+  "loc": "6.4541,3.3947",
+  "timezone": "Africa/Lagos",
+  "asn": {
+    "asn": "AS135377",
+    "name": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "domain": "ucloud.cn",
+    "route": "152.32.141.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "domain": "ucloud.cn",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "FLAT/RM 603 6/F, LAWS COMMERCIAL PLAZA, 788 CHEUNG SHA WAN ROAD, KL,, Hong Kong",
+    "country": "HK",
+    "email": "hegui@ucloud.cn",
+    "name": "ABUSE UCLOUDHK",
+    "network": "152.32.140.0/22",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

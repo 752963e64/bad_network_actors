@@ -1,0 +1,47 @@
+{
+  "ip": "107.154.80.237",
+  "hostname": "107.154.80.237.ip.incapdns.net",
+  "city": "Redwood City",
+  "region": "California",
+  "country": "US",
+  "loc": "37.5331,-122.2486",
+  "postal": "94065",
+  "timezone": "America/Los_Angeles",
+  "anycast": true,
+  "asn": {
+    "asn": "AS19551",
+    "name": "Incapsula Inc",
+    "domain": "incapsula.com",
+    "route": "107.154.80.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Incapsula Inc",
+    "domain": "imperva.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Redwood Shore, 3400 Bridge Parkway, Suite 200, 94065",
+    "country": "US",
+    "email": "abuse@incapsula.com",
+    "name": "Imperva AbuseDesk",
+    "network": "107.154.0.0/16",
+    "phone": "+1-866-250-7659"
+  },
+  "domains": {
+    "ip": "107.154.80.237",
+    "total": 2,
+    "domains": [
+      "saudia.com",
+      "saudiairlines.com"
+    ]
+  }
+}

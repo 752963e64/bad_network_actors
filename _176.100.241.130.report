@@ -1,0 +1,43 @@
+{
+  "ip": "176.100.241.130",
+  "hostname": "ptr-176.100.241.130.intel-port.ru",
+  "city": "Moscow",
+  "region": "Moscow",
+  "country": "RU",
+  "loc": "55.7522,37.6156",
+  "postal": "101000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS35526",
+    "name": "Smart Technology LLC",
+    "domain": "smart.it",
+    "route": "176.100.240.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Smart Technology LLC",
+    "domain": "masterbit.su",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "prospectus, pereulok,HOME 8, 44 POM 444M K 6, 123112, Moscow, RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "ozhogin@masterbit.su",
+    "name": "Abuse-C Role",
+    "network": "176.100.240.0/22",
+    "phone": "+7 (495) 649-64-74"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

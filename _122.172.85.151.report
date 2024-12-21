@@ -1,0 +1,48 @@
+{
+  "ip": "122.172.85.151",
+  "hostname": "abts-kk-dynamic-151.85.172.122.airtelbroadband.in",
+  "city": "Bengaluru",
+  "region": "Karnataka",
+  "country": "IN",
+  "loc": "12.9719,77.5937",
+  "postal": "562114",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS24560",
+    "name": "Bharti Airtel Ltd., Telemedia Services",
+    "domain": "airtel.com",
+    "route": "122.172.84.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ABTS (Karnataka),",
+    "domain": "airtel.com",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Airtel",
+    "mcc": "404",
+    "mnc": "02"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Bharti Airtel Ltd.",
+    "country": "IN",
+    "email": "dsltac2north.unoc@airtel.com",
+    "name": "ABUSE BHARTITELEMEDIAIN",
+    "network": "122.172.0.0/17",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

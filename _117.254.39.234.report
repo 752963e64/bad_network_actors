@@ -1,0 +1,42 @@
+{
+  "ip": "117.254.39.234",
+  "city": "Bengaluru",
+  "region": "Karnataka",
+  "country": "IN",
+  "loc": "12.9719,77.5937",
+  "postal": "562114",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS9829",
+    "name": "National Internet Backbone",
+    "domain": "bsnl.co.in",
+    "route": "117.254.38.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CDMA Project, BSNL New Delhi",
+    "domain": "bsnl.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Internet Cell, Bharat Sanchar Nigam Limited., 8th Floor,148-B Statesman House, Barakhamba Road, New Delhi - 110 001",
+    "country": "IN",
+    "email": "abuse1@bsnl.co.in",
+    "name": "ABUSE BSNLIN",
+    "network": "117.254.32.0/19",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

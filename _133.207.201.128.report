@@ -1,0 +1,43 @@
+{
+  "ip": "133.207.201.128",
+  "hostname": "flh2-133-207-201-128.osk.mesh.ad.jp",
+  "city": "Gifu-shi",
+  "region": "Gifu",
+  "country": "JP",
+  "loc": "35.4229,136.7604",
+  "postal": "500-8043",
+  "timezone": "Asia/Tokyo",
+  "asn": {
+    "asn": "AS2518",
+    "name": "BIGLOBE Inc.",
+    "domain": "biglobe.co.jp",
+    "route": "133.206.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Japan Network Information Center",
+    "domain": "nic.ad.jp",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Urbannet-Kanda Bldg 4F, 3-6-2 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, Japan",
+    "country": "JP",
+    "email": "hostmaster@nic.ad.jp",
+    "name": "ABUSE JPNICJP",
+    "network": "133.0.0.0/8",
+    "phone": "+81-3-5297-2311"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

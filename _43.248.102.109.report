@@ -1,0 +1,42 @@
+{
+  "ip": "43.248.102.109",
+  "city": "Shanghai",
+  "region": "Shanghai",
+  "country": "CN",
+  "loc": "31.2222,121.4581",
+  "postal": "200000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS23650",
+    "name": "AS Number for CHINANET jiangsu province backbone",
+    "domain": "rtat.net",
+    "route": "43.248.96.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Jiangsu Dongyun Cloud computing co., LTD",
+    "domain": "cnnic.cn",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Beijing, China",
+    "country": "CN",
+    "email": "ipas@cnnic.cn",
+    "name": "ABUSE CNNICCN",
+    "network": "43.248.100.0/22",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

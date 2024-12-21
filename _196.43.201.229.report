@@ -1,0 +1,41 @@
+{
+  "ip": "196.43.201.229",
+  "city": "Cairo",
+  "region": "Cairo",
+  "country": "EG",
+  "loc": "30.0626,31.2497",
+  "timezone": "Africa/Cairo",
+  "asn": {
+    "asn": "AS37279",
+    "name": "Egyptian Banks Company",
+    "domain": "egyptianbanks.net",
+    "route": "196.43.201.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "Egyptian Banks Company",
+    "domain": "egyptianbanks.net",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No. 223, Off 90 St., behind Dusit Thani hotel - 5th settlement, New Cairo, Cairo 11835 – Egypt, Cairo 11835, Egypt, Cairo 11835, Egypt",
+    "country": "EG",
+    "email": "network@egyptianbanks.net",
+    "name": "Ahmed Zakaria aawad",
+    "network": "196.43.201.0/24",
+    "phone": "tel:+20-100856067"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

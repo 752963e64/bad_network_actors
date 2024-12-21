@@ -1,0 +1,41 @@
+{
+  "ip": "103.169.87.160",
+  "city": "Indore",
+  "region": "Madhya Pradesh",
+  "country": "IN",
+  "loc": "22.7179,75.8333",
+  "postal": "452002",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS150075",
+    "name": "TJMGLOBAL DIGITECH PRIVATE LIMITED",
+    "domain": "tejarat.co.in",
+    "route": "103.169.87.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "TJMGLOBAL DIGITECH PRIVATE LIMITED",
+    "domain": "tejarat.co.in",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "G 14 SEC 3 NOIDA,NOIDA,Uttar Pradesh-201301",
+    "country": "IN",
+    "email": "admin@tejarat.co.in",
+    "name": "MANAZIR HUSSAIN",
+    "network": "103.169.86.0/23",
+    "phone": "+91 9650663652"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

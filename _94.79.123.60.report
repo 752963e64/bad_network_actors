@@ -1,0 +1,42 @@
+{
+  "ip": "94.79.123.60",
+  "city": "Mersin",
+  "region": "Mersin",
+  "country": "TR",
+  "loc": "36.8120,34.6389",
+  "postal": "33115",
+  "timezone": "Europe/Istanbul",
+  "asn": {
+    "asn": "AS47883",
+    "name": "KIBRIS MOBILE TELEKOMUNIKASYON LTD.",
+    "domain": "kktcell.com",
+    "route": "94.79.123.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "KIBRIS MOBILE TELEKOMUNIKASYON LTD",
+    "domain": "kktcell.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "1,SALIH MECIT SOKAK, BEDREDDIN DEMIREL CADDESI",
+    "country": "TR",
+    "email": "to-nt-nco-dn@kktcell.com",
+    "name": "abuse department",
+    "network": "94.79.96.0/19",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

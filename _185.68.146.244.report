@@ -1,0 +1,42 @@
+{
+  "ip": "185.68.146.244",
+  "city": "Moscow",
+  "region": "Moscow",
+  "country": "RU",
+  "loc": "55.7522,37.6156",
+  "postal": "101000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS31261",
+    "name": "PJSC MegaFon",
+    "domain": "garstelecom.ru",
+    "route": "185.68.146.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PJSC MegaFon",
+    "domain": "megafon.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC MegaFon, 41, Oruzheyniy lane, Moscow, 127006, Russian Federation",
+    "country": "RU",
+    "email": "abuse-mailbox@megafon.ru",
+    "name": "MegaFon PJSC - Internet Service Network Operation Center",
+    "network": "185.68.146.0/23",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

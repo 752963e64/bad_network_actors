@@ -1,0 +1,42 @@
+{
+  "ip": "147.78.243.243",
+  "city": "Tokyo",
+  "region": "Tokyo",
+  "country": "JP",
+  "loc": "35.6895,139.6917",
+  "postal": "101-8656",
+  "timezone": "Asia/Tokyo",
+  "asn": {
+    "asn": "AS3258",
+    "name": "xTom Japan Co., Ltd.",
+    "domain": "xtom.com",
+    "route": "147.78.243.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Virtual Machine Solutions LLC",
+    "domain": "virmach.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "12201 Tukwila International Blvd, Seattle, WA, 98168, United States",
+    "country": "US",
+    "email": "report-abuse+xtom@virmach.com",
+    "name": "Virtual Machine Solutions NOC",
+    "network": "147.78.243.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

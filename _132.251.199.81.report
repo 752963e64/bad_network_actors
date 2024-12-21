@@ -1,0 +1,41 @@
+{
+  "ip": "132.251.199.81",
+  "city": "Manchay Bajo",
+  "region": "Lima region",
+  "country": "PE",
+  "loc": "-12.1676,-76.8581",
+  "postal": "15593",
+  "timezone": "America/Lima",
+  "asn": {
+    "asn": "AS21575",
+    "name": "ENTEL PERU S.A.",
+    "domain": "entel.pe",
+    "route": "132.251.192.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "AMERICATEL PERU S.A.",
+    "domain": "americatelnet.com.pe",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Av Circunvalación 2886, 2886, -, - - Lima -",
+    "country": "PE",
+    "email": "alexander.nunez@entel.pe",
+    "name": "Abuse Entel",
+    "network": "132.251.199.0/24",
+    "phone": "+51  0161177 [0000]"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

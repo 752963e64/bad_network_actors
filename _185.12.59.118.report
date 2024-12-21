@@ -1,0 +1,42 @@
+{
+  "ip": "185.12.59.118",
+  "city": "Oslo",
+  "region": "Oslo",
+  "country": "NO",
+  "loc": "59.9127,10.7461",
+  "postal": "0001",
+  "timezone": "Europe/Oslo",
+  "asn": {
+    "asn": "AS50304",
+    "name": "Blix Solutions AS",
+    "domain": "blix.com",
+    "route": "185.12.56.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Blix Group AS",
+    "domain": "blix.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Jerikoveien 26, N-1067 OSLO",
+    "country": "NO",
+    "email": "abuse@blixsolutions.no",
+    "name": "RIPE MANAGER",
+    "network": "185.12.59.112/29",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

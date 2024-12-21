@@ -1,0 +1,40 @@
+{
+  "ip": "193.227.19.235",
+  "city": "Ismailia",
+  "region": "Ismailia",
+  "country": "EG",
+  "loc": "30.6043,32.2722",
+  "timezone": "Africa/Cairo",
+  "asn": {
+    "asn": "AS2561",
+    "name": "Egyptian Universities Network (EUN)",
+    "domain": "egregistry.eg",
+    "route": "193.227.19.0/24",
+    "type": "education"
+  },
+  "company": {
+    "name": "Egyptian Universities Network (EUN)",
+    "domain": "egregistry.eg",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Cairo University Campus,",
+    "country": "EG",
+    "email": "tech@egregistry.eg",
+    "name": "Dina Barakat",
+    "network": "193.227.0.0/18",
+    "phone": "tel:+20-2-37742348"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

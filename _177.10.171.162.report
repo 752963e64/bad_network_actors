@@ -1,0 +1,42 @@
+{
+  "ip": "177.10.171.162",
+  "hostname": "177-10-171-162.ptr.quick.com.br",
+  "city": "Barra Mansa",
+  "region": "Rio de Janeiro",
+  "country": "BR",
+  "loc": "-22.5442,-44.1714",
+  "postal": "27300-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS263019",
+    "name": "QUICKNET TELECOM LTDA",
+    "domain": "quick.com.br",
+    "route": "177.10.171.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "QUICKNET TELECOM LTDA",
+    "domain": "quick.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "cgr@quick.com.br",
+    "name": "QuickNet Internet Provider",
+    "network": "177.10.168.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

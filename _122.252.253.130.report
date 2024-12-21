@@ -1,0 +1,43 @@
+{
+  "ip": "122.252.253.130",
+  "hostname": "ws130-253-252-122.rcil.gov.in",
+  "city": "Thiruvananthapuram",
+  "region": "Kerala",
+  "country": "IN",
+  "loc": "8.4855,76.9492",
+  "postal": "695020",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS24186",
+    "name": "RailTel Corporation of India Ltd",
+    "domain": "railtelindia.com",
+    "route": "122.252.253.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "RailTel Corporation is an Internet Service Provider.",
+    "domain": "railtel.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Plot No, 143, Sector 44 ,Gurugram, Haryana ,122003",
+    "country": "IN",
+    "email": "abuse@railtelindia.com",
+    "name": "Anand Singh Chandel",
+    "network": "122.252.229.0-122.252.255.255",
+    "phone": "+91-11-22185933"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

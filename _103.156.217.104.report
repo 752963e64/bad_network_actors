@@ -1,0 +1,42 @@
+{
+  "ip": "103.156.217.104",
+  "hostname": "mataram-imigrasi-104-217.fiber.net.id",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.2146,106.8451",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS58369",
+    "name": "PT. Fiber Networks Indonesia",
+    "domain": "fiber.net.id",
+    "route": "103.156.217.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PT Meiwa Mold Indonesia",
+    "domain": "meiwa-m.co.id",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT Meiwa Mold Indonesia, Jl. Irian Blok NN No.3 MM2100, Cikarang Barat, Jatiwangi, Bekasi 17530",
+    "country": "ID",
+    "email": "tarwadi@meiwa-m.com",
+    "name": "Tarwadi Tarwadi",
+    "network": "103.156.216.0/23",
+    "phone": "+62-21-89982715"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "172.105.40.217",
+  "hostname": "li1992-217.members.linode.com",
+  "city": "Mumbai",
+  "region": "Maharashtra",
+  "country": "IN",
+  "loc": "19.0728,72.8826",
+  "postal": "400017",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS63949",
+    "name": "Akamai Connected Cloud",
+    "domain": "linode.com",
+    "route": "172.105.32.0/19",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Linode",
+    "domain": "linode.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, MA, Cambridge, 8 Cambridge Center, Mailstop 926-G, 02142",
+    "country": "US",
+    "email": "abuse@akamai.com",
+    "name": "NOC United States",
+    "network": "172.104.0.0/15",
+    "phone": "+1-617-444-2535"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

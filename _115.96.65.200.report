@@ -1,0 +1,42 @@
+{
+  "ip": "115.96.65.200",
+  "city": "Mumbai",
+  "region": "Maharashtra",
+  "country": "IN",
+  "loc": "19.0728,72.8826",
+  "postal": "400017",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS17488",
+    "name": "Hathway IP Over Cable Internet",
+    "domain": "hathway.net",
+    "route": "115.96.65.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "HATHWAY CABLE AND DATACOM LIMITED",
+    "domain": "hathway.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Trade World, B Wing, 10th Floor, Kamla Mills Compound,, Lower Parel,, Mumbai 400013",
+    "country": "IN",
+    "email": "abuse@hathway.net",
+    "name": "ABUSE HATHWAYIN",
+    "network": "115.96.0.0/14",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

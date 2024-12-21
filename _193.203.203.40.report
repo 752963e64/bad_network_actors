@@ -1,0 +1,43 @@
+{
+  "ip": "193.203.203.40",
+  "hostname": "vm3394194.stark-industries.solutions",
+  "city": "Toronto",
+  "region": "Ontario",
+  "country": "CA",
+  "loc": "43.7064,-79.3986",
+  "postal": "M5A",
+  "timezone": "America/Toronto",
+  "asn": {
+    "asn": "AS53363",
+    "name": "TANGRAM CANADA INC.",
+    "domain": "tangram.biz",
+    "route": "193.203.203.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "WEISS HOSTING GROUP S.R.L.",
+    "domain": "stark-industries.solutions",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "MOLDOVA",
+    "country": "MD",
+    "email": "abuse@pq.hosting",
+    "name": "Abuse-C Role",
+    "network": "193.203.203.0/24",
+    "phone": "+441234416080"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

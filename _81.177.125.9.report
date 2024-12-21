@@ -1,0 +1,42 @@
+{
+  "ip": "81.177.125.9",
+  "city": "Kazan",
+  "region": "Tatarstan Republic",
+  "country": "RU",
+  "loc": "55.7887,49.1221",
+  "postal": "422525",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS12389",
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "route": "81.177.96.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "PJSC Rostelecom Technical Team",
+    "network": "81.177.96.0/19",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

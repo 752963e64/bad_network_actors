@@ -1,0 +1,42 @@
+{
+  "ip": "91.228.67.126",
+  "city": "Yaroslavl",
+  "region": "Yaroslavl Oblast",
+  "country": "RU",
+  "loc": "57.6299,39.8737",
+  "postal": "150521",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS49558",
+    "name": "IT-Yaroslavl Ltd.",
+    "domain": "livecomm.ru",
+    "route": "91.228.64.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "IT-Yaroslavl Ltd.",
+    "domain": "livecomm.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Volodarskogo street, 62k2, 150040, Yaroslavl, RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "abuse@livecomm.net",
+    "name": "Abuse-C Role",
+    "network": "91.228.66.0/23",
+    "phone": "+7 4852 690000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

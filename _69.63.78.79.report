@@ -1,0 +1,42 @@
+{
+  "ip": "69.63.78.79",
+  "city": "Johannesburg",
+  "region": "Gauteng",
+  "country": "ZA",
+  "loc": "-26.2023,28.0436",
+  "postal": "2041",
+  "timezone": "Africa/Johannesburg",
+  "asn": {
+    "asn": "AS19711",
+    "name": "SWAZILAND PTC",
+    "domain": "eptc.co.sz",
+    "route": "69.63.78.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SPTC DSL Network",
+    "domain": "swazi.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Swaziland Post & Telecoms, Mbabane H100, Swaziland",
+    "country": "SZ",
+    "email": "gateway@swazi.net",
+    "name": "Musa Tsela",
+    "network": "69.63.76.0/22",
+    "phone": "tel:+268-2405-2434"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

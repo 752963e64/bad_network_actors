@@ -1,0 +1,43 @@
+{
+  "ip": "125.168.89.159",
+  "hostname": "159.89.168.125.sta.wbroadband.net.au",
+  "city": "Brisbane",
+  "region": "Queensland",
+  "country": "AU",
+  "loc": "-27.4679,153.0281",
+  "postal": "4000",
+  "timezone": "Australia/Brisbane",
+  "asn": {
+    "asn": "AS9443",
+    "name": "Vocus Retail",
+    "domain": "iprimus.com.au",
+    "route": "125.168.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Vocus Retail",
+    "domain": "vocus.com.au",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Level 10, 452 Flinders Street, Melbourne VIC AUSTRALIA 3000",
+    "country": "AU",
+    "email": "abuse@vocus.net",
+    "name": "ABUSE VOCUSAU",
+    "network": "125.168.0.0/16",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

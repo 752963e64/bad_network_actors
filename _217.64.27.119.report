@@ -1,0 +1,43 @@
+{
+  "ip": "217.64.27.119",
+  "hostname": "adsl119-27.bakinter.net",
+  "city": "Baku",
+  "region": "Baki",
+  "country": "AZ",
+  "loc": "40.3777,49.8920",
+  "postal": "AZ 1000",
+  "timezone": "Asia/Baku",
+  "asn": {
+    "asn": "AS28787",
+    "name": "Baku Telephone Communication LLC",
+    "domain": "baktelecom.az",
+    "route": "217.64.16.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Bakinternet DSL Network",
+    "domain": "bakinter.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "AZ",
+    "email": "abuse@baktelecom.az",
+    "name": "Abuse contact role object",
+    "network": "217.64.20.0-217.64.31.255",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

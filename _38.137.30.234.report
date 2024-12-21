@@ -1,0 +1,42 @@
+{
+  "ip": "38.137.30.234",
+  "city": "Ludhiāna",
+  "region": "Punjab",
+  "country": "IN",
+  "loc": "30.9120,75.8538",
+  "postal": "141120",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS133661",
+    "name": "Netplus Broadband Services Private Limited",
+    "domain": "netplus.co.in",
+    "route": "38.137.30.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Netplus Broadband Services Pvt ltd",
+    "domain": "netplus.co.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, DC, Washington, 2450 N street, NW, 20037",
+    "country": "US",
+    "email": "abuse@cogentco.com",
+    "name": "Cogent Abuse",
+    "network": "38.0.0.0/8",
+    "phone": "+1-877-875-4311"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

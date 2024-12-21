@@ -1,0 +1,42 @@
+{
+  "ip": "154.212.141.199",
+  "city": "Hong Kong",
+  "region": "Hong Kong",
+  "country": "HK",
+  "loc": "22.2783,114.1747",
+  "postal": "999077",
+  "timezone": "Asia/Hong_Kong",
+  "asn": {
+    "asn": "AS9465",
+    "name": "AGOTOZ PTE. LTD.",
+    "domain": "agotoz.com",
+    "route": "154.212.141.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "CloudInnovation infrastructure",
+    "domain": "cloudinnovation.org",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "11th Floor, Standard Chartered Tower, 19, Cybercity, Ebène, Mauritius",
+    "country": "MU",
+    "email": "afrinic-dbm@afrinic.net",
+    "name": "AFRINIC Placeholder Contact",
+    "network": "154.212.141.0/24",
+    "phone": "tel:+230-403-5100"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

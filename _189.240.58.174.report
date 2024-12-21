@@ -1,0 +1,48 @@
+{
+  "ip": "189.240.58.174",
+  "hostname": "customer-189-240-58-174.uninet-ide.com.mx",
+  "city": "Tlalpan",
+  "region": "Mexico City",
+  "country": "MX",
+  "loc": "19.2951,-99.1621",
+  "postal": "14000",
+  "timezone": "America/Mexico_City",
+  "asn": {
+    "asn": "AS8151",
+    "name": "UNINET",
+    "domain": "telmex.com",
+    "route": "189.240.0.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Uninet S.A. de C.V.",
+    "domain": "uninet.net.mx",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Telcel",
+    "mcc": "334",
+    "mnc": "020"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PERIFERICO SUR, 3190, ALVARO OBREG, 01900 - MEXICO - CX",
+    "country": "MX",
+    "email": "abuse@UNINET.NET.MX",
+    "name": "SEGURIDAD DE RED UNINET",
+    "network": "189.240.0.0/16",
+    "phone": "+52 55 52237234 []"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "190.103.16.34",
+  "city": "Tapalqué",
+  "region": "Buenos Aires",
+  "country": "AR",
+  "loc": "-36.3562,-60.0251",
+  "postal": "7303",
+  "timezone": "America/Argentina/Buenos_Aires",
+  "asn": {
+    "asn": "AS28318",
+    "name": "CYBERTAP",
+    "domain": "cybertap.com.ar",
+    "route": "190.103.16.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CYBERTAP",
+    "domain": "cybertap.com.ar",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Av. San Martin, 98, -, 7303 - Tapalque -",
+    "country": "AR",
+    "email": "federico@CYBERTAP.COM.AR",
+    "name": "RICARDO FEDERICO",
+    "network": "190.103.16.0/22",
+    "phone": "+54  1154004538 [0000]"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

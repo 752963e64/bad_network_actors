@@ -1,0 +1,42 @@
+{
+  "ip": "202.137.3.112",
+  "hostname": "mail-infra112.link.net.id",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.2146,106.8451",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS9905",
+    "name": "Linknet ASN",
+    "domain": "multipolar.co.id",
+    "route": "202.137.0.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "ISP LINKNET",
+    "domain": "link.net.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Lippo Cyber Park, Jl. Bulevar Gajah Mada No.2088, Lippo Karawaci 100, Tangerang 15811. Indonesia",
+    "country": "ID",
+    "email": "noc@link.net.id",
+    "name": "Eko Budirahardjo",
+    "network": "202.137.3.64/26",
+    "phone": "+62-21-55777755"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

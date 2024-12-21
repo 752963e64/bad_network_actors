@@ -1,0 +1,42 @@
+{
+  "ip": "94.154.172.126",
+  "city": "Kerkrade",
+  "region": "Limburg",
+  "country": "NL",
+  "loc": "50.8658,6.0625",
+  "postal": "6461",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS208046",
+    "name": "ColocationX Ltd.",
+    "domain": "colocationx.com",
+    "route": "94.154.172.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "SHADOWSHIELD-LTD",
+    "domain": "shadow.tech",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "82a James Carter Road, Mildenhall, Suffolk, IP28 7DE, UK",
+    "country": "NL",
+    "email": "Office@hostcay.com",
+    "name": "ShadowShield Ltd",
+    "network": "94.154.172.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

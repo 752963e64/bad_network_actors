@@ -1,0 +1,42 @@
+{
+  "ip": "5.34.4.84",
+  "hostname": "client.fttb.2day.kz",
+  "city": "Astana",
+  "region": "Astana",
+  "country": "KZ",
+  "loc": "51.1801,71.4460",
+  "timezone": "Asia/Almaty",
+  "asn": {
+    "asn": "AS21299",
+    "name": "Kar-Tel LLC",
+    "domain": "beeline.kz",
+    "route": "5.34.4.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Kar-Tel LLC",
+    "domain": "beeline.kz",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "st. Kadergaly Galairy 2, 010010, Astana, KAZAKHSTAN",
+    "country": "KZ",
+    "email": "ripe-kartel-mobile@beeline.kz",
+    "name": "Abuse-C Role",
+    "network": "5.34.4.0/23",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

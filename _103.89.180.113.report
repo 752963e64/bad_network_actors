@@ -1,0 +1,40 @@
+{
+  "ip": "103.89.180.113",
+  "city": "Yangon",
+  "region": "Yangon",
+  "country": "MM",
+  "loc": "16.8053,96.1561",
+  "timezone": "Asia/Yangon",
+  "asn": {
+    "asn": "AS136474",
+    "name": "Marga Global Telecom Limited",
+    "domain": "margaglobal.com",
+    "route": "103.89.180.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "Marga Global Telecom Limited",
+    "domain": "margaglobal.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": "VPNGate"
+  },
+  "abuse": {
+    "address": "Corner of Kabar Aye Pagoda Road and Kanbe Road, Shop 5 The Central Boulevard, Yankin Township, Yangon, Myanmar",
+    "country": "MM",
+    "email": "mgt-noc@margaglobal.com",
+    "name": "ABUSE MGTLMM",
+    "network": "103.89.180.0/24",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

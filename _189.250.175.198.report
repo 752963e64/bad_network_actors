@@ -1,0 +1,43 @@
+{
+  "ip": "189.250.175.198",
+  "hostname": "dsl-189-250-175-198-dyn.prod-infinitum.com.mx",
+  "city": "Oaxaca",
+  "region": "Oaxaca",
+  "country": "MX",
+  "loc": "17.0654,-96.7237",
+  "postal": "68000",
+  "timezone": "America/Mexico_City",
+  "asn": {
+    "asn": "AS8151",
+    "name": "UNINET",
+    "domain": "telmex.com",
+    "route": "189.250.160.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Uninet S.A. de C.V.",
+    "domain": "uninet.net.mx",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PERIFERICO SUR, 3190, ALVARO OBREG, 01900 - MEXICO - CX",
+    "country": "MX",
+    "email": "abuse@UNINET.NET.MX",
+    "name": "SEGURIDAD DE RED UNINET",
+    "network": "189.250.0.0/16",
+    "phone": "+52 55 52237234 []"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

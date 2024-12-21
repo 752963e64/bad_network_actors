@@ -1,0 +1,41 @@
+{
+  "ip": "103.192.199.135",
+  "city": "Indore",
+  "region": "Madhya Pradesh",
+  "country": "IN",
+  "loc": "22.7179,75.8333",
+  "postal": "452002",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS59187",
+    "name": "NEEVAI SUPERCLOUD PVT LTD",
+    "domain": "neevcloud.com",
+    "route": "103.192.199.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "NEEVAI SUPERCLOUD PVT LTD",
+    "domain": "neevcloud.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "37 SHANTI NAGAR AB ROAD MANORAMAGANJ INDORE,Indore,Madhya Pradesh-452001",
+    "country": "IN",
+    "email": "admin@neevcloud.com",
+    "name": "NARENDRA SEN",
+    "network": "103.192.198.0/23",
+    "phone": "+91 9993099055"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

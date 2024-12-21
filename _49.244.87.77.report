@@ -1,0 +1,42 @@
+{
+  "ip": "49.244.87.77",
+  "hostname": "77-ftth.ntc.net.np",
+  "city": "Kathmandu",
+  "region": "Bagmati Province",
+  "country": "NP",
+  "loc": "27.7017,85.3206",
+  "timezone": "Asia/Kathmandu",
+  "asn": {
+    "asn": "AS23752",
+    "name": "Nepal Telecommunications Corporation, Internet Services,",
+    "domain": "ntc.net.np",
+    "route": "49.244.80.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Nepal Telecommunications Corporation",
+    "domain": "ntc.net.np",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Nepal Telecom, IT Directorate, Jawlakhel, Lalitpur, Nepal",
+    "country": "NP",
+    "email": "abuse_mail@ntc.net.np",
+    "name": "ABUSE NPTELECOMNP",
+    "network": "49.244.0.1-49.244.255.255",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

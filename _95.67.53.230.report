@@ -1,0 +1,43 @@
+{
+  "ip": "95.67.53.230",
+  "hostname": "srs.kiev.ua",
+  "city": "Chabany",
+  "region": "Kiev",
+  "country": "UA",
+  "loc": "50.3407,30.4236",
+  "postal": "01001",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS34867",
+    "name": "Cosmonova LLC",
+    "domain": "cosmonova.net",
+    "route": "95.67.0.0/17",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Cosmonova LLC",
+    "domain": "cosmonova.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Cosmonova, Mykoly Grinchenka st. 2/1, block \"G\", Kyiv-03680",
+    "country": "UA",
+    "email": "abuse@cosmonova.net",
+    "name": "Cosmonova ISP",
+    "network": "95.67.0.0/17",
+    "phone": "+380443590000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

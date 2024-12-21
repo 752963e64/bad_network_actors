@@ -1,0 +1,43 @@
+{
+  "ip": "185.106.57.70",
+  "hostname": "70-57-106-185.kamensktel.ru",
+  "city": "Bogdanovich",
+  "region": "Sverdlovsk Oblast",
+  "country": "RU",
+  "loc": "56.7767,62.0507",
+  "postal": "623530",
+  "timezone": "Asia/Yekaterinburg",
+  "asn": {
+    "asn": "AS39812",
+    "name": "Closed Joint Stock Company Radiotelephone",
+    "domain": "kamensktel.ru",
+    "route": "185.106.56.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Closed Joint Stock Company Radiotelephone",
+    "domain": "kamensktel.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CJSC Radiotelephone Alexandr Serebrov STROITELY 27 623406 KAMENSK-URALSKI SVERDLOVSK REGION Russian Federation",
+    "country": "RU",
+    "email": "uraltel@gmail.com",
+    "name": "Abuse-C Role",
+    "network": "185.106.56.0/23",
+    "phone": "+7 3439 378500"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

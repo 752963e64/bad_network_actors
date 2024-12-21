@@ -1,0 +1,40 @@
+{
+  "ip": "202.126.93.253",
+  "city": "Ulan Bator",
+  "region": "Ulaanbaatar",
+  "country": "MN",
+  "loc": "47.9077,106.8832",
+  "timezone": "Asia/Ulaanbaatar",
+  "asn": {
+    "asn": "AS9484",
+    "name": "Mobinet LLC. AS Mobinet Internet Service Provider",
+    "domain": "mobinet.mn",
+    "route": "202.126.93.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Mobinet LLC",
+    "domain": "mobinet.mn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "MPM Office, UNESCO street - 28, Ulaanbaatar Mongolia",
+    "country": "MN",
+    "email": "abuse@mobinet.mn",
+    "name": "ABUSE MOBINETMN",
+    "network": "202.126.93.0/24",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

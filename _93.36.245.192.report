@@ -1,0 +1,47 @@
+{
+  "ip": "93.36.245.192",
+  "hostname": "93-36-245-192.ip62.fastwebnet.it",
+  "city": "Rome",
+  "region": "Lazio",
+  "country": "IT",
+  "loc": "41.8919,12.5113",
+  "postal": "00118",
+  "timezone": "Europe/Rome",
+  "asn": {
+    "asn": "AS12874",
+    "name": "Fastweb SpA",
+    "domain": "fastweb.it",
+    "route": "93.36.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Fastweb SpA",
+    "domain": "fastweb.it",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Fastweb",
+    "mcc": "222",
+    "mnc": "47"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Via Caracciolo, 51, 20155 Milano MI, Italy",
+    "country": "IT",
+    "email": "abuse@fastweb.it",
+    "name": "Fastweb Abuse",
+    "network": "93.36.245.128/25",
+    "phone": "+39 02 45451"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

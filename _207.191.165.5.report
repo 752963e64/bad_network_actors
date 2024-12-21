@@ -1,0 +1,42 @@
+{
+  "ip": "207.191.165.5",
+  "city": "Rivadavia",
+  "region": "Mendoza",
+  "country": "AR",
+  "loc": "-33.1910,-68.4622",
+  "postal": "5577",
+  "timezone": "America/Argentina/Mendoza",
+  "asn": {
+    "asn": "AS269924",
+    "name": "CREA SERVICIOS TECNOLÓGICOS SAPEM",
+    "domain": "oneinternet.com.ar",
+    "route": "207.191.164.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CREA SERVICIOS TECNOLÓGICOS SAPEM",
+    "domain": "oneinternet.com.ar",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Sarmiento, 514, -, 5577 - Rivadavia - Mendoza",
+    "country": "AR",
+    "email": "g.abrego@ONEINTERNET.COM.AR",
+    "name": "Gerardo Abrego",
+    "network": "207.191.164.0/22",
+    "phone": "+54  2634212165 [0000]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

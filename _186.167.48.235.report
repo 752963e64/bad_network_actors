@@ -1,0 +1,40 @@
+{
+  "ip": "186.167.48.235",
+  "city": "Barquisimeto",
+  "region": "Lara",
+  "country": "VE",
+  "loc": "10.0647,-69.3570",
+  "timezone": "America/Caracas",
+  "asn": {
+    "asn": "AS27717",
+    "name": "Corporacion Digitel C.A.",
+    "domain": "digitel.com.ve",
+    "route": "186.167.48.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Corporacion Digitel C.A.",
+    "domain": "digitel.com.ve",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "SECTOR MARATAN CARRETERA NACIONAL VIA ESPINITAL COMPLEJO AGROINDUSTRIAL ALIVENSA, S.A., ,, - Acarigua - PO",
+    "country": "VE",
+    "email": "alivensa.lacnic@gmail.com",
+    "name": "Alivensa Poruguesa",
+    "network": "186.167.48.232/29",
+    "phone": "+58 412 6764913"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "119.18.154.186",
+  "city": "Tangerang",
+  "region": "Banten",
+  "country": "ID",
+  "loc": "-6.1781,106.6300",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS55685",
+    "name": "PT Jala Lintas Media",
+    "domain": "jlm.net.id",
+    "route": "119.18.154.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "PT Jala Lintas Media",
+    "domain": "jlm.net.id",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT Jala Lintas Media, Jl. Raya Bogor KM.42 No.2 04/07, Pabuaran, Cibinong, Kabupaten Bogor, Bogor 16916",
+    "country": "ID",
+    "email": "abuse@jlm.net.id",
+    "name": "Victor Irianto",
+    "network": "119.18.152.0/21",
+    "phone": "+62-21-87906175"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

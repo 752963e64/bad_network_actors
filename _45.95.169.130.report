@@ -1,0 +1,44 @@
+{
+  "ip": "45.95.169.130",
+  "city": "Budapest",
+  "region": "Budapest",
+  "country": "HU",
+  "loc": "47.4984,19.0404",
+  "postal": "1007",
+  "timezone": "Europe/Budapest",
+  "asn": {
+    "asn": "AS211619",
+    "name": "MAXKO d.o.o.",
+    "domain": "maxko-hosting.com",
+    "route": "45.95.168.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "MAXKO d.o.o.",
+    "domain": "maxko.org",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": true,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Skradinska 2, 44000, Sisak, CROATIA",
+    "country": "HR",
+    "email": "abuse@maxko.org",
+    "name": "Abuse-C Role",
+    "network": "45.95.169.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "45.95.169.130",
+    "total": 1,
+    "domains": [
+      "customtaxi.info"
+    ]
+  }
+}

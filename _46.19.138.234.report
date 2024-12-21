@@ -1,0 +1,43 @@
+{
+  "ip": "46.19.138.234",
+  "hostname": "hostedby.privatelayer.com",
+  "city": "Lugano",
+  "region": "Ticino",
+  "country": "CH",
+  "loc": "46.0101,8.9600",
+  "postal": "6900",
+  "timezone": "Europe/Zurich",
+  "asn": {
+    "asn": "AS51852",
+    "name": "Private Layer INC",
+    "domain": "phaselayer.com",
+    "route": "46.19.136.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "CLIENT1060",
+    "domain": "privatelayer.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Edificio Don Tin, Office 306, Ave Cuba, Calidonia, Panama City, Panama",
+    "country": "CU",
+    "email": "abuse@privatelayer.com",
+    "name": "Abuse-C Role",
+    "network": "46.19.138.224/28",
+    "phone": "+5078339167"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

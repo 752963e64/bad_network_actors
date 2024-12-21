@@ -1,0 +1,43 @@
+{
+  "ip": "62.89.0.10",
+  "city": "Yerevan",
+  "region": "Yerevan",
+  "country": "AM",
+  "loc": "40.1811,44.5136",
+  "timezone": "Asia/Yerevan",
+  "asn": {
+    "asn": "AS49800",
+    "name": "GNC-Alfa CJSC",
+    "domain": "gnc.am",
+    "route": "62.89.0.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "GNC-Alfa CJSC",
+    "domain": "gnc.am",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Armenia, Abovyan, Khakhaghutyan str. 1",
+    "country": "AM",
+    "email": "abuse@gnc.am",
+    "name": "GNC Admin Role",
+    "network": "62.89.0.0/19",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "62.89.0.10",
+    "total": 1,
+    "domains": [
+      "figaro.am"
+    ]
+  }
+}

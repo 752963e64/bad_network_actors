@@ -1,0 +1,43 @@
+{
+  "ip": "85.208.108.34",
+  "hostname": "vm3394058.stark-industries.solutions",
+  "city": "Toronto",
+  "region": "Ontario",
+  "country": "CA",
+  "loc": "43.8177,-79.2819",
+  "postal": "M1V",
+  "timezone": "America/Toronto",
+  "asn": {
+    "asn": "AS53363",
+    "name": "TANGRAM CANADA INC.",
+    "domain": "tangram.biz",
+    "route": "85.208.108.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "STARK INDUSTRIES SOLUTIONS LTD.",
+    "domain": "stark-industries.solutions",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "UNITED KINGDOM, WC2H 9JQ, London, Covent Garden, 71-75, Shelton Street",
+    "country": "GB",
+    "email": "abuse@stark-industries.solutions",
+    "name": "Stark Industries Solutions NOC",
+    "network": "85.208.108.0/24",
+    "phone": "+441234416080"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "41.223.53.110",
+  "city": "Cairo",
+  "region": "Cairo",
+  "country": "EG",
+  "loc": "30.0626,31.2497",
+  "timezone": "Africa/Cairo",
+  "asn": {
+    "asn": "AS33785",
+    "name": "City Net Telecom",
+    "domain": "citynethost.com",
+    "route": "41.223.53.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "CityNet Telecom. Egypt. Dedicated Servers.",
+    "domain": "citynet.com.eg",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "21A Ahlam Buildings, Tenth of Ramadan 44653, Egypt",
+    "country": "EG",
+    "email": "admin@citynethost.com",
+    "name": "Mohamed Talaat",
+    "network": "41.223.53.0/24",
+    "phone": "tel:+20-100-191-0250"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

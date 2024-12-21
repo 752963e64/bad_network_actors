@@ -1,0 +1,43 @@
+{
+  "ip": "103.28.245.25",
+  "hostname": "ws25-245.28.103.rcil.gov.in",
+  "city": "Chennai",
+  "region": "Tamil Nadu",
+  "country": "IN",
+  "loc": "13.0878,80.2785",
+  "postal": "600001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS24186",
+    "name": "RailTel Corporation of India Ltd",
+    "domain": "railtelindia.com",
+    "route": "103.28.245.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "RailTel Corporation is an Internet Service Provider.",
+    "domain": "railtel.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Plate-A, 6th Floor, Office Block Tower-2,, East Kidwai Nagar, New Delhi-110023",
+    "country": "IN",
+    "email": "ipadmin@railtel.in",
+    "name": "Network Administrator",
+    "network": "103.28.244.0/22",
+    "phone": "+91 11 22900600"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

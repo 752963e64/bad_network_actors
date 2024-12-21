@@ -1,0 +1,42 @@
+{
+  "ip": "162.255.122.102",
+  "city": "Tombstone",
+  "region": "Arizona",
+  "country": "US",
+  "loc": "31.7129,-110.0676",
+  "postal": "85638",
+  "timezone": "America/Phoenix",
+  "asn": {
+    "asn": "AS13904",
+    "name": "Cherryland Services Inc",
+    "domain": "cherry.fr",
+    "route": "162.255.122.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Transworld Network, Corp.",
+    "domain": "transworldnetwork.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, FL, OLDSMAR, 255 Pine Ave N, 34677",
+    "country": "US",
+    "email": "abuse@twncorp.com",
+    "name": "TWN Abuse",
+    "network": "162.255.122.0/24",
+    "phone": "+1-813-891-4700"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

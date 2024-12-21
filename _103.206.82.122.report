@@ -1,0 +1,43 @@
+{
+  "ip": "103.206.82.122",
+  "hostname": "cop.public-net01.nexlogic.ph",
+  "city": "Quezon City",
+  "region": "Metro Manila",
+  "country": "PH",
+  "loc": "14.6488,121.0509",
+  "postal": "1100",
+  "timezone": "Asia/Manila",
+  "asn": {
+    "asn": "AS135025",
+    "name": "Nexlogic Telecommunications Network, Inc.",
+    "domain": "nexlogic.ph",
+    "route": "103.206.82.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "NexLogic Telecoms",
+    "domain": "nexlogic.ph",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "2F EW Connection Bldg, 5417 Matilde St., Poblacion, Makati City Metro Manila 1210",
+    "country": "PH",
+    "email": "sysad@nexlogic.ph",
+    "name": "ABUSE NEXLOGICPH",
+    "network": "103.206.82.0/24",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

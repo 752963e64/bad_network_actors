@@ -1,0 +1,42 @@
+{
+  "ip": "103.181.15.140",
+  "city": "Pimpri",
+  "region": "Maharashtra",
+  "country": "IN",
+  "loc": "18.6229,73.8070",
+  "postal": "412303",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS149267",
+    "name": "TELEMANTRRA SALES CORPORATION PRIVATE LIMITED",
+    "domain": "",
+    "route": "103.181.15.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TELEMANTRRA SALES CORPORATION PRIVATE LIMITED",
+    "domain": "telemantrra.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TURNING POINT UNIT NO 2 204 SECOND FLOOR PLOT 8 SR NO 206 3 VIMAN NAGAR,Pune,Maharashtra-411014",
+    "country": "IN",
+    "email": "amits@telemantrra.com",
+    "name": "AMIT SINGH",
+    "network": "103.181.14.0/23",
+    "phone": "+91 7767005900"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "91.232.128.34",
+  "city": "Yablunytsia",
+  "region": "Ivano-Frankivsk",
+  "country": "UA",
+  "loc": "48.3111,24.4836",
+  "postal": "78592",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS57519",
+    "name": "LTD Bukovel",
+    "domain": "bukovel.com",
+    "route": "91.232.128.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "LTD Bukovel",
+    "domain": "bukovel.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Polyanytsya village, Yaremche district, Ivano-Frankivsk region., Ukraine",
+    "country": "UA",
+    "email": "admin@bukovel.com",
+    "name": "Abuse-C Role",
+    "network": "91.232.128.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

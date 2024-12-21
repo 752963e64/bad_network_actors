@@ -1,0 +1,43 @@
+{
+  "ip": "190.57.130.218",
+  "hostname": "corp-190-57-130-218.gye.puntonet.ec",
+  "city": "Guayaquil",
+  "region": "Guayas",
+  "country": "EC",
+  "loc": "-2.1962,-79.8862",
+  "postal": "090307",
+  "timezone": "America/Guayaquil",
+  "asn": {
+    "asn": "AS22724",
+    "name": "PUNTONET S.A.",
+    "domain": "puntonet.ec",
+    "route": "190.57.130.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "PUNTONET S.A.",
+    "domain": "puntonet.ec",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Amazonas 45 45 y Pereira, 4545, Ed. Centro Financiero, Piso 4, Of. 401, 170507 - Quito - PI",
+    "country": "EC",
+    "email": "roberto@punto.net.ec",
+    "name": "Roberto Falconi Cardona",
+    "network": "190.57.128.0/18",
+    "phone": "+593  991897984 [0000]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

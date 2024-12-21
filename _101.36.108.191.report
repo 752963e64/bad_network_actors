@@ -1,0 +1,42 @@
+{
+  "ip": "101.36.108.191",
+  "city": "Hong Kong",
+  "region": "Hong Kong",
+  "country": "HK",
+  "loc": "22.2783,114.1747",
+  "postal": "999077",
+  "timezone": "Asia/Hong_Kong",
+  "asn": {
+    "asn": "AS135377",
+    "name": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "domain": "ucloud.cn",
+    "route": "101.36.108.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "domain": "ucloud.cn",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "FLAT/RM 603 6/F, LAWS COMMERCIAL PLAZA, 788 CHEUNG SHA WAN ROAD, KL,, Hong Kong",
+    "country": "HK",
+    "email": "hegui@ucloud.cn",
+    "name": "ABUSE UCLOUDHK",
+    "network": "101.36.106.0-101.36.110.255",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

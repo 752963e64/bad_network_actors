@@ -1,0 +1,47 @@
+{
+  "ip": "104.155.93.205",
+  "hostname": "205.93.155.104.bc.googleusercontent.com",
+  "city": "Brussels",
+  "region": "Brussels Capital",
+  "country": "BE",
+  "loc": "50.8505,4.3488",
+  "postal": "1000",
+  "timezone": "Europe/Brussels",
+  "asn": {
+    "asn": "AS396982",
+    "name": "Google LLC",
+    "domain": "google.com",
+    "route": "104.155.80.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Google LLC",
+    "domain": "google.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Mountain View, 1600 Amphitheatre Parkway, 94043",
+    "country": "US",
+    "email": "google-cloud-compliance@google.com",
+    "name": "GC Abuse",
+    "network": "104.154.0.0/15",
+    "phone": "+1-650-253-0000"
+  },
+  "domains": {
+    "ip": "104.155.93.205",
+    "total": 3,
+    "domains": [
+      "parkpark.no",
+      "parkpark.se",
+      "parkpark.dk"
+    ]
+  }
+}

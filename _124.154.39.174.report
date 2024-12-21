@@ -1,0 +1,42 @@
+{
+  "ip": "124.154.39.174",
+  "hostname": "pl49070.ag1313.nttpc.ne.jp",
+  "city": "Osaka",
+  "region": "Osaka",
+  "country": "JP",
+  "loc": "34.6938,135.5011",
+  "postal": "543-0062",
+  "timezone": "Asia/Tokyo",
+  "asn": {
+    "asn": "AS2514",
+    "name": "NTT PC Communications, Inc.",
+    "domain": "nttpc.co.jp",
+    "route": "124.154.38.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "InfoSphere (NTTPC Communications, Inc.)",
+    "domain": "nttpc.ne.jp",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",
+    "country": "JP",
+    "email": "hostmaster@nic.ad.jp",
+    "name": "Japan Network Information Center",
+    "network": "124.154.0.0/16",
+    "phone": "+81-3-5297-2311"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

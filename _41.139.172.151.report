@@ -1,0 +1,43 @@
+{
+  "ip": "41.139.172.151",
+  "hostname": "41-139-172-151.safaricombusiness.co.ke",
+  "city": "Nairobi",
+  "region": "Nairobi County",
+  "country": "KE",
+  "loc": "-1.2833,36.8167",
+  "postal": "00800",
+  "timezone": "Africa/Nairobi",
+  "asn": {
+    "asn": "AS37061",
+    "name": "Safaricom Limited",
+    "domain": "safaricom.co.ke",
+    "route": "41.139.160.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "For Converged services in Eastern Region",
+    "domain": "onecom.co.ke",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "P.O Box 66827, 00800, Nairobi, Kenya, Nairobi, Kenya",
+    "country": "KE",
+    "email": "CorePSPlanningTeam@Safaricom.co.ke",
+    "name": "John Muita",
+    "network": "41.139.160.0/19",
+    "phone": "tel:+254-722-002829"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

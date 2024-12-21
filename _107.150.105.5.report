@@ -1,0 +1,41 @@
+{
+  "ip": "107.150.105.5",
+  "city": "Los Angeles",
+  "region": "California",
+  "country": "US",
+  "loc": "34.0522,-118.2437",
+  "postal": "90009",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS135377",
+    "name": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "domain": "ucloud.cn",
+    "route": "107.150.104.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "UCLOUD",
+    "domain": "ucloud.cn",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CN, , Hong Kong, FLAT/RM 603 6/   FLAWS COMMERCIAL PLAZA 788 CHEUNG SHA WAN ROAD  KL, ",
+    "country": "CN",
+    "email": "hegui@ucloud.cn",
+    "name": "IP ABUSE Ucloud",
+    "network": "107.150.104.0/22",
+    "phone": "+86 17721465033"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

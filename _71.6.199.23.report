@@ -1,0 +1,43 @@
+{
+  "ip": "71.6.199.23",
+  "hostname": "einstein.census.shodan.io",
+  "city": "San Diego",
+  "region": "California",
+  "country": "US",
+  "loc": "32.7157,-117.1647",
+  "postal": "92101",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS10439",
+    "name": "CariNet, Inc.",
+    "domain": "fiberalley.com",
+    "route": "71.6.128.0/17",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "CariNet, Inc.",
+    "domain": "cari.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, NV, Henderson, 170 S. Green Valley Parkway, Suite 300, 89012",
+    "country": "US",
+    "email": "complaints@cari.net",
+    "name": "CariNet Abuse",
+    "network": "71.6.199.0/25",
+    "phone": "+1-702-660-0350"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

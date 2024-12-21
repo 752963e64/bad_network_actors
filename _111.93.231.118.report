@@ -1,0 +1,42 @@
+{
+  "ip": "111.93.231.118",
+  "city": "Āvadi",
+  "region": "Tamil Nadu",
+  "country": "IN",
+  "loc": "13.1147,80.1098",
+  "postal": "600054",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS45820",
+    "name": "Tata Teleservices ISP AS",
+    "domain": "tatatelebusiness.com",
+    "route": "111.93.231.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Tata Teleservices ISP",
+    "domain": "tatatel.co.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TATA TELESERVICES LIMITED, Voltas Premises,, A, E & F Blocks,, Chinchpokli Mumbai",
+    "country": "IN",
+    "email": "ip.abuse@tatatel.co.in",
+    "name": "ABUSE TTSLMEISIN",
+    "network": "111.93.0.0/16",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

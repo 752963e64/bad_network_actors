@@ -1,0 +1,42 @@
+{
+  "ip": "66.160.191.90",
+  "city": "Seattle",
+  "region": "Washington",
+  "country": "US",
+  "loc": "47.6062,-122.3321",
+  "postal": "98101",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS136897",
+    "name": "Enjoyvc Cloud Group Limited.",
+    "domain": "enjoyvc.com",
+    "route": "66.160.191.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Enjoyvc Cloud Group Limited",
+    "domain": "enjoyvc.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Fremont, 760 Mission Court, 94539",
+    "country": "US",
+    "email": "abuse@he.net",
+    "name": "Abuse Department",
+    "network": "66.160.128.0/18",
+    "phone": "+1-510-580-4100"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

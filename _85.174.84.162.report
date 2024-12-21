@@ -1,0 +1,43 @@
+{
+  "ip": "85.174.84.162",
+  "hostname": "dsl-85-174-84-162.avtlg.ru",
+  "city": "Kamyshin",
+  "region": "Volgograd Oblast",
+  "country": "RU",
+  "loc": "50.0885,45.4128",
+  "postal": "403870",
+  "timezone": "Europe/Volgograd",
+  "asn": {
+    "asn": "AS33934",
+    "name": "PJSC Rostelecom",
+    "domain": "rostelecom.ru",
+    "route": "85.174.84.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "OJSC Rostelecom Macroregional Branch South",
+    "domain": "rt.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "PJSC Rostelecom Technical Team",
+    "network": "85.174.0.0/17",
+    "phone": "+7 844 238 1052"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

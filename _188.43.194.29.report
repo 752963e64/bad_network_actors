@@ -1,0 +1,43 @@
+{
+  "ip": "188.43.194.29",
+  "hostname": "rzd-med-gw.transtelecom.net",
+  "city": "Krasnodar",
+  "region": "Krasnodar Krai",
+  "country": "RU",
+  "loc": "45.0448,38.9760",
+  "postal": "350000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS20485",
+    "name": "Joint Stock Company TransTeleCom",
+    "domain": "ttk.ru",
+    "route": "188.43.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TTK",
+    "domain": "ttk.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Company TransTeleCom Network Operation Center, 29/134, Vereyskaya str., 121357 Moscow Russian Federation",
+    "country": "RU",
+    "email": "abuse@ttk.ru",
+    "name": "TTC NOC",
+    "network": "188.43.192.0/21",
+    "phone": "+7 495 7846677"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

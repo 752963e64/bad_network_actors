@@ -1,0 +1,43 @@
+{
+  "ip": "13.210.24.132",
+  "hostname": "ec2-13-210-24-132.ap-southeast-2.compute.amazonaws.com",
+  "city": "Sydney",
+  "region": "New South Wales",
+  "country": "AU",
+  "loc": "-33.8678,151.2073",
+  "postal": "1001",
+  "timezone": "Australia/Sydney",
+  "asn": {
+    "asn": "AS16509",
+    "name": "Amazon.com, Inc.",
+    "domain": "amazon.com",
+    "route": "13.210.0.0/15",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Amazon Corporate Services Pty Ltd",
+    "domain": "amazon.com.au",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, WA, Seattle, Amazon Web Services Elastic Compute Cloud, EC2, 410 Terry Avenue North, 98109-5210",
+    "country": "US",
+    "email": "trustandsafety@support.aws.com",
+    "name": "Amazon EC2 Abuse",
+    "network": "13.210.0.0/15",
+    "phone": "+1-206-555-0000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

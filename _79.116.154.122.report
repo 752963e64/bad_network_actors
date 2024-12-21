@@ -1,0 +1,43 @@
+{
+  "ip": "79.116.154.122",
+  "hostname": "79-116-154-122.digimobil.es",
+  "city": "Madrid",
+  "region": "Madrid",
+  "country": "ES",
+  "loc": "40.4165,-3.7026",
+  "postal": "28087",
+  "timezone": "Europe/Madrid",
+  "asn": {
+    "asn": "AS57269",
+    "name": "DIGI SPAIN TELECOM S.L.",
+    "domain": "digimobil.es",
+    "route": "79.116.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Digi Spain Telecom",
+    "domain": "digimobil.es",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Calle Anabel Segura, 14, 28108, Alcobendas, SPAIN",
+    "country": "ES",
+    "email": "abuse@digimobil.es",
+    "name": "Abuse-C Role",
+    "network": "79.116.154.0/24",
+    "phone": "+40 21 30 10 888"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

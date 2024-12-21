@@ -1,0 +1,42 @@
+{
+  "ip": "196.200.176.254",
+  "city": "Marrakesh",
+  "region": "Marrakesh-Safi",
+  "country": "MA",
+  "loc": "31.6342,-7.9999",
+  "postal": "40152",
+  "timezone": "Africa/Casablanca",
+  "asn": {
+    "asn": "AS30983",
+    "name": "CNRST (Centre National pour la Recherche Scientifique et Technique)",
+    "domain": "marwan.ma",
+    "route": "196.200.160.0/19",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "University Cadi Ayyad Marrekech",
+    "domain": "uca.ac.ma",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "University Cadi Ayyad, Prince Moulay Abdellah Ave, PO Box 511 Marrakech, Morocco",
+    "country": "MA",
+    "email": "bouhamidi@uca.ac.ma",
+    "name": "El Mehdi Bouhamidi",
+    "network": "196.200.176.0/24",
+    "phone": "tel:+212-600-602665"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

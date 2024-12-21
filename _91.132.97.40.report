@@ -1,0 +1,42 @@
+{
+  "ip": "91.132.97.40",
+  "city": "Kazan",
+  "region": "Tatarstan Republic",
+  "country": "RU",
+  "loc": "55.7887,49.1221",
+  "postal": "422525",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS34887",
+    "name": "Information Technology Center of the Republic of Tatarstan GUP",
+    "domain": "tatar.ru",
+    "route": "91.132.97.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "Center of Information Technology RT additional allocation",
+    "domain": "tatarstan.ru",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Center of Information Technologies of Republic Tatarstan GUP, 420107, Kazan, RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "net@tatar.ru",
+    "name": "Abuse-C Role",
+    "network": "91.132.96.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

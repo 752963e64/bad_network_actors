@@ -1,0 +1,42 @@
+{
+  "ip": "45.188.200.26",
+  "hostname": "minhaconexao.conectectelecom.com.br",
+  "city": "São Luís",
+  "region": "Maranhão",
+  "country": "BR",
+  "loc": "-2.5297,-44.3028",
+  "postal": "65000-000",
+  "timezone": "America/Fortaleza",
+  "asn": {
+    "asn": "AS269538",
+    "name": "CONECTEC NET LTDA",
+    "domain": "conectectelecom.com.br",
+    "route": "45.188.200.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CONECTEC NET LTDA",
+    "domain": "conectectelecom.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "conectecfinanceiro@gmail.com",
+    "name": "MANOEL CARLOS MEMORIA DE ANDRADE",
+    "network": "45.188.200.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "ip": "61.185.225.20",
+  "city": "Xi’an",
+  "region": "Shaanxi",
+  "country": "CN",
+  "loc": "34.2583,108.9286",
+  "postal": "710000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4134",
+    "name": "CHINANET-BACKBONE",
+    "domain": "chinatelecom.com.cn",
+    "route": "61.185.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "XI'AN YIYOU NETCLUB",
+    "domain": "xa.sn.cn",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Shaanxi province data communication Bureau, 8# guangde Road west development zone, Xi'an city, Shanxi province 710075",
+    "country": "CN",
+    "email": "IPADM@PUBLIC.XA.SN.CN",
+    "name": "Xianghong Cao",
+    "network": "61.185.225.16/29",
+    "phone": "+8629-837-1049"
+  },
+  "domains": {
+    "ip": "61.185.225.20",
+    "total": 1,
+    "domains": [
+      "inddigo.ai"
+    ]
+  }
+}

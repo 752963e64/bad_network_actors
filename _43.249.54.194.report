@@ -1,0 +1,43 @@
+{
+  "ip": "43.249.54.194",
+  "hostname": "194.54.249.43-gigantic.gtel.in",
+  "city": "Bahādurgarh",
+  "region": "Haryana",
+  "country": "IN",
+  "loc": "28.6929,76.9356",
+  "postal": "124505",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS133275",
+    "name": "Gigantic Infotel Pvt Ltd",
+    "domain": "gtel.in",
+    "route": "43.249.54.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Gigantic Network Solution",
+    "domain": "gtel.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "507, 5th Floor Plot No C-1/3 Laxmi Tower, Nani Wala Bagh Complex Azadpur",
+    "country": "IN",
+    "email": "amit@gtel.in",
+    "name": "Manger Noc",
+    "network": "43.249.52.0/22",
+    "phone": "+91 8860606963"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

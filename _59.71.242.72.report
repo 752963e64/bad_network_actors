@@ -1,0 +1,42 @@
+{
+  "ip": "59.71.242.72",
+  "city": "Shanghai",
+  "region": "Shanghai",
+  "country": "CN",
+  "loc": "31.2222,121.4581",
+  "postal": "200000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4538",
+    "name": "China Education and Research Network Center",
+    "domain": "cernet.edu.cn",
+    "route": "59.71.128.0/17",
+    "type": "education"
+  },
+  "company": {
+    "name": "China Education and Research Network",
+    "domain": "cernet.edu.cn",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Network Research Center,, Main Bldg, Tsinghua Univ, Beijing 100084, China",
+    "country": "CN",
+    "email": "abuse@cernet.edu.cn",
+    "name": "ABUSE CERNETAP",
+    "network": "59.68.0.0/14",
+    "phone": "+86-10-62784301"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

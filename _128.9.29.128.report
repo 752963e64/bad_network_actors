@@ -1,0 +1,43 @@
+{
+  "ip": "128.9.29.128",
+  "hostname": "pinger-w1.ant.isi.edu",
+  "city": "Palmdale",
+  "region": "California",
+  "country": "US",
+  "loc": "34.5794,-118.1165",
+  "postal": "93590",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS4",
+    "name": "University of Southern California",
+    "domain": "usc.edu",
+    "route": "128.9.28.0/23",
+    "type": "education"
+  },
+  "company": {
+    "name": "University of Southern California",
+    "domain": "usc.edu",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Marina del Rey, 4676 Admiralty Way, Suite 1001, 90292",
+    "country": "US",
+    "email": "action@isi.edu",
+    "name": "IPC Computing Services",
+    "network": "128.9.0.0/16",
+    "phone": "+1-310-448-8289"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

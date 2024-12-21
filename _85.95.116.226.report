@@ -1,0 +1,42 @@
+{
+  "ip": "85.95.116.226",
+  "city": "Oxford",
+  "region": "England",
+  "country": "GB",
+  "loc": "51.7522,-1.2560",
+  "postal": "OX1",
+  "timezone": "Europe/London",
+  "asn": {
+    "asn": "AS21267",
+    "name": "Wavenet Limited",
+    "domain": "wavenet.co.uk",
+    "route": "85.95.96.0/19",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Wavenet Limited",
+    "domain": "wavenet.co.uk",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "One Central Boulevard, Blythe Valley Business Park, Solihull, B90 8BG",
+    "country": "GB",
+    "email": "abuse@wavenet.co.uk",
+    "name": "WAVENET ABUSE",
+    "network": "85.95.96.0/19",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "147.158.169.45",
+  "city": "Kuala Lumpur",
+  "region": "Kuala Lumpur",
+  "country": "MY",
+  "loc": "3.1412,101.6865",
+  "postal": "50050",
+  "timezone": "Asia/Kuala_Lumpur",
+  "asn": {
+    "asn": "AS4788",
+    "name": "TM TECHNOLOGY SERVICES SDN. BHD.",
+    "domain": "tm.com.my",
+    "route": "147.158.160.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TM TECHNOLOGY SERVICES SDN. BHD.",
+    "domain": "tm.com.my",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "country": "MY",
+    "email": "abuse@tm.com.my",
+    "name": "ABUSE MYWEBE",
+    "network": "147.158.0.0/16",
+    "phone": "+601110001000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

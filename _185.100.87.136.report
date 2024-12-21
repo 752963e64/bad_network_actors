@@ -1,0 +1,42 @@
+{
+  "ip": "185.100.87.136",
+  "city": "Bucharest",
+  "region": "București",
+  "country": "RO",
+  "loc": "44.4323,26.1063",
+  "postal": "050011",
+  "timezone": "Europe/Bucharest",
+  "asn": {
+    "asn": "AS200651",
+    "name": "FlokiNET ehf",
+    "domain": "flokinet.is",
+    "route": "185.100.87.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "FlokiNET Ltd",
+    "domain": "flokinet.is",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": true,
+    "relay": false,
+    "hosting": true,
+    "service": "ProtonVPN"
+  },
+  "abuse": {
+    "address": "ICELAND, Reykjavík, 101, Austurstræti 12a",
+    "country": "IS",
+    "email": "abuse@flokinet.is",
+    "name": "FlokiNET Ltd",
+    "network": "185.100.87.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "ip": "89.113.145.16",
+  "city": "Moscow",
+  "region": "Moscow",
+  "country": "RU",
+  "loc": "55.7522,37.6156",
+  "postal": "101000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS16345",
+    "name": "PJSC \"Vimpelcom\"",
+    "domain": "co.ru",
+    "route": "89.113.144.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PJSC Vimpelcom",
+    "domain": "sovintel.ru",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Beeline",
+    "mcc": "250",
+    "mnc": "99"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "111250 Russia Moscow, Krasnokazarmennaya, 12",
+    "country": "RU",
+    "email": "abuse-b2b@beeline.ru",
+    "name": "Sovintel Abuse Department",
+    "network": "89.112.0.0/15",
+    "phone": "+7 495 7871000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

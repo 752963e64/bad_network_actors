@@ -1,0 +1,42 @@
+{
+  "ip": "46.28.27.207",
+  "city": "Saint-Vincent",
+  "region": "Aosta Valley",
+  "country": "IT",
+  "loc": "45.7508,7.6482",
+  "postal": "11027",
+  "timezone": "Europe/Rome",
+  "asn": {
+    "asn": "AS51300",
+    "name": "Telecomunicazioni digitali Fastalp S.R.L.",
+    "domain": "fastalp.it",
+    "route": "46.28.27.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Fastalp S.r.l",
+    "domain": "fastalp.it",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "telecomunicazioni digitali fastalp giulio valzolgher via c viola, 78 11026 pont saint martin",
+    "country": "MF",
+    "email": "abuse-contact@fastalp.it",
+    "name": "Abuse-C Role",
+    "network": "46.28.27.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "61.119.231.23",
+  "hostname": "p2162023-ipngn6101akatuka.ibaraki.ocn.ne.jp",
+  "city": "Mito",
+  "region": "Ibaraki",
+  "country": "JP",
+  "loc": "36.3500,140.4500",
+  "postal": "309-1455",
+  "timezone": "Asia/Tokyo",
+  "asn": {
+    "asn": "AS4713",
+    "name": "NTT Communications Corporation",
+    "domain": "ntt.com",
+    "route": "61.118.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Open Computer Network",
+    "domain": "ocn.ne.jp",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",
+    "country": "JP",
+    "email": "hostmaster@nic.ad.jp",
+    "name": "Japan Network Information Center",
+    "network": "61.112.0.0/12",
+    "phone": "+81-3-5297-2311"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

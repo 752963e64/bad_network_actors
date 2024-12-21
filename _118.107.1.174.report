@@ -1,0 +1,48 @@
+{
+  "ip": "118.107.1.174",
+  "city": "Hong Kong",
+  "region": "Hong Kong",
+  "country": "HK",
+  "loc": "22.2783,114.1747",
+  "postal": "999077",
+  "timezone": "Asia/Hong_Kong",
+  "asn": {
+    "asn": "AS152194",
+    "name": "CTG Server Limited",
+    "domain": "ctgserver.net",
+    "route": "118.107.1.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "CTG Server Ltd.",
+    "domain": "ctgserver.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "202 ,2/F Kam Sang BLDG 257,Des Voeux RD Central Hong Kong",
+    "country": "HK",
+    "email": "cs.mail@ctgserver.com",
+    "name": "ABUSE CTGHK",
+    "network": "118.107.0.0/21",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "ip": "118.107.1.174",
+    "total": 22,
+    "domains": [
+      "lovely1212tv.com",
+      "daeducku.com",
+      "akasiatv.com",
+      "puradsgo.cn",
+      "rojtv9.com"
+    ]
+  }
+}

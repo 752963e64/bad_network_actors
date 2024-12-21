@@ -1,0 +1,41 @@
+{
+  "ip": "79.124.8.106",
+  "city": "Kerkrade",
+  "region": "Limburg",
+  "country": "NL",
+  "loc": "50.8658,6.0625",
+  "postal": "6461",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS208046",
+    "name": "ColocationX Ltd.",
+    "domain": "colocationx.com",
+    "route": "79.124.8.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "ColocationX Ltd.",
+    "domain": "colocationx.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Kingsfordweg 151, 1043 GR Amsterdam, Netherlands",
+    "country": "NL",
+    "email": "abuse@colocationx.com",
+    "name": "ColocationX Ltd.",
+    "network": "79.124.8.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

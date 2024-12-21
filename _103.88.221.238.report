@@ -1,0 +1,43 @@
+{
+  "ip": "103.88.221.238",
+  "hostname": "103.88.221.238.cust.vnpl.co.in",
+  "city": "Thāne",
+  "region": "Maharashtra",
+  "country": "IN",
+  "loc": "19.1970,72.9635",
+  "postal": "400601",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS136334",
+    "name": "Vortex Netsol Private Limited",
+    "domain": "vortexnetsol.com",
+    "route": "103.88.221.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Vortex Netsol Private Limited",
+    "domain": "vortexnetsol.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Shop No. 2, Ground Floor, Mandor Heights, Plot No. 153, Jawahar Nagar, Goregaon West.,Mumbai,Maharashtra-400104",
+    "country": "IN",
+    "email": "vineet@vortexnetsol.com",
+    "name": "Managing Director",
+    "network": "103.88.220.0/22",
+    "phone": "+91 02228789966"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

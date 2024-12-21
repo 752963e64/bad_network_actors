@@ -1,0 +1,42 @@
+{
+  "ip": "81.196.70.221",
+  "city": "Bistriţa",
+  "region": "Bistrița-Năsăud County",
+  "country": "RO",
+  "loc": "47.1332,24.5001",
+  "postal": "420008",
+  "timezone": "Europe/Bucharest",
+  "asn": {
+    "asn": "AS8708",
+    "name": "DIGI ROMANIA S.A.",
+    "domain": "digi.ro",
+    "route": "81.196.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "RCS & RDS Residential CGN",
+    "domain": "digi.ro",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "71-75 Dr. Staicovici, Bucharest / ROMANIA",
+    "country": "RO",
+    "email": "abuse@rcs-rds.ro",
+    "name": "RCS & RDS NOC",
+    "network": "81.196.70.192/26",
+    "phone": "+40 21 30 10 888"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ip": "43.225.109.30",
+  "hostname": "43.225.109.30.rdns.icorehosting.com",
+  "city": "Sepang",
+  "region": "Selangor",
+  "country": "MY",
+  "loc": "2.6931,101.7498",
+  "postal": "43900",
+  "timezone": "Asia/Kuala_Lumpur",
+  "asn": {
+    "asn": "AS132198",
+    "name": "iCore Technology Sdn Bhd",
+    "domain": "icore.com.my",
+    "route": "43.225.109.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "ICORE TECHNOLOGY SDN BHD",
+    "domain": "icore.com.my",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Suite 33-01, 33rd Floor, Menara Keck Seng, 203, Jalan Bukit Bintang,, 55100, Kuala Lumpur,",
+    "country": "MY",
+    "email": "admin@icore.com.my",
+    "name": "ABUSE ICOREMY",
+    "network": "43.225.109.0/24",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "ip": "43.225.109.30",
+    "total": 1,
+    "domains": [
+      "namastedelights.com"
+    ]
+  }
+}

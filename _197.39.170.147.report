@@ -1,0 +1,41 @@
+{
+  "ip": "197.39.170.147",
+  "hostname": "host-197.39.170.147.tedata.net",
+  "city": "Giza",
+  "region": "Giza",
+  "country": "EG",
+  "loc": "30.0094,31.2086",
+  "timezone": "Africa/Cairo",
+  "asn": {
+    "asn": "AS8452",
+    "name": "TE-AS",
+    "domain": "te.eg",
+    "route": "197.39.160.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TE Data",
+    "domain": "tedata.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TE Data, Smart Village, Building A11-B90, Alex Desert Road,, 28 Km, 6th October 12577, Giza, Egypt",
+    "country": "EG",
+    "email": "abuse@te.eg",
+    "name": "TE Data Contact Role",
+    "network": "197.39.0.0/16",
+    "phone": "tel:+20-2-3320700"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

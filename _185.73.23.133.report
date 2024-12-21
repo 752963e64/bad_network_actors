@@ -1,0 +1,43 @@
+{
+  "ip": "185.73.23.133",
+  "hostname": "ports-measurements.softsec.ruhr-uni-bochum.de",
+  "city": "Bochum",
+  "region": "North Rhine-Westphalia",
+  "country": "DE",
+  "loc": "51.4817,7.2165",
+  "postal": "44787",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS29484",
+    "name": "Ruhr-Universitaet Bochum",
+    "domain": "ruhr-uni-bochum.de",
+    "route": "185.73.23.0/24",
+    "type": "education"
+  },
+  "company": {
+    "name": "Ruhr-Universitaet Bochum",
+    "domain": "ruhr-uni-bochum.de",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ruhr-Universitaet Bochum, Universitaetsstrasse 150, D-44780 Bochum, Germany",
+    "country": "DE",
+    "email": "abuse@rub.de",
+    "name": "RUB Network Operation Center",
+    "network": "185.73.23.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

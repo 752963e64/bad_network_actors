@@ -1,0 +1,43 @@
+{
+  "ip": "187.33.45.126",
+  "hostname": "187-33-45-126.static.algartelecom.com.br",
+  "city": "São Paulo",
+  "region": "São Paulo",
+  "country": "BR",
+  "loc": "-23.5475,-46.6361",
+  "postal": "01000-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS28226",
+    "name": "Vogel Soluções em Telecom e Informática S/A",
+    "domain": "algartelecom.com.br",
+    "route": "187.33.32.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Vogel Soluções em Telecom e Informática S/A",
+    "domain": "algartelecom.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse@algartelecom.com.br",
+    "name": "Computer Security Incident Response Team",
+    "network": "187.33.32.0/20",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "178.120.248.180",
+  "hostname": "mm-180-248-120-178.grodno.dynamic.pppoe.byfly.by",
+  "city": "Lida",
+  "region": "Grodnenskaya",
+  "country": "BY",
+  "loc": "53.8833,25.2997",
+  "postal": "231300",
+  "timezone": "Europe/Minsk",
+  "asn": {
+    "asn": "AS6697",
+    "name": "Republican Unitary Telecommunication Enterprise Beltelecom",
+    "domain": "beltelecom.by",
+    "route": "178.120.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "BELTELECOM",
+    "domain": "beltelecom.by",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Grodno Branch, 29, K.Marks str., Republic of Belarus",
+    "country": "BY",
+    "email": "abuse@grodno.by",
+    "name": "Beltelecom Grodno Admins",
+    "network": "178.120.192.0/18",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

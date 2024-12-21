@@ -1,0 +1,43 @@
+{
+  "ip": "84.178.86.119",
+  "hostname": "p54b25677.dip0.t-ipconnect.de",
+  "city": "Peine",
+  "region": "Lower Saxony",
+  "country": "DE",
+  "loc": "52.3193,10.2352",
+  "postal": "31224",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS3320",
+    "name": "Deutsche Telekom AG",
+    "domain": "telekom.de",
+    "route": "84.128.0.0/10",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Deutsche Telekom AG",
+    "domain": "telekom.de",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Deutsche Telekom AG",
+    "country": "DE",
+    "email": "abuse@telekom.de",
+    "name": "Deutsche Telekom AG",
+    "network": "84.136.0.0-84.191.255.255",
+    "phone": "+49 180 2 33 1000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

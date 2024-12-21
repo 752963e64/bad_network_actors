@@ -1,0 +1,42 @@
+{
+  "ip": "110.44.97.113",
+  "city": "Kalyān",
+  "region": "Maharashtra",
+  "country": "IN",
+  "loc": "19.2437,73.1355",
+  "postal": "412205",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS45117",
+    "name": "Ishan's Network",
+    "domain": "ishanitech.biz",
+    "route": "110.44.97.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Asia Pacific Network Information Centre",
+    "domain": "apnic.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "315/6 Shivam Complex, Opp. Jagnath Temple, Dr. Yagnik Road",
+    "country": "IN",
+    "email": "reportabuse@ishanitech.biz",
+    "name": "IP Admin",
+    "network": "110.44.96.0/22",
+    "phone": "+91-2816647426"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

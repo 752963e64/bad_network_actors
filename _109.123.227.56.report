@@ -1,0 +1,43 @@
+{
+  "ip": "109.123.227.56",
+  "hostname": "vmi2319788.contaboserver.net",
+  "city": "Sydney",
+  "region": "New South Wales",
+  "country": "AU",
+  "loc": "-33.8678,151.2073",
+  "postal": "1001",
+  "timezone": "Australia/Sydney",
+  "asn": {
+    "asn": "AS141995",
+    "name": "Contabo Asia Private Limited",
+    "domain": "contabo.com",
+    "route": "109.123.227.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Contabo GmbH",
+    "domain": "contabo.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Contabo GmbH, Aschauer Str. 32a, 81549 Muenchen, Germany",
+    "country": "DE",
+    "email": "abuse@contabo.de",
+    "name": "Contabo GmbH",
+    "network": "109.123.227.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

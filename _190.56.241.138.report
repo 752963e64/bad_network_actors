@@ -1,0 +1,43 @@
+{
+  "ip": "190.56.241.138",
+  "hostname": "138.241.56.190.static.intelnet.net.gt",
+  "city": "Guatemala City",
+  "region": "Guatemala",
+  "country": "GT",
+  "loc": "14.6407,-90.5133",
+  "postal": "01001",
+  "timezone": "America/Guatemala",
+  "asn": {
+    "asn": "AS14754",
+    "name": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+    "domain": "claro.com.gt",
+    "route": "190.56.192.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TECNO REFRI SUCURSAL",
+    "domain": "claro.com.gt",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Diagonal 15, Avenida la castellana 38-40 zona 8, Edificio Torre Telgua., na,, 01008 - Guatemala -",
+    "country": "GT",
+    "email": "gestion.seguridad@claro.com.gt",
+    "name": "Claro Guatemala",
+    "network": "190.56.241.136/29",
+    "phone": "+502  24217633"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

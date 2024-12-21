@@ -1,0 +1,42 @@
+{
+  "ip": "186.117.128.86",
+  "city": "Ibagué",
+  "region": "Tolima Department",
+  "country": "CO",
+  "loc": "4.4389,-75.2322",
+  "postal": "730001",
+  "timezone": "America/Bogota",
+  "asn": {
+    "asn": "AS3816",
+    "name": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+    "domain": "movistar.com.co",
+    "route": "186.117.128.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "MOVCORP_0943",
+    "domain": "telecom.com.co",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Transversal 60, 114 A, 55, 571111 - BOGOTA DC - CU",
+    "country": "CO",
+    "email": "admin.internet@telecom.com.co",
+    "name": "Grupo de Administradores Internet",
+    "network": "186.117.128.80/29",
+    "phone": "+57 1 7050000 [74106]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

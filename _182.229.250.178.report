@@ -1,0 +1,42 @@
+{
+  "ip": "182.229.250.178",
+  "city": "Incheon",
+  "region": "Incheon",
+  "country": "KR",
+  "loc": "37.4565,126.7052",
+  "postal": "21505",
+  "timezone": "Asia/Seoul",
+  "asn": {
+    "asn": "AS17858",
+    "name": "LG POWERCOMM",
+    "domain": "lguplus.co.kr",
+    "route": "182.228.0.0/14",
+    "type": "business"
+  },
+  "company": {
+    "name": "LG POWERCOMM",
+    "domain": "lguplus.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Jeollanam-do Naju-si Jinheung-gil",
+    "country": "KR",
+    "email": "irt@nic.or.kr",
+    "name": "IP Manager",
+    "network": "182.208.0.0-182.231.255.255",
+    "phone": "+82-2-1-01"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

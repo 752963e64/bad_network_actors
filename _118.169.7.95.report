@@ -1,0 +1,41 @@
+{
+  "ip": "118.169.7.95",
+  "hostname": "118-169-7-95.dynamic-ip.hinet.net",
+  "city": "Taipei",
+  "region": "Taiwan",
+  "country": "TW",
+  "loc": "25.0531,121.5264",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS3462",
+    "name": "Data Communication Business Group",
+    "domain": "hinet.net",
+    "route": "118.169.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Chunghwa Telecom Co.,Ltd.",
+    "domain": "cht.com.tw",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Taipei Taiwan",
+    "country": "TW",
+    "email": "network-adm@hinet.net",
+    "name": "HINET",
+    "network": "118.169.0.0/16",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "177.36.191.74",
+  "hostname": "177-36-191-74.gegnet.com.br",
+  "city": "Rio do Sul",
+  "region": "Santa Catarina",
+  "country": "BR",
+  "loc": "-27.2142,-49.6431",
+  "postal": "89160-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS53062",
+    "name": "ALT|GGNET TELECOM BACKBONE",
+    "domain": "alt.com.br",
+    "route": "177.36.191.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ALT|GGNET TELECOM BACKBONE",
+    "domain": "gegnet.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse@as53062.net.br",
+    "name": "ABUSE GGNET TELECOM BACKBONE",
+    "network": "177.36.176.0/20",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

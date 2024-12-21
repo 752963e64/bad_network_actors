@@ -1,0 +1,42 @@
+{
+  "ip": "182.59.176.128",
+  "city": "Mumbai",
+  "region": "Maharashtra",
+  "country": "IN",
+  "loc": "19.0728,72.8826",
+  "postal": "400017",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS17813",
+    "name": "Mahanagar Telephone Nigam Limited",
+    "domain": "bol.net.in",
+    "route": "182.59.128.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Mahanagar Telephone Nigam Limited",
+    "domain": "mtnl.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Jeevan Bharati Building, Tower 1, 12th Floor, 124, Connaught Circus, New Delhi",
+    "country": "IN",
+    "email": "abusemtnl@bol.net.in",
+    "name": "Amarjeetkaur Bedi",
+    "network": "182.56.0.0/14",
+    "phone": "+91 01124325185"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

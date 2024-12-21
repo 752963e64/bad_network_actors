@@ -1,0 +1,42 @@
+{
+  "ip": "212.64.199.249",
+  "city": "Istanbul",
+  "region": "Istanbul",
+  "country": "TR",
+  "loc": "41.0138,28.9497",
+  "postal": "34096",
+  "timezone": "Europe/Istanbul",
+  "asn": {
+    "asn": "AS197450",
+    "name": "SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI",
+    "domain": "sunucun.com.tr",
+    "route": "212.64.199.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "SUNUCUN BILGI ILETSIM TEKNOLOJILER? VE TICARET LIMITED SIRKETI",
+    "domain": "sunucun.com.tr",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "MASLAK MAH. AOS 55. SK. 42 MASLAK B BLOK SITESI NO: 4 IC KAPI NO: 542 SARIYER / ?STANBUL",
+    "country": "TR",
+    "email": "info@sunucun.com.tr",
+    "name": "Abuse contact role object",
+    "network": "212.64.199.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "203.190.246.97",
+  "city": "Bekasi",
+  "region": "West Java",
+  "country": "ID",
+  "loc": "-6.2349,106.9896",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS24211",
+    "name": "PT. Detik Ini JUga",
+    "domain": "detikinijuga.net.id",
+    "route": "203.190.246.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PT. Detik Ini Juga",
+    "domain": "detik.net.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT Detik Ini Juga, Jakarta Selatan",
+    "country": "ID",
+    "email": "abuse@detik.net.id",
+    "name": "Sarwani Dwinanto",
+    "network": "203.190.246.1-203.190.246.254",
+    "phone": "+62-21-79187722"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

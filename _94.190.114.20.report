@@ -1,0 +1,43 @@
+{
+  "ip": "94.190.114.20",
+  "hostname": "20.114.190.94.interra.ru",
+  "city": "Revda",
+  "region": "Sverdlovsk Oblast",
+  "country": "RU",
+  "loc": "56.8024,59.9377",
+  "postal": "623280",
+  "timezone": "Asia/Yekaterinburg",
+  "asn": {
+    "asn": "AS48524",
+    "name": "INTERRA telecommunications group, Ltd.",
+    "domain": "interra.ru",
+    "route": "94.190.112.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "VPN (PPPoE) and non-VPN customers Sverdlovsk reg. Interra Ltd.",
+    "domain": "interra.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "INTERRA telecommunications group, Ltd. Vitaly Listratkin 24 Trubnikov str 623100 Pervouralsk RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "noc@interra.ru",
+    "name": "Abuse-C Role",
+    "network": "94.190.113.0-94.190.127.255",
+    "phone": "+73439251343"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

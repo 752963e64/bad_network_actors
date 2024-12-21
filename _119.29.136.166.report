@@ -1,0 +1,42 @@
+{
+  "ip": "119.29.136.166",
+  "city": "Guangzhou",
+  "region": "Guangdong",
+  "country": "CN",
+  "loc": "23.1167,113.2500",
+  "postal": "510000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS45090",
+    "name": "Shenzhen Tencent Computer Systems Company Limited",
+    "domain": "tencent.com",
+    "route": "119.29.136.0/23",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Tencent cloud computing (Beijing) Co., Ltd.",
+    "domain": "tencent.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Beijing, China",
+    "country": "CN",
+    "email": "ipas@cnnic.cn",
+    "name": "ABUSE CNNICCN",
+    "network": "119.28.0.0/15",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

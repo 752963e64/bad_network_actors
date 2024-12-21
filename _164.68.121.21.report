@@ -1,0 +1,42 @@
+{
+  "ip": "164.68.121.21",
+  "hostname": "vmd112118.contaboserver.net",
+  "city": "Nürnberg",
+  "region": "Bavaria",
+  "country": "DE",
+  "loc": "49.4075,11.1649",
+  "postal": "90475",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS51167",
+    "name": "Contabo GmbH",
+    "domain": "contabo.com",
+    "route": "164.68.120.0/23",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Contabo GmbH",
+    "domain": "contabo.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Contabo GmbH, Aschauer Str. 32a, 81549 Muenchen, Germany",
+    "country": "DE",
+    "email": "abuse@contabo.de",
+    "name": "Contabo GmbH",
+    "network": "164.68.112.0/20",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

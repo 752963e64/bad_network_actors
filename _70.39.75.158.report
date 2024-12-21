@@ -1,0 +1,42 @@
+{
+  "ip": "70.39.75.158",
+  "city": "Denver",
+  "region": "Colorado",
+  "country": "US",
+  "loc": "39.7392,-104.9847",
+  "postal": "80203",
+  "timezone": "America/Denver",
+  "asn": {
+    "asn": "AS46844",
+    "name": "Sharktech",
+    "domain": "sharktech.net",
+    "route": "70.39.75.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Sharktech",
+    "domain": "sharktech.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, NV, Las Vegas, 8560 S. Eastern Ave Ste 210, 89123",
+    "country": "US",
+    "email": "abuse@sharktech.net",
+    "name": "ABUSE Department",
+    "network": "70.39.64.0/18",
+    "phone": "+1-844-706-7383"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

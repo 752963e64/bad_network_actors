@@ -1,0 +1,42 @@
+{
+  "ip": "72.46.130.218",
+  "city": "Las Vegas",
+  "region": "Nevada",
+  "country": "US",
+  "loc": "36.1008,-115.1365",
+  "postal": "89119",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS36114",
+    "name": "VegasNAP, LLC",
+    "domain": "fiberhub.com",
+    "route": "72.46.128.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Versaweb",
+    "domain": "versaweb.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, NV, Las Vegas, 1110 Palms Airport Dr, Suite 110, 89119",
+    "country": "US",
+    "email": "abusereports@fiberhub.com",
+    "name": "Abuse",
+    "network": "72.46.130.216/30",
+    "phone": "+1-702-487-3838"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

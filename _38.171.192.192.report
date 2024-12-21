@@ -1,0 +1,40 @@
+{
+  "ip": "38.171.192.192",
+  "city": "Maracaibo",
+  "region": "Zulia",
+  "country": "VE",
+  "loc": "10.6666,-71.6124",
+  "timezone": "America/Caracas",
+  "asn": {
+    "asn": "AS61461",
+    "name": "Airtek Solutions C.A.",
+    "domain": "airtekinternet.com",
+    "route": "38.171.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Corporacion Matrix TV, C.A. (Airtek)",
+    "domain": "airtek.com.ve",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "VE, Zulia, Maracaibo, Av. 4 Bella Vista entre calles 68 y 69, 4001",
+    "country": "VE",
+    "email": "abuse@airtek.com.ve",
+    "name": "Abuse",
+    "network": "38.171.0.0/16",
+    "phone": "+58 4126457816"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

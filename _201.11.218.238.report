@@ -1,0 +1,43 @@
+{
+  "ip": "201.11.218.238",
+  "hostname": "201-11-218-238.user3p.v-tal.net.br",
+  "city": "Passo Fundo",
+  "region": "Rio Grande do Sul",
+  "country": "BR",
+  "loc": "-28.2628,-52.4067",
+  "postal": "99000-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS8167",
+    "name": "V tal",
+    "domain": "vtal.com",
+    "route": "201.11.192.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "V tal",
+    "domain": "v-tal.net.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse@vtal.com",
+    "name": "Seguran�a da Informa��o Vtal",
+    "network": "201.11.0.0/16",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

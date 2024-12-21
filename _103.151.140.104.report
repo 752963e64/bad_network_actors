@@ -1,0 +1,43 @@
+{
+  "ip": "103.151.140.104",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.2146,106.8451",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS140417",
+    "name": "PT Indotechno Digital Komputasi",
+    "domain": "indotechno.co.id",
+    "route": "103.151.140.0/23",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "PT Indotechno Digital Komputasi",
+    "domain": "indotechno.co.id",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT Indotechno Digital Komputasi, Kitren KG2, Kotagede, Yogyakarta 55172, Daerah Istimewa Yogyakarta",
+    "country": "ID",
+    "email": "support@indotechno.co.id",
+    "name": "Hardianto Nugroho",
+    "network": "103.151.140.0/23",
+    "phone": "+62-813-28034685"
+  },
+  "domains": {
+    "ip": "103.151.140.104",
+    "total": 1,
+    "domains": [
+      "terrorism.network"
+    ]
+  }
+}

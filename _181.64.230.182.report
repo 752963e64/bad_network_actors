@@ -1,0 +1,42 @@
+{
+  "ip": "181.64.230.182",
+  "city": "Chimbote",
+  "region": "Ancash",
+  "country": "PE",
+  "loc": "-9.0751,-78.5937",
+  "postal": "02801",
+  "timezone": "America/Lima",
+  "asn": {
+    "asn": "AS6147",
+    "name": "Telefonica del Peru S.A.A.",
+    "domain": "telefonica.com.pe",
+    "route": "181.64.224.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PE-TDP-GRS",
+    "domain": "tdp.net.pe",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Calle San Felipe 1144, 1144,, LI34 - Lima - LI",
+    "country": "PE",
+    "email": "tommy.tomaylla@telefonica.com",
+    "name": "Gestion Dir. IP Telefónica del Perú",
+    "network": "181.64.224.0/19",
+    "phone": "+51 1 2106771"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

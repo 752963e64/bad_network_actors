@@ -1,0 +1,42 @@
+{
+  "ip": "76.177.199.143",
+  "hostname": "syn-076-177-199-143.res.spectrum.com",
+  "city": "Zanesville",
+  "region": "Ohio",
+  "country": "US",
+  "loc": "39.9274,-82.0041",
+  "postal": "43701",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS10796",
+    "name": "Charter Communications Inc",
+    "domain": "charter.com",
+    "route": "76.177.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Charter Communications Inc",
+    "domain": "charter.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CO, Greenwood Village, P.O. Box 4987, 80155",
+    "country": "US",
+    "email": "abuse@charter.net",
+    "name": "Abuse",
+    "network": "76.177.0.0/16",
+    "phone": "+1-877-777-2263"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

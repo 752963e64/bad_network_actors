@@ -1,0 +1,42 @@
+{
+  "ip": "103.104.180.194",
+  "city": "Kanpur",
+  "region": "Uttar Pradesh",
+  "country": "IN",
+  "loc": "26.4652,80.3498",
+  "postal": "208008",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS135212",
+    "name": "Digiway Net Pvt Ltd",
+    "domain": "digiwaynet.com",
+    "route": "103.104.180.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Arrowswift Communication Pvt. Ltd",
+    "domain": "arrowswift.in",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Landmark Tower Somdutt Plaza 02 Floor office No.12 The Mall,Kanpur,Uttar Pradesh-208001",
+    "country": "IN",
+    "email": "info@arrowswift.in",
+    "name": "Shahid Mohd",
+    "network": "103.104.180.0/22",
+    "phone": "+91 5122368333"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "ip": "176.113.115.31",
+  "city": "Moscow",
+  "region": "Moscow",
+  "country": "RU",
+  "loc": "55.7522,37.6156",
+  "postal": "101000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS57678",
+    "name": "Cat Technologies Co. Limited",
+    "domain": "cat-tec.com",
+    "route": "176.113.115.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Cat Technologies Co. Limited",
+    "domain": "cat-tec.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "7/F, MW Tower, 111 Bonham Strand, Sheung Wan, Hong Kong",
+    "country": "HK",
+    "email": "abuse@starcrecium.com",
+    "name": "Cat Technologies Co. Limited",
+    "network": "176.113.115.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "176.113.115.31",
+    "total": 21,
+    "domains": [
+      "miguelcantonzetina.com",
+      "streamsbase.com",
+      "alfonso-idealo.org",
+      "sigaioc.org",
+      "africancentralbank.org"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "188.166.58.149",
+  "city": "Amsterdam",
+  "region": "North Holland",
+  "country": "NL",
+  "loc": "52.3740,4.8897",
+  "postal": "1012",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS14061",
+    "name": "DigitalOcean, LLC",
+    "domain": "digitalocean.com",
+    "route": "188.166.0.0/18",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Digital Ocean, Inc.",
+    "domain": "digitalocean.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "TunnelBear"
+  },
+  "abuse": {
+    "address": "DigitalOcean, Inc., 101 Avenue of the Americas, FL2, New York, NY, 10013, United States of America",
+    "country": "US",
+    "email": "abuse@digitalocean.com",
+    "name": "Digital Ocean, Inc.",
+    "network": "188.166.0.0/17",
+    "phone": "+13478756044"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

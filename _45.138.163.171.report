@@ -1,0 +1,42 @@
+{
+  "ip": "45.138.163.171",
+  "city": "Moscow",
+  "region": "Moscow",
+  "country": "RU",
+  "loc": "55.7522,37.6156",
+  "postal": "101000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS50340",
+    "name": "JSC Selectel",
+    "domain": "selectel.com",
+    "route": "45.138.162.0/23",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Selectel Network",
+    "domain": "selectel.ru",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "OOO \"Network of data-centers \"Selectel\", Tsvetochnaya 21, 196006, Saint-Petersburg, RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "abuse@selectel.ru",
+    "name": "Selectel Network",
+    "network": "45.138.163.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

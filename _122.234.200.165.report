@@ -1,0 +1,42 @@
+{
+  "ip": "122.234.200.165",
+  "city": "Ningbo",
+  "region": "Zhejiang",
+  "country": "CN",
+  "loc": "29.8782,121.5494",
+  "postal": "315000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4134",
+    "name": "CHINANET-BACKBONE",
+    "domain": "chinatelecom.com.cn",
+    "route": "122.224.0.0/12",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CHINANET-ZJ Hangzhou node network",
+    "domain": "hz.zj.cn",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No. 257 Qingjiang Road, Hangzhou, Zhejiang.310066",
+    "country": "CN",
+    "email": "antispam@dcb.hz.zj.cn",
+    "name": "CHINANET-ZJ Hangzhou",
+    "network": "122.234.0.0/16",
+    "phone": "+86-571-86821752"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

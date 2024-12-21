@@ -1,0 +1,41 @@
+{
+  "ip": "194.169.175.107",
+  "city": "Vilnius",
+  "region": "Vilnius",
+  "country": "LT",
+  "loc": "54.6892,25.2798",
+  "postal": "01001",
+  "timezone": "Europe/Vilnius",
+  "asn": {
+    "asn": "AS209605",
+    "name": "UAB Host Baltic",
+    "domain": "serveroffer.lt",
+    "route": "194.169.175.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Server Hosting",
+    "domain": "emanuelhosting.info",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "9 Vitoshki Kambani str., Sofia, Bulgaria",
+    "country": "BG",
+    "email": "abuse@neterra.net",
+    "name": "Neterra contacts",
+    "network": "194.169.175.0/24",
+    "phone": "+359 2 975 16 16"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

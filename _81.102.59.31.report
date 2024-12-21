@@ -1,0 +1,43 @@
+{
+  "ip": "81.102.59.31",
+  "hostname": "bsfd-10-b2-v4wan-169822-cust2846.vm17.cable.virginm.net",
+  "city": "Grantham",
+  "region": "England",
+  "country": "GB",
+  "loc": "52.9115,-0.6418",
+  "postal": "NG31",
+  "timezone": "Europe/London",
+  "asn": {
+    "asn": "AS5089",
+    "name": "Virgin Media Limited",
+    "domain": "virginmedia.com",
+    "route": "81.102.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "BISHOPS STORTFORD",
+    "domain": "virginmedia.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Virgin Media, 500 Brook Drive Green Park, Reading, Berkshire, RG2 6UU",
+    "country": "GB",
+    "email": "abuse@virginmedia.com",
+    "name": "Abuse-C Role",
+    "network": "81.102.48.0/20",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

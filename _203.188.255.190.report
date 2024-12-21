@@ -1,0 +1,42 @@
+{
+  "ip": "203.188.255.190",
+  "city": "Dhaka",
+  "region": "Dhaka Division",
+  "country": "BD",
+  "loc": "23.7104,90.4074",
+  "postal": "1000",
+  "timezone": "Asia/Dhaka",
+  "asn": {
+    "asn": "AS9832",
+    "name": "ISN, Internet Service Provider",
+    "domain": "bangla.net",
+    "route": "203.188.255.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Information Services Network",
+    "domain": "bangla.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Information Services Network Ltd, TMC Building (4th) Floor, 52 New Eskaton road, Dhaka",
+    "country": "BD",
+    "email": "faruque@bangla.net",
+    "name": "H M Faruque Ahammad",
+    "network": "203.188.255.0/24",
+    "phone": "+880-2-8322785"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

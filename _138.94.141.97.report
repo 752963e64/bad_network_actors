@@ -1,0 +1,42 @@
+{
+  "ip": "138.94.141.97",
+  "hostname": "97-141-94-138.jobnetworks.com.mx",
+  "city": "Irapuato",
+  "region": "Guanajuato",
+  "country": "MX",
+  "loc": "20.6767,-101.3563",
+  "postal": "36585",
+  "timezone": "America/Mexico_City",
+  "asn": {
+    "asn": "AS28397",
+    "name": "Jobnetworks de México, S.A. de C.V.",
+    "domain": "jobnetworks.com.mx",
+    "route": "138.94.141.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Jobnetworks de México, S.A. de C.V.",
+    "domain": "jobnetworks.com.mx",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PONIENTE 122, 536 A, INDUSTRIAL VALLEJO, 02300 - AZCAPOTZALCO - CX",
+    "country": "MX",
+    "email": "rgar@jobnetworks.com.mx",
+    "name": "Roberto Garnica Gutierrez",
+    "network": "138.94.141.0/24",
+    "phone": "+52  5553683494"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

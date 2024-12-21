@@ -1,0 +1,41 @@
+{
+  "ip": "41.38.14.21",
+  "hostname": "host-41.38.14.21.tedata.net",
+  "city": "Shibīn al Kawm",
+  "region": "Monufia",
+  "country": "EG",
+  "loc": "30.5526,31.0090",
+  "timezone": "Africa/Cairo",
+  "asn": {
+    "asn": "AS8452",
+    "name": "TE-AS",
+    "domain": "te.eg",
+    "route": "41.38.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TE Data",
+    "domain": "tedata.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TE Data, Smart Village, Building A11-B90, Alex Desert Road,, 28 Km, 6th October 12577, Giza, Egypt",
+    "country": "EG",
+    "email": "abuse@te.eg",
+    "name": "TE Data Contact Role",
+    "network": "41.38.0.0/15",
+    "phone": "tel:+20-2-3320700"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

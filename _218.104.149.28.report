@@ -1,0 +1,42 @@
+{
+  "ip": "218.104.149.28",
+  "city": "Ningbo",
+  "region": "Zhejiang",
+  "country": "CN",
+  "loc": "29.8782,121.5494",
+  "postal": "315000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4837",
+    "name": "CHINA UNICOM China169 Backbone",
+    "domain": "chinaunicom.cn",
+    "route": "218.104.144.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "China Unicom Hunan provincial network",
+    "domain": "chinaunicom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.156,Fu-Xing-Men-Nei Street,, Beijing,100031,P.R.China",
+    "country": "CN",
+    "email": "hqs-ipabuse@chinaunicom.cn",
+    "name": "CNCGroup Hostmaster",
+    "network": "218.104.144.0/20",
+    "phone": "+86-10-82993155"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

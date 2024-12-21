@@ -1,0 +1,42 @@
+{
+  "ip": "41.65.68.75",
+  "hostname": "host-75-68.65.41.nile-online.net",
+  "city": "Giza",
+  "region": "Giza",
+  "country": "EG",
+  "loc": "30.0094,31.2086",
+  "timezone": "Africa/Cairo",
+  "asn": {
+    "asn": "AS36992",
+    "name": "ETISALAT MISR",
+    "domain": "etisalat.com.eg",
+    "route": "41.65.68.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Nile Online",
+    "domain": "nile-online.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "B124 Smart Village,, Etisalat Building, Km28, Cairo - Alex Desert Road, P.O.Box 4 Smart Village, Giza Egypt, Cairo, Egypt",
+    "country": "EG",
+    "email": "hossam.sharkas@etisalat.com",
+    "name": "Haitham El Genedy",
+    "network": "41.65.64.0/18",
+    "phone": "tel:+20-2-35381000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

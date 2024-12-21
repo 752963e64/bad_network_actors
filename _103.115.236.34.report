@@ -1,0 +1,42 @@
+{
+  "ip": "103.115.236.34",
+  "city": "Tiruchengode",
+  "region": "Tamil Nadu",
+  "country": "IN",
+  "loc": "11.3802,77.8944",
+  "postal": "637304",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS151164",
+    "name": "Wireline Communication India Private Limited",
+    "domain": "wls.net.in",
+    "route": "103.115.236.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "WIRELINE COMMUNICATION INDIA PRIVATE LIMITED",
+    "domain": "wls.net.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "D NO 44 37 NGR STREET PN PALAYAM,Coimbatore,Tamil Nadu-641044",
+    "country": "IN",
+    "email": "support@wls.net.in",
+    "name": "WIRELINE COMMUNICATION",
+    "network": "103.115.236.0/23",
+    "phone": "+91 9894616054"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

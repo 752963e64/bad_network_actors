@@ -1,0 +1,43 @@
+{
+  "ip": "78.128.112.86",
+  "hostname": "ip-112-86.4vendeta.com",
+  "city": "Samokov",
+  "region": "Sofia",
+  "country": "BG",
+  "loc": "42.3385,23.5581",
+  "postal": "2000",
+  "timezone": "Europe/Sofia",
+  "asn": {
+    "asn": "AS202325",
+    "name": "4Media Ltd.",
+    "domain": "4media.bg",
+    "route": "78.128.112.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Lir.bg EOOD",
+    "domain": "lir.bg",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Sofia, Bulgaria",
+    "country": "BG",
+    "email": "noc@dotdash.live",
+    "name": "WEB NOC MANAGER",
+    "network": "78.128.112.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

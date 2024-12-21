@@ -1,0 +1,42 @@
+{
+  "ip": "92.63.197.210",
+  "city": "Lelystad",
+  "region": "Flevoland",
+  "country": "NL",
+  "loc": "52.5083,5.4750",
+  "postal": "8224",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS210848",
+    "name": "Telkom Internet LTD",
+    "domain": "telkom.io",
+    "route": "92.63.197.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Telkom Internet LTD",
+    "domain": "telkom.io",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Respublika Belarus, 247070, Gomel'skaya oblast', Dobrushskij rajon, gp. Terekhovka, ul. Vokzal'naya, d. 9",
+    "country": "BY",
+    "email": "erishennya.res@gmail.com",
+    "name": "Abuse contact role object",
+    "network": "92.63.197.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

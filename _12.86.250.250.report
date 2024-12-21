@@ -1,0 +1,43 @@
+{
+  "ip": "12.86.250.250",
+  "hostname": "prattindustries.com",
+  "city": "Beloit",
+  "region": "Wisconsin",
+  "country": "US",
+  "loc": "42.5084,-89.0318",
+  "postal": "53512",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS7018",
+    "name": "AT&T Services, Inc.",
+    "domain": "att.com",
+    "route": "12.0.0.0/9",
+    "type": "isp"
+  },
+  "company": {
+    "name": "AT&T Services, Inc.",
+    "domain": "att.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, NC, Durham, 4625 Creekstone Drive, 27703",
+    "country": "US",
+    "email": "abuse@att.net",
+    "name": "ATT Abuse",
+    "network": "12.86.0.0/15",
+    "phone": "+1-999-999-9999"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "46.164.169.220",
+  "hostname": "46-164-169-220.ipv4.datagroup.ua",
+  "city": "Kryvyy Rih",
+  "region": "Dnipropetrovsk",
+  "country": "UA",
+  "loc": "47.9057,33.3940",
+  "postal": "50482",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS3326",
+    "name": "PRIVATE JOINT STOCK COMPANY \"DATAGROUP\"",
+    "domain": "datagroup.ua",
+    "route": "46.164.168.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PJSC DATAGROUP",
+    "domain": "datagroup.ua",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC DATAGROUP, Smolenskaya str., 31-33, 03005 Kiyv, Ukraine",
+    "country": "UA",
+    "email": "abuse@ip.datagroup.ua",
+    "name": "DATACOM NOC",
+    "network": "46.164.168.0/21",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "91.214.223.7",
+  "hostname": "net223-7.teleseti.net",
+  "city": "Tyumen",
+  "region": "Tyumen Oblast",
+  "country": "RU",
+  "loc": "57.1522,65.5272",
+  "postal": "625000",
+  "timezone": "Asia/Yekaterinburg",
+  "asn": {
+    "asn": "AS49551",
+    "name": "Teleseti Ltd",
+    "domain": "teleseti.net",
+    "route": "91.214.222.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Teleseti Ltd",
+    "domain": "teleseti.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "29A Musorgskogo st, Russian Federation, Tyumenskaya oblast, Tyumen",
+    "country": "RU",
+    "email": "inbox@teleseti.net",
+    "name": "TeleSeti Ltd. NOC",
+    "network": "91.214.220.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

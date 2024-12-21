@@ -1,0 +1,43 @@
+{
+  "ip": "185.199.84.140",
+  "hostname": "posta.havel-composites.com",
+  "city": "Štěpánov",
+  "region": "Olomoucký",
+  "country": "CZ",
+  "loc": "49.6840,17.2204",
+  "postal": "783 13",
+  "timezone": "Europe/Prague",
+  "asn": {
+    "asn": "AS205968",
+    "name": "GeneralNet s.r.o.",
+    "domain": "generalnet.cz",
+    "route": "185.199.84.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "GeneralNet s.r.o.",
+    "domain": "generalnet.cz",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Bocni 517, 783 72, Velky Tynec, CZECH REPUBLIC",
+    "country": "CZ",
+    "email": "thorinek@generalnet.cz",
+    "name": "Abuse-C Role",
+    "network": "185.199.84.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

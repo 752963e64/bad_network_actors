@@ -1,0 +1,49 @@
+{
+  "ip": "192.46.222.165",
+  "hostname": "192-46-222-165.ip.linodeusercontent.com",
+  "city": "Toronto",
+  "region": "Ontario",
+  "country": "CA",
+  "loc": "43.7064,-79.3986",
+  "postal": "M5A",
+  "timezone": "America/Toronto",
+  "asn": {
+    "asn": "AS63949",
+    "name": "Akamai Connected Cloud",
+    "domain": "linode.com",
+    "route": "192.46.222.0/23",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Linode, LLC",
+    "domain": "linode.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "249 Arch Street, Philadelphia, PA 19106, USA",
+    "country": "US",
+    "email": "abuse@linode.com",
+    "name": "Linode Abuse Support",
+    "network": "192.46.208.0/20",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "192.46.222.165",
+    "total": 5,
+    "domains": [
+      "signdevwetrans.com",
+      "docwetransprodocplus.com",
+      "fich30102024.pro",
+      "orpoconectdvs.pro",
+      "transt.pro"
+    ]
+  }
+}

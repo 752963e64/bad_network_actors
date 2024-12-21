@@ -1,0 +1,41 @@
+{
+  "ip": "58.146.246.71",
+  "city": "Sokcho",
+  "region": "Gangwon-do",
+  "country": "KR",
+  "loc": "38.2070,128.5918",
+  "postal": "24809",
+  "timezone": "Asia/Seoul",
+  "asn": {
+    "asn": "AS9698",
+    "name": "LG HelloVision Corp.",
+    "domain": "lghellovision.net",
+    "route": "58.146.246.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "LG HelloVision Corp.",
+    "domain": "lghellovision.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Jeollanam-do Naju-si Jinheung-gil",
+    "country": "KR",
+    "email": "irt@nic.or.kr",
+    "name": "IP Manager",
+    "network": "58.146.192.0/18",
+    "phone": "+82-70-7373-1751"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

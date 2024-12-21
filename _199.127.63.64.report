@@ -1,0 +1,42 @@
+{
+  "ip": "199.127.63.64",
+  "city": "Miami",
+  "region": "Florida",
+  "country": "US",
+  "loc": "25.8130,-80.2320",
+  "postal": "33142",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS23470",
+    "name": "ReliableSite.Net LLC",
+    "domain": "reliablesite.net",
+    "route": "199.127.63.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "ReliableSite.Net LLC",
+    "domain": "reliablesite.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, FL, Miami, 2115 NW 22nd St, 33142",
+    "country": "US",
+    "email": "abuse@reliablesite.net",
+    "name": "Abuse Department",
+    "network": "199.127.60.0/22",
+    "phone": "+1-866-932-0001"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

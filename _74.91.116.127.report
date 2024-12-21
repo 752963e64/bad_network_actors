@@ -1,0 +1,42 @@
+{
+  "ip": "74.91.116.127",
+  "hostname": "d-74-91-116-127.ded-machine.premium-nyc.nfoservers.com",
+  "city": "New York City",
+  "region": "New York",
+  "country": "US",
+  "loc": "40.7143,-74.0060",
+  "postal": "10001",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS401263",
+    "name": "Nuclearfallout Enterprises, Inc.",
+    "domain": "nfoservers.com",
+    "route": "74.91.116.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Nuclearfallout Enterprises, Inc.",
+    "domain": "nfoservers.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Los Angeles, 5670 Wilshire Blvd, Ste 1530, 90036",
+    "country": "US",
+    "email": "noc@nfoe.net",
+    "name": "Nuclearfallout NOC",
+    "network": "74.91.116.0/24",
+    "phone": "+1-206-426-5832"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

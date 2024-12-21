@@ -1,0 +1,43 @@
+{
+  "ip": "104.234.224.225",
+  "hostname": "104.234.224.225.logicbusiness.info",
+  "city": "Cotia",
+  "region": "São Paulo",
+  "country": "BR",
+  "loc": "-23.6039,-46.9192",
+  "postal": "06700-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS265919",
+    "name": "BB Host LTDA",
+    "domain": "bbhost.com.br",
+    "route": "104.234.224.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "BB Host",
+    "domain": "bbhost.com.br",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "GB, Hertfordshire, St. Albans, Ground Floor,4 Victoria Square, AL1-3TF",
+    "country": "GB",
+    "email": "abuse@ipxo.com",
+    "name": "IPXO Abuse Management Team",
+    "network": "104.234.224.0/21",
+    "phone": "+1 (650) 934-1667"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "ip": "179.251.65.116",
+  "hostname": "116.65.251.179.isp.timbrasil.com.br",
+  "city": "Salvador",
+  "region": "Bahia",
+  "country": "BR",
+  "loc": "-12.9756,-38.4910",
+  "postal": "40000-000",
+  "timezone": "America/Bahia",
+  "asn": {
+    "asn": "AS26615",
+    "name": "TIM S/A",
+    "domain": "tim.com.br",
+    "route": "179.251.64.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TIM S/A",
+    "domain": "timbrasil.com.br",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "TIM",
+    "mcc": "724",
+    "mnc": "02"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse@timbrasil.com.br",
+    "name": "TIM SOC",
+    "network": "179.248.0.0/14",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

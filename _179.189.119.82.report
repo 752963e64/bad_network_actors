@@ -1,0 +1,42 @@
+{
+  "ip": "179.189.119.82",
+  "hostname": "179.189.119.82.static.ipcarrier.com.br",
+  "city": "Teresina",
+  "region": "Piauí",
+  "country": "BR",
+  "loc": "-5.0892,-42.8019",
+  "postal": "64000-000",
+  "timezone": "America/Fortaleza",
+  "asn": {
+    "asn": "AS263612",
+    "name": "IP CARRIER TELECOM",
+    "domain": "grupoip.net.br",
+    "route": "179.189.119.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "IP CARRIER TELECOM",
+    "domain": "ipcarrier.us",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Avenida das Nações Unidas, 11541, 7º andar, 04578-000 - Icó - CE",
+    "country": "BR",
+    "email": "jpc66@numeracao.registro.br",
+    "name": "J P LOPES DA COSTA",
+    "network": "179.189.112.0/20",
+    "phone": "+55 88 55093511"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

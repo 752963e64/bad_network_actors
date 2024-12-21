@@ -1,0 +1,42 @@
+{
+  "ip": "204.61.221.126",
+  "city": "Houston",
+  "region": "Texas",
+  "country": "US",
+  "loc": "29.7633,-95.3633",
+  "postal": "77002",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS46785",
+    "name": "QUASAR DATA CENTER, LTD.",
+    "domain": "quasardata.com",
+    "route": "204.61.220.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "QUASAR DATA CENTER, LTD.",
+    "domain": "quasardata.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, TX, Houston, 1001 Texas Ave., Suite 310, 77002",
+    "country": "US",
+    "email": "cjones@quasardata.com",
+    "name": "Benjamen Jones",
+    "network": "204.61.221.64/26",
+    "phone": "+1-713-936-0592"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

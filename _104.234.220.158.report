@@ -1,0 +1,43 @@
+{
+  "ip": "104.234.220.158",
+  "hostname": "hosted-by.infraly.co",
+  "city": "Chicago",
+  "region": "Illinois",
+  "country": "US",
+  "loc": "41.8500,-87.6500",
+  "postal": "60666",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS400529",
+    "name": "Infraly, LLC",
+    "domain": "infraly.co",
+    "route": "104.234.220.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Infraly, LLC",
+    "domain": "infraly.co",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, PA, Allentown, 1636 N Cedar Crest Blvd, #122, 18104",
+    "country": "US",
+    "email": "report@infraly.co",
+    "name": "Abuse Department",
+    "network": "104.234.220.0/24",
+    "phone": "+1-833-463-7259"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

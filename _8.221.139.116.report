@@ -1,0 +1,42 @@
+{
+  "ip": "8.221.139.116",
+  "city": "Tokyo",
+  "region": "Tokyo",
+  "country": "JP",
+  "loc": "35.6895,139.6917",
+  "postal": "101-8656",
+  "timezone": "Asia/Tokyo",
+  "asn": {
+    "asn": "AS45102",
+    "name": "Alibaba (US) Technology Co., Ltd.",
+    "domain": "alibabagroup.com",
+    "route": "8.221.128.0/18",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Alibaba Cloud (Singapore) Private Limited",
+    "domain": "alibabacloud.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "1 Raffles Place # 59-00 One Raffles Place, Tower One Singapore, Singapore",
+    "country": "SG",
+    "email": "abuse@alibaba-inc.com",
+    "name": "ABUSE ASEPLSG",
+    "network": "8.208.0.0/12",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

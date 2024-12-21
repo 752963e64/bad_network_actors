@@ -1,0 +1,45 @@
+{
+  "ip": "178.239.168.137",
+  "hostname": "mail.careerhosts.site",
+  "city": "London",
+  "region": "England",
+  "country": "GB",
+  "loc": "51.5085,-0.1257",
+  "postal": "E1W",
+  "timezone": "Europe/London",
+  "asn": {
+    "asn": "AS25369",
+    "name": "Hydra Communications Ltd",
+    "domain": "bandwidth.co.uk",
+    "route": "178.239.160.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Hydra Communications Ltd",
+    "domain": "hydracom.co.uk",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Hydra Communications Ltd, The Enterprise Centre, Earlham Road, Norwich, NR4 7TJ, UNITED KINGDOM",
+    "country": "GB",
+    "email": "abuse@zare.com",
+    "name": "Abuse-C Role",
+    "network": "178.239.160.0/20",
+    "phone": "+448000803330"
+  },
+  "domains": {
+    "ip": "178.239.168.137",
+    "total": 1,
+    "domains": [
+      "careerhosts.site"
+    ]
+  }
+}

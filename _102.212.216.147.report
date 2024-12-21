@@ -1,0 +1,40 @@
+{
+  "ip": "102.212.216.147",
+  "city": "Luanda",
+  "region": "Luanda",
+  "country": "AO",
+  "loc": "-8.8368,13.2343",
+  "timezone": "Africa/Luanda",
+  "asn": {
+    "asn": "AS329270",
+    "name": "EGATE CLOUD SERVICES LDA",
+    "domain": "egatecloud.ao",
+    "route": "102.212.216.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "EGATE CLOUD",
+    "domain": "egatecloud.ao",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Urbanização kk 5.000",
+    "country": "AO",
+    "email": "Jefferson.daciano@egatecloud.ao",
+    "name": "Jefferson Daciano",
+    "network": "102.212.216.0/24",
+    "phone": "tel:+244-924-449-559"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

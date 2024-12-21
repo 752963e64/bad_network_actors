@@ -1,0 +1,42 @@
+{
+  "ip": "103.97.165.15",
+  "city": "Pimpri",
+  "region": "Maharashtra",
+  "country": "IN",
+  "loc": "18.6229,73.8070",
+  "postal": "412303",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS136284",
+    "name": "Paradise Telecom Pvt Ltd",
+    "domain": "paradisetele.com",
+    "route": "103.97.165.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Pearl Solutions",
+    "domain": "oliviadrab.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "D2/1106, Ganga Skies, 11th floor, Vallabh Nagar, Pimpri-18,Pune,Maharashtra-411018",
+    "country": "IN",
+    "email": "pearlsolutions2016@gmail.com",
+    "name": "Bahubali S",
+    "network": "103.97.164.0/22",
+    "phone": "+91 02022986000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "ip": "157.66.5.65",
+  "city": "Surabaya",
+  "region": "East Java",
+  "country": "ID",
+  "loc": "-7.2492,112.7508",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS136863",
+    "name": "PT Era Global Nusindo",
+    "domain": "ergonlink.net",
+    "route": "157.66.4.0/23",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "PT Era Global Nusindo",
+    "domain": "ergonlink.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT. Era Global Nusindo, Ruko Satelite Town Square B27, Jl. Sukomanunggal Jaya 5, Surabaya 60188",
+    "country": "ID",
+    "email": "abuse@ergonlink.net",
+    "name": "Andy Wijaksono",
+    "network": "157.66.4.0/23",
+    "phone": "+6285173362070"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

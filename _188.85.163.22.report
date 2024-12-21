@@ -1,0 +1,42 @@
+{
+  "ip": "188.85.163.22",
+  "hostname": "static-22-163-85-188.ipcom.comunitel.net",
+  "city": "Madrid",
+  "region": "Madrid",
+  "country": "ES",
+  "loc": "40.4165,-3.7026",
+  "postal": "28004",
+  "timezone": "Europe/Madrid",
+  "asn": {
+    "asn": "AS12430",
+    "name": "VODAFONE ESPANA S.A.U.",
+    "domain": "vodafone.es",
+    "route": "188.84.0.0/14",
+    "type": "isp"
+  },
+  "company": {
+    "name": "BALLENOIL SL",
+    "domain": "ballenoil.es",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Vodafone Spain, Avenida de América, 115, 28042, Madrid, Spain",
+    "country": "ES",
+    "email": "abuse@corp.vodafone.es",
+    "name": "VODAFONE ESPANA ROLE",
+    "network": "188.85.163.16/29",
+    "phone": "+34 607133333"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

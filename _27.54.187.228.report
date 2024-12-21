@@ -1,0 +1,42 @@
+{
+  "ip": "27.54.187.228",
+  "city": "Vapi",
+  "region": "Gujarat",
+  "country": "IN",
+  "loc": "20.3717,72.9049",
+  "postal": "396191",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS45117",
+    "name": "Ishan's Network",
+    "domain": "ishanitech.biz",
+    "route": "27.54.187.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Ishan Netsol Pvt Ltd",
+    "domain": "ishanitech.biz",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "315-316 Shivam Complex, Opp. Jagnath Temple, Dr. Yagnik Road, Rajkot",
+    "country": "IN",
+    "email": "reportabuse@ishanitech.biz",
+    "name": "IP Admin",
+    "network": "27.54.187.0/24",
+    "phone": "+91-2816647426"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

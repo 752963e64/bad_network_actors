@@ -1,0 +1,41 @@
+{
+  "ip": "185.177.2.132",
+  "city": "Dushanbe",
+  "region": "Dushanbe",
+  "country": "TJ",
+  "loc": "38.5358,68.7790",
+  "timezone": "Asia/Dushanbe",
+  "asn": {
+    "asn": "AS51346",
+    "name": "Opened Joint Stock Company \"Tojiktelecom\"",
+    "domain": "tojnet.tj",
+    "route": "185.177.2.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Opened Joint Stock Company Tojiktelecom",
+    "domain": "tojnet.tj",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Dzerzhinskogo 2-a, 734025, Dushanbe, TAJIKISTAN",
+    "country": "TJ",
+    "email": "info@tojnet.tj",
+    "name": "Abuse-C Role",
+    "network": "185.177.0.0/22",
+    "phone": "+992372211730"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "45.125.66.35",
+  "hostname": "srv-45-125-66-35.serveroffer.net",
+  "city": "Vilnius",
+  "region": "Vilnius",
+  "country": "LT",
+  "loc": "54.6892,25.2798",
+  "postal": "01001",
+  "timezone": "Europe/Vilnius",
+  "asn": {
+    "asn": "AS133398",
+    "name": "Tele Asia Limited",
+    "domain": "tele-asia.net",
+    "route": "45.125.66.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "HostBaltic Lithuania",
+    "domain": "serveroffer.lt",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Draugystes g. 19, Kaunas, 51230",
+    "country": "LT",
+    "email": "admin@serveroffer.lt",
+    "name": "Host Baltic Abuse",
+    "network": "45.125.66.0/24",
+    "phone": "+37067358624"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

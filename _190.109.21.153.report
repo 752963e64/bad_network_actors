@@ -1,0 +1,42 @@
+{
+  "ip": "190.109.21.153",
+  "city": "Bogotá",
+  "region": "Bogota D.C.",
+  "country": "CO",
+  "loc": "4.6097,-74.0817",
+  "postal": "111411",
+  "timezone": "America/Bogota",
+  "asn": {
+    "asn": "AS262191",
+    "name": "LIBERTY NETWORKS DE COLOMBIA S.A.S",
+    "domain": "cwnetworks.com",
+    "route": "190.109.21.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "DESARROLLADORA CC FONTANAR S A S",
+    "domain": "etb.net.co",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CRA 8, 20, 00, 9999 - Bogotá - CU",
+    "country": "CO",
+    "email": "seguridad@ETB.NET.CO",
+    "name": "EMPRESA DE TELECOMUNICACIONES DE BOGOTA",
+    "network": "190.109.21.152/29",
+    "phone": "+057 01 2426038 [00]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

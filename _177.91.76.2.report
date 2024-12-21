@@ -1,0 +1,43 @@
+{
+  "ip": "177.91.76.2",
+  "hostname": "177.91.76.2.rev.corporativafiber.com.br",
+  "city": "Pouso Alegre",
+  "region": "Minas Gerais",
+  "country": "BR",
+  "loc": "-22.2300,-45.9364",
+  "postal": "37550-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS263432",
+    "name": "CORPORATIVA TELECOMUNICACOES EIRELI ME",
+    "domain": "corporativacarrier.com.br",
+    "route": "177.91.76.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CORPORATIVA TELECOMUNICACOES EIRELI ME",
+    "domain": "corporativafiber.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "noc@corporativa.com.br",
+    "name": "Corporativa Telecomunica��es",
+    "network": "177.91.76.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

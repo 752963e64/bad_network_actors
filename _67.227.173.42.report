@@ -1,0 +1,42 @@
+{
+  "ip": "67.227.173.42",
+  "hostname": "telemetry01.ndgsthreatlab.com",
+  "city": "Waterford",
+  "region": "Michigan",
+  "country": "US",
+  "loc": "42.6930,-83.4118",
+  "postal": "48329",
+  "timezone": "America/Detroit",
+  "asn": {
+    "asn": "AS32244",
+    "name": "Liquid Web, L.L.C",
+    "domain": "liquidweb.com",
+    "route": "67.227.128.0/17",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Liquid Web, L.L.C",
+    "domain": "liquidweb.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, MI, Lansing, 4210 Creyts Rd., 48917",
+    "country": "US",
+    "email": "abuse@liquidweb.com",
+    "name": "Abuse",
+    "network": "67.227.128.0/17",
+    "phone": "+1-800-580-4985"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

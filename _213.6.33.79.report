@@ -1,0 +1,41 @@
+{
+  "ip": "213.6.33.79",
+  "city": "Nablus",
+  "region": "West Bank",
+  "country": "PS",
+  "loc": "32.2211,35.2544",
+  "timezone": "Asia/Hebron",
+  "asn": {
+    "asn": "AS12975",
+    "name": "Palestine Telecommunications Company (PALTEL)",
+    "domain": "paltel.ps",
+    "route": "213.6.0.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Palestine Telecommunications Company (PALTEL)",
+    "domain": "paltel.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Palestine Telecommunications (PALTEL) Khaled Sayeh Rafeedya St. 1570 Nablus PALESTINIAN TERRITORY, OCCUPIED",
+    "country": "PS",
+    "email": "RipeAdmin.TechEng@PaltelGroup.ps",
+    "name": "Abuse-C Role",
+    "network": "213.6.0.0-213.6.51.255",
+    "phone": "+ 970 9 2376225"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

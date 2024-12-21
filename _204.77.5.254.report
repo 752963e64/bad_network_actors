@@ -1,0 +1,41 @@
+{
+  "ip": "204.77.5.254",
+  "city": "Ashburn",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0437,-77.4875",
+  "postal": "20147",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS399244",
+    "name": "AME Hosting LLC",
+    "domain": "bloom.host",
+    "route": "204.77.5.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "AME Hosting LLC",
+    "domain": "bloom.host",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, VA, Herndon, 205 Van Buren Street, Suite 120 #1009, 20170",
+    "country": "US",
+    "email": "abuse@bloom.host",
+    "name": "Abuse",
+    "network": "204.77.4.0/23",
+    "phone": "+1-301-882-5666"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

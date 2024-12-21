@@ -1,0 +1,42 @@
+{
+  "ip": "185.213.174.118",
+  "city": "Dronten",
+  "region": "Flevoland",
+  "country": "NL",
+  "loc": "52.5250,5.7181",
+  "postal": "8251",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS41608",
+    "name": "NextGenWebs, S.L.",
+    "domain": "nextgenwebs.es",
+    "route": "185.213.174.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "NextGenWebs, S.L.",
+    "domain": "nextgenwebs.es",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Plaza Gerardo Salvador 1, 46988, Paterna, SPAIN",
+    "country": "ES",
+    "email": "abuse@nextgenwebs.es",
+    "name": "Abuse-C Role",
+    "network": "185.213.172.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

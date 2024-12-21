@@ -1,0 +1,42 @@
+{
+  "ip": "5.180.19.159",
+  "city": "Krasnodar",
+  "region": "Krasnodar Krai",
+  "country": "RU",
+  "loc": "45.0448,38.9760",
+  "postal": "350000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS210135",
+    "name": "Yug-Telecom-K Ltd.",
+    "domain": "omicron.online",
+    "route": "5.180.19.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Rostov-on-Don",
+    "domain": "omicron.online",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Dolomanovskiy per., d. 126, kv. 253, 344018 Rostov-na-Donu, Russia",
+    "country": "RU",
+    "email": "support@omicron.online",
+    "name": "Yug-Telecom-K LLC",
+    "network": "5.180.19.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

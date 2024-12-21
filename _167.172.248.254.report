@@ -1,0 +1,43 @@
+{
+  "ip": "167.172.248.254",
+  "hostname": "kichirou.casenxu.com",
+  "city": "Clifton",
+  "region": "New Jersey",
+  "country": "US",
+  "loc": "40.8344,-74.1377",
+  "postal": "07014",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS14061",
+    "name": "DigitalOcean, LLC",
+    "domain": "digitalocean.com",
+    "route": "167.172.240.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "DigitalOcean, LLC",
+    "domain": "digitalocean.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "DigitalOcean, Inc., 101 Avenue of the Americas, FL2, New York, NY, 10013, United States of America",
+    "country": "US",
+    "email": "abuse@digitalocean.com",
+    "name": "DigitalOcean, LLC",
+    "network": "167.172.0.0/16",
+    "phone": "+13478756044"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

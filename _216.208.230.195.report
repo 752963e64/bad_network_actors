@@ -1,0 +1,47 @@
+{
+  "ip": "216.208.230.195",
+  "city": "Winnipeg",
+  "region": "Manitoba",
+  "country": "CA",
+  "loc": "49.8844,-97.1470",
+  "postal": "R3B",
+  "timezone": "America/Winnipeg",
+  "asn": {
+    "asn": "AS577",
+    "name": "Bell Canada",
+    "domain": "bell.ca",
+    "route": "216.208.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Bell Canada",
+    "domain": "bell.ca",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Bell Mobility",
+    "mcc": "302",
+    "mnc": "610"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CA, ON, Ottawa, 160 Elgin Street, K1G-3J4",
+    "country": "CA",
+    "email": "abuse@bell.ca",
+    "name": "Abuse Business abuse issues",
+    "network": "216.208.0.0/15",
+    "phone": "+1-877-877-2426"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

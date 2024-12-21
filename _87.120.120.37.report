@@ -1,0 +1,42 @@
+{
+  "ip": "87.120.120.37",
+  "hostname": "server1.mscontabilidades.com",
+  "city": "Lelystad",
+  "region": "Flevoland",
+  "country": "NL",
+  "loc": "52.5083,5.4750",
+  "postal": "8224",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS401109",
+    "name": "Zhongguancun LLC",
+    "domain": "zhongguancun.asia",
+    "route": "87.120.120.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Zhongguanchun LLC",
+    "domain": "zhongguancun.asia",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "202 N Cedar Ave STE",
+    "country": "US",
+    "email": "abuse@zhongguancun.asia",
+    "name": "Abuse contact role object",
+    "network": "87.120.120.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

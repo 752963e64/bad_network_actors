@@ -1,0 +1,42 @@
+{
+  "ip": "114.34.244.28",
+  "hostname": "114-34-244-28.hinet-ip.hinet.net",
+  "city": "Banqiao",
+  "region": "Taipei",
+  "country": "TW",
+  "loc": "25.0143,121.4672",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS3462",
+    "name": "Data Communication Business Group",
+    "domain": "hinet.net",
+    "route": "114.34.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Chunghwa Telecom Co.,Ltd.",
+    "domain": "cht.com.tw",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Changhua Telecom Co., Ltd., No. 21, Sec. 21, Hsin-Yi Rd., Taipei Taiwan",
+    "country": "TW",
+    "email": "network-adm@hinet.net",
+    "name": "HINET Network-Adm",
+    "network": "114.34.0.0/16",
+    "phone": "+886-2-2322-3495"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ip": "176.119.21.160",
+  "hostname": "mail.abakan-perinatal.center",
+  "city": "Abakan",
+  "region": "Khakasiya Republic",
+  "country": "RU",
+  "loc": "53.7156,91.4292",
+  "postal": "655000",
+  "timezone": "Asia/Krasnoyarsk",
+  "asn": {
+    "asn": "AS51612",
+    "name": "Alfatel plus Ltd",
+    "domain": "alfatelplus.ru",
+    "route": "176.119.16.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Alfatel plus Ltd",
+    "domain": "alfatelplus.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "48, Sovetskaya st., Abakan, Russia",
+    "country": "RU",
+    "email": "aospan@netup.ru",
+    "name": "Abuse-C Role",
+    "network": "176.119.16.0/21",
+    "phone": "+7 3902 305911"
+  },
+  "domains": {
+    "ip": "176.119.21.160",
+    "total": 1,
+    "domains": [
+      "abakan-perinatal.center"
+    ]
+  }
+}

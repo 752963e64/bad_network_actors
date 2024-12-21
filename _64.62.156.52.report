@@ -1,0 +1,42 @@
+{
+  "ip": "64.62.156.52",
+  "hostname": "scan-63-0.shadowserver.org",
+  "city": "Roseville",
+  "region": "California",
+  "country": "US",
+  "loc": "38.7521,-121.2880",
+  "postal": "95678",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS6939",
+    "name": "Hurricane Electric LLC",
+    "domain": "he.net",
+    "route": "64.62.128.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Hurricane Electric LLC",
+    "domain": "he.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Fremont, 760 Mission Court, 94539",
+    "country": "US",
+    "email": "abuse@he.net",
+    "name": "Abuse Department",
+    "network": "64.62.156.0/24",
+    "phone": "+1-510-580-4100"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

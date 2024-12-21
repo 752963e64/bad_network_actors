@@ -1,0 +1,43 @@
+{
+  "ip": "49.205.140.183",
+  "hostname": "broadband.actcorp.in",
+  "city": "Bengaluru",
+  "region": "Karnataka",
+  "country": "IN",
+  "loc": "12.9719,77.5937",
+  "postal": "562114",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS24309",
+    "name": "Atria Convergence Technologies Pvt. Ltd. Broadband Internet Service Provider INDIA",
+    "domain": "actcorp.in",
+    "route": "49.205.136.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Atria Convergence Technologies Ltd.,",
+    "domain": "actcorp.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Atria Convergence Technologies Pvt Ltd, # 1, 2nd Floor, Indian Express Building,, Queen's Road, Bangalore - 560 001",
+    "country": "IN",
+    "email": "abuse@actcorp.in",
+    "name": "ABUSE CABLELITEIN",
+    "network": "49.204.0.0/14",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

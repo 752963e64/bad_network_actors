@@ -1,0 +1,43 @@
+{
+  "ip": "57.152.77.207",
+  "hostname": "azpdegc3.stretchoid.com",
+  "city": "Ashburn",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0437,-77.4875",
+  "postal": "20147",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS8075",
+    "name": "Microsoft Corporation",
+    "domain": "microsoft.com",
+    "route": "57.152.0.0/14",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Microsoft Limited UK",
+    "domain": "microsoft.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "One Microsoft Way, Redmond, WA 98052",
+    "country": "US",
+    "email": "abuse@microsoft.com",
+    "name": "Microsoft Limited UK",
+    "network": "57.150.0.0-57.175.255.255",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

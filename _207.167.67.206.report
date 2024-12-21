@@ -1,0 +1,41 @@
+{
+  "ip": "207.167.67.206",
+  "city": "Kansas City",
+  "region": "Missouri",
+  "country": "US",
+  "loc": "39.0997,-94.5786",
+  "postal": "64106",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS399045",
+    "name": "DediOutlet, LLC",
+    "domain": "dedioutlet.com",
+    "route": "207.167.67.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "KCMOTech LLC",
+    "domain": "kcmotech.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, MO, Smithville, 1500 S Hwy 169, 64068",
+    "country": "US",
+    "email": "admin@kcmotech.com",
+    "name": "Administrator",
+    "network": "207.167.64.0/22",
+    "phone": "+1-816-535-8373"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

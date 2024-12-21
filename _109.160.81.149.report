@@ -1,0 +1,41 @@
+{
+  "ip": "109.160.81.149",
+  "city": "Haskovo",
+  "region": "Haskovo",
+  "country": "BG",
+  "loc": "41.9342,25.5556",
+  "postal": "6300",
+  "timezone": "Europe/Sofia",
+  "asn": {
+    "asn": "AS12615",
+    "name": "Global Communication Net Plc",
+    "domain": "gcn.bg",
+    "route": "109.160.81.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Sky Link - Haskovo",
+    "domain": "gcn.bg",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "1784 Sofia, Bulgaria, Tsarigradsko Shose blvd. No.115G, Mladost Distr., Global Communication Net EAD",
+    "country": "BG",
+    "email": "abuse@gcn.bg",
+    "name": "GCN NOC",
+    "network": "109.160.81.0/24",
+    "phone": "+35924200888"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

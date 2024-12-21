@@ -1,0 +1,43 @@
+{
+  "ip": "116.65.4.54",
+  "hostname": "116-65-4-54.rev.home.ne.jp",
+  "city": "Machida",
+  "region": "Tokyo",
+  "country": "JP",
+  "loc": "35.5403,139.4508",
+  "postal": "290-0267",
+  "timezone": "Asia/Tokyo",
+  "asn": {
+    "asn": "AS9824",
+    "name": "JCOM Co., Ltd.",
+    "domain": "jcom.co.jp",
+    "route": "116.65.0.0/17",
+    "type": "business"
+  },
+  "company": {
+    "name": "JCOM Co., Ltd.",
+    "domain": "jcom.co.jp",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "1-2-1,Kamiogi,Suginami-ku, Tokyo,Japan,167-0043, Kamiogi Suginami-ku 167-0043",
+    "country": "JP",
+    "email": "abuse@home.ne.jp",
+    "name": "ABUSE JTCLJP",
+    "network": "116.64.0.0/15",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

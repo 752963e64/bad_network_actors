@@ -1,0 +1,42 @@
+{
+  "ip": "45.114.125.29",
+  "city": "Shenzhen",
+  "region": "Guangdong",
+  "country": "CN",
+  "loc": "22.5455,114.0683",
+  "postal": "518000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS206888",
+    "name": "HanMing HK Limited",
+    "domain": "hanming.com",
+    "route": "45.114.124.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "HKDAPU",
+    "domain": "hanming.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "youmajie 37HAO 1701-1703",
+    "country": "HK",
+    "email": "abuse@hanming.com",
+    "name": "ABUSE B3NTCLCN",
+    "network": "45.114.125.0/24",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

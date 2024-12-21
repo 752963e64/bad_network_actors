@@ -1,0 +1,41 @@
+{
+  "ip": "41.85.185.28",
+  "city": "Cotonou",
+  "region": "Littoral",
+  "country": "BJ",
+  "loc": "6.3654,2.4183",
+  "timezone": "Africa/Porto-Novo",
+  "asn": {
+    "asn": "AS28683",
+    "name": "SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES",
+    "domain": "benintelecoms.bj",
+    "route": "41.85.185.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES",
+    "domain": "benintelecoms.bj",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Immeuble Houngbedji  (à côté de la Direction de l’Emigration et de l’Immigration) Av. Jean Paul II Cotonou, Cotonou, Benin",
+    "country": "BJ",
+    "email": "vassangbewotto@sbin.bj",
+    "name": "Vivien ASSANGBE",
+    "network": "41.85.185.0/24",
+    "phone": "tel:+229-90-09-68-29"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

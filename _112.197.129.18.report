@@ -1,0 +1,42 @@
+{
+  "ip": "112.197.129.18",
+  "city": "Qui Nhon",
+  "region": "Bình Định Province",
+  "country": "VN",
+  "loc": "13.7765,109.2237",
+  "postal": "55117",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "asn": {
+    "asn": "AS45543",
+    "name": "SaiGon Tourist cable Televition Company",
+    "domain": "sctv.com.vn",
+    "route": "112.197.128.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Cung cap dich vu Internet khach hang quan 6",
+    "domain": "sctv.com.vn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "SaigonTourist Cable Television Company (SCTV), 31-33 Dinh Cong Trang Str, Dist 1, HCMC",
+    "country": "VN",
+    "email": "vinh.nh@sctv.com.vn",
+    "name": "Nguyen Hoang Vinh",
+    "network": "112.197.128.0/19",
+    "phone": "+84-838-205605"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

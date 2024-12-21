@@ -1,0 +1,43 @@
+{
+  "ip": "186.250.114.22",
+  "hostname": "static-22-114-250-186.connectsul.com.br",
+  "city": "São Mateus do Sul",
+  "region": "Paraná",
+  "country": "BR",
+  "loc": "-25.8742,-50.3828",
+  "postal": "83900-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS262812",
+    "name": "K.H.D. SILVESTRI E CIA LTDA",
+    "domain": "connectsul.com.br",
+    "route": "186.250.114.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "K.H.D. SILVESTRI E CIA LTDA",
+    "domain": "connectsul.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "silvestri@connectsul.com.br",
+    "name": "Emerson Silvestri",
+    "network": "186.250.112.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

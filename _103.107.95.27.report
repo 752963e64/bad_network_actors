@@ -1,0 +1,41 @@
+{
+  "ip": "103.107.95.27",
+  "city": "Dādri",
+  "region": "Uttar Pradesh",
+  "country": "IN",
+  "loc": "28.5526,77.5540",
+  "postal": "203207",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS136696",
+    "name": "Sifi Online Pvt Ltd",
+    "domain": "arktel.in",
+    "route": "103.107.95.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Netncr Technology Pvt Ltd",
+    "domain": "netncr.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "C-43 DDA Shed Okhla Phase-1,New Delhi,Delhi-110020",
+    "country": "IN",
+    "email": "amitarora@netncr.com",
+    "name": "manager noc",
+    "network": "103.107.92.0/22",
+    "phone": "+91 01146012345"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

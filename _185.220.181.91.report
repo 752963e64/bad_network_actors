@@ -1,0 +1,42 @@
+{
+  "ip": "185.220.181.91",
+  "city": "Baku",
+  "region": "Baki",
+  "country": "AZ",
+  "loc": "40.3777,49.8920",
+  "postal": "AZ 1000",
+  "timezone": "Asia/Baku",
+  "asn": {
+    "asn": "AS205367",
+    "name": "NetPoint LLC",
+    "domain": "netpoint.az",
+    "route": "185.220.181.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "NetPoint LLC",
+    "domain": "netpoint.az",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "12 Alaskar Gayibov St., AZ1029, Baku, AZERBAIJAN",
+    "country": "AZ",
+    "email": "abuse@netpoint.az",
+    "name": "Abuse-C Role",
+    "network": "185.220.181.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

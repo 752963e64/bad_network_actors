@@ -1,0 +1,42 @@
+{
+  "ip": "132.147.141.246",
+  "city": "Lincoln",
+  "region": "Nebraska",
+  "country": "US",
+  "loc": "40.8145,-96.7009",
+  "postal": "68508",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS26077",
+    "name": "Nextlink Broadband",
+    "domain": "nextlinkinternet.com",
+    "route": "132.147.141.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Nextlink Broadband",
+    "domain": "nextlink.co.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, TX, Hudson Oaks, 95 Parker Oaks Lane, 76087",
+    "country": "US",
+    "email": "abuse@team.nxlink.com",
+    "name": "Abuse",
+    "network": "132.147.128.0/18",
+    "phone": "+1-855-698-5465"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

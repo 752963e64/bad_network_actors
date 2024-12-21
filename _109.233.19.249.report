@@ -1,0 +1,41 @@
+{
+  "ip": "109.233.19.249",
+  "city": "Beirut",
+  "region": "Beyrouth",
+  "country": "LB",
+  "loc": "33.8933,35.5016",
+  "timezone": "Asia/Beirut",
+  "asn": {
+    "asn": "AS48847",
+    "name": "WAVES S.A.L",
+    "domain": "connect.net.lb",
+    "route": "109.233.16.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "WAVES S.A.L",
+    "domain": "connect.net.lb",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "WAVES S.A.L, Dedeian Center 7th floor Nahr El Mot, 90-1666 Jdaidet El Metn, LEBANON",
+    "country": "LB",
+    "email": "pnakhle@connect.net.lb",
+    "name": "Abuse-C Role",
+    "network": "109.233.16.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

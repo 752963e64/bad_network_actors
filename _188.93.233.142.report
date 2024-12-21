@@ -1,0 +1,44 @@
+{
+  "ip": "188.93.233.142",
+  "city": "Lelystad",
+  "region": "Flevoland",
+  "country": "NL",
+  "loc": "52.5083,5.4750",
+  "postal": "8224",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS47674",
+    "name": "Net Solutions - Consultoria Em Tecnologias De Informacao, Sociedade Unipessoal LDA",
+    "domain": "blazingfast.io",
+    "route": "188.93.233.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Tuganet ? Hosting Bussiness Solutions",
+    "domain": "tuganet.pt",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Rua Agostinho Lourenco 341B, 1000-010 Lisboa, PORTUGAL",
+    "country": "PT",
+    "email": "abuse@dotsi.pt",
+    "name": "Abuse-C Role",
+    "network": "188.93.233.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "188.93.233.142",
+    "total": 1,
+    "domains": [
+      "mygov-verificationline.com"
+    ]
+  }
+}

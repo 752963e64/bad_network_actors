@@ -1,0 +1,43 @@
+{
+  "ip": "186.15.110.30",
+  "hostname": "ip30-110-15-186.ct.co.cr",
+  "city": "Cartago",
+  "region": "Cartago Province",
+  "country": "CR",
+  "loc": "9.8644,-83.9194",
+  "postal": "30101",
+  "timezone": "America/Costa_Rica",
+  "asn": {
+    "asn": "AS52228",
+    "name": "Cable Tica",
+    "domain": "libertycr.com",
+    "route": "186.15.110.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Cable Tica",
+    "domain": "ct.co.cr",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Cabletica sabana oeste, ,, - San Jose -",
+    "country": "CR",
+    "email": "e.zuniga@libertycr.com",
+    "name": "Erick Francisco Zuñiga Perez",
+    "network": "186.15.64.0/18",
+    "phone": "+506  47017855"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

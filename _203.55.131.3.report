@@ -1,0 +1,42 @@
+{
+  "ip": "203.55.131.3",
+  "city": "Lelystad",
+  "region": "Flevoland",
+  "country": "NL",
+  "loc": "52.5083,5.4750",
+  "postal": "8224",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS50219",
+    "name": "Valence Technology Co.",
+    "domain": "valence.nl",
+    "route": "203.55.131.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Valence Technology Co.",
+    "domain": "valence.nl",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, NH, Hanover, 80 South Main St, Suite 301, 03755",
+    "country": "US",
+    "email": "abuse@valence.nl",
+    "name": "Abuse",
+    "network": "203.55.131.0/24",
+    "phone": "+1-603-667-3320"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

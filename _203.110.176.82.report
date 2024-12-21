@@ -1,0 +1,42 @@
+{
+  "ip": "203.110.176.82",
+  "city": "Shanghai",
+  "region": "Shanghai",
+  "country": "CN",
+  "loc": "31.2222,121.4581",
+  "postal": "200000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4812",
+    "name": "China Telecom (Group)",
+    "domain": "chinatelecom.com.cn",
+    "route": "203.110.176.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ShangHai Telecom Science & Technology Development Co.,Ltd",
+    "domain": "cnnic.cn",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Beijing, China",
+    "country": "CN",
+    "email": "ipas@cnnic.cn",
+    "name": "ABUSE CNNICCN",
+    "network": "203.110.160.0/19",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

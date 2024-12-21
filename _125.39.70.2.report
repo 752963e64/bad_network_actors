@@ -1,0 +1,42 @@
+{
+  "ip": "125.39.70.2",
+  "city": "Tianjin",
+  "region": "Tianjin",
+  "country": "CN",
+  "loc": "39.1422,117.1767",
+  "postal": "300000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4837",
+    "name": "CHINA UNICOM China169 Backbone",
+    "domain": "chinaunicom.cn",
+    "route": "125.36.0.0/14",
+    "type": "isp"
+  },
+  "company": {
+    "name": "China Unicom Tianjin province network",
+    "domain": "chinaunicom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.21,Financial Street, Beijing,100033, P.R.China",
+    "country": "CN",
+    "email": "zhaoyz3@chinaunicom.cn",
+    "name": "ChinaUnicom Hostmaster",
+    "network": "125.36.0.0/14",
+    "phone": "+86-10-66259764"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

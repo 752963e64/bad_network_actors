@@ -1,0 +1,42 @@
+{
+  "ip": "185.94.111.1",
+  "city": "Moscow",
+  "region": "Moscow",
+  "country": "RU",
+  "loc": "55.7522,37.6156",
+  "postal": "123290",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS51115",
+    "name": "HLL LLC",
+    "domain": "curator.pro",
+    "route": "185.94.111.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "HLL LLC",
+    "domain": "dan.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "1-y Magistralnyy tupik 5A, Suite D/304, Moscow 123290, Russian Federation",
+    "country": "RU",
+    "email": "abuse@curator.pro",
+    "name": "Abuse-C Role",
+    "network": "185.94.108.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

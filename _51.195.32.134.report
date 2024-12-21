@@ -1,0 +1,44 @@
+{
+  "ip": "51.195.32.134",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "postal": "60306",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS16276",
+    "name": "OVH SAS",
+    "domain": "ovhcloud.com",
+    "route": "51.195.0.0/16",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "OVH SAS",
+    "domain": "ovh.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "OVH SAS, 2 Rue Kellermann, 59100 ROUBAIX, FRANCE",
+    "country": "FR",
+    "email": "abuse@ovh.net",
+    "name": "Abuse-C Role",
+    "network": "51.195.32.128/28",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "51.195.32.134",
+    "total": 1,
+    "domains": [
+      "cldscastroverde.pt"
+    ]
+  }
+}

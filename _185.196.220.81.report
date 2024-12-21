@@ -1,0 +1,42 @@
+{
+  "ip": "185.196.220.81",
+  "city": "Aachen",
+  "region": "North Rhine-Westphalia",
+  "country": "DE",
+  "loc": "50.7766,6.0834",
+  "postal": "52062",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS208046",
+    "name": "ColocationX Ltd.",
+    "domain": "colocationx.com",
+    "route": "185.196.220.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "ColocationX Ltd.",
+    "domain": "colocationx.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Kingsfordweg 151, 1043GR, Amsterdam, Netherlands",
+    "country": "NL",
+    "email": "abuse@colocationx.com",
+    "name": "ColocationX Ltd. - Abuse-C Role",
+    "network": "185.196.220.0/24",
+    "phone": "+31645277194"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

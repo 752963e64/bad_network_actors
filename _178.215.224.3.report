@@ -1,0 +1,47 @@
+{
+  "ip": "178.215.224.3",
+  "city": "Amsterdam",
+  "region": "North Holland",
+  "country": "NL",
+  "loc": "52.3630,4.8923",
+  "postal": "1017",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS401116",
+    "name": "Nybula LLC",
+    "domain": "nybula.com",
+    "route": "178.215.224.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Nybula LLC",
+    "domain": "nybula.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "9 Vitoshki Kambani str., Sofia, Bulgaria",
+    "country": "BG",
+    "email": "abuse@neterra.net",
+    "name": "Neterra contacts",
+    "network": "178.215.224.0/24",
+    "phone": "+359 2 975 16 16"
+  },
+  "domains": {
+    "ip": "178.215.224.3",
+    "total": 4,
+    "domains": [
+      "delangstraatmantelzorgondersteuning.nl",
+      "welcomevalen.store",
+      "goeietest.nl",
+      "welkomvier.com"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "109.238.80.79",
+  "city": "Krasnogorsk",
+  "region": "Moscow Oblast",
+  "country": "RU",
+  "loc": "55.8190,37.3298",
+  "postal": "143400",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS47323",
+    "name": "LLC \"PioneerNet\"",
+    "domain": "pioneernet.ru",
+    "route": "109.238.80.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "LLC PioneerNet",
+    "domain": "pioneernet.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "LLC \"PioneerNet\", 4, Il'inskoe shosse, 143405 Krasnogorsk, RU",
+    "country": "RU",
+    "email": "info@pioneernet.ru",
+    "name": "Abuse-C Role",
+    "network": "109.238.80.0/21",
+    "phone": "+79164372334"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

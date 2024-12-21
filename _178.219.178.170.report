@@ -1,0 +1,42 @@
+{
+  "ip": "178.219.178.170",
+  "city": "Elektrostal’",
+  "region": "Moscow Oblast",
+  "country": "RU",
+  "loc": "55.7865,38.4571",
+  "postal": "144000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS50553",
+    "name": "OOO Stalnet",
+    "domain": "stalnet.ru",
+    "route": "178.219.176.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "OOO Stalnet",
+    "domain": "stalnet.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Russian Federation, Elektrostal, ul. Zapadnaya 1B/7",
+    "country": "RU",
+    "email": "abuse@stalnet.ru",
+    "name": "Abuse-C Role",
+    "network": "178.219.176.0/20",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

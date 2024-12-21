@@ -1,0 +1,42 @@
+{
+  "ip": "61.218.33.155",
+  "hostname": "61-218-33-155.hinet-ip.hinet.net",
+  "city": "Taoyuan City",
+  "region": "Taiwan",
+  "country": "TW",
+  "loc": "24.9937,121.2970",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS3462",
+    "name": "Data Communication Business Group",
+    "domain": "hinet.net",
+    "route": "61.218.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Chunghwa Telecom Co.,Ltd.",
+    "domain": "cht.com.tw",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Kai Ji Technology Co., Ltd., 6F-3, No. 75, Sec. 1, Xintaiwu. Rd., Taipei Country County Taiwan",
+    "country": "TW",
+    "email": "hn84273786@hn.hinet.net",
+    "name": "Hong Wen Tai",
+    "network": "61.218.33.152/29",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "160.22.155.155",
+  "city": "Suwon",
+  "region": "Gyeonggi-do",
+  "country": "KR",
+  "loc": "37.2911,127.0089",
+  "postal": "16250",
+  "timezone": "Asia/Seoul",
+  "asn": {
+    "asn": "AS213977",
+    "name": "SeungHoon Baek",
+    "domain": "as213977.net",
+    "route": "160.22.155.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "Luna",
+    "domain": "lunaco.kr",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Gyeonggi-do, Danwon-gu, Ansan-si, 94, Sasechungyeol-ro, Ansan-si Gyunggi-do 15255",
+    "country": "KR",
+    "email": "abuse@lunaco.kr",
+    "name": "ABUSE LUNAKR",
+    "network": "160.22.155.0/24",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

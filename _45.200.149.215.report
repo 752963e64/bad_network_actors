@@ -1,0 +1,42 @@
+{
+  "ip": "45.200.149.215",
+  "city": "Kerkrade",
+  "region": "Limburg",
+  "country": "NL",
+  "loc": "50.8658,6.0625",
+  "postal": "6461",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS50580",
+    "name": "Mario Networks Limited",
+    "domain": "mario.gdn",
+    "route": "45.200.149.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "MARIO NETWORKS LIMITED",
+    "domain": "geofeed.space",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ebene, MU, Mahe, Seychelles",
+    "country": "SC",
+    "email": "abuse@cloudinnovation.org",
+    "name": "Cloud Innovation Support",
+    "network": "45.200.149.0/24",
+    "phone": "tel:+248-4-610-795"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

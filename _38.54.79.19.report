@@ -1,0 +1,42 @@
+{
+  "ip": "38.54.79.19",
+  "city": "Karachi",
+  "region": "Sindh",
+  "country": "PK",
+  "loc": "24.8608,67.0104",
+  "postal": "74000",
+  "timezone": "Asia/Karachi",
+  "asn": {
+    "asn": "AS138915",
+    "name": "Kaopu Cloud HK Limited",
+    "domain": "kaopucloud.com",
+    "route": "38.54.79.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Kaopu Cloud HK Limited",
+    "domain": "kaopucloud.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "VPNJantit"
+  },
+  "abuse": {
+    "address": "HK, , hongkong, RM. 19C Lockhart Ctr., 301-307 Lockhart Rd., Wan Chai, HK., Hong Kong Hong Kong 999077, ",
+    "country": "HK",
+    "email": "whois@kaopucloud.com",
+    "name": "Manager",
+    "network": "38.54.0.0/17",
+    "phone": "+852 94159695"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "109.199.130.215",
+  "hostname": "16979.telnet.bg",
+  "city": "Lyaskovets",
+  "region": "Veliko Tarnovo",
+  "country": "BG",
+  "loc": "43.1111,25.7283",
+  "postal": "5140",
+  "timezone": "Europe/Sofia",
+  "asn": {
+    "asn": "AS8866",
+    "name": "Vivacom Bulgaria EAD",
+    "domain": "vivacom.bg",
+    "route": "109.199.130.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Vivacom Bulgaria EAD",
+    "domain": "vivacom.bg",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Bulgaria, 5000 Veliko Tarnovo, 17 Bulgaria str., fl. 1",
+    "country": "BG",
+    "email": "abuse@telnet.bg",
+    "name": "Telnet Limited Operations Department",
+    "network": "109.199.130.0/23",
+    "phone": "+359 62 603071"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

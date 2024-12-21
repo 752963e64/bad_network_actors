@@ -1,0 +1,42 @@
+{
+  "ip": "88.214.25.64",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "postal": "60306",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS35042",
+    "name": "Layer7 Networks GmbH",
+    "domain": "layer7.net",
+    "route": "88.214.25.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "VDS&VPN services",
+    "domain": "one-host.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Suite 819 Tsimshatsui Centre, East Wing, 66 Mody Road,, Tsimshatsui East, Kowloon,, Hong Kong",
+    "country": "HK",
+    "email": "abuse@one-host.net",
+    "name": "One Host Network Operation Centre",
+    "network": "88.214.25.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

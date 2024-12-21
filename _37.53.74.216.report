@@ -1,0 +1,42 @@
+{
+  "ip": "37.53.74.216",
+  "hostname": "216-74-53-37.pool.ukrtel.net",
+  "city": "Malyn",
+  "region": "Zhytomyr",
+  "country": "UA",
+  "loc": "50.7723,29.2383",
+  "postal": "11600",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS6849",
+    "name": "JSC \"Ukrtelecom\"",
+    "domain": "ukrtelecom.ua",
+    "route": "37.53.64.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "JSC Ukrtelecom",
+    "domain": "ukrtelecom.ua",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "JSC \"Ukrtelecom\",, Stanislav Ishchenko, 18, Shevchenko Blvd, 01601 Kyiv, UKRAINE",
+    "country": "UA",
+    "email": "oremiga@ukrtelecom.ua",
+    "name": "Abuse-C Role",
+    "network": "37.52.0.0/15",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

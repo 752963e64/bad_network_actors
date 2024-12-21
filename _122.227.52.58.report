@@ -1,0 +1,44 @@
+{
+  "ip": "122.227.52.58",
+  "city": "Ningbo",
+  "region": "Zhejiang",
+  "country": "CN",
+  "loc": "29.8782,121.5494",
+  "postal": "315000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4134",
+    "name": "CHINANET-BACKBONE",
+    "domain": "chinatelecom.com.cn",
+    "route": "122.224.0.0/12",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CHINANET-ZJ Jinhua node network",
+    "domain": "hz.zj.cn",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No. 257 Qingjiang Road, Hangzhou, Zhejiang.310066",
+    "country": "CN",
+    "email": "antispam@dcb.hz.zj.cn",
+    "name": "CHINANET-ZJ Jinhua",
+    "network": "122.227.32.0/19",
+    "phone": "+86-571-86821752"
+  },
+  "domains": {
+    "ip": "122.227.52.58",
+    "total": 1,
+    "domains": [
+      "xionlink.com"
+    ]
+  }
+}

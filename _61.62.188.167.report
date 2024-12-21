@@ -1,0 +1,42 @@
+{
+  "ip": "61.62.188.167",
+  "hostname": "61-62-188-167-adsl-tpe.dynamic.so-net.net.tw",
+  "city": "Banqiao",
+  "region": "Taipei",
+  "country": "TW",
+  "loc": "25.0143,121.4672",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS18182",
+    "name": "Sony Network Taiwan Limited",
+    "domain": "so-net.net.tw",
+    "route": "61.62.160.0/19",
+    "type": "business"
+  },
+  "company": {
+    "name": "So-net Entertainment Taiwan Limited",
+    "domain": "sonet-tw.net.tw",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "So-net Entertainment Taiwan Limited, 2Fl., Building E, No.19-13, San Chung Road, Taipei Taiwan",
+    "country": "TW",
+    "email": "it_network_team@sonet-tw.net.tw",
+    "name": "IT Network_Team",
+    "network": "61.62.188.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

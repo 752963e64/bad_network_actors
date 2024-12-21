@@ -1,0 +1,42 @@
+{
+  "ip": "147.78.47.252",
+  "city": "Lelystad",
+  "region": "Flevoland",
+  "country": "NL",
+  "loc": "52.5083,5.4750",
+  "postal": "8224",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS209588",
+    "name": "Flyservers S.A.",
+    "domain": "flyservers.com",
+    "route": "147.78.47.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "M Nets SAL",
+    "domain": "mnets.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Calle 76 Este San Francisco y Via Porras",
+    "country": "PA",
+    "email": "abuse@global-host.net",
+    "name": "GLOBAL-HOST NETWORK OPERATIONS",
+    "network": "147.78.47.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

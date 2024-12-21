@@ -1,0 +1,43 @@
+{
+  "ip": "193.161.220.97",
+  "hostname": "193.161.220.97.elche.cableworld.es",
+  "city": "Elche",
+  "region": "Valencia",
+  "country": "ES",
+  "loc": "38.2622,-0.7011",
+  "postal": "03200",
+  "timezone": "Europe/Madrid",
+  "asn": {
+    "asn": "AS35394",
+    "name": "Cable Aireworld S.A.U.",
+    "domain": "cableworld.es",
+    "route": "193.161.220.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Cable Aireworld S.A.U.",
+    "domain": "cableworld.es",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "C/Pau Casals nยบ2 bajo, 03660, Novelda, SPAIN",
+    "country": "ES",
+    "email": "abuse@cableworld.es",
+    "name": "Abuse-C Role",
+    "network": "193.161.220.0/24",
+    "phone": "+34 966192000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

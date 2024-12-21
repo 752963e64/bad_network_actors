@@ -1,0 +1,43 @@
+{
+  "ip": "177.107.253.63",
+  "hostname": "177.107.253.63.fttx.gigalink.net.br",
+  "city": "Rio das Ostras",
+  "region": "Rio de Janeiro",
+  "country": "BR",
+  "loc": "-22.5269,-41.9450",
+  "postal": "28890-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS28658",
+    "name": "Gigalink de Nova Friburgo Soluções em Rede Multimi",
+    "domain": "gigalink.com.br",
+    "route": "177.107.240.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Gigalink de Nova Friburgo Soluções em Rede Multimi",
+    "domain": "gigalink.net.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Av. das Nações Unidas, 11541, 7º andar, 04578-000 - Simões Filho - BA",
+    "country": "BR",
+    "email": "olj5@numeracao.registro.br",
+    "name": "Otoniel Leal Andrade Júnior",
+    "network": "177.107.240.0/20",
+    "phone": "+55 71 55093511"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

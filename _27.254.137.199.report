@@ -1,0 +1,41 @@
+{
+  "ip": "27.254.137.199",
+  "city": "Bangkok",
+  "region": "Bangkok",
+  "country": "TH",
+  "loc": "13.7540,100.5014",
+  "postal": "10200",
+  "timezone": "Asia/Bangkok",
+  "asn": {
+    "asn": "AS9891",
+    "name": "CS LOXINFO Public Company Limited.",
+    "domain": "csloxinfo.com",
+    "route": "27.254.128.0/19",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "CSLOXINFO-IDC",
+    "domain": "csloxinfo.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CW Tower, Ratchadapisek Road, Huai Khwang, Bangkok 10310",
+    "country": "TH",
+    "email": "ip_admin@csl.co.th",
+    "name": "ABUSE CSLOXINFOTH",
+    "network": "27.254.137.0/24",
+    "phone": "+66 2 2638000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

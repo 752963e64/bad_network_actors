@@ -1,0 +1,44 @@
+{
+  "ip": "103.146.202.84",
+  "hostname": "server.mandalikarinjani.com",
+  "city": "Jakarta",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.2146,106.8451",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS136052",
+    "name": "PT Cloud Hosting Indonesia",
+    "domain": "idcloudhost.com",
+    "route": "103.146.202.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "PT Cloud Hosting Indonesia",
+    "domain": "cloudhost.web.id",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT Cloud Hosting Indonesia, Jl. Bojonggenteng No. 2, Sukabumi, Jawa Barat",
+    "country": "ID",
+    "email": "admin@idcloudhost.com",
+    "name": "Alfian Pamungkas Sakawiguna",
+    "network": "103.146.202.0/24",
+    "phone": "+62-266-620073"
+  },
+  "domains": {
+    "ip": "103.146.202.84",
+    "total": 1,
+    "domains": [
+      "mandalikarinjani.com"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "ip": "164.163.121.130",
+  "city": "Santiago",
+  "region": "Santiago Metropolitan",
+  "country": "CL",
+  "loc": "-33.4569,-70.6483",
+  "postal": "8320000",
+  "timezone": "America/Santiago",
+  "asn": {
+    "asn": "AS265834",
+    "name": "GIL HECTOR JESUS (NETIX)",
+    "domain": "netix.com.ar",
+    "route": "164.163.120.0/23",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "25 de Mayo, 278, -, 5560 - Tunuyan - Mendoza",
+    "country": "AR",
+    "email": "info@netix.com.ar",
+    "name": "Héctor Jesús Gil",
+    "network": "164.163.120.0/22",
+    "phone": "+54  2622439037 [0000]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

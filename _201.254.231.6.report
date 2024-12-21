@@ -1,0 +1,43 @@
+{
+  "ip": "201.254.231.6",
+  "hostname": "201-254-231-6.mrse.com.ar",
+  "city": "Nueve de Julio",
+  "region": "San Juan",
+  "country": "AR",
+  "loc": "-31.6692,-68.3901",
+  "postal": "5417",
+  "timezone": "America/Argentina/San_Juan",
+  "asn": {
+    "asn": "AS22927",
+    "name": "Telefonica de Argentina",
+    "domain": "telefonica.com.ar",
+    "route": "201.254.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telefonica de Argentina",
+    "domain": "telefonica.com.ar",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "AV. ING. HUERGO, 723,, 1065 - Capital Federal - BA",
+    "country": "AR",
+    "email": "tasamail.ar@TELEFONICA.COM",
+    "name": "Telefonica de Argentina",
+    "network": "201.254.0.0/16",
+    "phone": "+54 11 43335000 []"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ip": "201.220.16.14",
+  "city": "Magdalena",
+  "region": "Buenos Aires",
+  "country": "AR",
+  "loc": "-35.0800,-57.5137",
+  "postal": "1913",
+  "timezone": "America/Argentina/Buenos_Aires",
+  "asn": {
+    "asn": "AS52413",
+    "name": "MADACOM SRL",
+    "domain": "netfly.com.ar",
+    "route": "201.220.16.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "MADACOM SRL",
+    "domain": "fiberfly.com.ar",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Teodoro Garcia, 3509, 1C, 1427 - Ciudad Autonoma de Buenos Aires - BA",
+    "country": "AR",
+    "email": "sjbarrientos@GMAIL.COM",
+    "name": "Sergio Barrientos",
+    "network": "201.220.16.0/21",
+    "phone": "+54 011 45538961 []"
+  },
+  "domains": {
+    "ip": "201.220.16.14",
+    "total": 2,
+    "domains": [
+      "radiomgd.com.ar",
+      "alertping.com.ar"
+    ]
+  }
+}

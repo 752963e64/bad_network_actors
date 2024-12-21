@@ -1,0 +1,45 @@
+{
+  "ip": "172.245.105.177",
+  "hostname": "172-245-105-177-host.colocrossing.com",
+  "city": "Buffalo",
+  "region": "New York",
+  "country": "US",
+  "loc": "42.8865,-78.8784",
+  "postal": "14202",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS36352",
+    "name": "HostPapa",
+    "domain": "colocrossing.com",
+    "route": "172.245.105.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "RackNerd LLC",
+    "domain": "racknerd.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Rancho Cucamonga, 10602 N. Trademark Pkwy Suite #511, 91730",
+    "country": "US",
+    "email": "reportabuse@racknerd.com",
+    "name": "RackNerd Abuse Department",
+    "network": "172.245.105.128/26",
+    "phone": "+1-888-881-6373"
+  },
+  "domains": {
+    "ip": "172.245.105.177",
+    "total": 1,
+    "domains": [
+      "biquge.icu"
+    ]
+  }
+}

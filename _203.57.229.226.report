@@ -1,0 +1,44 @@
+{
+  "ip": "203.57.229.226",
+  "city": "Chongqing",
+  "region": "Chongqing",
+  "country": "CN",
+  "loc": "29.5603,106.5577",
+  "postal": "401100",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS58519",
+    "name": "Cloud Computing Corporation",
+    "domain": "chinatelecom.cn",
+    "route": "203.57.224.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "CHINANET Guangdong province network",
+    "domain": "chinatelecom.cn",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.31 ,jingrong street,beijing, 100032",
+    "country": "CN",
+    "email": "anti-spam@chinatelecom.cn",
+    "name": "ABUSE CHINANETCN",
+    "network": "203.57.224.0/20",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "ip": "203.57.229.226",
+    "total": 1,
+    "domains": [
+      "weilaizhixingxly.cn"
+    ]
+  }
+}

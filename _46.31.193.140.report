@@ -1,0 +1,45 @@
+{
+  "ip": "46.31.193.140",
+  "hostname": "www.webmel.com",
+  "city": "Cesson-Sévigné",
+  "region": "Brittany",
+  "country": "FR",
+  "loc": "48.1212,-1.6030",
+  "postal": "35510",
+  "timezone": "Europe/Paris",
+  "asn": {
+    "asn": "AS44297",
+    "name": "ICODIA SAS",
+    "domain": "icodia.com",
+    "route": "46.31.192.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "ICODIA DATACENTER",
+    "domain": "icodia.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "22 rue de l'Erboniere, 35510 Cesson Sevigne, FRANCE",
+    "country": "FR",
+    "email": "abuse@icodia.com",
+    "name": "Icodia technical plateform",
+    "network": "46.31.193.0/24",
+    "phone": "+33230964059"
+  },
+  "domains": {
+    "ip": "46.31.193.140",
+    "total": 1,
+    "domains": [
+      "webmel.com"
+    ]
+  }
+}

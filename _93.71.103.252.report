@@ -1,0 +1,43 @@
+{
+  "ip": "93.71.103.252",
+  "hostname": "net-93-71-103-252.cust.vodafonedsl.it",
+  "city": "Milan",
+  "region": "Lombardy",
+  "country": "IT",
+  "loc": "45.4643,9.1895",
+  "postal": "20121",
+  "timezone": "Europe/Rome",
+  "asn": {
+    "asn": "AS30722",
+    "name": "Vodafone Italia S.p.A.",
+    "domain": "vodafone.it",
+    "route": "93.71.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Vodafone Italia S.p.A.",
+    "domain": "vodafone.it",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Via Jervis, 13, Ivrea (TO), ITALY",
+    "country": "IT",
+    "email": "italy.abuse@mail.vodafone.it",
+    "name": "Vodafone Italy",
+    "network": "93.71.0.0/16",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

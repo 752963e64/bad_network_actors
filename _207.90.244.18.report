@@ -1,0 +1,42 @@
+{
+  "ip": "207.90.244.18",
+  "city": "Dallas",
+  "region": "Texas",
+  "country": "US",
+  "loc": "32.7831,-96.8067",
+  "postal": "75201",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS174",
+    "name": "Cogent Communications",
+    "domain": "cogentco.com",
+    "route": "207.90.244.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SHODAN, LLC",
+    "domain": "shodan.io",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, WA, Renton, 4301 NE 4th St., PO Box 2490, 98059",
+    "country": "US",
+    "email": "abuse@shodan.io",
+    "name": "Abuse",
+    "network": "207.90.244.0/24",
+    "phone": "+1-484-746-3260"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

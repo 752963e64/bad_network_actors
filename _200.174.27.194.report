@@ -1,0 +1,42 @@
+{
+  "ip": "200.174.27.194",
+  "city": "Manaus",
+  "region": "Amazonas",
+  "country": "BR",
+  "loc": "-3.1019,-60.0250",
+  "postal": "69000-000",
+  "timezone": "America/Manaus",
+  "asn": {
+    "asn": "AS4230",
+    "name": "CLARO S.A.",
+    "domain": "claro.com.br",
+    "route": "200.174.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "NANSEN INSTRUMENTOS DE PRECISAO LTDA",
+    "domain": "nansen.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse@embratel.net.br",
+    "name": "Grupo de Seguran�a Internet da Embratel",
+    "network": "200.174.27.192/28",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

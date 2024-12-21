@@ -1,0 +1,43 @@
+{
+  "ip": "217.118.45.79",
+  "hostname": "c4f2d76d9.static.as2116.net",
+  "city": "Oslo",
+  "region": "Oslo",
+  "country": "NO",
+  "loc": "59.9127,10.7461",
+  "postal": "0001",
+  "timezone": "Europe/Oslo",
+  "asn": {
+    "asn": "AS2116",
+    "name": "GLOBALCONNECT AS",
+    "domain": "globalconnect.no",
+    "route": "217.118.32.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "GLOBALCONNECT AS",
+    "domain": "globalconnect.no",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "GlobalConnect NO, Snarøyveien 36, 1364 Fornebu, Norway",
+    "country": "NO",
+    "email": "abuse@globalconnect.no",
+    "name": "Abuse-C Role",
+    "network": "217.118.44.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

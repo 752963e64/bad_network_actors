@@ -1,0 +1,41 @@
+{
+  "ip": "160.202.40.145",
+  "hostname": "145.40.202.160.iconpln.net.id",
+  "city": "Pasarkemis",
+  "region": "West Java",
+  "country": "ID",
+  "loc": "-6.1703,106.5303",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS9341",
+    "name": "PT INDONESIA COMNETS PLUS",
+    "domain": "plniconplus.co.id",
+    "route": "160.202.40.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "INDONESIA_COMNETS",
+    "domain": "chitose-indonesia.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Jakarta",
+    "country": "ID",
+    "email": "abuse@vip.net.id",
+    "name": "HOSTMASTER VIPNET",
+    "network": "160.202.40.0/24",
+    "phone": "+62818885375"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

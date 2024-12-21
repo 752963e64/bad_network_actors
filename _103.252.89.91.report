@@ -1,0 +1,43 @@
+{
+  "ip": "103.252.89.91",
+  "hostname": "rw-hosting.com",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "postal": "60306",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS44486",
+    "name": "Oliver Horscht is trading as \"SYNLINQ\"",
+    "domain": "synlinq.de",
+    "route": "103.252.88.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "From-Host Best Protected Server, 99.99% Uptime Guaranteed",
+    "domain": "intercolo.de",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "INTERCOLO GMBH, Carl-Goerdeler-Straße 114, 60320 FRAKFURT, GERMANY",
+    "country": "DE",
+    "email": "abuse@intercolo.net",
+    "name": "intercolo Ripe Coordination",
+    "network": "103.252.89.0/24",
+    "phone": "+49.69564060"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

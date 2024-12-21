@@ -1,0 +1,43 @@
+{
+  "ip": "70.182.130.92",
+  "hostname": "wsip-70-182-130-92.sb.sd.cox.net",
+  "city": "Santa Barbara",
+  "region": "California",
+  "country": "US",
+  "loc": "34.4208,-119.6982",
+  "postal": "93101",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS22773",
+    "name": "Cox Communications Inc.",
+    "domain": "cox.com",
+    "route": "70.182.130.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Cox Communications Inc.",
+    "domain": "cox.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, GA, Atlanta, 1400 Lake Hearn Drive, 30319",
+    "country": "US",
+    "email": "abuse@cox.com",
+    "name": "Cox Communications Inc",
+    "network": "70.182.130.0/23",
+    "phone": "+1-866-272-5111"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

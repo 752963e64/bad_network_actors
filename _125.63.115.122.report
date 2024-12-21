@@ -1,0 +1,42 @@
+{
+  "ip": "125.63.115.122",
+  "hostname": "125.63.115.122.reverse.spectranet.in",
+  "city": "Gurugram",
+  "region": "Haryana",
+  "country": "IN",
+  "loc": "28.4601,77.0263",
+  "postal": "122004",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS10029",
+    "name": "SHYAM SPECTRA PVT LTD",
+    "domain": "spectra.co",
+    "route": "125.63.115.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Shyam Spectra Pvt Ltd",
+    "domain": "spectra.co",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "3rd Floor, Plot No. 21-22 Udyog Vihar Phase-IV Gurgaon (Haryana) PIN 122015, Phase III",
+    "country": "IN",
+    "email": "abuseinfo@spectra.co",
+    "name": "IP Admin",
+    "network": "125.63.64.0/18",
+    "phone": "+91-11-66064800"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

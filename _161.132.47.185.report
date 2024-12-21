@@ -1,0 +1,41 @@
+{
+  "ip": "161.132.47.185",
+  "city": "Lima",
+  "region": "Lima Province",
+  "country": "PE",
+  "loc": "-12.0432,-77.0282",
+  "postal": "15001",
+  "timezone": "America/Lima",
+  "asn": {
+    "asn": "AS3132",
+    "name": "Red Cientifica Peruana",
+    "domain": "rcp.pe",
+    "route": "161.132.47.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Red Cientifica Peruana",
+    "domain": "rcp.net.pe",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Jiron Gonzales Prada, 585, -, 15047 - Lima, Surquillo - Lima",
+    "country": "PE",
+    "email": "rrodriguez@rcp.pe",
+    "name": "Ruben Rodriguez",
+    "network": "161.132.0.0/16",
+    "phone": "+51  17020138 [0000]"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

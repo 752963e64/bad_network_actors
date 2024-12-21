@@ -1,0 +1,47 @@
+{
+  "ip": "178.244.241.110",
+  "city": "Istanbul",
+  "region": "Istanbul",
+  "country": "TR",
+  "loc": "41.0138,28.9497",
+  "postal": "34096",
+  "timezone": "Europe/Istanbul",
+  "asn": {
+    "asn": "AS16135",
+    "name": "TURKCELL ILETISIM HIZMETLERI A.S.",
+    "domain": "turkcell.com",
+    "route": "178.244.240.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TURKCELL INTERNET",
+    "domain": "turkcell.com.tr",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Turkcell",
+    "mcc": "286",
+    "mnc": "01"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Aydinevler Mah. Inonu Cad. No:20 Kucukyali Ofispark Maltepe ISTANBUL",
+    "country": "TR",
+    "email": "abuse@turkcell.com.tr",
+    "name": "Turkcell Abuse Handling",
+    "network": "178.244.0.0/14",
+    "phone": "+90 216 458 10 00"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

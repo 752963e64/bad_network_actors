@@ -1,0 +1,36 @@
+{
+  "ip": "123.231.151.180",
+  "city": "Desa Kaler Gunungcupu",
+  "region": "West Java",
+  "country": "ID",
+  "loc": "-7.2948,108.2298",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS4800",
+    "name": "PT Aplikanusa Lintasarta",
+    "domain": "lintasarta.net",
+    "route": "123.231.151.0/24",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Kuningan Barat Gedung Cyber, Cyber Building, Jl. Kuningan Barat No.8, Jakarta Selatan 12710",
+    "country": "ID",
+    "email": "abuse@idnic.net",
+    "name": "LINTASARTA ADMINISTRATOR",
+    "network": "123.231.128.0/17",
+    "phone": "+62-21-2302345"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

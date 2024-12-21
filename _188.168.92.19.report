@@ -1,0 +1,43 @@
+{
+  "ip": "188.168.92.19",
+  "hostname": "188-168-92-19.dyn.nn.ttknn.net",
+  "city": "Nizhniy Novgorod",
+  "region": "Nizhny Novgorod Oblast",
+  "country": "RU",
+  "loc": "56.3287,44.0020",
+  "postal": "603000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS15774",
+    "name": "Limited Liability Company \"TTK-Svyaz\"",
+    "domain": "ttk.ru",
+    "route": "188.168.92.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TTK-NN/BRAS1 in NNovgorod",
+    "domain": "ttk.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "RUSSIAN FEDERATION, Moscow, 123112, Vereiskaya, 29, building 33, floor / ch.kom 6/4",
+    "country": "RU",
+    "email": "a.zorin@ttk.ru",
+    "name": "Abuse-C Role",
+    "network": "188.168.92.0/22",
+    "phone": "+7 495 7846677"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ip": "51.222.141.139",
+  "hostname": "vps-d5888ea6.vps.ovh.ca",
+  "city": "Montréal",
+  "region": "Quebec",
+  "country": "CA",
+  "loc": "45.5088,-73.5878",
+  "postal": "H3H",
+  "timezone": "America/Toronto",
+  "asn": {
+    "asn": "AS16276",
+    "name": "OVH SAS",
+    "domain": "ovhcloud.com",
+    "route": "51.222.0.0/16",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "OVH Hosting, Inc.",
+    "domain": "ovh.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CA, QC, Montreal, 800-1801 McGill College, H3A 2N4",
+    "country": "CA",
+    "email": "abuse@ovh.ca",
+    "name": "Abuse",
+    "network": "51.222.136.0/21",
+    "phone": "+1-855-684-5463"
+  },
+  "domains": {
+    "ip": "51.222.141.139",
+    "total": 1,
+    "domains": [
+      "legalnest.mx"
+    ]
+  }
+}

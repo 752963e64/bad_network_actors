@@ -1,0 +1,42 @@
+{
+  "ip": "5.188.206.54",
+  "city": "Sofia",
+  "region": "Sofia-Capital",
+  "country": "BG",
+  "loc": "42.6975,23.3241",
+  "postal": "1000",
+  "timezone": "Europe/Sofia",
+  "asn": {
+    "asn": "AS200391",
+    "name": "KREZ 999 EOOD",
+    "domain": "fastvps.biz",
+    "route": "5.188.206.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "VPS and Shared Hosting",
+    "domain": "fiberti.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "20st Floor, CMA Building, 64 Connaught Road Central, Hong Kong",
+    "country": "HK",
+    "email": "abuse@fasthost.ltd",
+    "name": "TAIL Contact Role",
+    "network": "5.188.206.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

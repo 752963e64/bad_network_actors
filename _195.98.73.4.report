@@ -1,0 +1,42 @@
+{
+  "ip": "195.98.73.4",
+  "city": "Voronezh",
+  "region": "Voronezh Oblast",
+  "country": "RU",
+  "loc": "51.6720,39.1843",
+  "postal": "394000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS6856",
+    "name": "AO IK \"Informsvyaz-Chernozemye\"",
+    "domain": "freedom-vrn.ru",
+    "route": "195.98.64.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CRK Voronezsvazinform",
+    "domain": "vmail.ru",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "35, pr Revolutsii,, 394000, Voronezh, Russian Federation",
+    "country": "RU",
+    "email": "postmaster@ic.vrn.ru",
+    "name": "Abuse-C Role",
+    "network": "195.98.72.0-195.98.73.15",
+    "phone": "+7 473 260 6060"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "ip": "108.167.178.116",
+  "hostname": "tho.thoughtboxx.com",
+  "city": "Atlanta",
+  "region": "Georgia",
+  "country": "US",
+  "loc": "33.7490,-84.3880",
+  "postal": "30302",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS19871",
+    "name": "Network Solutions, LLC",
+    "domain": "networksolutions.com",
+    "route": "108.167.178.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "WEBSITEWELCOME.COM (gator1808.hostgator.com)",
+    "domain": "websitewelcome.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, FL, Jacksonville, 5335 Gate Parkway, 32256",
+    "country": "US",
+    "email": "maulik.sheth@newfold.com",
+    "name": "ASNADMIN",
+    "network": "108.167.178.116/32",
+    "phone": "+1-904-680-6600"
+  },
+  "domains": {
+    "ip": "108.167.178.116",
+    "total": 1,
+    "domains": [
+      "mindtech.com"
+    ]
+  }
+}

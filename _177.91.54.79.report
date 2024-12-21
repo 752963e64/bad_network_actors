@@ -1,0 +1,43 @@
+{
+  "ip": "177.91.54.79",
+  "hostname": "177-91-54-79.wikitelecom.com.br",
+  "city": "São Luís",
+  "region": "Maranhão",
+  "country": "BR",
+  "loc": "-2.5297,-44.3028",
+  "postal": "65000-000",
+  "timezone": "America/Fortaleza",
+  "asn": {
+    "asn": "AS262503",
+    "name": "WIKI TELECOMUNICACOES EIRELI",
+    "domain": "wikitelecom.com.br",
+    "route": "177.91.54.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "WIKI TELECOMUNICACOES EIRELI",
+    "domain": "wikitelecom.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "baymafilho@gmail.com",
+    "name": "PAULO DE TARSO DE CARVALHO BAYMA FILHO",
+    "network": "177.91.52.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

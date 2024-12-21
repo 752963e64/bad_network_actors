@@ -1,0 +1,43 @@
+{
+  "ip": "87.27.251.208",
+  "hostname": "host-87-27-251-208.business.telecomitalia.it",
+  "city": "Genzano di Roma",
+  "region": "Lazio",
+  "country": "IT",
+  "loc": "41.7071,12.6890",
+  "postal": "00045",
+  "timezone": "Europe/Rome",
+  "asn": {
+    "asn": "AS3269",
+    "name": "Telecom Italia S.p.A.",
+    "domain": "telecomitalia.com",
+    "route": "87.27.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telecom Italia S.p.A. IPTV",
+    "domain": "tim.it",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Telecom Italia S.p.A., Abuse Consumer Customer Area",
+    "country": "IT",
+    "email": "abuse@retail.telecomitalia.it",
+    "name": "Abuse Consumer TIM",
+    "network": "87.26.0.0/15",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

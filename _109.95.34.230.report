@@ -1,0 +1,42 @@
+{
+  "ip": "109.95.34.230",
+  "city": "Kropyvnytskyy",
+  "region": "Kirovohrad",
+  "country": "UA",
+  "loc": "48.5083,32.2662",
+  "postal": "25000",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS31725",
+    "name": "ISP Shtorm LTD",
+    "domain": "shtorm.com",
+    "route": "109.95.32.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ISP Shtorm LTD",
+    "domain": "shtorm.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Pashutina 16, Kirovograd, 25006, Ukraine",
+    "country": "UA",
+    "email": "abuse@shtorm.com",
+    "name": "Shtorm ISP abuse role",
+    "network": "109.95.32.0/21",
+    "phone": "+380522301030"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

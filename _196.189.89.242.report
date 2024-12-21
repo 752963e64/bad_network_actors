@@ -1,0 +1,41 @@
+{
+  "ip": "196.189.89.242",
+  "city": "Addis Ababa",
+  "region": "Addis Ababa",
+  "country": "ET",
+  "loc": "9.0250,38.7469",
+  "timezone": "Africa/Addis_Ababa",
+  "asn": {
+    "asn": "AS24757",
+    "name": "Ethio Telecom",
+    "domain": "ethiotelecom.et",
+    "route": "196.188.0.0/14",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Ethio Telecom",
+    "domain": "ethiotelecom.et",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Churchill Road, Addis Ababa 1047, Ethiopia",
+    "country": "ET",
+    "email": "abuse@ethiotelecom.et",
+    "name": "Ethio Telecom",
+    "network": "196.189.88.0/23",
+    "phone": "tel:+251-93-001-1682"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

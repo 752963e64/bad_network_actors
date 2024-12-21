@@ -1,0 +1,42 @@
+{
+  "ip": "45.236.122.50",
+  "city": "São Paulo",
+  "region": "São Paulo",
+  "country": "BR",
+  "loc": "-23.5475,-46.6361",
+  "postal": "01000-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS268317",
+    "name": "CSTELECOM SERVICOS LTDA",
+    "domain": "cstelecomprovedor.com.br",
+    "route": "45.236.122.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CSTELECOM SERVICOS LTDA",
+    "domain": "cstelecomprovedor.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "ederaldoroso@hotmail.com",
+    "name": "EDERALDO APARECIDO DA COSTA",
+    "network": "45.236.122.0/23",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

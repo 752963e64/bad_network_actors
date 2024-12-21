@@ -1,0 +1,43 @@
+{
+  "ip": "106.51.50.128",
+  "hostname": "106.51.50.128.actcorp.in",
+  "city": "Coimbatore",
+  "region": "Tamil Nadu",
+  "country": "IN",
+  "loc": "11.0055,76.9661",
+  "postal": "641001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS131269",
+    "name": "Atria Convergence Technologies Ltd.,",
+    "domain": "actcorp.in",
+    "route": "106.51.48.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Atria Convergence Technologies Pvt. Ltd.,",
+    "domain": "acttv.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Atria Convergence Technologies Pvt Ltd, # 1, 2nd Floor, Indian Express Building,, Queen's Road, Bangalore - 560 001",
+    "country": "IN",
+    "email": "abuse@actcorp.in",
+    "name": "ABUSE CABLELITEIN",
+    "network": "106.51.0.0/17",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

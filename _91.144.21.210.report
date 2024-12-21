@@ -1,0 +1,40 @@
+{
+  "ip": "91.144.21.210",
+  "city": "Latakia",
+  "region": "Latakia",
+  "country": "SY",
+  "loc": "35.5317,35.7901",
+  "timezone": "Asia/Damascus",
+  "asn": {
+    "asn": "AS29256",
+    "name": "Syrian Telecommunication Private Closed Joint Stock Company",
+    "domain": "syriantelecom.sy",
+    "route": "91.144.16.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Tarassul Inetnet Service Provider",
+    "domain": "tarassul.sy",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Syrian Telecommunication Establishment Mezzeh Autostard Fayez Mansour St. P.O.Box: 35108 Damascus SYRIAN ARAB REPUBLIC",
+    "country": "SY",
+    "email": "exp-dir@net.sy",
+    "name": "Abuse-C Role",
+    "network": "91.144.16.0/20",
+    "phone": "+963-11-3739748"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

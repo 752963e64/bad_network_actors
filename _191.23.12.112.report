@@ -1,0 +1,42 @@
+{
+  "ip": "191.23.12.112",
+  "hostname": "191-23-12-112.user.vivozap.com.br",
+  "city": "Guaratinguetá",
+  "region": "São Paulo",
+  "country": "BR",
+  "loc": "-22.8164,-45.1925",
+  "postal": "12500-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS26599",
+    "name": "TELEFÔNICA BRASIL S.A",
+    "domain": "telefonica.com.br",
+    "route": "191.20.0.0/14",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TELEFÔNICA BRASIL S.A",
+    "domain": "telefonica.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse.br@telefonica.com",
+    "name": "CSIRT TELEFONICA BR",
+    "network": "191.20.0.0/14",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

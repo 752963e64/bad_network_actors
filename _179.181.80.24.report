@@ -1,0 +1,42 @@
+{
+  "ip": "179.181.80.24",
+  "city": "Joinville",
+  "region": "Santa Catarina",
+  "country": "BR",
+  "loc": "-26.3044,-48.8456",
+  "postal": "89200-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS18881",
+    "name": "TELEFÔNICA BRASIL S.A",
+    "domain": "telefonica.com.br",
+    "route": "179.181.80.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TELEFÔNICA BRASIL S.A",
+    "domain": "telefonica.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse.br@telefonica.com",
+    "name": "CSIRT TELEFONICA BR",
+    "network": "179.180.0.0/14",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

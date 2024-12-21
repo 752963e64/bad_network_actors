@@ -1,0 +1,41 @@
+{
+  "ip": "196.203.248.229",
+  "city": "Ben Arous",
+  "region": "Ben Arous Governorate",
+  "country": "TN",
+  "loc": "36.7545,10.2217",
+  "timezone": "Africa/Tunis",
+  "asn": {
+    "asn": "AS37705",
+    "name": "TOPNET",
+    "domain": "topnet.tn",
+    "route": "196.203.248.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ATI - Agence Tunisienne Internet",
+    "domain": "ati.tn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "13 Avenue Jugurtha, Tunis 1002, Tunisia",
+    "country": "TN",
+    "email": "adel@ati.tn",
+    "name": "Adel Houas",
+    "network": "196.203.0.0/16",
+    "phone": "tel:+216-71-843-843"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

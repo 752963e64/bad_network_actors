@@ -1,0 +1,42 @@
+{
+  "ip": "103.54.102.149",
+  "city": "Mohali",
+  "region": "Punjab",
+  "country": "IN",
+  "loc": "30.6800,76.7221",
+  "postal": "140308",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS133967",
+    "name": "Hardwork Cable and Internet Services Pvt Ltd",
+    "domain": "skybroadband.in",
+    "route": "103.54.102.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Hardwork Cable and Internet Services Pvt Ltd",
+    "domain": "skybroadband.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Booth No.41 Sector 40 Chandigarh",
+    "country": "IN",
+    "email": "skyhardwork@gmail.com",
+    "name": "IT ADMIN",
+    "network": "103.54.100.0/22",
+    "phone": "+91 09815553879"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

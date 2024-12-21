@@ -1,0 +1,48 @@
+{
+  "ip": "178.141.244.133",
+  "hostname": "dynamic-pppoe-178-141-244-133.kirov.pv.mts.ru",
+  "city": "Kirov",
+  "region": "Kirov Oblast",
+  "country": "RU",
+  "loc": "58.5966,49.6601",
+  "postal": "610000",
+  "timezone": "Europe/Kirov",
+  "asn": {
+    "asn": "AS8359",
+    "name": "MTS PJSC",
+    "domain": "mts.ru",
+    "route": "178.141.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Mobile Telesystems PJSC, Kirov branch",
+    "domain": "mts.ru",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "MTS",
+    "mcc": "250",
+    "mnc": "01"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC MTS / former CJSC Comstar-Direct, Smolenskaya-Sennaya, 27, P.O. BOX 38 123001, Moscow, Russia",
+    "country": "RU",
+    "email": "abuse@mtu.ru",
+    "name": "MTU Abuse-c Bender",
+    "network": "178.141.240.0/21",
+    "phone": "+7 495 956-00-00"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

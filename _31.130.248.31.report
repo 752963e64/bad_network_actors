@@ -1,0 +1,42 @@
+{
+  "ip": "31.130.248.31",
+  "city": "Nevinnomyssk",
+  "region": "Stavropol Kray",
+  "country": "RU",
+  "loc": "44.6333,41.9444",
+  "postal": "357100",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS51158",
+    "name": "Mobile Trend Ltd",
+    "domain": "mtrend.ru",
+    "route": "31.130.248.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Mobile Trend Ltd",
+    "domain": "mtrend.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Gagarina 217, Nevinnomyssk, 357106, Russia",
+    "country": "RU",
+    "email": "admin@mtrend.ru",
+    "name": "Abuse-C Role",
+    "network": "31.130.248.0/21",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

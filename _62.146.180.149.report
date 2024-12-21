@@ -1,0 +1,43 @@
+{
+  "ip": "62.146.180.149",
+  "hostname": "vmi2247876.contaboserver.net",
+  "city": "St. Louis",
+  "region": "Missouri",
+  "country": "US",
+  "loc": "38.6273,-90.1979",
+  "postal": "63101",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS40021",
+    "name": "Nubes, LLC",
+    "domain": "nubes-llc.com",
+    "route": "62.146.176.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Contabo GmbH",
+    "domain": "contabo.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Contabo GmbH, Aschauer Str. 32a, 81549 Muenchen, Germany",
+    "country": "DE",
+    "email": "abuse@contabo.de",
+    "name": "Contabo GmbH",
+    "network": "62.146.176.0/21",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

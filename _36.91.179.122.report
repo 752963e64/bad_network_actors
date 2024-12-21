@@ -1,0 +1,41 @@
+{
+  "ip": "36.91.179.122",
+  "city": "Utan",
+  "region": "Jakarta",
+  "country": "ID",
+  "loc": "-6.1769,106.9467",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS7713",
+    "name": "PT Telekomunikasi Indonesia",
+    "domain": "telin.net",
+    "route": "36.91.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PT Telekomunikasi Indonesia",
+    "domain": "telkom.co.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT. TELKOM INDONESIA, STO Telkom Gambir 3th Floor, Medan Merdeka Selatan, JAKARTA",
+    "country": "ID",
+    "email": "abuse@telkom.co.id",
+    "name": "ABUSE IDTELKOMID",
+    "network": "36.64.0.0/11",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "190.119.197.73",
+  "city": "Lima",
+  "region": "Lima Province",
+  "country": "PE",
+  "loc": "-12.0432,-77.0282",
+  "postal": "15001",
+  "timezone": "America/Lima",
+  "asn": {
+    "asn": "AS12252",
+    "name": "America Movil Peru S.A.C.",
+    "domain": "claro.com.pe",
+    "route": "190.119.192.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "America Movil Peru S.A.C.",
+    "domain": "claro.com.pe",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Carlos Villaran 140, Sta Catalina, La Victoria, 140,, 13 - Lima -",
+    "country": "PE",
+    "email": "clarolacnic@CLARO.COM.PE",
+    "name": "Claro Lacnic",
+    "network": "190.119.0.0/16",
+    "phone": "+51 1 6131000 []"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "77.71.33.100",
+  "hostname": "100-33.asparuhovo.net",
+  "city": "Varna",
+  "region": "Varna",
+  "country": "BG",
+  "loc": "43.2167,27.9167",
+  "postal": "9000",
+  "timezone": "Europe/Sofia",
+  "asn": {
+    "asn": "AS29687",
+    "name": "Geodim Ltd.",
+    "domain": "bgwan.com",
+    "route": "77.71.33.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Asparuhovo Net ISP",
+    "domain": "asparuhovo.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PEYO YAVOROV 11, 9004 Varna, 9004 Varna",
+    "country": "BG",
+    "email": "support@bgwan.com",
+    "name": "BGWAN Support",
+    "network": "77.71.32.0/20",
+    "phone": "+359 (52) 370374"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

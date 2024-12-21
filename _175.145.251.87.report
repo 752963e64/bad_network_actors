@@ -1,0 +1,42 @@
+{
+  "ip": "175.145.251.87",
+  "city": "Klang",
+  "region": "Selangor",
+  "country": "MY",
+  "loc": "3.0367,101.4433",
+  "postal": "41250",
+  "timezone": "Asia/Kuala_Lumpur",
+  "asn": {
+    "asn": "AS4788",
+    "name": "TM TECHNOLOGY SERVICES SDN. BHD.",
+    "domain": "tm.com.my",
+    "route": "175.145.192.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TMNST",
+    "domain": "tm.com.my",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+    "country": "MY",
+    "email": "abuse@tm.com.my",
+    "name": "ABUSE MYWEBE",
+    "network": "175.145.0.0/16",
+    "phone": "+601110001000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

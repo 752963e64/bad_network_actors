@@ -1,0 +1,43 @@
+{
+  "ip": "200.57.3.4",
+  "hostname": "ip4.sat.gob.mx",
+  "city": "Mexico City",
+  "region": "Mexico City",
+  "country": "MX",
+  "loc": "19.4285,-99.1277",
+  "postal": "03020",
+  "timezone": "America/Mexico_City",
+  "asn": {
+    "asn": "AS13440",
+    "name": "Operbes, S.A. de C.V.",
+    "domain": "bestel.com.mx",
+    "route": "200.57.3.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "Operbes, S.A. de C.V.",
+    "domain": "sat.gob.mx",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Javier Barros Sierra, 540, Col. Lomas de Santa Fe, 01219 - Deleg. Alvaro Obregon - CX",
+    "country": "MX",
+    "email": "abuse@BESTEL.COM.MX",
+    "name": "ABUSE OPERBES - SEGURIDAD DE RED",
+    "network": "200.57.3.0/24",
+    "phone": "+52  5540002222 []"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

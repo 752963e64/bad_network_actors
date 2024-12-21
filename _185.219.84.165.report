@@ -1,0 +1,43 @@
+{
+  "ip": "185.219.84.165",
+  "hostname": "165.84.219.185.dataforest.net",
+  "city": "Kriftel",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.0841,8.4698",
+  "postal": "65830",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS58212",
+    "name": "dataforest GmbH",
+    "domain": "dataforest.net",
+    "route": "185.219.84.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "dataforest GmbH",
+    "domain": "dataforest.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "dataforest GmbH, Taunusstr. 52, D-65830 Kriftel",
+    "country": "DE",
+    "email": "abuse@dataforest.net",
+    "name": "DF Abuse",
+    "network": "185.219.84.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

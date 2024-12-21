@@ -1,0 +1,41 @@
+{
+  "ip": "123.97.4.155",
+  "city": "Shanghai",
+  "region": "Shanghai",
+  "country": "CN",
+  "loc": "31.2222,121.4581",
+  "postal": "200000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4134",
+    "name": "CHINANET-BACKBONE",
+    "domain": "chinatelecom.com.cn",
+    "route": "123.96.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CHINANET-ZJ Taizhou node network",
+    "domain": "hz.zj.cn",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No. 257 Qingjiang Road, Hangzhou, Zhejiang.310066",
+    "country": "CN",
+    "email": "anti_spam_zjdx@189.cn",
+    "name": "CHINANET ZHEJIANG",
+    "network": "123.97.0.0/17",
+    "phone": "+86-571-86821752"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

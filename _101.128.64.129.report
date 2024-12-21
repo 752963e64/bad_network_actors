@@ -1,0 +1,41 @@
+{
+  "ip": "101.128.64.129",
+  "city": "Denpasar",
+  "region": "Bali",
+  "country": "ID",
+  "loc": "-8.6500,115.2167",
+  "timezone": "Asia/Makassar",
+  "asn": {
+    "asn": "AS135478",
+    "name": "PT. Cyberindo Aditama",
+    "domain": "cbn.id",
+    "route": "101.128.64.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PT Cyberindo Aditama",
+    "domain": "cbn.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT Cyberindo Aditama, Cyber 2 Tower - 33rd Floor, Jl. HR Rasuna Said Blok X5 No. 13, Jakarta 12950",
+    "country": "ID",
+    "email": "abuse@cbn.net.id",
+    "name": "CBNnet Hostmaster",
+    "network": "101.128.64.0/19",
+    "phone": "+62-21-2996-4900"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

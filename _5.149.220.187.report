@@ -1,0 +1,42 @@
+{
+  "ip": "5.149.220.187",
+  "hostname": "host-187-220-149-5.sevstar.net",
+  "city": "Sevastopol",
+  "region": "Sevastopol City",
+  "country": "UA",
+  "loc": "44.6080,33.5213",
+  "timezone": "Europe/Simferopol",
+  "asn": {
+    "asn": "AS35816",
+    "name": "Lancom Ltd.",
+    "domain": "sevstar.net",
+    "route": "5.149.208.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Lancom Ltd, Russia, Sevastopol",
+    "domain": "lancom.gr",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Lancom Ltd. Leonid Skripka Khrustalyova, 74a 299045 Russia",
+    "country": "RU",
+    "email": "lskripka@sevstar.net",
+    "name": "Abuse-C Role",
+    "network": "5.149.216.0/21",
+    "phone": "+78692539500"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "45.200.149.61",
+  "city": "Aachen",
+  "region": "North Rhine-Westphalia",
+  "country": "DE",
+  "loc": "50.7766,6.0834",
+  "postal": "52062",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS50580",
+    "name": "Mario Networks Limited",
+    "domain": "mario.gdn",
+    "route": "45.200.149.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "MARIO NETWORKS LIMITED",
+    "domain": "geofeed.space",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ebene, MU, Mahe, Seychelles",
+    "country": "SC",
+    "email": "abuse@cloudinnovation.org",
+    "name": "Cloud Innovation Support",
+    "network": "45.200.149.0/24",
+    "phone": "tel:+248-4-610-795"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

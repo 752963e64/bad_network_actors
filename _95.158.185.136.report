@@ -1,0 +1,42 @@
+{
+  "ip": "95.158.185.136",
+  "city": "Troyan",
+  "region": "Lovech",
+  "country": "BG",
+  "loc": "42.8943,24.7159",
+  "postal": "5600",
+  "timezone": "Europe/Sofia",
+  "asn": {
+    "asn": "AS58079",
+    "name": "Skynet Ltd",
+    "domain": "optitroyan.net",
+    "route": "95.158.185.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Skynet Ltd.",
+    "domain": "skynet.ru",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "2 Kukush str, office 102, 1309 Sofia, Bulgaria",
+    "country": "BG",
+    "email": "abuse@novatel.bg",
+    "name": "Abuse Team",
+    "network": "95.158.184.0/22",
+    "phone": "+359 888794440"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

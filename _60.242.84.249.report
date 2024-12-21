@@ -1,0 +1,43 @@
+{
+  "ip": "60.242.84.249",
+  "hostname": "60-242-84-249.static.tpgi.com.au",
+  "city": "Sydney",
+  "region": "New South Wales",
+  "country": "AU",
+  "loc": "-33.8678,151.2073",
+  "postal": "1001",
+  "timezone": "Australia/Sydney",
+  "asn": {
+    "asn": "AS7545",
+    "name": "TPG Telecom Limited",
+    "domain": "tpgtelecom.com.au",
+    "route": "60.242.84.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "MAXI INTERNET SERVICES",
+    "domain": "maxi.net.au",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TPG Internet Pty Ltd., (Part of the Total Peripherals Group), 65 Waterloo Road, North Ryde NSW 2113",
+    "country": "AU",
+    "email": "hostmaster@tpgtelecom.com.au",
+    "name": "ABUSE TPGCOMAU",
+    "network": "60.242.84.248/29",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

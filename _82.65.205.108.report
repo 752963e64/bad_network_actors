@@ -1,0 +1,43 @@
+{
+  "ip": "82.65.205.108",
+  "hostname": "82-65-205-108.subs.proxad.net",
+  "city": "Ponthierry",
+  "region": "Île-de-France",
+  "country": "FR",
+  "loc": "48.5337,2.5442",
+  "postal": "77240",
+  "timezone": "Europe/Paris",
+  "asn": {
+    "asn": "AS12322",
+    "name": "Free SAS",
+    "domain": "free.fr",
+    "route": "82.64.0.0/14",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Free SAS",
+    "domain": "free.fr",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Free SAS / ProXad, 8, rue de la Ville L'Eveque, 75008 Paris",
+    "country": "FR",
+    "email": "abuse@proxad.net",
+    "name": "Administrative Contact for ProXad",
+    "network": "82.64.0.0/14",
+    "phone": "+33 1 73 50 20 00"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

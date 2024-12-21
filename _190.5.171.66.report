@@ -1,0 +1,43 @@
+{
+  "ip": "190.5.171.66",
+  "hostname": "customer-190-5-171-66.megacable.com.ar",
+  "city": "Formosa",
+  "region": "Formosa",
+  "country": "AR",
+  "loc": "-26.1849,-58.1731",
+  "postal": "3600",
+  "timezone": "America/Argentina/Cordoba",
+  "asn": {
+    "asn": "AS28015",
+    "name": "MERCO COMUNICACIONES",
+    "domain": "gciservicios.com.ar",
+    "route": "190.5.171.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "MERCO COMUNICACIONES",
+    "domain": "gciservicios.com.ar",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "25 de Mayo, 565, ofic 5º, 1002 - Capital Federal - CF",
+    "country": "AR",
+    "email": "fbrandenburg@gciservicios.com.ar",
+    "name": "Federico Brandenburg",
+    "network": "190.5.160.0/19",
+    "phone": "+54 11 43158899 [21]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

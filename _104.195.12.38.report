@@ -1,0 +1,42 @@
+{
+  "ip": "104.195.12.38",
+  "city": "Los Angeles",
+  "region": "California",
+  "country": "US",
+  "loc": "34.0522,-118.2437",
+  "postal": "90009",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS22552",
+    "name": "eSited Solutions",
+    "domain": "esited.com",
+    "route": "104.195.0.0/18",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "eSited Solutions",
+    "domain": "esited.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Los Angles, 600 W 7th St, 90017",
+    "country": "US",
+    "email": "net-abuse@esited.com",
+    "name": "Abuse",
+    "network": "104.195.0.0/18",
+    "phone": "+1-701-390-9638"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

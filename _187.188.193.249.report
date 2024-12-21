@@ -1,0 +1,43 @@
+{
+  "ip": "187.188.193.249",
+  "hostname": "fixed-187-188-193-249.totalplay.net",
+  "city": "Tlalnepantla",
+  "region": "México",
+  "country": "MX",
+  "loc": "19.5401,-99.1954",
+  "postal": "50274",
+  "timezone": "America/Mexico_City",
+  "asn": {
+    "asn": "AS22884",
+    "name": "TOTAL PLAY TELECOMUNICACIONES SA DE CV",
+    "domain": "totalplay.com.mx",
+    "route": "187.188.193.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TOTAL PLAY TELECOMUNICACIONES SA DE CV",
+    "domain": "totalplay.com.mx",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Av. San Jeronimo, 252, Col.La Otra Banda, 04519 - Mexico - CX",
+    "country": "MX",
+    "email": "cdominguez@TOTALPLAY.COM.MX",
+    "name": "Christian Ivan Dominguez Trujillo",
+    "network": "187.188.0.0/15",
+    "phone": "+52  5551094400 [5331]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "62.221.131.142",
+  "city": "Pleven",
+  "region": "Pleven",
+  "country": "BG",
+  "loc": "43.4167,24.6167",
+  "postal": "5800",
+  "timezone": "Europe/Sofia",
+  "asn": {
+    "asn": "AS13124",
+    "name": "A1 Bulgaria EAD",
+    "domain": "a1.bg",
+    "route": "62.221.130.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "A1 Bulgaria EAD",
+    "domain": "a1.bg",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "1 Kukush Str. 1345, Sofia, Bulgaria",
+    "country": "BG",
+    "email": "RIPE.Abuse@a1.bg",
+    "name": "A1 Bulgaria EAD Abuse",
+    "network": "62.221.128.0-62.221.141.255",
+    "phone": "+359 88220"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "103.102.230.2",
+  "city": "Montréal",
+  "region": "Quebec",
+  "country": "CA",
+  "loc": "45.5088,-73.5878",
+  "postal": "H3H",
+  "timezone": "America/Toronto",
+  "asn": {
+    "asn": "AS216167",
+    "name": "Skoali SAS",
+    "domain": "skoali.com",
+    "route": "103.102.230.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Skoali",
+    "domain": "skoali.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "6 rue Armaillé, 75017 Paris, FR",
+    "country": "FR",
+    "email": "abuse@skoali.com",
+    "name": "Skoali",
+    "network": "103.102.228.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

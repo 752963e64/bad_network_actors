@@ -1,0 +1,41 @@
+{
+  "ip": "103.72.168.145",
+  "city": "Ludhiāna",
+  "region": "Punjab",
+  "country": "IN",
+  "loc": "30.9120,75.8538",
+  "postal": "141120",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS133661",
+    "name": "Netplus Broadband Services Private Limited",
+    "domain": "netplus.co.in",
+    "route": "103.72.168.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Netplus Broadband Services Private Limited",
+    "domain": "netplus.co.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "5th Floor, Grandwalk Mall, Ferozpur Road,Ludhiana,Punjab-141002",
+    "country": "IN",
+    "email": "fastspacespvtltd@gmail.com",
+    "name": "MANAGER IT",
+    "network": "103.72.168.0/22",
+    "phone": "+91 01614044444"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

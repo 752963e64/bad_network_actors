@@ -1,0 +1,41 @@
+{
+  "ip": "98.98.170.187",
+  "city": "Madrid",
+  "region": "Madrid",
+  "country": "ES",
+  "loc": "40.4165,-3.7026",
+  "postal": "28004",
+  "timezone": "Europe/Madrid",
+  "asn": {
+    "asn": "AS21859",
+    "name": "Zenlayer Inc",
+    "domain": "zenlayer.com",
+    "route": "98.98.170.0/23",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Zenlayer Inc",
+    "domain": "zenlayer.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "metrovpn"
+  },
+  "abuse": {
+    "address": "US, CA, Los Angeles, 900 N. Alameda St. Suite E, 90017",
+    "country": "US",
+    "email": "abuse@zenlayer.com",
+    "name": "SOC Ops",
+    "network": "98.98.0.0/16",
+    "phone": "+1-909-718-3558"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

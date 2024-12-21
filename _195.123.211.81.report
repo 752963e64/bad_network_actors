@@ -1,0 +1,43 @@
+{
+  "ip": "195.123.211.81",
+  "hostname": "vds1077819.hosted-by-itldc.com",
+  "city": "Riga",
+  "region": "Riga",
+  "country": "LV",
+  "loc": "56.9460,24.1059",
+  "postal": "LV-1001",
+  "timezone": "Europe/Riga",
+  "asn": {
+    "asn": "AS50979",
+    "name": "GREEN FLOID LLC",
+    "domain": "greenfloid.com",
+    "route": "195.123.208.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Green Floid LLC",
+    "domain": "itldc.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "WorldVPN"
+  },
+  "abuse": {
+    "address": "East Jefferson Street, 2707, Orlando, FL, 32803, USA",
+    "country": "US",
+    "email": "abuse@greenfloid.com",
+    "name": "GreenFloid Abuse handler",
+    "network": "195.123.208.0/21",
+    "phone": "+1 561 2500001"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "74.3.163.47",
+  "city": "Vancouver",
+  "region": "British Columbia",
+  "country": "CA",
+  "loc": "49.2497,-123.1193",
+  "postal": "V5Y",
+  "timezone": "America/Vancouver",
+  "asn": {
+    "asn": "AS11831",
+    "name": "eSecureData",
+    "domain": "esecuredata.com",
+    "route": "74.3.163.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "eSecureData",
+    "domain": "esecuredata.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": "Hide My IP VPN"
+  },
+  "abuse": {
+    "address": "CA, AB, Calgary, Suite 800,, 630 - 3rd Ave. SW, T2P-4L4",
+    "country": "CA",
+    "email": "internet.abuse@sjrb.ca",
+    "name": "SHAW ABUSE",
+    "network": "74.3.160.0/20",
+    "phone": "+1-403-750-7420"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

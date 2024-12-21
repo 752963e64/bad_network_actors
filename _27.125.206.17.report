@@ -1,0 +1,45 @@
+{
+  "ip": "27.125.206.17",
+  "city": "Tokyo",
+  "region": "Tokyo",
+  "country": "JP",
+  "loc": "35.6895,139.6917",
+  "postal": "101-8656",
+  "timezone": "Asia/Tokyo",
+  "asn": {
+    "asn": "AS55383",
+    "name": "YYY Group, Inc.",
+    "domain": "odn.ad.jp",
+    "route": "27.125.206.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "YYY Group, Inc.",
+    "domain": "yyy-group.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",
+    "country": "JP",
+    "email": "hostmaster@nic.ad.jp",
+    "name": "",
+    "network": "27.125.204.0/22",
+    "phone": "+81-3-5297-2311"
+  },
+  "domains": {
+    "ip": "27.125.206.17",
+    "total": 2,
+    "domains": [
+      "nato99.com",
+      "xn--o80bu1t35cu2z.com"
+    ]
+  }
+}

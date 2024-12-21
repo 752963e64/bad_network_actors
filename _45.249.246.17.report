@@ -1,0 +1,45 @@
+{
+  "ip": "45.249.246.17",
+  "city": "Hong Kong",
+  "region": "Hong Kong",
+  "country": "HK",
+  "loc": "22.2783,114.1747",
+  "postal": "999077",
+  "timezone": "Asia/Hong_Kong",
+  "asn": {
+    "asn": "AS135377",
+    "name": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "domain": "ucloud.cn",
+    "route": "45.249.246.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "domain": "ucloud.cn",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "FLAT/RM 603 6/F, LAWS COMMERCIAL PLAZA, 788 CHEUNG SHA WAN ROAD, KL,, Hong Kong",
+    "country": "HK",
+    "email": "hegui@ucloud.cn",
+    "name": "ABUSE UCLOUDHK",
+    "network": "45.249.246.0/24",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "ip": "45.249.246.17",
+    "total": 2,
+    "domains": [
+      "dawanghardware.com",
+      "kyoplan.co.jp"
+    ]
+  }
+}

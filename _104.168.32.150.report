@@ -1,0 +1,43 @@
+{
+  "ip": "104.168.32.150",
+  "hostname": "104-168-32-150-host.colocrossing.com",
+  "city": "Buffalo",
+  "region": "New York",
+  "country": "US",
+  "loc": "42.8865,-78.8784",
+  "postal": "14202",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS36352",
+    "name": "HostPapa",
+    "domain": "colocrossing.com",
+    "route": "104.168.32.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "HostPapa",
+    "domain": "colocrossing.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, NY, Buffalo, 325 Delaware Avenue, Suite 300, 14202",
+    "country": "US",
+    "email": "net-abuse-global@hostpapa.com",
+    "name": "NETABUSE",
+    "network": "104.168.32.128/25",
+    "phone": "+1-905-315-3455"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

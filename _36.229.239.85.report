@@ -1,0 +1,42 @@
+{
+  "ip": "36.229.239.85",
+  "hostname": "36-229-239-85.dynamic-ip.hinet.net",
+  "city": "Yilan",
+  "region": "Taiwan",
+  "country": "TW",
+  "loc": "24.7570,121.7530",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS3462",
+    "name": "Data Communication Business Group",
+    "domain": "hinet.net",
+    "route": "36.229.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Chunghwa Telecom Co.,Ltd.",
+    "domain": "cht.com.tw",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Taipei Taiwan",
+    "country": "TW",
+    "email": "network-adm@hinet.net",
+    "name": "HINET",
+    "network": "36.229.0.0/16",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

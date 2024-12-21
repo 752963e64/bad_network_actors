@@ -1,0 +1,42 @@
+{
+  "ip": "41.33.82.171",
+  "hostname": "stelladimare.com",
+  "city": "Ain Sukhna",
+  "region": "Suez",
+  "country": "EG",
+  "loc": "29.6002,32.3167",
+  "timezone": "Africa/Cairo",
+  "asn": {
+    "asn": "AS8452",
+    "name": "TE-AS",
+    "domain": "te.eg",
+    "route": "41.33.0.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TE Data",
+    "domain": "tedata.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TE Data, Smart Village, Building A11-B90, Alex Desert Road,, 28 Km, 6th October 12577, Giza, Egypt",
+    "country": "EG",
+    "email": "abuse@te.eg",
+    "name": "TE Data Contact Role",
+    "network": "41.33.0.0/16",
+    "phone": "tel:+20-2-3320700"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "114.199.107.135",
+  "hostname": "ip-114-199-107-135.netzap.net.id",
+  "city": "South Tangerang",
+  "region": "Banten",
+  "country": "ID",
+  "loc": "-6.2886,106.7179",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS24525",
+    "name": "PT Solusi Aksesindo Pratama",
+    "domain": "net-zap.com",
+    "route": "114.199.107.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "netZAP Wireless Broadband Provider",
+    "domain": "netzap.net.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT. Solusi Aksesindo Pratama, Jl. Gunawarman No. 67, Kebayoran Baru, Jakarta 12180",
+    "country": "ID",
+    "email": "abuse@netzap.net.id",
+    "name": "netZAP Wireless Broadband Provider",
+    "network": "114.199.96.0/19",
+    "phone": "+62 21 7396364"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

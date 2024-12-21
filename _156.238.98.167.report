@@ -1,0 +1,42 @@
+{
+  "ip": "156.238.98.167",
+  "city": "Indore",
+  "region": "Madhya Pradesh",
+  "country": "IN",
+  "loc": "22.7179,75.8333",
+  "postal": "452002",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS59187",
+    "name": "NEEVAI SUPERCLOUD PVT LTD",
+    "domain": "neevcloud.com",
+    "route": "156.238.98.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "Neevai supercloud private limited",
+    "domain": "cloudinnovation.org",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ebene, MU, Mahe, Seychelles",
+    "country": "SC",
+    "email": "abuse@cloudinnovation.org",
+    "name": "Cloud Innovation Support",
+    "network": "156.238.98.0/24",
+    "phone": "tel:+248-4-610-795"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

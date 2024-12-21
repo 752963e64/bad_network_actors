@@ -1,0 +1,41 @@
+{
+  "ip": "113.30.150.23",
+  "city": "Milan",
+  "region": "Lombardy",
+  "country": "IT",
+  "loc": "45.4643,9.1895",
+  "postal": "20144",
+  "timezone": "Europe/Rome",
+  "asn": {
+    "asn": "AS36007",
+    "name": "Kamatera, Inc.",
+    "domain": "kamatera.com",
+    "route": "113.30.150.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Kamatera Inc",
+    "domain": "kamatera.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "X-VPN"
+  },
+  "abuse": {
+    "address": "15 Madison Ave., New York City, New York, USA",
+    "country": "US",
+    "email": "abuse@cloudwm.com",
+    "name": "Cloud Web Manage",
+    "network": "113.30.150.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

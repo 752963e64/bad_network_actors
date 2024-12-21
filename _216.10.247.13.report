@@ -1,0 +1,42 @@
+{
+  "ip": "216.10.247.13",
+  "hostname": "216-10-247-13.webhostbox.net",
+  "city": "Mumbai",
+  "region": "Maharashtra",
+  "country": "IN",
+  "loc": "19.0728,72.8826",
+  "postal": "400017",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS394695",
+    "name": "PDR",
+    "domain": "publicdomainregistry.com",
+    "route": "216.10.247.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "P.D.R Solutions FZC",
+    "domain": "publicdomainregistry.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "GPX India. Unit A-001 Boomerang Chandivali Farm Road Andheri East, Mumbai 400072, India",
+    "country": "IN",
+    "email": "abuse@publicdomainregistry.com",
+    "name": "ABUSE INGPX",
+    "network": "216.10.240.0/20",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

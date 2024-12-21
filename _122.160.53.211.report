@@ -1,0 +1,43 @@
+{
+  "ip": "122.160.53.211",
+  "hostname": "abts-north-static-211.53.160.122.airtelbroadband.in",
+  "city": "Kolkata",
+  "region": "West Bengal",
+  "country": "IN",
+  "loc": "22.5626,88.3630",
+  "postal": "700001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS24560",
+    "name": "Bharti Airtel Ltd., Telemedia Services",
+    "domain": "airtel.com",
+    "route": "122.160.53.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ABTS DELHI,",
+    "domain": "airtel.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Bharti Airtel Ltd., ISP Division - Transport Network Group, 234 , Okhla Industrial Estate,, Phase III, New Delhi-110020, INDIA",
+    "country": "IN",
+    "email": "ip.misuse@airtel.com",
+    "name": "ABUSE BHARTIIN",
+    "network": "122.160.0.0/14",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

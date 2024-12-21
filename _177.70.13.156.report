@@ -1,0 +1,43 @@
+{
+  "ip": "177.70.13.156",
+  "hostname": "none.underplatform.com",
+  "city": "São Paulo",
+  "region": "São Paulo",
+  "country": "BR",
+  "loc": "-23.5475,-46.6361",
+  "postal": "01000-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS28209",
+    "name": "Under Servicos de Internet Ltda",
+    "domain": "under.com.br",
+    "route": "177.70.12.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Under Servicos de Internet Ltda",
+    "domain": "underplatform.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse@under.com.br",
+    "name": "Abuse Dept. Webservidor",
+    "network": "177.70.0.0/19",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

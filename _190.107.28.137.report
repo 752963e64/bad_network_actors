@@ -1,0 +1,42 @@
+{
+  "ip": "190.107.28.137",
+  "hostname": "dumianmedical.net",
+  "city": "Popayán",
+  "region": "Cauca Department",
+  "country": "CO",
+  "loc": "2.4382,-76.6132",
+  "postal": "190001",
+  "timezone": "America/Bogota",
+  "asn": {
+    "asn": "AS27951",
+    "name": "Media Commerce Partners S.A",
+    "domain": "mc.net.co",
+    "route": "190.107.28.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Media Commerce Partners S.A",
+    "domain": "mediacommerce.com.co",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "AV 30 DE AGOSTO N 87-787, 1, 54, 6601 - Pereira - Ri",
+    "country": "CO",
+    "email": "interconexion@mc.net.co",
+    "name": "Pedro Eduardo Vera Garcia",
+    "network": "190.107.16.0/20",
+    "phone": "+57  63112700 [11661]"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "59.184.180.233",
+  "hostname": "triband-mum-59.184.180.233.mtnl.net.in",
+  "city": "Saugor",
+  "region": "Madhya Pradesh",
+  "country": "IN",
+  "loc": "23.8388,78.7387",
+  "postal": "470001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS9829",
+    "name": "National Internet Backbone",
+    "domain": "bsnl.co.in",
+    "route": "59.184.176.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Mahanagar Telephone Nigam Limited",
+    "domain": "mtnl.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Jeevan Bharati Building, Tower 1, 12th Floor, 124, Connaught Circus, New Delhi",
+    "country": "IN",
+    "email": "abusemtnl@bol.net.in",
+    "name": "Amarjeetkaur Bedi",
+    "network": "59.176.0.0-59.185.255.255",
+    "phone": "+91 01124325185"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

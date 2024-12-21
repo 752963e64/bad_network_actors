@@ -1,0 +1,43 @@
+{
+  "ip": "103.197.115.106",
+  "hostname": "ws106-115.197.103.rcil.gov.in",
+  "city": "Bellary",
+  "region": "Karnataka",
+  "country": "IN",
+  "loc": "15.1420,76.9240",
+  "postal": "583101",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS24186",
+    "name": "RailTel Corporation of India Ltd",
+    "domain": "railtelindia.com",
+    "route": "103.197.115.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "RailTel Corporation is an Internet Service Provider.",
+    "domain": "railtel.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Plate-A, 6th Floor, Office Block Tower-2,, East Kidwai Nagar, New Delhi-110023",
+    "country": "IN",
+    "email": "ipadmin@railtel.in",
+    "name": "Network Administrator",
+    "network": "103.197.112.0/22",
+    "phone": "+91 11 22900600"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

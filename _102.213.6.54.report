@@ -1,0 +1,43 @@
+{
+  "ip": "102.213.6.54",
+  "hostname": "102-213-6-54.rackzar.com",
+  "city": "Cape Town",
+  "region": "Western Cape",
+  "country": "ZA",
+  "loc": "-33.9258,18.4232",
+  "postal": "7945",
+  "timezone": "Africa/Johannesburg",
+  "asn": {
+    "asn": "AS329206",
+    "name": "Rackzar  (Pty) Ltd",
+    "domain": "rackzar.com",
+    "route": "102.213.6.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "VPS-HOSTING",
+    "domain": "rackzar.co.za",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "M5 Park, 1 Eastman Road, Maitland",
+    "country": "ZA",
+    "email": "david@rackzar.com",
+    "name": "David Shiffman",
+    "network": "102.213.6.0/24",
+    "phone": "tel:+27-87-550-1553"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

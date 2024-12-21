@@ -1,0 +1,43 @@
+{
+  "ip": "35.216.185.223",
+  "hostname": "223.185.216.35.bc.googleusercontent.com",
+  "city": "Zürich",
+  "region": "Zurich",
+  "country": "CH",
+  "loc": "47.3667,8.5500",
+  "postal": "8000",
+  "timezone": "Europe/Zurich",
+  "asn": {
+    "asn": "AS19527",
+    "name": "Google LLC",
+    "domain": "google.com",
+    "route": "35.216.128.0/17",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Google LLC",
+    "domain": "google.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Mountain View, 1600 Amphitheatre Parkway, 94043",
+    "country": "US",
+    "email": "google-cloud-compliance@google.com",
+    "name": "GC Abuse",
+    "network": "35.208.0.0-35.247.255.255",
+    "phone": "+1-650-253-0000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "103.107.24.106",
+  "city": "Secunderabad",
+  "region": "Telangana",
+  "country": "IN",
+  "loc": "17.5043,78.5426",
+  "postal": "500070",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS45117",
+    "name": "Ishan's Network",
+    "domain": "ishanitech.biz",
+    "route": "103.107.24.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Ishan Netsol Pvt Ltd",
+    "domain": "ishanitech.biz",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "315-316 Shivam Complex, Opp. Jagnath Temple, Dr. Yagnik Road, Rajkot",
+    "country": "IN",
+    "email": "reportabuse@ishanitech.biz",
+    "name": "ISHAN NETSOL PVT LTD - network administrator",
+    "network": "103.107.24.0/22",
+    "phone": "+91 2816647426"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

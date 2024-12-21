@@ -1,0 +1,43 @@
+{
+  "ip": "93.118.150.142",
+  "city": "Shiraz",
+  "region": "Fars",
+  "country": "IR",
+  "loc": "29.6103,52.5311",
+  "timezone": "Asia/Tehran",
+  "asn": {
+    "asn": "AS58224",
+    "name": "Iran Telecommunication Company PJS",
+    "domain": "tci.ir",
+    "route": "93.118.128.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telecommunication Company of Tehran",
+    "domain": "tci.ir",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Tehran - Shahed Building - Telecommunication Company of Iran",
+    "country": "IR",
+    "email": "abuse-tehran@tci.ir",
+    "name": "Abuse Contact",
+    "network": "93.118.128.0/19",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "93.118.150.142",
+    "total": 1,
+    "domains": [
+      "hospitalkhanevadeh.ir"
+    ]
+  }
+}

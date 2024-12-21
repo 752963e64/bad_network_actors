@@ -1,0 +1,42 @@
+{
+  "ip": "146.196.63.236",
+  "city": "Darbhanga",
+  "region": "Bihar",
+  "country": "IN",
+  "loc": "26.1522,85.8971",
+  "postal": "847306",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS134874",
+    "name": "Acme Diginet Corporation Pvt. Ltd.",
+    "domain": "digitalacme.com",
+    "route": "146.196.63.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Acme Diginet Corporation Pvt. Ltd.",
+    "domain": "adcpl.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "402 Hem Shyam Center, Exhibition road, Patna, Bihar",
+    "country": "IN",
+    "email": "nishant@digitalacme.com",
+    "name": "ADMIN ACME",
+    "network": "146.196.60.0/22",
+    "phone": "+91 7766906609"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

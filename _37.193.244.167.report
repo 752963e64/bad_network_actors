@@ -1,0 +1,43 @@
+{
+  "ip": "37.193.244.167",
+  "hostname": "l37-193-244-167.novotelecom.ru",
+  "city": "Novosibirsk",
+  "region": "Novosibirsk Oblast",
+  "country": "RU",
+  "loc": "55.0415,82.9346",
+  "postal": "630000",
+  "timezone": "Asia/Novosibirsk",
+  "asn": {
+    "asn": "AS31200",
+    "name": "Novotelecom Ltd",
+    "domain": "novotelecom.ru",
+    "route": "37.193.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Novotelecom Ltd",
+    "domain": "novotelecom.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Novotelecom Network Operation Center, 630099, Semja Shamshinyh 22/1, Novosibirsk, Russia Federation",
+    "country": "RU",
+    "email": "noc@novotelecom.ru",
+    "name": "NOC NOVOTELECOM",
+    "network": "37.193.240.0/21",
+    "phone": "+7 383 2090000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

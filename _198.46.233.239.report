@@ -1,0 +1,42 @@
+{
+  "ip": "198.46.233.239",
+  "hostname": "198-46-233-239-host.colocrossing.com",
+  "city": "Dallas",
+  "region": "Texas",
+  "country": "US",
+  "loc": "32.7831,-96.8067",
+  "postal": "75201",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS36352",
+    "name": "HostPapa",
+    "domain": "colocrossing.com",
+    "route": "198.46.232.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "RackNerd LLC",
+    "domain": "racknerd.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Rancho Cucamonga, 10602 N. Trademark Pkwy Suite #511, 91730",
+    "country": "US",
+    "email": "reportabuse@racknerd.com",
+    "name": "RackNerd Abuse Department",
+    "network": "198.46.233.224/27",
+    "phone": "+1-888-881-6373"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "196.221.149.252",
+  "city": "Cairo",
+  "region": "Cairo",
+  "country": "EG",
+  "loc": "30.0626,31.2497",
+  "timezone": "Africa/Cairo",
+  "asn": {
+    "asn": "AS24835",
+    "name": "Vodafone Data",
+    "domain": "vodafone.com.eg",
+    "route": "196.221.148.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "RT-ADSL-project",
+    "domain": "rayatelecom.net",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "RAYA Telecom, 23 Nahda St.,off Saad-el-aali st.,Maadi, 11431, Cairo, Egypt",
+    "country": "EG",
+    "email": "rayaadmin@rayatelecom.net",
+    "name": "Raya Telecom",
+    "network": "196.221.49.0-196.221.255.255",
+    "phone": "+202 7680900"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "2.179.164.37",
+  "city": "Shiraz",
+  "region": "Fars",
+  "country": "IR",
+  "loc": "29.6103,52.5311",
+  "timezone": "Asia/Tehran",
+  "asn": {
+    "asn": "AS58224",
+    "name": "Iran Telecommunication Company PJS",
+    "domain": "tci.ir",
+    "route": "2.179.164.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Data Office of qom for adsl users",
+    "domain": "ito.gov.ir",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Information Technology Company Ali Asghar Ansari Bayhaghi 1515674311 Teheran IRAN, ISLAMIC REPUBLIC OF",
+    "country": "IR",
+    "email": "abuse@ito.gov.ir",
+    "name": "Abuse-C Role",
+    "network": "2.179.164.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

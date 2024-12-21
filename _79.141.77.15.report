@@ -1,0 +1,41 @@
+{
+  "ip": "79.141.77.15",
+  "city": "Novosibirsk",
+  "region": "Novosibirsk Oblast",
+  "country": "RU",
+  "loc": "55.0415,82.9346",
+  "postal": "630000",
+  "timezone": "Asia/Novosibirsk",
+  "asn": {
+    "asn": "AS61976",
+    "name": "JSC Selectel",
+    "domain": "selectel.ru",
+    "route": "79.141.64.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Selectel Network",
+    "domain": "selectel.ru",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "OOO \"Network of data-centers \"Selectel\", Tsvetochnaya 21, 196006, Saint-Petersburg, RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "abuse@selectel.ru",
+    "name": "Selectel Network",
+    "network": "79.141.77.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

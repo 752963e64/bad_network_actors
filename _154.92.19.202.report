@@ -1,0 +1,44 @@
+{
+  "ip": "154.92.19.202",
+  "city": "Hong Kong",
+  "region": "Hong Kong",
+  "country": "HK",
+  "loc": "22.2783,114.1747",
+  "postal": "999077",
+  "timezone": "Asia/Hong_Kong",
+  "asn": {
+    "asn": "AS142403",
+    "name": "YISU CLOUD LTD",
+    "domain": "yisu.com",
+    "route": "154.92.19.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Yisu Cloud Ltd",
+    "domain": "cloudinnovation.org",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ebene, MU, Mahe, Seychelles",
+    "country": "SC",
+    "email": "abuse@cloudinnovation.org",
+    "name": "Cloud Innovation Support",
+    "network": "154.92.19.0/24",
+    "phone": "tel:+248-4-610-795"
+  },
+  "domains": {
+    "ip": "154.92.19.202",
+    "total": 1,
+    "domains": [
+      "alijpay.com"
+    ]
+  }
+}

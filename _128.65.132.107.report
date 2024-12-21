@@ -1,0 +1,45 @@
+{
+  "ip": "128.65.132.107",
+  "city": "Vienna",
+  "region": "Vienna",
+  "country": "AT",
+  "loc": "48.2167,16.4000",
+  "postal": "1020",
+  "timezone": "Europe/Vienna",
+  "asn": {
+    "asn": "AS12930",
+    "name": "card complete Service Bank AG",
+    "domain": "cardcomplete.com",
+    "route": "128.65.128.0/21",
+    "type": "business"
+  },
+  "company": {
+    "name": "card complete Service Bank AG",
+    "domain": "cardcomplete.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "card complete Service Bank AG, Invalidenstrasse 2, 1030 Wien, AT",
+    "country": "AT",
+    "email": "abuse@cardcomplete.com",
+    "name": "card complete Service Bank AG",
+    "network": "128.65.129.0-128.65.135.255",
+    "phone": "+43 1 711 11 0"
+  },
+  "domains": {
+    "ip": "128.65.132.107",
+    "total": 2,
+    "domains": [
+      "cardcomplete.com",
+      "cardcomplete.at"
+    ]
+  }
+}

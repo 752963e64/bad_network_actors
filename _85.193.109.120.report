@@ -1,0 +1,46 @@
+{
+  "ip": "85.193.109.120",
+  "city": "Satpayev",
+  "region": "Ulytau Region",
+  "country": "KZ",
+  "loc": "47.9041,67.5411",
+  "timezone": "Asia/Almaty",
+  "asn": {
+    "asn": "AS48503",
+    "name": "Mobile Telecom-Service LLP",
+    "domain": "tele2.kz",
+    "route": "85.193.104.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Tele2 Kazakhstan",
+    "domain": "tele2.kz",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Tele2.kz",
+    "mcc": "401",
+    "mnc": "77"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "A15E5G2, Gagarin st. 272, Almaty, KZ",
+    "country": "KZ",
+    "email": "abuse@tele2.kz",
+    "name": "Tele2 Kazakhstan",
+    "network": "85.193.96.0/19",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "103.84.69.62",
+  "city": "Mumbai",
+  "region": "Maharashtra",
+  "country": "IN",
+  "loc": "19.0728,72.8826",
+  "postal": "400017",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS132566",
+    "name": "Skynet Broadband Plus Solution",
+    "domain": "skynetmp.com",
+    "route": "103.84.69.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Arnav Enterprises",
+    "domain": "crickstore.net",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "G-15, 12/2 RNT Marg, Chetak Center, Near madhumilan Choraha,Indore,Madhya Pradesh-452001",
+    "country": "IN",
+    "email": "arnavep@gmail.com",
+    "name": "Rachita Shah",
+    "network": "103.84.68.0/22",
+    "phone": "+91 07314244458"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

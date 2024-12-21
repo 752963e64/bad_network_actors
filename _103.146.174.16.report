@@ -1,0 +1,43 @@
+{
+  "ip": "103.146.174.16",
+  "hostname": "keralavisionisp-dynamic-16.174.146.103.keralavisionisp.com",
+  "city": "Irinjālakuda",
+  "region": "Kerala",
+  "country": "IN",
+  "loc": "10.4138,76.2606",
+  "postal": "680301",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS138754",
+    "name": "Kerala Vision Broad Band Private Limited",
+    "domain": "keralavisionisp.com",
+    "route": "103.146.174.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Kerala Vision Broad Band Private Limited",
+    "domain": "keralavisionisp.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "GALEELA TOWER, BYE PASS JUNCTION, MEENCHANDA P.O.GOVT.ARTSANDSCIENCE COLLEGE CALICUT-673018,Kozhikode,Kerala",
+    "country": "IN",
+    "email": "vinodkrishna66@gmail.com",
+    "name": "noc manager",
+    "network": "103.146.174.0/23",
+    "phone": "+91 49523678459"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

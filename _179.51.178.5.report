@@ -1,0 +1,42 @@
+{
+  "ip": "179.51.178.5",
+  "hostname": "179-51-178-5.netsimas.com.br",
+  "city": "São José de Ribamar",
+  "region": "Maranhão",
+  "country": "BR",
+  "loc": "-2.5557,-44.0599",
+  "postal": "65110-000",
+  "timezone": "America/Fortaleza",
+  "asn": {
+    "asn": "AS271175",
+    "name": "ARACAGYNET LTDA",
+    "domain": "aracagynet.com.br",
+    "route": "179.51.178.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ARACAGYNET LTDA",
+    "domain": "netsimas.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "aracagynet@gmail.com",
+    "name": "Luzianne Castro Simas",
+    "network": "179.51.176.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

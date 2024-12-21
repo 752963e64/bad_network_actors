@@ -1,0 +1,43 @@
+{
+  "ip": "181.212.70.38",
+  "hostname": "181-212-70-38.baf.movistar.cl",
+  "city": "Santiago",
+  "region": "Santiago Metropolitan",
+  "country": "CL",
+  "loc": "-33.4569,-70.6483",
+  "postal": "8320000",
+  "timezone": "America/Santiago",
+  "asn": {
+    "asn": "AS16629",
+    "name": "CTC. CORP S.A. (TELEFONICA EMPRESAS)",
+    "domain": "movistar.cl",
+    "route": "181.212.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TELEFONICA EMPRESAS CHILE SA",
+    "domain": "movistar.cl",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Providencia, 111, Piso 3, 8320215 - santiago - Metropolitana",
+    "country": "CL",
+    "email": "tecnical.isp.movistar@gmail.com",
+    "name": "Technical Contact Telefonica Chile",
+    "network": "181.212.0.0/16",
+    "phone": "+56  26616815 [0000]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

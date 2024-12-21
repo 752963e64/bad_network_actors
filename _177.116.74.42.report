@@ -1,0 +1,48 @@
+{
+  "ip": "177.116.74.42",
+  "hostname": "177-116-74-42.user.vivozap.com.br",
+  "city": "Poços de Caldas",
+  "region": "Minas Gerais",
+  "country": "BR",
+  "loc": "-21.7878,-46.5614",
+  "postal": "37700-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS26599",
+    "name": "TELEFÔNICA BRASIL S.A",
+    "domain": "telefonica.com.br",
+    "route": "177.116.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TELEFÔNICA BRASIL S.A",
+    "domain": "telefonica.com.br",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Vivo",
+    "mcc": "724",
+    "mnc": "06"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse.br@telefonica.com",
+    "name": "CSIRT TELEFONICA BR",
+    "network": "177.116.0.0/15",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

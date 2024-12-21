@@ -1,0 +1,42 @@
+{
+  "ip": "94.143.197.81",
+  "hostname": "94-143-197-81.elcat.kg",
+  "city": "Karakol",
+  "region": "Issyk-Kul",
+  "country": "KG",
+  "loc": "42.4907,78.3936",
+  "timezone": "Asia/Bishkek",
+  "asn": {
+    "asn": "AS42837",
+    "name": "Extra Line LLC",
+    "domain": "elcat.kg",
+    "route": "94.143.197.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ElCat Ltd.",
+    "domain": "elcat.kg",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Shopokov st. 31/1, 720021, Bishkek, KYRGYZSTAN",
+    "country": "KG",
+    "email": "homeline@elcat.kg",
+    "name": "Abuse-C Role",
+    "network": "94.143.197.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

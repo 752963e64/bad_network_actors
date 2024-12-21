@@ -1,0 +1,43 @@
+{
+  "ip": "162.142.125.246",
+  "hostname": "scanner-23.ch1.censys-scanner.com",
+  "city": "Chicago",
+  "region": "Illinois",
+  "country": "US",
+  "loc": "41.8500,-87.6500",
+  "postal": "60666",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS398324",
+    "name": "Censys, Inc.",
+    "domain": "censys.io",
+    "route": "162.142.125.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "Censys, Inc.",
+    "domain": "censys.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, MI, Ann Arbor, 116 1/2 S Main Street, 48104",
+    "country": "US",
+    "email": "scan-abuse@censys.com",
+    "name": "Censys Abuse Team",
+    "network": "162.142.125.0/24",
+    "phone": "+1-248-629-0125"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

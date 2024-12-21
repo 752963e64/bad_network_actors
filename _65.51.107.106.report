@@ -1,0 +1,43 @@
+{
+  "ip": "65.51.107.106",
+  "hostname": "mail.paramusschools.org",
+  "city": "Paramus",
+  "region": "New Jersey",
+  "country": "US",
+  "loc": "40.9445,-74.0754",
+  "postal": "07652",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS54004",
+    "name": "Optimum WiFi",
+    "domain": "lightpathfiber.com",
+    "route": "65.51.96.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Cablevision Systems Corp.",
+    "domain": "optimum.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, NY, Hicksville, 111 new south RD, 11801",
+    "country": "US",
+    "email": "abuse@cv.net",
+    "name": "OOL Hostmaster",
+    "network": "65.51.107.96/27",
+    "phone": "+1-516-803-2400"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

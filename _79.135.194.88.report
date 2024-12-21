@@ -1,0 +1,43 @@
+{
+  "ip": "79.135.194.88",
+  "hostname": "pool-194-88-pppoe.icn.od.ua",
+  "city": "Odesa",
+  "region": "Odessa",
+  "country": "UA",
+  "loc": "46.4857,30.7438",
+  "postal": "65000",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS44078",
+    "name": "Skyline Electronics Ltd.",
+    "domain": "skyline.od.ua",
+    "route": "79.135.192.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ICN Ltd.",
+    "domain": "icn.ua",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Skyline Telecom Ltd.Co., Kireev Alexey, B.Arnautskaya 52, 65011 Odessa, UKRAINE",
+    "country": "UA",
+    "email": "hostmaster@sky.od.ua",
+    "name": "Abuse-C Role",
+    "network": "79.135.192.0/19",
+    "phone": "+380 482 344115"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "46.165.56.244",
+  "city": "Nizhny Tagil",
+  "region": "Sverdlovsk Oblast",
+  "country": "RU",
+  "loc": "57.9194,59.9650",
+  "postal": "622000",
+  "timezone": "Asia/Yekaterinburg",
+  "asn": {
+    "asn": "AS49218",
+    "name": "Nizhnetagilskie Kompyuternye Seti LLC",
+    "domain": "setitagila.ru",
+    "route": "46.165.0.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "NTKS LLC",
+    "domain": "ntks.ru",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "LLC NTKS",
+    "country": "RU",
+    "email": "abuse@ntks.ru",
+    "name": "abuse contact",
+    "network": "46.165.56.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

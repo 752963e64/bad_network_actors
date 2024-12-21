@@ -1,0 +1,43 @@
+{
+  "ip": "189.206.103.67",
+  "hostname": "static-189-206-103-67.alestra.net.mx",
+  "city": "Ciudad López Mateos",
+  "region": "México",
+  "country": "MX",
+  "loc": "19.5579,-99.2567",
+  "postal": "52900",
+  "timezone": "America/Mexico_City",
+  "asn": {
+    "asn": "AS11172",
+    "name": "Alestra, S. de R.L. de C.V.",
+    "domain": "alestra.com.mx",
+    "route": "189.206.103.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Alestra, S. de R.L. de C.V.",
+    "domain": "alestra.com.mx",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ave. Eugenio Clariond Garza, 175, Cuauhtemoc, 66450 - San Nicolas de los Garza - NL",
+    "country": "MX",
+    "email": "inetadmin@alestra.net.mx",
+    "name": "Inet Administrator",
+    "network": "189.206.0.0/16",
+    "phone": "+52 81 87486201 [6201]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "45.156.128.96",
+  "hostname": "sh-ams-nl-gp1-wk142a.internet-census.org",
+  "city": "Amsterdam",
+  "region": "North Holland",
+  "country": "NL",
+  "loc": "52.3740,4.8897",
+  "postal": "1012",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS211680",
+    "name": "NSEC - Sistemas Informaticos, S.A.",
+    "domain": "nsec.pt",
+    "route": "45.156.128.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "INAP-AMS-1",
+    "domain": "bitsight.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Operations for Internet Census Group, https://internet-census.org",
+    "country": "US",
+    "email": "optout@internet-census.org",
+    "name": "Abuse-C Role",
+    "network": "45.156.128.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

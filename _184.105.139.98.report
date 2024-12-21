@@ -1,0 +1,43 @@
+{
+  "ip": "184.105.139.98",
+  "hostname": "scan-04g.shadowserver.org",
+  "city": "Campbell",
+  "region": "California",
+  "country": "US",
+  "loc": "37.2872,-121.9500",
+  "postal": "95008",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS6939",
+    "name": "Hurricane Electric LLC",
+    "domain": "he.net",
+    "route": "184.104.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Hurricane Electric LLC",
+    "domain": "he.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Fremont, 760 Mission Court, 94539",
+    "country": "US",
+    "email": "abuse@he.net",
+    "name": "Abuse Department",
+    "network": "184.105.139.64/26",
+    "phone": "+1-510-580-4100"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

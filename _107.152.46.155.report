@@ -1,0 +1,41 @@
+{
+  "ip": "107.152.46.155",
+  "city": "Los Angeles",
+  "region": "California",
+  "country": "US",
+  "loc": "34.0522,-118.2437",
+  "postal": "90009",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS11878",
+    "name": "tzulo, inc.",
+    "domain": "tzulo.com",
+    "route": "107.152.46.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Cloudfanatic",
+    "domain": "cloudfanatic.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "Aqua VPN"
+  },
+  "abuse": {
+    "address": "US, IL, Chicago, 427 South LaSalle Street, Suite 405, 60605",
+    "country": "US",
+    "email": "abuse@tzulo.com",
+    "name": "Abuse tzulo",
+    "network": "107.152.46.0/24",
+    "phone": "+1-847-847-2048"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

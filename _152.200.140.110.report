@@ -1,0 +1,47 @@
+{
+  "ip": "152.200.140.110",
+  "city": "Bogotá",
+  "region": "Bogota D.C.",
+  "country": "CO",
+  "loc": "4.6097,-74.0817",
+  "postal": "111411",
+  "timezone": "America/Bogota",
+  "asn": {
+    "asn": "AS3816",
+    "name": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+    "domain": "movistar.com.co",
+    "route": "152.200.128.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "COLOMBIA TELECOMUNICACIONES S.A. ESP",
+    "domain": "telefonica.co",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Movistar",
+    "mcc": "732",
+    "mnc": "123"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "UY, , Montevideo, Potosi 1517, 11500",
+    "country": "UY",
+    "email": "abuse@lacnic.net",
+    "name": "LACNIC Whois Info",
+    "network": "152.200.0.0/16",
+    "phone": "+598-2604-2222"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

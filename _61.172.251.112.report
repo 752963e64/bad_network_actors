@@ -1,0 +1,42 @@
+{
+  "ip": "61.172.251.112",
+  "city": "Shanghai",
+  "region": "Shanghai",
+  "country": "CN",
+  "loc": "31.2222,121.4581",
+  "postal": "200000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4812",
+    "name": "China Telecom (Group)",
+    "domain": "chinatelecom.com.cn",
+    "route": "61.172.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SHANDA INTERNET DEVELOPMENT CO., LTD.",
+    "domain": "shaidc.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "21/22, Hua Rong Plaza , 1289 South Pudong Road , Shanghai  200122",
+    "country": "CN",
+    "email": "liugangs@vip.sina.com",
+    "name": "Liu Gang",
+    "network": "61.172.251.0/24",
+    "phone": "+86-21-50504720-8686"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

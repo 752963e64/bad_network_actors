@@ -1,0 +1,43 @@
+{
+  "ip": "122.167.233.246",
+  "hostname": "abts-kk-dynamic-246.233.167.122.airtelbroadband.in",
+  "city": "Patna",
+  "region": "Bihar",
+  "country": "IN",
+  "loc": "25.5941,85.1356",
+  "postal": "800001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS24560",
+    "name": "Bharti Airtel Ltd., Telemedia Services",
+    "domain": "airtel.com",
+    "route": "122.167.232.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ABTS (Karnataka),",
+    "domain": "airtel.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "ABTS, Bharti Airtel Limited 1106/10/11 Garvebhavipalaya, 7th Mile Hosur Rd,, Bangalore,Karnataka",
+    "country": "IN",
+    "email": "ang.ipadmin@airtel.com",
+    "name": "Network Administrator for ABTS KK",
+    "network": "122.167.224.0/20",
+    "phone": "+91-044-42100479"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

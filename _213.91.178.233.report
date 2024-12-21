@@ -1,0 +1,43 @@
+{
+  "ip": "213.91.178.233",
+  "hostname": "213-91-178-233.btc-net.bg",
+  "city": "Burgas",
+  "region": "Burgas",
+  "country": "BG",
+  "loc": "42.5061,27.4678",
+  "postal": "8000",
+  "timezone": "Europe/Sofia",
+  "asn": {
+    "asn": "AS8866",
+    "name": "Vivacom Bulgaria EAD",
+    "domain": "vivacom.bg",
+    "route": "213.91.178.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Vivacom Bulgaria EAD",
+    "domain": "vivacom.bg",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Bulgarian Telecommunications Company Plc., 115I, Tsarigradsko shose Blvd., 1784, Sofia, Bulgaria",
+    "country": "BG",
+    "email": "abuse-ip@vivacom.bg",
+    "name": "BTC IP ADDRESS SPACE administration",
+    "network": "213.91.178.0/23",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "121.123.6.183",
+  "city": "Shah Alam",
+  "region": "Selangor",
+  "country": "MY",
+  "loc": "3.0851,101.5328",
+  "postal": "40100",
+  "timezone": "Asia/Kuala_Lumpur",
+  "asn": {
+    "asn": "AS9534",
+    "name": "Binariang Berhad",
+    "domain": "maxis.com.my",
+    "route": "121.123.0.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Maxis Broadband Sdn Bhd",
+    "domain": "maxis.com.my",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Level 19, Menara Maxis,, KLCC, 50088 Kuala Lumpur, Malaysia",
+    "country": "MY",
+    "email": "abuse@maxis.com.my",
+    "name": "Maxis Network and Security Operations",
+    "network": "121.123.0.0/17",
+    "phone": "+603-2330-7500"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

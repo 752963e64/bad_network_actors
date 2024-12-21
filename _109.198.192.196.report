@@ -1,0 +1,42 @@
+{
+  "ip": "109.198.192.196",
+  "hostname": "109-198-192-x.dynamic.b-domolink.net",
+  "city": "Navlya",
+  "region": "Bryansk Oblast",
+  "country": "RU",
+  "loc": "52.8254,34.4996",
+  "postal": "242130",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS34267",
+    "name": "PJSC Rostelecom",
+    "domain": "rostelecom.ru",
+    "route": "109.198.192.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PJSC Rostelecom, Bryansk branch",
+    "domain": "debryansk.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "PJSC Rostelecom Technical Team",
+    "network": "109.198.192.0/21",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

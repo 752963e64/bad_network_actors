@@ -1,0 +1,41 @@
+{
+  "ip": "190.34.154.84",
+  "city": "La Chorrera",
+  "region": "Panamá Oeste Province",
+  "country": "PA",
+  "loc": "8.8803,-79.7833",
+  "postal": "07069",
+  "timezone": "America/Panama",
+  "asn": {
+    "asn": "AS11556",
+    "name": "Cable & Wireless Panama",
+    "domain": "cwpanama.net",
+    "route": "190.34.128.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Cable & Wireless Panama",
+    "domain": "cwpanama.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Juan Franco, 265,, 569 - Panama -",
+    "country": "PA",
+    "email": "dloperdat@CWPANAMA.COM",
+    "name": "Operaciones Datos",
+    "network": "190.34.0.0/15",
+    "phone": "+507  2642238 []"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

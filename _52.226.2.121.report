@@ -1,0 +1,43 @@
+{
+  "ip": "52.226.2.121",
+  "hostname": "azpdegb19.stretchoid.com",
+  "city": "Ashburn",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0437,-77.4875",
+  "postal": "20147",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS8075",
+    "name": "Microsoft Corporation",
+    "domain": "microsoft.com",
+    "route": "52.224.0.0/11",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Microsoft Corporation",
+    "domain": "microsoft.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, WA, Redmond, One Microsoft Way, 98052",
+    "country": "US",
+    "email": "abuse@microsoft.com",
+    "name": "Microsoft Abuse Contact",
+    "network": "52.224.0.0/11",
+    "phone": "+1-425-882-8080"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

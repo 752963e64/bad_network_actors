@@ -1,0 +1,42 @@
+{
+  "ip": "103.179.217.33",
+  "hostname": "ip217-33.ldm.net.id",
+  "city": "Surabaya",
+  "region": "East Java",
+  "country": "ID",
+  "loc": "-7.2492,112.7508",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS139449",
+    "name": "PT Lintas Data Multimedia",
+    "domain": "ldm.net.id",
+    "route": "103.179.217.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PT Solusi Jaya Nusantara",
+    "domain": "sijaya.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT SOLUSI JAYA NUSANTARA, Intiland Tower 11floor, Jl. Panglima Sudirman 101-103, Surabaya 60271",
+    "country": "ID",
+    "email": "abuse@sijaya.id",
+    "name": "PT Solusi Jaya Nusantara",
+    "network": "103.179.216.0/23",
+    "phone": "+62-31-33601114"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

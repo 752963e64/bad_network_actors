@@ -1,0 +1,43 @@
+{
+  "ip": "89.109.12.140",
+  "hostname": "89-109-12-140.static.mts-nn.ru",
+  "city": "Nizhniy Novgorod",
+  "region": "Nizhny Novgorod Oblast",
+  "country": "RU",
+  "loc": "56.3287,44.0020",
+  "postal": "603000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS12389",
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "route": "89.109.0.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "PJSC Rostelecom Technical Team",
+    "network": "89.109.12.0/24",
+    "phone": "+7 831 4360222"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

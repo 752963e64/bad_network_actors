@@ -1,0 +1,43 @@
+{
+  "ip": "138.121.120.10",
+  "hostname": "ns2.smartinternet.com.br",
+  "city": "Fortaleza",
+  "region": "Ceará",
+  "country": "BR",
+  "loc": "-3.7172,-38.5431",
+  "postal": "60000-000",
+  "timezone": "America/Fortaleza",
+  "asn": {
+    "asn": "AS264293",
+    "name": "Smart Solucoes em Telecomunicacoes",
+    "domain": "smartsolucoes.com.br",
+    "route": "138.121.120.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Smart Solucoes em Telecomunicacoes",
+    "domain": "smartsolucoes.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "noc@smartsolucoes.com.br",
+    "name": "jackson david vieira",
+    "network": "138.121.120.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

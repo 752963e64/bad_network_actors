@@ -1,0 +1,42 @@
+{
+  "ip": "103.180.186.80",
+  "city": "Jhānsi",
+  "region": "Uttar Pradesh",
+  "country": "IN",
+  "loc": "25.4589,78.5799",
+  "postal": "284003",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS45117",
+    "name": "Ishan's Network",
+    "domain": "ishanitech.biz",
+    "route": "103.180.186.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SHRI KRISHNA ENTERPRISE",
+    "domain": "shrikrishnaenterprise.in",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "4 AJANTA ESTATE SANAND VIRAMGAM ROAD VASNA IYAVA ANANDNAGAR SANAND,Ahmedabad,Gujarat-382170",
+    "country": "IN",
+    "email": "reportabuse@ishanitech.biz",
+    "name": "HARESHBHAI THAKKAR",
+    "network": "103.180.186.0/23",
+    "phone": "+91 9879612569"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

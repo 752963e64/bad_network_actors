@@ -1,0 +1,42 @@
+{
+  "ip": "219.146.243.58",
+  "city": "Qingdao",
+  "region": "Shandong",
+  "country": "CN",
+  "loc": "36.0649,120.3804",
+  "postal": "266000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4134",
+    "name": "CHINANET-BACKBONE",
+    "domain": "chinatelecom.com.cn",
+    "route": "219.146.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "QINGDAO-CABLENETWORK-Co,Qingdao city,Shandong province",
+    "domain": "sdtele.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.999,    road    Shunhua,    Jinan,    Shandong    province,China",
+    "country": "CN",
+    "email": "ipreport@sdtele.com",
+    "name": "Lin  Bin",
+    "network": "219.146.240.0/20",
+    "phone": "+86-531-3198141"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "119.167.222.135",
+  "city": "Qingdao",
+  "region": "Shandong",
+  "country": "CN",
+  "loc": "36.0649,120.3804",
+  "postal": "266000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4837",
+    "name": "CHINA UNICOM China169 Backbone",
+    "domain": "chinaunicom.cn",
+    "route": "119.164.0.0/14",
+    "type": "isp"
+  },
+  "company": {
+    "name": "China Unicom Shandong Province Network",
+    "domain": "chinaunicom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.21,Financial Street, Beijing,100033, P.R.China",
+    "country": "CN",
+    "email": "zhaoyz3@chinaunicom.cn",
+    "name": "ABUSE CUCN",
+    "network": "119.164.0.0/14",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

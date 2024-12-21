@@ -1,0 +1,42 @@
+{
+  "ip": "121.121.60.132",
+  "city": "Putra Heights",
+  "region": "Selangor",
+  "country": "MY",
+  "loc": "2.9936,101.5726",
+  "postal": "47130",
+  "timezone": "Asia/Kuala_Lumpur",
+  "asn": {
+    "asn": "AS9534",
+    "name": "Binariang Berhad",
+    "domain": "maxis.com.my",
+    "route": "121.121.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Maxis Broadband Sdn Bhd",
+    "domain": "maxis.com.my",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Level 19, Menara Maxis,, KLCC, 50088 Kuala Lumpur, Malaysia",
+    "country": "MY",
+    "email": "abuse@maxis.com.my",
+    "name": "Maxis Network and Security Operations",
+    "network": "121.121.0.0/16",
+    "phone": "+603-2330-7500"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

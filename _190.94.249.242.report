@@ -1,0 +1,42 @@
+{
+  "ip": "190.94.249.242",
+  "hostname": "190-94-249-242.ifxnw.com.ve",
+  "city": "Caracas",
+  "region": "Distrito Federal",
+  "country": "VE",
+  "loc": "10.4880,-66.8792",
+  "timezone": "America/Caracas",
+  "asn": {
+    "asn": "AS8053",
+    "name": "IFX Networks Venezuela C.A.",
+    "domain": "ifxnw.com.ve",
+    "route": "190.94.224.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "IFX Networks Venezuela C.A.",
+    "domain": "ifxnw.com.ve",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Av. Princpal del Bosque con Calle Santa Lucia, Torre Credicard, Piso 5, Oficina 56, 8053, Mobile +584141139471, 1050 - Chacaito - DC",
+    "country": "VE",
+    "email": "jcrespo@IFXNW.COM.VE",
+    "name": "Juan Carlos Crespo Román",
+    "network": "190.94.224.0/19",
+    "phone": "+58  2127504508 [0000]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

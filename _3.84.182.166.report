@@ -1,0 +1,43 @@
+{
+  "ip": "3.84.182.166",
+  "hostname": "ec2-3-84-182-166.compute-1.amazonaws.com",
+  "city": "Ashburn",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0437,-77.4875",
+  "postal": "20147",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS14618",
+    "name": "Amazon.com, Inc.",
+    "domain": "amazon.com",
+    "route": "3.80.0.0/12",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Amazon Data Services NoVa",
+    "domain": "amazon.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, WA, Seattle, Amazon Web Services Elastic Compute Cloud, EC2, 410 Terry Avenue North, 98109-5210",
+    "country": "US",
+    "email": "trustandsafety@support.aws.com",
+    "name": "Amazon EC2 Abuse",
+    "network": "3.80.0.0/12",
+    "phone": "+1-206-555-0000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

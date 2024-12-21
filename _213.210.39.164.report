@@ -1,0 +1,42 @@
+{
+  "ip": "213.210.39.164",
+  "city": "London",
+  "region": "England",
+  "country": "GB",
+  "loc": "51.5085,-0.1257",
+  "postal": "E1W",
+  "timezone": "Europe/London",
+  "asn": {
+    "asn": "AS214285",
+    "name": "Above Bar Cyber Limited",
+    "domain": "abovebar.net",
+    "route": "213.210.39.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "GCI Network Solutions Limited",
+    "domain": "nasstar.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Private Residence",
+    "country": "GB",
+    "email": "report@abuseradar.com",
+    "name": "Private Customer",
+    "network": "213.210.39.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

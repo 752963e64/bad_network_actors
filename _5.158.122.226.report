@@ -1,0 +1,43 @@
+{
+  "ip": "5.158.122.226",
+  "hostname": "226-122-158-5.pride-net.ru",
+  "city": "Nizhnevartovsk",
+  "region": "Khanty-Mansia",
+  "country": "RU",
+  "loc": "60.9344,76.5531",
+  "postal": "628600",
+  "timezone": "Asia/Yekaterinburg",
+  "asn": {
+    "asn": "AS38934",
+    "name": "Pride LLC",
+    "domain": "pride-net.ru",
+    "route": "5.158.96.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Pride Limited company",
+    "domain": "pride-net.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Pride Ltd. pride@pride-net.ru LENINA 5 628609 NIZHNEVARTOVSK RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "abuse@pride-net.ru",
+    "name": "PRIDE NNC abuse handling",
+    "network": "5.158.122.0/24",
+    "phone": "+7 3466 491599"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

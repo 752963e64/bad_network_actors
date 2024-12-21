@@ -1,0 +1,46 @@
+{
+  "ip": "124.31.105.101",
+  "city": "Shanghai",
+  "region": "Shanghai",
+  "country": "CN",
+  "loc": "31.2222,121.4581",
+  "postal": "200000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4134",
+    "name": "CHINANET-BACKBONE",
+    "domain": "chinatelecom.com.cn",
+    "route": "124.31.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CHINANET Xizang(Tibet) province network",
+    "domain": "chinatelecom.cn",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "China Telecom",
+    "mcc": "460",
+    "mnc": "03"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.31 ,jingrong street,beijing, 100032",
+    "country": "CN",
+    "email": "anti-spam@chinatelecom.cn",
+    "name": "Chinanet Hostmaster",
+    "network": "124.31.104.0-124.31.119.255",
+    "phone": "+86-10-58501724"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

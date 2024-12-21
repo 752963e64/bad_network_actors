@@ -1,0 +1,43 @@
+{
+  "ip": "139.162.190.203",
+  "hostname": "optout.scanopticon.com",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "postal": "60306",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS63949",
+    "name": "Akamai Connected Cloud",
+    "domain": "linode.com",
+    "route": "139.162.160.0/19",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "139.162.0.0/16",
+    "domain": "linode.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "249 Arch Street, Philadelphia, PA 19106, USA",
+    "country": "US",
+    "email": "abuse@linode.com",
+    "name": "Linode Abuse Support",
+    "network": "139.162.0.0/16",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

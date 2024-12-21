@@ -1,0 +1,43 @@
+{
+  "ip": "179.43.147.58",
+  "hostname": "hostedby.privatelayer.com",
+  "city": "Lugano",
+  "region": "Ticino",
+  "country": "CH",
+  "loc": "46.0101,8.9600",
+  "postal": "6900",
+  "timezone": "Europe/Zurich",
+  "asn": {
+    "asn": "AS51852",
+    "name": "Private Layer INC",
+    "domain": "phaselayer.com",
+    "route": "179.43.128.0/18",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "PRIVATE LAYER INC",
+    "domain": "privatelayer.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Edif. Ocean Business Plaza, 1404, Marbella, 00000 - Panama City -",
+    "country": "PA",
+    "email": "support@PRIVATELAYER.COM",
+    "name": "Milciades Garcia",
+    "network": "179.43.128.0/18",
+    "phone": "+41 43 5082295 []"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

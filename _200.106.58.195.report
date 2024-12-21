@@ -1,0 +1,43 @@
+{
+  "ip": "200.106.58.195",
+  "hostname": "cloud.cjp.pe",
+  "city": "Lima",
+  "region": "Lima Province",
+  "country": "PE",
+  "loc": "-12.0432,-77.0282",
+  "postal": "15001",
+  "timezone": "America/Lima",
+  "asn": {
+    "asn": "AS6147",
+    "name": "Telefonica del Peru S.A.A.",
+    "domain": "telefonica.com.pe",
+    "route": "200.106.48.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telefonica del Peru S.A.A.",
+    "domain": "telefonica.com.pe",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Av. domingo Martinez Lujan, 1130, PISO 3B, L34 - Perú - LI",
+    "country": "PE",
+    "email": "nancy.cordova@telefonica.com",
+    "name": "System Admin",
+    "network": "200.106.0.0/18",
+    "phone": "+51  988053405 [0000]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

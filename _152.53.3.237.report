@@ -1,0 +1,45 @@
+{
+  "ip": "152.53.3.237",
+  "hostname": "v220240217979258076.supersrv.de",
+  "city": "Vienna",
+  "region": "Vienna",
+  "country": "AT",
+  "loc": "48.1952,16.3503",
+  "postal": "1060",
+  "timezone": "Europe/Vienna",
+  "asn": {
+    "asn": "AS197540",
+    "name": "netcup GmbH",
+    "domain": "netcup.de",
+    "route": "152.53.0.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "powered by ANX",
+    "domain": "powered.services",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "AUSTRIA, Klagenfurt am WÃ¶rthersee, 9020, Feldkirchner StraÃŸe 140",
+    "country": "AT",
+    "email": "abuse@anexia.at",
+    "name": "Abuse-C Role",
+    "network": "152.53.0.1-152.53.3.254",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "152.53.3.237",
+    "total": 1,
+    "domains": [
+      "yesvihawk.com"
+    ]
+  }
+}

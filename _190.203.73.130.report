@@ -1,0 +1,42 @@
+{
+  "ip": "190.203.73.130",
+  "hostname": "190-203-73-130.bto-03-p64.cantv.net",
+  "city": "Valera",
+  "region": "Trujillo",
+  "country": "VE",
+  "loc": "9.3178,-70.6036",
+  "timezone": "America/Caracas",
+  "asn": {
+    "asn": "AS8048",
+    "name": "CANTV Servicios, Venezuela",
+    "domain": "cantv.com.ve",
+    "route": "190.203.64.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CANTV Servicios, Venezuela",
+    "domain": "cantv.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CANTV COR Los Palos Grandes Chacao Caracas Venezuela, 000, -, 1060 - Caracas - MI",
+    "country": "VE",
+    "email": "ipadmin@cantv.com.ve",
+    "name": "Ger Sop",
+    "network": "190.200.0.0/13",
+    "phone": "+58  02125000000 [0000]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

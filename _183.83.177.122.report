@@ -1,0 +1,42 @@
+{
+  "ip": "183.83.177.122",
+  "city": "Jaipur",
+  "region": "Rajasthan",
+  "country": "IN",
+  "loc": "26.9196,75.7878",
+  "postal": "302001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS18209",
+    "name": "Atria Convergence Technologies Ltd.,",
+    "domain": "actcorp.in",
+    "route": "183.83.176.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "ACT Hyderabad",
+    "domain": "actcorp.in",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Atria Convergence Technologies Pvt Ltd, # 1, 2nd Floor, Indian Express Building,, Queen's Road, Bangalore - 560 001",
+    "country": "IN",
+    "email": "abuse@actcorp.in",
+    "name": "ABUSE CABLELITEIN",
+    "network": "183.83.177.0/24",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

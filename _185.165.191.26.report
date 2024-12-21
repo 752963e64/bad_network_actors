@@ -1,0 +1,42 @@
+{
+  "ip": "185.165.191.26",
+  "city": "Denver",
+  "region": "Colorado",
+  "country": "US",
+  "loc": "39.7392,-104.9847",
+  "postal": "80203",
+  "timezone": "America/Denver",
+  "asn": {
+    "asn": "AS174",
+    "name": "Cogent Communications",
+    "domain": "cogentco.com",
+    "route": "185.165.191.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "BlackHOST LTD.",
+    "domain": "black.host",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Switzerland",
+    "country": "CH",
+    "email": "abuse@black.host",
+    "name": "BlackHOST Abuse Team",
+    "network": "185.165.188.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

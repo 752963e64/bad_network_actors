@@ -1,0 +1,41 @@
+{
+  "ip": "178.216.231.238",
+  "city": "Vilnohirsk",
+  "region": "Dnipropetrovsk",
+  "country": "UA",
+  "loc": "48.4842,34.0171",
+  "postal": "51700",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS48964",
+    "name": "Private Enterprise \"Enterra\"",
+    "domain": "enterra.dp.ua",
+    "route": "178.216.230.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "WHITELINK LLC",
+    "domain": "mcom.dp.ua",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Vilnogirsk, Dnipropetrovsk district, Lenina str. 75, of. 47",
+    "country": "UA",
+    "email": "yz17@ukr.net",
+    "name": "Abuse contact role object",
+    "network": "178.216.224.0/21",
+    "phone": "+380 56 7909009"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

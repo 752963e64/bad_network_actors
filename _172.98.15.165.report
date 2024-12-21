@@ -1,0 +1,42 @@
+{
+  "ip": "172.98.15.165",
+  "city": "Miami",
+  "region": "Florida",
+  "country": "US",
+  "loc": "25.7743,-80.1937",
+  "postal": "33101",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS8100",
+    "name": "QuadraNet Enterprises LLC",
+    "domain": "quadranet.com",
+    "route": "172.98.15.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "QuadraNet Enterprises LLC",
+    "domain": "quadranet.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Los Angeles, 530 W 6th Street Suite 901, 90014",
+    "country": "US",
+    "email": "abuse@quadranet.com",
+    "name": "QuadraNet Abuse",
+    "network": "172.98.15.0/24",
+    "phone": "+1-213-614-8371"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

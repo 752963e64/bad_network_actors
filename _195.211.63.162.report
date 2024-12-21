@@ -1,0 +1,42 @@
+{
+  "ip": "195.211.63.162",
+  "city": "Berezan",
+  "region": "Kiev",
+  "country": "UA",
+  "loc": "50.3112,31.4671",
+  "postal": "07541",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS49889",
+    "name": "Crystal Telecom Ltd",
+    "domain": "crystaltelecom.co.rw",
+    "route": "195.211.63.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Crystal Telecom Ltd",
+    "domain": "crystaltelecom.co.rw",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Kalinina 2, Kalinivka, Kiev region, 08623, Ukraine",
+    "country": "UA",
+    "email": "abuse@utelecom.com.ua",
+    "name": "Abuse-C Role",
+    "network": "195.211.60.0/22",
+    "phone": "+380 44 3605506"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

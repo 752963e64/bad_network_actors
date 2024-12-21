@@ -1,0 +1,42 @@
+{
+  "ip": "185.157.232.100",
+  "city": "Manchester",
+  "region": "England",
+  "country": "GB",
+  "loc": "53.4809,-2.2374",
+  "postal": "M1",
+  "timezone": "Europe/London",
+  "asn": {
+    "asn": "AS46261",
+    "name": "QuickPacket, LLC",
+    "domain": "quickpacket.com",
+    "route": "185.157.232.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "LoveServers Ltd",
+    "domain": "quickpacket.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "801 Atando Ave Ste C, 28206, Charlotte, UNITED STATES",
+    "country": "US",
+    "email": "abuse@quickpacket.com",
+    "name": "Abuse-C Role",
+    "network": "185.157.232.0/24",
+    "phone": "+18884003484"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

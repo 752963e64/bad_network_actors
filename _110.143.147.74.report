@@ -1,0 +1,42 @@
+{
+  "ip": "110.143.147.74",
+  "hostname": "lib2388287.lnk.telstra.net",
+  "city": "Sydney",
+  "region": "New South Wales",
+  "country": "AU",
+  "loc": "-33.8678,151.2073",
+  "postal": "1001",
+  "timezone": "Australia/Sydney",
+  "asn": {
+    "asn": "AS1221",
+    "name": "Telstra Limited",
+    "domain": "telstra.com.au",
+    "route": "110.143.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telstra Limited",
+    "domain": "telstra.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Telstra Internet",
+    "country": "AU",
+    "email": "abuse@telstra.net",
+    "name": "Telstra Limited",
+    "network": "110.142.0.0/15",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

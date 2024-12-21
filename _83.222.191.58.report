@@ -1,0 +1,42 @@
+{
+  "ip": "83.222.191.58",
+  "city": "Sofia",
+  "region": "Sofia-Capital",
+  "country": "BG",
+  "loc": "42.6975,23.3241",
+  "postal": "1000",
+  "timezone": "Europe/Sofia",
+  "asn": {
+    "asn": "AS212283",
+    "name": "ROZA HOLIDAYS EOOD",
+    "domain": "rosa-holidays.com",
+    "route": "83.222.191.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "4Media Ltd.",
+    "domain": "4media.bg",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "35, Ivan Vazov str, Sopot, Bulgaria",
+    "country": "BG",
+    "email": "abuse@4media.bg",
+    "name": "Abuse-C",
+    "network": "83.222.190.0/23",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

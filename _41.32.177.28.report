@@ -1,0 +1,41 @@
+{
+  "ip": "41.32.177.28",
+  "hostname": "host-41.32.177.28.tedata.net",
+  "city": "Alexandria",
+  "region": "Alexandria",
+  "country": "EG",
+  "loc": "31.2018,29.9158",
+  "timezone": "Africa/Cairo",
+  "asn": {
+    "asn": "AS8452",
+    "name": "TE-AS",
+    "domain": "te.eg",
+    "route": "41.32.177.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TE Data-New",
+    "domain": "tedata.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TE Data, Smart Village, Building A11-B90, Alex Desert Road,, 28 Km, 6th October 12577, Giza, Egypt",
+    "country": "EG",
+    "email": "abuse@te.eg",
+    "name": "TE Data Contact Role",
+    "network": "41.32.0.0/16",
+    "phone": "tel:+20-2-3320700"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

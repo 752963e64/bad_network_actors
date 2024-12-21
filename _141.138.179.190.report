@@ -1,0 +1,42 @@
+{
+  "ip": "141.138.179.190",
+  "hostname": "host-ip190-179-138-141.wise.net.lb",
+  "city": "Beirut",
+  "region": "Beyrouth",
+  "country": "LB",
+  "loc": "33.8933,35.5016",
+  "timezone": "Asia/Beirut",
+  "asn": {
+    "asn": "AS41833",
+    "name": "Moscanet SAL",
+    "domain": "wise.net.lb",
+    "route": "141.138.179.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Moscanet SAL(Wise)",
+    "domain": "wise.net.lb",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "DORA HIGHWAY TANNOUS TOWER 6A, METN 2601-1530, Beirut - Lebanon",
+    "country": "LB",
+    "email": "noc@wise.net.lb",
+    "name": "Moscanet Network Operation Center",
+    "network": "141.138.179.0/24",
+    "phone": "+961 1 269473"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

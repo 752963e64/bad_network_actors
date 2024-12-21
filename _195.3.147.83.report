@@ -1,0 +1,42 @@
+{
+  "ip": "195.3.147.83",
+  "city": "Göteborg",
+  "region": "Västra Götaland",
+  "country": "SE",
+  "loc": "57.7072,11.9668",
+  "postal": "400 10",
+  "timezone": "Europe/Stockholm",
+  "asn": {
+    "asn": "AS41390",
+    "name": "SIA SOCKS",
+    "domain": "altnet.lv",
+    "route": "195.3.147.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "SIA SOCKS",
+    "domain": "altnet.lv",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Maskavas 322, Riga, Latvia, LV-1063",
+    "country": "LV",
+    "email": "rndata.abuse@altnet.lv",
+    "name": "RNData Abuse",
+    "network": "195.3.144.0/22",
+    "phone": "+371 20234062"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

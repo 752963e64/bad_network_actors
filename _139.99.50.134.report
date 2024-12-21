@@ -1,0 +1,46 @@
+{
+  "ip": "139.99.50.134",
+  "hostname": "ip134.ip-139-99-50.net",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.2897,103.8501",
+  "postal": "018989",
+  "timezone": "Asia/Singapore",
+  "asn": {
+    "asn": "AS16276",
+    "name": "OVH SAS",
+    "domain": "ovhcloud.com",
+    "route": "139.99.0.0/17",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "OVH Singapore PTE. LTD",
+    "domain": "ovh.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CA, QC, Montreal, 800-1801 McGill College, H3A 2N4",
+    "country": "CA",
+    "email": "noc@ovh.net",
+    "name": "NOC",
+    "network": "139.99.50.128/26",
+    "phone": "+1-855-684-5463"
+  },
+  "domains": {
+    "ip": "139.99.50.134",
+    "total": 2,
+    "domains": [
+      "rzjjsamp.xyz",
+      "igtasamp.cn"
+    ]
+  }
+}

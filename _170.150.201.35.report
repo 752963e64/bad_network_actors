@@ -1,0 +1,42 @@
+{
+  "ip": "170.150.201.35",
+  "city": "Maracanaú",
+  "region": "Ceará",
+  "country": "BR",
+  "loc": "-3.8767,-38.6256",
+  "postal": "61900-000",
+  "timezone": "America/Fortaleza",
+  "asn": {
+    "asn": "AS265038",
+    "name": "TELFO SERVICO DE TELECOMUNICACOES LTDA",
+    "domain": "telfo.com.br",
+    "route": "170.150.200.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TELFO SERVICO DE TELECOMUNICACOES LTDA",
+    "domain": "telfo.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "noc@telfo.com.br",
+    "name": "TELFO TELECOM",
+    "network": "170.150.200.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

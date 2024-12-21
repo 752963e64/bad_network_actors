@@ -1,0 +1,46 @@
+{
+  "ip": "188.0.169.134",
+  "city": "Grozny",
+  "region": "Chechnya",
+  "country": "RU",
+  "loc": "43.3120,45.6889",
+  "postal": "364000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS49724",
+    "name": "JSC Vainah Telecom",
+    "domain": "vainahtelecom.ru",
+    "route": "188.0.169.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "JSC Vainah Telecom",
+    "domain": "vt.ru",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Vainah Telecom",
+    "mcc": "250",
+    "mnc": "08"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "17 Sheikh A-H.S. Yandarov str., 364024 Grozny, Chechen Republic, Russian Federation",
+    "country": "RU",
+    "email": "abuse@vainahtelecom.ru",
+    "name": "Abuse-C Role",
+    "network": "188.0.160.0/19",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

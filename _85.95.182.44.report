@@ -1,0 +1,43 @@
+{
+  "ip": "85.95.182.44",
+  "hostname": "85-95-182-44.saransk.ru",
+  "city": "Saransk",
+  "region": "Mordoviya Republic",
+  "country": "RU",
+  "loc": "54.1838,45.1749",
+  "postal": "430000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS12389",
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "route": "85.95.160.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Branch in Mordovian Republic",
+    "domain": "moris.ru",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "PJSC Rostelecom Technical Team",
+    "network": "85.95.180.0-85.95.187.255",
+    "phone": "+7 8342 479879"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

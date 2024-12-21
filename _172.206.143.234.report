@@ -1,0 +1,43 @@
+{
+  "ip": "172.206.143.234",
+  "hostname": "azpdssb33.stretchoid.com",
+  "city": "San Antonio",
+  "region": "Texas",
+  "country": "US",
+  "loc": "29.4241,-98.4936",
+  "postal": "78205",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS8075",
+    "name": "Microsoft Corporation",
+    "domain": "microsoft.com",
+    "route": "172.200.0.0/13",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Microsoft Limited",
+    "domain": "microsoft.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, WA, Redmond, One Microsoft Way, 98052",
+    "country": "US",
+    "email": "abuse@microsoft.com",
+    "name": "Microsoft Abuse Contact",
+    "network": "172.128.0.0-172.215.255.255",
+    "phone": "+1-425-882-8080"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

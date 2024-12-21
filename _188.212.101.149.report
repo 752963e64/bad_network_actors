@@ -1,0 +1,43 @@
+{
+  "ip": "188.212.101.149",
+  "hostname": "s1-149.gazduirejocuri.ro",
+  "city": "Bacău",
+  "region": "Bacău County",
+  "country": "RO",
+  "loc": "46.5672,26.9138",
+  "postal": "600114",
+  "timezone": "Europe/Bucharest",
+  "asn": {
+    "asn": "AS39383",
+    "name": "Annarsy SRL",
+    "domain": "asynet.ro",
+    "route": "188.212.100.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "TELESYSTEM SRL",
+    "domain": "telesystem.ro",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "IPv4 Management SRL, Basarabilor, Bl C2, Sc D, Et 2, Ap 106,, Curtea de Arges, Arges, Romania, RO-115300",
+    "country": "RO",
+    "email": "abuse@ip.ro",
+    "name": "IP.RO - NOC",
+    "network": "188.212.100.0/23",
+    "phone": "+40.725224444"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

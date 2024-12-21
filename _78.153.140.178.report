@@ -1,0 +1,43 @@
+{
+  "ip": "78.153.140.178",
+  "hostname": "hostglobal.plus",
+  "city": "London",
+  "region": "England",
+  "country": "GB",
+  "loc": "51.5085,-0.1257",
+  "postal": "E1W",
+  "timezone": "Europe/London",
+  "asn": {
+    "asn": "AS202306",
+    "name": "HOSTGLOBAL.PLUS LTD",
+    "domain": "hostglobal.plus",
+    "route": "78.153.140.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "HOSTGLOBAL.PLUS LTD",
+    "domain": "hostglobal.plus",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "20-22 Wenlock Road, London, England, N1 7GU",
+    "country": "GB",
+    "email": "abuse@hostglobal.plus",
+    "name": "Abuse contact role object",
+    "network": "78.153.140.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

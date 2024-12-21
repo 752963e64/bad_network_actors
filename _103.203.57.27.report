@@ -1,0 +1,43 @@
+{
+  "ip": "103.203.57.27",
+  "hostname": "scan-57-27.security.ipip.net",
+  "city": "Ashburn",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0437,-77.4875",
+  "postal": "20147",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS136180",
+    "name": "Beijing Tiantexin Tech. Co., Ltd.",
+    "domain": "ipip.net",
+    "route": "103.203.57.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Beijing Tiantexin Tech. Co., Ltd.",
+    "domain": "ipip.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Baiziwan Xili, No. 402 - 1706, Chaoyang District, Beijing Beijing 100100",
+    "country": "CN",
+    "email": "noc@ipip.net",
+    "name": "ABUSE IPIPCN",
+    "network": "103.203.56.0/22",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

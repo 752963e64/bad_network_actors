@@ -1,0 +1,42 @@
+{
+  "ip": "193.41.206.156",
+  "city": "Paris",
+  "region": "Île-de-France",
+  "country": "FR",
+  "loc": "48.8534,2.3488",
+  "postal": "75000",
+  "timezone": "Europe/Paris",
+  "asn": {
+    "asn": "AS52053",
+    "name": "REDHEBERG Association declaree",
+    "domain": "redheberg.fr",
+    "route": "193.41.206.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Alexandrion Saber Distilleries 1789 S.R.L.",
+    "domain": "alexandriongroup.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Otopeni, Ilfov, St DN 1, Nr. km 15+116",
+    "country": "RO",
+    "email": "abuse@gtstelecom.ro",
+    "name": "Abuse-C Role",
+    "network": "193.41.206.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

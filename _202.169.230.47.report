@@ -1,0 +1,42 @@
+{
+  "ip": "202.169.230.47",
+  "hostname": "host-202-169-230-47.jepara.lifemedia.id",
+  "city": "Jepara",
+  "region": "Central Java",
+  "country": "ID",
+  "loc": "-6.5924,110.6710",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS23671",
+    "name": "PT. Sarana InsanMuda Selaras",
+    "domain": "lifemedia.id",
+    "route": "202.169.230.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "LIFEMEDIA",
+    "domain": "lifemedia.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT. Saranainsan Mudaselaras, Jogja Medianet, Cable TV and Broadband Internet Operator, Jl. Bhinneka Tunggal Ika K-2 Sekip Bulaksumur, Jogjakarta",
+    "country": "ID",
+    "email": "abuse@jmn.net.id",
+    "name": "JMN HOSTMASTER",
+    "network": "202.169.230.0/24",
+    "phone": "+62-274-6055655"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

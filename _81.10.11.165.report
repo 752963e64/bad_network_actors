@@ -1,0 +1,42 @@
+{
+  "ip": "81.10.11.165",
+  "hostname": "host-81.10.11.165-static.tedata.net",
+  "city": "Giza",
+  "region": "Giza",
+  "country": "EG",
+  "loc": "30.0094,31.2086",
+  "timezone": "Africa/Cairo",
+  "asn": {
+    "asn": "AS8452",
+    "name": "TE-AS",
+    "domain": "te.eg",
+    "route": "81.10.11.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TE Data",
+    "domain": "tedata.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TE Data,, Smart Village, Building A11-B90, Alex Desert Road,, 28 Km, 6th October 12577, Egypt",
+    "country": "EG",
+    "email": "mohamed.hamdy@te.eg",
+    "name": "Mohamed Hamdy",
+    "network": "81.10.0.0/17",
+    "phone": "tel:+20-2-3320700"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

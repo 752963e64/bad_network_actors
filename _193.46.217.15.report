@@ -1,0 +1,42 @@
+{
+  "ip": "193.46.217.15",
+  "city": "Fremont",
+  "region": "California",
+  "country": "US",
+  "loc": "37.5176,-121.9287",
+  "postal": "94539",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS400992",
+    "name": "ZhouyiSat Communications",
+    "domain": "zhouyitelecom.org",
+    "route": "193.46.217.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "HdsLb LLC",
+    "domain": "hdslb.info",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "NE Front St, Milford, DE 19963, USA",
+    "country": "BM",
+    "email": "support@hdslb.info",
+    "name": "Abuse contact role object",
+    "network": "193.46.217.0-193.46.218.255",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

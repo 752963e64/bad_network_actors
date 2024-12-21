@@ -1,0 +1,45 @@
+{
+  "ip": "45.56.114.151",
+  "hostname": "prod-beryllium-us-southeast-44.li.binaryedge.ninja",
+  "city": "Atlanta",
+  "region": "Georgia",
+  "country": "US",
+  "loc": "33.7490,-84.3880",
+  "postal": "30302",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS63949",
+    "name": "Akamai Connected Cloud",
+    "domain": "linode.com",
+    "route": "45.56.112.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Linode",
+    "domain": "linode.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, PA, Philadelphia, 249 Arch St, 19106",
+    "country": "US",
+    "email": "abuse@linode.com",
+    "name": "Linode Abuse Support",
+    "network": "45.56.64.0/18",
+    "phone": "+1-609-380-7100"
+  },
+  "domains": {
+    "ip": "45.56.114.151",
+    "total": 1,
+    "domains": [
+      "immanuelmorgan.org"
+    ]
+  }
+}

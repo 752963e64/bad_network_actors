@@ -1,0 +1,43 @@
+{
+  "ip": "195.154.174.86",
+  "hostname": "195-154-174-86.rev.poneytelecom.eu",
+  "city": "Paris",
+  "region": "Île-de-France",
+  "country": "FR",
+  "loc": "48.8534,2.3488",
+  "postal": "75000",
+  "timezone": "Europe/Paris",
+  "asn": {
+    "asn": "AS12876",
+    "name": "SCALEWAY S.A.S.",
+    "domain": "scaleway.com",
+    "route": "195.154.0.0/16",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Scaleway",
+    "domain": "scaleway.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "VPNUK"
+  },
+  "abuse": {
+    "address": "8 rue de la ville l'évêque 75008 PARIS",
+    "country": "FR",
+    "email": "abuse@scaleway.com",
+    "name": "Scaleway",
+    "network": "195.154.128.0/17",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

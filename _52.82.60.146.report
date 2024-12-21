@@ -1,0 +1,42 @@
+{
+  "ip": "52.82.60.146",
+  "hostname": "ec2-52-82-60-146.cn-northwest-1.compute.amazonaws.com.cn",
+  "city": "Yinchuan",
+  "region": "Ningxia",
+  "country": "CN",
+  "loc": "38.4681,106.2731",
+  "postal": "750000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS135629",
+    "name": "Ningxia West Cloud Data Technology Co.Ltd.",
+    "domain": "westcloudvalley.com",
+    "route": "52.82.0.0/17",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Ningxia West Cloud Data Technology Co.Ltd.",
+    "domain": "nwcdcloud.cn",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Beijing, China",
+    "country": "CN",
+    "email": "ipas@cnnic.cn",
+    "name": "ABUSE CNNICCN",
+    "network": "52.82.0.0/15",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

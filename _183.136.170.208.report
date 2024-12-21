@@ -1,0 +1,44 @@
+{
+  "ip": "183.136.170.208",
+  "city": "Ningbo",
+  "region": "Zhejiang",
+  "country": "CN",
+  "loc": "29.8782,121.5494",
+  "postal": "315000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS58461",
+    "name": "CT-HangZhou-IDC",
+    "domain": "zjtelecom.com.cn",
+    "route": "183.136.160.0/19",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "CHINANET-ZJ Hangzhou node network",
+    "domain": "hz.zj.cn",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Hangzhou, 288 fucun Road, China",
+    "country": "CN",
+    "email": "antispam_zjnoc@163.com",
+    "name": "ABUSE CHINANETZJ",
+    "network": "183.136.160.0/19",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "ip": "183.136.170.208",
+    "total": 1,
+    "domains": [
+      "medtmt.tech"
+    ]
+  }
+}

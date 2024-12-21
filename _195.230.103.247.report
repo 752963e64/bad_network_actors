@@ -1,0 +1,42 @@
+{
+  "ip": "195.230.103.247",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "postal": "60306",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS211607",
+    "name": "Securitytrails, LLC",
+    "domain": "securitytrails.com",
+    "route": "195.230.103.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "about-asi.recordedfuture.com",
+    "domain": "securitytrails.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Securitytrails, LLC, PO Box 515381, Los Angeles, CA 90051-6681, UNITED STATES",
+    "country": "US",
+    "email": "support@securitytrails.com",
+    "name": "Abuse-C Role",
+    "network": "195.230.103.0/24",
+    "phone": "+16175536400"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

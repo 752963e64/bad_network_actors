@@ -1,0 +1,40 @@
+{
+  "ip": "77.240.44.232",
+  "city": "Almaty",
+  "region": "Almaty",
+  "country": "KZ",
+  "loc": "43.2500,76.9167",
+  "timezone": "Asia/Almaty",
+  "asn": {
+    "asn": "AS200590",
+    "name": "NLS Kazakhstan LLC",
+    "domain": "nls.kz",
+    "route": "77.240.44.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "NLS Kazakhstan LLC",
+    "domain": "nls.kz",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "AL-FARABI AVENUE, 95 KV 115, ALMATY, KAZAKHSTAN",
+    "country": "KZ",
+    "email": "ncc@nls.kz",
+    "name": "NLSKZ NCC Department",
+    "network": "77.240.44.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

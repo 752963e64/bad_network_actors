@@ -1,0 +1,41 @@
+{
+  "ip": "185.254.54.54",
+  "city": "Şişli",
+  "region": "Istanbul",
+  "country": "TR",
+  "loc": "41.0483,28.9521",
+  "postal": "34445",
+  "timezone": "Europe/Istanbul",
+  "asn": {
+    "asn": "AS197644",
+    "name": "Emre Ozcelik",
+    "domain": "acmeteknoloji.com",
+    "route": "185.254.54.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "ACME Teknoloji A.S.",
+    "domain": "acmeteknoloji.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "KIZILIRMAK MAH. DUMLUPINAR BUL. NO: 3C-1 IC KAPI NO: 160 CANKAYA/ANKARA",
+    "country": "TR",
+    "email": "abuse@acmeteknoloji.com",
+    "name": "ACME Teknoloji A.S.",
+    "network": "185.254.54.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

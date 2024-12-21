@@ -1,0 +1,43 @@
+{
+  "ip": "178.159.228.66",
+  "hostname": "178.159.228.66.teremki.kiev.ua",
+  "city": "Chabany",
+  "region": "Kiev",
+  "country": "UA",
+  "loc": "50.3407,30.4236",
+  "postal": "01001",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS43967",
+    "name": "TEREMKY LAN ISP LLC",
+    "domain": "teremki.net.ua",
+    "route": "178.159.228.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TEREMKY LAN ISP LLC",
+    "domain": "teremki.net.ua",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TEREMKI LAN ISP LLC, Ukraine, 03187, Kiev, Zabolotnogo str. 48A",
+    "country": "UA",
+    "email": "abuse@teremki.net.ua",
+    "name": "TEREMKI Hostmaster role account",
+    "network": "178.159.224.0/20",
+    "phone": "+38 044 5932211"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

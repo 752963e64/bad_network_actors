@@ -1,0 +1,42 @@
+{
+  "ip": "45.202.35.27",
+  "city": "Lisbon",
+  "region": "Lisbon",
+  "country": "PT",
+  "loc": "38.7167,-9.1333",
+  "postal": "1000-001",
+  "timezone": "Europe/Lisbon",
+  "asn": {
+    "asn": "AS215208",
+    "name": "Dolphin 1337 Limited",
+    "domain": "dolphinhost.net",
+    "route": "45.202.35.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Dolphin 1337 Limited",
+    "domain": "dolphinhost.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ebene, MU, Mahe, Seychelles",
+    "country": "SC",
+    "email": "abuse@dolphinhost.net",
+    "name": "Dolphin 1337 Limited",
+    "network": "45.202.35.0/24",
+    "phone": "tel:+248-4-610-795"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "59.42.91.25",
+  "hostname": "25.91.42.59.broad.gz.gd.dynamic.163data.com.cn",
+  "city": "Guangzhou",
+  "region": "Guangdong",
+  "country": "CN",
+  "loc": "23.1167,113.2500",
+  "postal": "510000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4134",
+    "name": "CHINANET-BACKBONE",
+    "domain": "chinatelecom.com.cn",
+    "route": "59.42.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CHINANET Guangdong province network",
+    "domain": "chinatelecom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.31 ,jingrong street,beijing, 100032",
+    "country": "CN",
+    "email": "anti-spam@chinatelecom.cn",
+    "name": "ABUSE CHINANETCN",
+    "network": "59.32.0.0-59.42.255.255",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

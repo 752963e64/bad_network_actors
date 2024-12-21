@@ -1,0 +1,42 @@
+{
+  "ip": "185.81.31.174",
+  "city": "Kansas City",
+  "region": "Missouri",
+  "country": "US",
+  "loc": "39.0997,-94.5786",
+  "postal": "64106",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS399045",
+    "name": "DediOutlet, LLC",
+    "domain": "dedioutlet.com",
+    "route": "185.81.30.0/23",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Internet Utilities Europe and Asia Limited",
+    "domain": "netutils.io",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "6th Floor 9 Appold Street London, EC2A 2AP",
+    "country": "US",
+    "email": "report@abuseradar.com",
+    "name": "Internet Utilities Abuse Contact",
+    "network": "185.81.30.0/23",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

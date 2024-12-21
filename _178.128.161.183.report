@@ -1,0 +1,41 @@
+{
+  "ip": "178.128.161.183",
+  "city": "London",
+  "region": "England",
+  "country": "GB",
+  "loc": "51.5085,-0.1257",
+  "postal": "E1W",
+  "timezone": "Europe/London",
+  "asn": {
+    "asn": "AS14061",
+    "name": "DigitalOcean, LLC",
+    "domain": "digitalocean.com",
+    "route": "178.128.160.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "DigitalOcean, LLC",
+    "domain": "digitalocean.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "DigitalOcean, Inc., 101 Avenue of the Americas, FL2, New York, NY, 10013, United States of America",
+    "country": "US",
+    "email": "abuse@digitalocean.com",
+    "name": "Abuse Department",
+    "network": "178.128.160.0/20",
+    "phone": "+13478756044"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

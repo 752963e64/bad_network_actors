@@ -1,0 +1,42 @@
+{
+  "ip": "197.87.178.99",
+  "city": "Benoni",
+  "region": "Gauteng",
+  "country": "ZA",
+  "loc": "-26.1885,28.3208",
+  "postal": "1501",
+  "timezone": "Africa/Johannesburg",
+  "asn": {
+    "asn": "AS20011",
+    "name": "Dimension Data",
+    "domain": "global.ntt",
+    "route": "197.87.178.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Dimension Data",
+    "domain": "dimensiondata.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Dimension Data, Block A, Persequor Plaza, TechnoPark, Pretoria, 0001, ZA",
+    "country": "ZA",
+    "email": "dimdata@cisco.com",
+    "name": "Arthur Seesink",
+    "network": "197.87.128.0/18",
+    "phone": "tel:+27-12-349-1200"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

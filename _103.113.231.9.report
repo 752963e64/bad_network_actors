@@ -1,0 +1,43 @@
+{
+  "ip": "103.113.231.9",
+  "hostname": "9-231-113-103.static.ind.winux.co.in",
+  "city": "Indore",
+  "region": "Madhya Pradesh",
+  "country": "IN",
+  "loc": "22.7179,75.8333",
+  "postal": "452002",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS136342",
+    "name": "Winux Communications Pvt. Ltd.",
+    "domain": "winux.co.in",
+    "route": "103.113.231.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Sn Telematix Private Limited",
+    "domain": "winux.co.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "LIG-301,H-Sector, Ayodhya Nagar,Bhopal,Madhya Pradesh-462041",
+    "country": "IN",
+    "email": "helpdesk@winux.co.in",
+    "name": "Manoj Samadhiya",
+    "network": "103.113.228.0/22",
+    "phone": "+91 7552628309"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

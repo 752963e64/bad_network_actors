@@ -1,0 +1,42 @@
+{
+  "ip": "202.163.87.42",
+  "city": "Multan",
+  "region": "Punjab",
+  "country": "PK",
+  "loc": "30.1968,71.4782",
+  "postal": "60700",
+  "timezone": "Asia/Karachi",
+  "asn": {
+    "asn": "AS9541",
+    "name": "Cyber Internet Services (Pvt) Ltd.",
+    "domain": "cyber.net.pk",
+    "route": "202.163.87.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Broadband Services",
+    "domain": "cyber.net.pk",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "A904, 9th Floor,Lakson Bldg 3,Sarwar Shaheed Rd,Karachi-74200",
+    "country": "PK",
+    "email": "noc-abuse@cyber.net.pk",
+    "name": "ABUSE CYBERNETPK",
+    "network": "202.163.84.0/22",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "146.185.25.166",
+  "hostname": "scanners.labs.rapid7.com",
+  "city": "London",
+  "region": "England",
+  "country": "GB",
+  "loc": "51.5085,-0.1257",
+  "postal": "E1W",
+  "timezone": "Europe/London",
+  "asn": {
+    "asn": "AS29302",
+    "name": "Hosting Services Inc",
+    "domain": "westhost.com",
+    "route": "146.185.16.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Hosting Services Inc",
+    "domain": "westhost.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Hosting Services Inc, Chris Woosnam-Savage, 517 W 100 N STE 225, Providence, UT 84332, UNITED STATES",
+    "country": "US",
+    "email": "urgent@submitabuse.com",
+    "name": "Abuse-C Role",
+    "network": "146.185.25.160/27",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

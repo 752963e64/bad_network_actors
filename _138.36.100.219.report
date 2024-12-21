@@ -1,0 +1,43 @@
+{
+  "ip": "138.36.100.219",
+  "hostname": "219-100-36-138.syncontel.net.br",
+  "city": "Barreiras",
+  "region": "Bahia",
+  "country": "BR",
+  "loc": "-12.1528,-44.9900",
+  "postal": "47800-000",
+  "timezone": "America/Bahia",
+  "asn": {
+    "asn": "AS264599",
+    "name": "SYNCONTEL TELECOMUNICAÇÕES LTDA",
+    "domain": "syncontel.net.br",
+    "route": "138.36.100.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SYNCONTEL TELECOMUNICAÇÕES LTDA",
+    "domain": "syncontel.net.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "syncontel@gmail.com",
+    "name": "Antonio Concei��o Faustino",
+    "network": "138.36.100.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

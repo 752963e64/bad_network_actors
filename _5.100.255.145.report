@@ -1,0 +1,45 @@
+{
+  "ip": "5.100.255.145",
+  "city": "Rosh Ha‘Ayin",
+  "region": "Central District",
+  "country": "IL",
+  "loc": "32.0956,34.9566",
+  "timezone": "Asia/Jerusalem",
+  "asn": {
+    "asn": "AS44709",
+    "name": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+    "domain": "omc.co.il",
+    "route": "5.100.255.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+    "domain": "omc.co.il",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "15 Madison Ave., New York City, New York, USA",
+    "country": "IL",
+    "email": "abuse@cloudwm.com",
+    "name": "Cloud Web Manage",
+    "network": "5.100.255.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "5.100.255.145",
+    "total": 3,
+    "domains": [
+      "ahim.org.il",
+      "hubibuy.com",
+      "cloudhostcenter.com"
+    ]
+  }
+}

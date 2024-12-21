@@ -1,0 +1,42 @@
+{
+  "ip": "185.28.39.97",
+  "hostname": "start.gursama.com",
+  "city": "Amsterdam",
+  "region": "North Holland",
+  "country": "NL",
+  "loc": "52.3630,4.8923",
+  "postal": "1017",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS399471",
+    "name": "Des Equity LLC",
+    "domain": "serverion.com",
+    "route": "185.28.39.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Des Capital B.V.",
+    "domain": "des.capital",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Krammer 8, 3232HE, Brielle, NETHERLANDS",
+    "country": "NL",
+    "email": "abuse@des.capital",
+    "name": "Abuse-C Role",
+    "network": "185.28.36.0/22",
+    "phone": "+31851308338"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

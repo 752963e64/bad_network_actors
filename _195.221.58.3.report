@@ -1,0 +1,43 @@
+{
+  "ip": "195.221.58.3",
+  "hostname": "aix.u-ga.fr",
+  "city": "Angers",
+  "region": "Pays de la Loire",
+  "country": "FR",
+  "loc": "47.4716,-0.5520",
+  "postal": "49000",
+  "timezone": "Europe/Paris",
+  "asn": {
+    "asn": "AS2200",
+    "name": "Renater",
+    "domain": "renater.fr",
+    "route": "195.221.0.0/16",
+    "type": "education"
+  },
+  "company": {
+    "name": "Universite Grenoble Alpes",
+    "domain": "univ-grenoble-alpes.fr",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "GIP RENATER, 23-25 Rue Daviel, 75013 PARIS, FRANCE",
+    "country": "FR",
+    "email": "certsvp@renater.fr",
+    "name": "RENATER Abuse",
+    "network": "195.221.39.0-195.221.58.255",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

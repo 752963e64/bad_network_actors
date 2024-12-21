@@ -1,0 +1,43 @@
+{
+  "ip": "67.80.19.55",
+  "hostname": "ool-43501337.dyn.optonline.net",
+  "city": "Bridgeport",
+  "region": "Connecticut",
+  "country": "US",
+  "loc": "41.1792,-73.1894",
+  "postal": "06602",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS6128",
+    "name": "Cablevision Systems Corp.",
+    "domain": "cablevision.com",
+    "route": "67.80.0.0/14",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Optimum Online (Cablevision Systems)",
+    "domain": "optimum.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, NY, Hicksville, 111 new south RD, 11801",
+    "country": "US",
+    "email": "abuse@cv.net",
+    "name": "OOL Hostmaster",
+    "network": "67.80.16.0/22",
+    "phone": "+1-516-803-2400"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

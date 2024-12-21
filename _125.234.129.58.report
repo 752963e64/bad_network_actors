@@ -1,0 +1,45 @@
+{
+  "ip": "125.234.129.58",
+  "hostname": "125.234.129.58.hcm.viettel.vn",
+  "city": "Tân An",
+  "region": "Long An Povince",
+  "country": "VN",
+  "loc": "10.5359,106.4137",
+  "postal": "82199",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "asn": {
+    "asn": "AS7552",
+    "name": "Viettel Group",
+    "domain": "viettel.com.vn",
+    "route": "125.234.128.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "xDSL Services of HaNoi",
+    "domain": "viettel.com.vn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ha Noi, VietNam",
+    "country": "VN",
+    "email": "hm-changed@vnnic.vn",
+    "name": "Tran Van Thanh",
+    "network": "125.234.0.0/16",
+    "phone": "+84-24-35564944"
+  },
+  "domains": {
+    "ip": "125.234.129.58",
+    "total": 1,
+    "domains": [
+      "mianlan.com"
+    ]
+  }
+}

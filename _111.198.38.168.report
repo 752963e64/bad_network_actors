@@ -1,0 +1,42 @@
+{
+  "ip": "111.198.38.168",
+  "city": "Beijing",
+  "region": "Beijing",
+  "country": "CN",
+  "loc": "39.9075,116.3972",
+  "postal": "100000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4808",
+    "name": "China Unicom Beijing Province Network",
+    "domain": "chinaunicom.cn",
+    "route": "111.198.0.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "China Unicom Beijing province network",
+    "domain": "chinaunicom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.21,Financial Street, Beijing,100033, P.R.China",
+    "country": "CN",
+    "email": "zhaoyz3@chinaunicom.cn",
+    "name": "ABUSE CUCN",
+    "network": "111.192.0.0/12",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

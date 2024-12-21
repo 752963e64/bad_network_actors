@@ -1,0 +1,41 @@
+{
+  "ip": "36.64.10.42",
+  "city": "Tangerang",
+  "region": "Banten",
+  "country": "ID",
+  "loc": "-6.1781,106.6300",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS7713",
+    "name": "PT Telekomunikasi Indonesia",
+    "domain": "telin.net",
+    "route": "36.64.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PT TELKOM INDONESIA STO Gambir Lantai 3 Jalan Medan Merdeka Selatan 12 JAKARTA",
+    "domain": "telkom.co.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT. TELKOM INDONESIA, STO Telkom Gambir 3th Floor, Medan Merdeka Selatan, JAKARTA",
+    "country": "ID",
+    "email": "abuse@telkom.co.id",
+    "name": "ABUSE IDTELKOMID",
+    "network": "36.64.0.0/20",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

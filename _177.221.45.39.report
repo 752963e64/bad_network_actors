@@ -1,0 +1,44 @@
+{
+  "ip": "177.221.45.39",
+  "city": "Recife",
+  "region": "Pernambuco",
+  "country": "BR",
+  "loc": "-8.0539,-34.8811",
+  "postal": "50000-000",
+  "timezone": "America/Recife",
+  "asn": {
+    "asn": "AS52965",
+    "name": "1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA",
+    "domain": "1telecom.com.br",
+    "route": "177.221.45.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA",
+    "domain": "1telecom.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "noc@1telecom.com.br",
+    "name": "1TELECOM LTDA",
+    "network": "177.221.45.0/26",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "177.221.45.39",
+    "total": 1,
+    "domains": [
+      "hemobras.gov.br"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "103.163.178.94",
+  "city": "Cuttack",
+  "region": "Odisha",
+  "country": "IN",
+  "loc": "20.4650,85.8793",
+  "postal": "753010",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS149268",
+    "name": "ROARNET BROADBAND PVT LTD",
+    "domain": "roarnet.in",
+    "route": "103.163.178.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Odinet Infocom Private Limited",
+    "domain": "odinet.in",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "C/O SAYED FAZLE AMIN, WARD NO.6, PENSION LANE, BUXI BAZAR, Cuttack, Odisha, 753001,Cuttack,Odisha-753001",
+    "country": "IN",
+    "email": "dir.dir.devjyoti@odinet.in",
+    "name": "Mohammed saad",
+    "network": "103.163.178.0/23",
+    "phone": "+91 9778107860"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

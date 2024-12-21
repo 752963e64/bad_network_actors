@@ -1,0 +1,42 @@
+{
+  "ip": "94.177.106.38",
+  "city": "Bucharest",
+  "region": "București",
+  "country": "RO",
+  "loc": "44.4323,26.1063",
+  "postal": "050011",
+  "timezone": "Europe/Bucharest",
+  "asn": {
+    "asn": "AS214209",
+    "name": "Internet Magnate (Pty) Ltd",
+    "domain": "magnates.co.za",
+    "route": "94.177.106.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "RCS Technologies FZE LLC",
+    "domain": "rcstech.ae",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "UAE",
+    "country": "ZA",
+    "email": "ripe@interlir.com",
+    "name": "Abuse contact role object",
+    "network": "94.177.106.0/25",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

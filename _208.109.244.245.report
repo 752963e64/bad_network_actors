@@ -1,0 +1,43 @@
+{
+  "ip": "208.109.244.245",
+  "hostname": "245.244.109.208.host.secureserver.net",
+  "city": "Tempe",
+  "region": "Arizona",
+  "country": "US",
+  "loc": "33.4148,-111.9093",
+  "postal": "85285",
+  "timezone": "America/Phoenix",
+  "asn": {
+    "asn": "AS26496",
+    "name": "GoDaddy.com, LLC",
+    "domain": "godaddy.com",
+    "route": "208.109.192.0/18",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "GoDaddy.com, LLC",
+    "domain": "godaddy.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, AZ, Tempe, 2155 E GoDaddy Way, 85284",
+    "country": "US",
+    "email": "abuse@godaddy.com",
+    "name": "Abuse Department",
+    "network": "208.109.0.0/16",
+    "phone": "+1-480-624-2505"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

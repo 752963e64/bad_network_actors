@@ -1,0 +1,42 @@
+{
+  "ip": "103.247.21.115",
+  "hostname": "ip-sub-21-115.wifian.id",
+  "city": "Cikarang",
+  "region": "West Java",
+  "country": "ID",
+  "loc": "-6.2611,107.1528",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS58485",
+    "name": "WIFIAN ID",
+    "domain": "wifian.id",
+    "route": "103.247.21.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Asia Pacific Network Information Centre",
+    "domain": "apnic.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT Wifian Solution, Kavling Candra Mustika Blok B No. 18, Mustikasari, Mustikajaya, Kota Bekasi 17157",
+    "country": "ID",
+    "email": "abuse@wifian.id",
+    "name": "Zaduna Fidaroin",
+    "network": "103.247.21.0/24",
+    "phone": "+6281213337713"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

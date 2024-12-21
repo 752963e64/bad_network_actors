@@ -1,0 +1,42 @@
+{
+  "ip": "185.167.96.146",
+  "city": "Amsterdam",
+  "region": "North Holland",
+  "country": "NL",
+  "loc": "52.3740,4.8897",
+  "postal": "1012",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS41436",
+    "name": "Kamatera Inc",
+    "domain": "kamatera.com",
+    "route": "185.167.96.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Kamatera Inc",
+    "domain": "kamatera.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "15 Madison Ave., New York City, New York, USA",
+    "country": "NL",
+    "email": "abuse@cloudwm.com",
+    "name": "Cloud Web Manage",
+    "network": "185.167.96.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

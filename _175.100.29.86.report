@@ -1,0 +1,42 @@
+{
+  "ip": "175.100.29.86",
+  "hostname": "dynamic-ip-adsl.metfone.com.kh",
+  "city": "Phnom Penh",
+  "region": "Phnom Penh",
+  "country": "KH",
+  "loc": "11.5625,104.9160",
+  "timezone": "Asia/Phnom_Penh",
+  "asn": {
+    "asn": "AS38623",
+    "name": "ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.",
+    "domain": "metfone.com.kh",
+    "route": "175.100.28.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "VIETTEL (CAMBODIA) PTE., LTD.",
+    "domain": "viettel.com.vn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "# 199, Mao Tse Toung Blvd(245), Phnom Penh, Cambodia.",
+    "country": "KH",
+    "email": "namtt1@viettel.com.vn",
+    "name": "ABUSE VIETTELCAMBODIAKH",
+    "network": "175.100.16.0/20",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

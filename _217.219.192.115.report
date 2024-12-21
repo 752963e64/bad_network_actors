@@ -1,0 +1,41 @@
+{
+  "ip": "217.219.192.115",
+  "city": "Shiraz",
+  "region": "Fars",
+  "country": "IR",
+  "loc": "29.6103,52.5311",
+  "timezone": "Asia/Tehran",
+  "asn": {
+    "asn": "AS58224",
+    "name": "Iran Telecommunication Company PJS",
+    "domain": "tci.ir",
+    "route": "217.219.192.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Hamedan Data comunication company",
+    "domain": "ito.gov.ir",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Information Technology Company Ali Asghar Ansari Bayhaghi 1515674311 Teheran IRAN, ISLAMIC REPUBLIC OF",
+    "country": "IR",
+    "email": "abuse@ito.gov.ir",
+    "name": "Abuse-C Role",
+    "network": "217.219.192.0/24",
+    "phone": "+98 811 422 59 03"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

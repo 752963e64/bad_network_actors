@@ -1,0 +1,43 @@
+{
+  "ip": "81.23.151.19",
+  "hostname": "pppoe-151-19.tnpko.ru",
+  "city": "Kazan",
+  "region": "Tatarstan Republic",
+  "country": "RU",
+  "loc": "55.7887,49.1221",
+  "postal": "422525",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS12389",
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "route": "81.23.151.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TNPKO JSC",
+    "domain": "tnpko.ru",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "PJSC Rostelecom Technical Team",
+    "network": "81.23.150.0/23",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

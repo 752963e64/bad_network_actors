@@ -1,0 +1,42 @@
+{
+  "ip": "185.243.5.127",
+  "city": "New York City",
+  "region": "New York",
+  "country": "US",
+  "loc": "40.7143,-74.0060",
+  "postal": "10001",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS23470",
+    "name": "ReliableSite.Net LLC",
+    "domain": "reliablesite.net",
+    "route": "185.243.5.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Dedires LLC",
+    "domain": "dedires.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ain Minjid, Ramallah",
+    "country": "GB",
+    "email": "abuse@dedires.com",
+    "name": "Abuse contact role object",
+    "network": "185.243.5.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

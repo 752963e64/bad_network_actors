@@ -1,0 +1,41 @@
+{
+  "ip": "103.148.194.245",
+  "city": "Bandung",
+  "region": "West Java",
+  "country": "ID",
+  "loc": "-6.9222,107.6069",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS140003",
+    "name": "Rumah Sakit Umum Pusat DR Hasan Sadikin",
+    "domain": "rshs.web.id",
+    "route": "103.148.194.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "Rumah Sakit Umum Pusat DR Hasan Sadikin",
+    "domain": "rshs.web.id",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Rumah Sakit Umum Pusat DR. Hasan Sadikin, Instalasi SIRS, Jl. Pasteur No.38, Kel. Pasteur Kec. Sukajadi, Bandung 40161",
+    "country": "ID",
+    "email": "abuse@rshs.web.id",
+    "name": "Irwanto Irwanto",
+    "network": "103.148.194.0/24",
+    "phone": "+62-22-2034953"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

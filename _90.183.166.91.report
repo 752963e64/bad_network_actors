@@ -1,0 +1,43 @@
+{
+  "ip": "90.183.166.91",
+  "hostname": "90-183-166-91.rcq.o2.cz",
+  "city": "Prague",
+  "region": "Prague",
+  "country": "CZ",
+  "loc": "50.0880,14.4208",
+  "postal": "110 00",
+  "timezone": "Europe/Prague",
+  "asn": {
+    "asn": "AS5610",
+    "name": "O2 Czech Republic, a.s.",
+    "domain": "o2.cz",
+    "route": "90.180.0.0/14",
+    "type": "isp"
+  },
+  "company": {
+    "name": "O2 Czech Republic, a.s.",
+    "domain": "o2.cz",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "O2 Czech Republic, a.s., Jiri Hvezda, Za Brumlovkou 266/2, Praha 4 - Michle, PSC 140 22, CZECH REPUBLIC",
+    "country": "CZ",
+    "email": "abuse@o2.cz",
+    "name": "Abuse-C Role",
+    "network": "90.176.32.0-90.183.255.255",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

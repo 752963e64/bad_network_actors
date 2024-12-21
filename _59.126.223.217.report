@@ -1,0 +1,42 @@
+{
+  "ip": "59.126.223.217",
+  "hostname": "59-126-223-217.hinet-ip.hinet.net",
+  "city": "Taichung",
+  "region": "Taiwan",
+  "country": "TW",
+  "loc": "24.1469,120.6839",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS3462",
+    "name": "Data Communication Business Group",
+    "domain": "hinet.net",
+    "route": "59.126.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Chunghwa Telecom Co.,Ltd.",
+    "domain": "cht.com.tw",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Taipei Taiwan",
+    "country": "TW",
+    "email": "network-adm@hinet.net",
+    "name": "HINET",
+    "network": "59.126.0.0/16",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

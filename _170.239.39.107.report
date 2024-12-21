@@ -1,0 +1,43 @@
+{
+  "ip": "170.239.39.107",
+  "hostname": "170.239.39.107.conecttelecom.com.br",
+  "city": "Valença",
+  "region": "Bahia",
+  "country": "BR",
+  "loc": "-13.3703,-39.0731",
+  "postal": "45400-000",
+  "timezone": "America/Bahia",
+  "asn": {
+    "asn": "AS263151",
+    "name": "CONECT TELECOM",
+    "domain": "conecttelecom.com.br",
+    "route": "170.239.39.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CONECT TELECOM",
+    "domain": "conecttelecom.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse@conecttelecom.com.br",
+    "name": "Valdemar Melo da Mota",
+    "network": "170.239.36.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

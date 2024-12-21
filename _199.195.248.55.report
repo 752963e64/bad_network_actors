@@ -1,0 +1,43 @@
+{
+  "ip": "199.195.248.55",
+  "hostname": "mail.rafibaum.com",
+  "city": "New York City",
+  "region": "New York",
+  "country": "US",
+  "loc": "40.7143,-74.0060",
+  "postal": "10001",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS53667",
+    "name": "FranTech Solutions",
+    "domain": "frantech.ca",
+    "route": "199.195.248.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "FranTech Solutions",
+    "domain": "frantech.ca",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CA, BC, Victoria, 3252 Glasgow Ave, Unit #401, V8X 1M2",
+    "country": "CA",
+    "email": "admin@frantech.ca",
+    "name": "Francisco Dias",
+    "network": "199.195.248.0/21",
+    "phone": "+1-778-977-8246"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

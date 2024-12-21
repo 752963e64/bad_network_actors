@@ -1,0 +1,43 @@
+{
+  "ip": "103.205.13.10",
+  "hostname": "static-103-105-13-10.pol.net.in",
+  "city": "Hyderābād",
+  "region": "Telangana",
+  "country": "IN",
+  "loc": "17.3840,78.4564",
+  "postal": "500001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS18229",
+    "name": "CtrlS",
+    "domain": "ctrls.in",
+    "route": "103.205.13.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "IMPERIAL TECH SERVICES",
+    "domain": "imperialtechservices.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Plot No 633,Vaidehinagar,Vanasthalipuram,Hyderabad",
+    "country": "IN",
+    "email": "imperialtech.services@gmail.com",
+    "name": "Hussain ShaikMohd",
+    "network": "103.205.12.0/22",
+    "phone": "+91 9866011450"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

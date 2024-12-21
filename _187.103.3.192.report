@@ -1,0 +1,42 @@
+{
+  "ip": "187.103.3.192",
+  "hostname": "187-103-3-192.newnet.com.br",
+  "city": "Jacobina",
+  "region": "Bahia",
+  "country": "BR",
+  "loc": "-11.1814,-40.5137",
+  "postal": "44700-000",
+  "timezone": "America/Bahia",
+  "asn": {
+    "asn": "AS53098",
+    "name": "NEWNET CONSULTORIA, INFORMATICA LTDA",
+    "domain": "newnet.com.br",
+    "route": "187.103.0.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "NEWNET CONSULTORIA, INFORMATICA LTDA",
+    "domain": "newnet.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "paulo.martins@compusist.com.br",
+    "name": "Paulo Henrique Martins dos Santos",
+    "network": "187.103.0.0/20",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

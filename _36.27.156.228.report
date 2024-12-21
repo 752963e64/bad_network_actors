@@ -1,0 +1,41 @@
+{
+  "ip": "36.27.156.228",
+  "city": "Shanghai",
+  "region": "Shanghai",
+  "country": "CN",
+  "loc": "31.2222,121.4581",
+  "postal": "200000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4134",
+    "name": "CHINANET-BACKBONE",
+    "domain": "chinatelecom.com.cn",
+    "route": "36.16.0.0/12",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CHINANET-ZJ Jinhua node network",
+    "domain": "hz.zj.cn",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Hangzhou, 288 fucun Road, China",
+    "country": "CN",
+    "email": "antispam_zjnoc@163.com",
+    "name": "ABUSE CHINANETZJ",
+    "network": "36.27.128.0/18",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

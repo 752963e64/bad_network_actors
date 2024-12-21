@@ -1,0 +1,42 @@
+{
+  "ip": "109.205.213.108",
+  "city": "New York City",
+  "region": "New York",
+  "country": "US",
+  "loc": "40.7143,-74.0060",
+  "postal": "10001",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS19318",
+    "name": "Interserver, Inc",
+    "domain": "interserver.net",
+    "route": "109.205.213.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Razinet Dedicated Servers",
+    "domain": "razinet.site",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Hauptstrasse 31 , 92361, berngau, DE",
+    "country": "DE",
+    "email": "abuse@razinet.site",
+    "name": "Razinet Dedicated Servers",
+    "network": "109.205.213.0/24",
+    "phone": "+4917661200655"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

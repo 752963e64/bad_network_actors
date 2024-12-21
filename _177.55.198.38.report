@@ -1,0 +1,43 @@
+{
+  "ip": "177.55.198.38",
+  "hostname": "177-55-198-38.static.sumicity.net.br",
+  "city": "Petrópolis",
+  "region": "Rio de Janeiro",
+  "country": "BR",
+  "loc": "-22.5050,-43.1786",
+  "postal": "25600-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS28210",
+    "name": "GIGA MAIS FIBRA TELECOMUNICACOES S.A.",
+    "domain": "gigamaisempresas.com.br",
+    "route": "177.55.192.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Eco sistemas e Editoração",
+    "domain": "ecosistemas.com.br",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse@sumicity.net.br",
+    "name": "Centro de Gerencia de Rede Sumicity",
+    "network": "177.55.198.36/30",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

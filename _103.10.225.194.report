@@ -1,0 +1,43 @@
+{
+  "ip": "103.10.225.194",
+  "hostname": "dhcp-10-225-194.in2cable.com",
+  "city": "Mumbai",
+  "region": "Maharashtra",
+  "country": "IN",
+  "loc": "19.0728,72.8826",
+  "postal": "400017",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS17665",
+    "name": "ONEOTT INTERTAINMENT LIMITED",
+    "domain": "onebroadband.in",
+    "route": "103.10.225.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Indusind Media and Communications Ltd.",
+    "domain": "onebroadband.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "49/50, IN CENTRE , 12th ROAD, MIDC, ANDHERI(E), MUMBAI-400093",
+    "country": "IN",
+    "email": "info@onebroadband.in",
+    "name": "ONEOTT iNTERTAINMENT LIMITED",
+    "network": "103.10.224.0/22",
+    "phone": "+91-22-66017900"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

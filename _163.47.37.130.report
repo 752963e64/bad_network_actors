@@ -1,0 +1,42 @@
+{
+  "ip": "163.47.37.130",
+  "city": "Gazipur",
+  "region": "Dhaka Division",
+  "country": "BD",
+  "loc": "23.9984,90.4223",
+  "postal": "1700",
+  "timezone": "Asia/Dhaka",
+  "asn": {
+    "asn": "AS63961",
+    "name": "Bangladesh Research and Education Network (BdREN)",
+    "domain": "bdren.net.bd",
+    "route": "163.47.36.0/22",
+    "type": "education"
+  },
+  "company": {
+    "name": "Bangladesh Research and Education Network (BdREN)",
+    "domain": "bdren.net.bd",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Bangladesh Research and Education Network (BdREN)",
+    "country": "BD",
+    "email": "abuse@bdren.net.bd",
+    "name": "ABUSE BDRENUGCBD",
+    "network": "163.47.36.0/22",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

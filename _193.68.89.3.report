@@ -1,0 +1,41 @@
+{
+  "ip": "193.68.89.3",
+  "city": "Kerkrade",
+  "region": "Limburg",
+  "country": "NL",
+  "loc": "50.8907,6.0624",
+  "postal": "6471",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS60223",
+    "name": "Netiface Limited",
+    "domain": "netiface.net",
+    "route": "193.68.89.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Versija SIA",
+    "domain": "vernet.lv",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Lilienstraße 5, 94051 Hauzenberg",
+    "country": "GB",
+    "email": "abuse@pfcloud.io",
+    "name": "Admin",
+    "network": "193.68.89.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

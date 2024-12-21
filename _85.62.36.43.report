@@ -1,0 +1,47 @@
+{
+  "ip": "85.62.36.43",
+  "city": "Madrid",
+  "region": "Madrid",
+  "country": "ES",
+  "loc": "40.4165,-3.7026",
+  "postal": "28004",
+  "timezone": "Europe/Madrid",
+  "asn": {
+    "asn": "AS12479",
+    "name": "Orange Espagne SA",
+    "domain": "orange.es",
+    "route": "85.62.32.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Direcciones PAT/NAT de ABIs",
+    "domain": "masorange.es",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Orange",
+    "mcc": "214",
+    "mnc": "03"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "company France Telecom España, Calle Meneses, 2, 28045, Madrid, Spain",
+    "country": "FR",
+    "email": "abuse.es@masorange.es",
+    "name": "Abuse FTE handling",
+    "network": "85.62.36.32/27",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

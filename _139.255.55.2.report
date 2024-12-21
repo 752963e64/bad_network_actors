@@ -1,0 +1,42 @@
+{
+  "ip": "139.255.55.2",
+  "hostname": "ln-static-139-255-55-2.link.net.id",
+  "city": "Bandung",
+  "region": "West Java",
+  "country": "ID",
+  "loc": "-6.9222,107.6069",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS9905",
+    "name": "Linknet ASN",
+    "domain": "multipolar.co.id",
+    "route": "139.255.52.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "PT. First Media,Tbk",
+    "domain": "firstmedia.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT. First Media,Tbk, Citra Graha Building 4th Floor, Jl. Gatot Subroto Kav 35-36, Jakarta - Indonesia, 12950",
+    "country": "ID",
+    "email": "abuse@firstmedia.com",
+    "name": "PT. First Media,Tbk",
+    "network": "139.255.0.0/16",
+    "phone": "+62-21-55777755"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

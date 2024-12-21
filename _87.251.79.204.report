@@ -1,0 +1,43 @@
+{
+  "ip": "87.251.79.204",
+  "hostname": "mail.dedquistor.shop",
+  "city": "Fremont",
+  "region": "California",
+  "country": "US",
+  "loc": "37.5176,-121.9287",
+  "postal": "94539",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS211849",
+    "name": "Kakharov Orinbassar Maratuly",
+    "domain": "yandex.kz",
+    "route": "87.251.79.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "HdsLb LLC",
+    "domain": "hdslb.info",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "NE Front St, Milford, DE 19963, USA",
+    "country": "KZ",
+    "email": "support@hdslb.info",
+    "name": "Abuse contact role object",
+    "network": "87.251.79.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

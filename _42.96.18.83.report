@@ -1,0 +1,42 @@
+{
+  "ip": "42.96.18.83",
+  "city": "Ho Chi Minh City",
+  "region": "Ho Chi Minh",
+  "country": "VN",
+  "loc": "10.8230,106.6296",
+  "postal": "71606",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "asn": {
+    "asn": "AS131423",
+    "name": "Branch of Long Van System Solution JSC - Hanoi",
+    "domain": "longvan.net",
+    "route": "42.96.16.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Long Van System Solution JSC",
+    "domain": "lvsolution.vn",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Long Van System Solution JSC, Long Van Building, 37/2/6 Road 12, Binh An, District 2, HCMC",
+    "country": "VN",
+    "email": "toan@lvsolution.vn",
+    "name": "Quach Dinh Toan",
+    "network": "42.96.16.0/20",
+    "phone": "+84-8-73039168"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

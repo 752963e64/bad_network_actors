@@ -1,0 +1,43 @@
+{
+  "ip": "181.191.64.74",
+  "hostname": "adsl-dynamic-74-64.191.181.wisp.com.ar",
+  "city": "Berisso",
+  "region": "Buenos Aires",
+  "country": "AR",
+  "loc": "-34.8715,-57.8833",
+  "postal": "1923",
+  "timezone": "America/Argentina/Buenos_Aires",
+  "asn": {
+    "asn": "AS265777",
+    "name": "SOLUCIONES WISP S.A.",
+    "domain": "wisp.com.ar",
+    "route": "181.191.64.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SOLUCIONES WISP S.A.",
+    "domain": "wisp.com.ar",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "18, 347, -, 1923 - Berisso - Buenos Aires",
+    "country": "AR",
+    "email": "jeronimo@wisp.com.ar",
+    "name": "Enrique Perez Di Salvo",
+    "network": "181.191.64.0/22",
+    "phone": "+54  2215256599 [0000]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

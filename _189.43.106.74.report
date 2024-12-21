@@ -1,0 +1,43 @@
+{
+  "ip": "189.43.106.74",
+  "hostname": "linx-t0-6-1-2-340055-uacc06.spoph.embratel.net.br",
+  "city": "São Paulo",
+  "region": "São Paulo",
+  "country": "BR",
+  "loc": "-23.5475,-46.6361",
+  "postal": "01000-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS4230",
+    "name": "CLARO S.A.",
+    "domain": "claro.com.br",
+    "route": "189.43.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CLARO S.A.",
+    "domain": "claro.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse@embratel.net.br",
+    "name": "Grupo de Seguran�a Internet da Embratel",
+    "network": "189.42.0.0/15",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}
