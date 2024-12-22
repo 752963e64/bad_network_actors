@@ -1,0 +1,42 @@
+{
+  "ip": "190.153.6.88",
+  "hostname": "host-190-153-6-88.net-uno.net",
+  "city": "Táriba",
+  "region": "Táchira",
+  "country": "VE",
+  "loc": "7.8212,-72.2233",
+  "timezone": "America/Caracas",
+  "asn": {
+    "asn": "AS11562",
+    "name": "Net Uno, C.A.",
+    "domain": "netuno.net",
+    "route": "190.153.6.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Net Uno, C.A",
+    "domain": "net-uno.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Urb Los Naranjos, Prolong Av Sur 7, Qta Cabletel, n/a, n/a, 1061 - Caracas - DC",
+    "country": "VE",
+    "email": "notificacioneslacnic@netuno.net",
+    "name": "Netuno IP",
+    "network": "190.153.0.0/21",
+    "phone": "+58 212 7720008"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

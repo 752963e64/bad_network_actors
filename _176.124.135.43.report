@@ -1,0 +1,42 @@
+{
+  "ip": "176.124.135.43",
+  "city": "Kitsman",
+  "region": "Chernivtsi",
+  "country": "UA",
+  "loc": "48.4387,25.7611",
+  "postal": "59300",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS59652",
+    "name": "GOLFSTREAM.NET LLC",
+    "domain": "columbus.in.ua",
+    "route": "176.124.128.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "GOLFSTREAM.NET LLC",
+    "domain": "columbus.in.ua",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ukraine, Ternopil, Kyivska st. 2",
+    "country": "UA",
+    "email": "noc@columbus.in.ua",
+    "name": "COLUMBUS NOC",
+    "network": "176.124.128.0/21",
+    "phone": "+380 352 407407"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

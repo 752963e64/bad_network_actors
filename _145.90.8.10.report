@@ -1,0 +1,43 @@
+{
+  "ip": "145.90.8.10",
+  "hostname": "please-see-measurements.internet-transparency.org",
+  "city": "Utrecht",
+  "region": "Utrecht",
+  "country": "NL",
+  "loc": "52.0908,5.1222",
+  "postal": "3511",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS1103",
+    "name": "SURF B.V.",
+    "domain": "surf.nl",
+    "route": "145.90.0.0/16",
+    "type": "education"
+  },
+  "company": {
+    "name": "Universiteit Twente",
+    "domain": "utwente.nl",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Kantoren Hoog Overborch (Hoog Catharijne), Moreelsepark 48, 3511 EP Utrecht, Postbus 19035, 3501 DA Utrecht",
+    "country": "NL",
+    "email": "cert@surfcert.nl",
+    "name": "SURF Network Maintainer",
+    "network": "145.90.8.0/24",
+    "phone": "+31 88 7873000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

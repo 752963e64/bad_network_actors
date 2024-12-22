@@ -1,0 +1,43 @@
+{
+  "ip": "213.196.191.96",
+  "hostname": "ftth-191-096.tbwil.ch",
+  "city": "Wil",
+  "region": "Saint Gallen",
+  "country": "CH",
+  "loc": "47.4615,9.0455",
+  "postal": "9500",
+  "timezone": "Europe/Zurich",
+  "asn": {
+    "asn": "AS21040",
+    "name": "Datapark AG",
+    "domain": "datapark.ch",
+    "route": "213.196.128.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Technische Betriebe Wil",
+    "domain": "tb-wil.ch",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Datapark AG, Hubstrasse 101, 9500 Wil SG, Switzerland",
+    "country": "CH",
+    "email": "abuse@datapark.ch",
+    "name": "Abuse-C Role",
+    "network": "213.196.188.0/22",
+    "phone": "+41 71 913 0000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

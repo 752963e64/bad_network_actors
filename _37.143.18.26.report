@@ -1,0 +1,42 @@
+{
+  "ip": "37.143.18.26",
+  "city": "Saint Petersburg",
+  "region": "St.-Petersburg",
+  "country": "RU",
+  "loc": "59.9386,30.3141",
+  "postal": "195213",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS24739",
+    "name": "SEVEREN TELECOM",
+    "domain": "severen.ru",
+    "route": "37.143.16.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "JSC Severen-Telecom",
+    "domain": "severen.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Severen-Telecom, Respublikanskaya str., h. 28, Lit. A, 195112, Saint-Petersburg, Russia",
+    "country": "RU",
+    "email": "abuse@severen.net",
+    "name": "Severen-Telecom NOC",
+    "network": "37.143.18.0/24",
+    "phone": "+7 812 740-7070"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

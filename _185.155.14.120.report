@@ -1,0 +1,41 @@
+{
+  "ip": "185.155.14.120",
+  "city": "Shiraz",
+  "region": "Fars",
+  "country": "IR",
+  "loc": "29.6103,52.5311",
+  "timezone": "Asia/Tehran",
+  "asn": {
+    "asn": "AS58121",
+    "name": "Arya Pars Internet Gostar LLC",
+    "domain": "",
+    "route": "185.155.14.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Pishgaman Toseeh Ertebatat Company (Private Joint Stock)",
+    "domain": "pishgaman.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No. 26, 53 Jahan Ara Ave., Yousof Abad, 1436744883, Tehran, IRAN, ISLAMIC REPUBLIC OF",
+    "country": "IR",
+    "email": "abuse@pishgaman.net",
+    "name": "Abuse-C Role",
+    "network": "185.155.14.0/23",
+    "phone": "+98 21 22619536"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

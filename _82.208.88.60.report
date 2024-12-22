@@ -1,0 +1,43 @@
+{
+  "ip": "82.208.88.60",
+  "hostname": "82-208-88-60.companyhoma-net.mts-nn.ru",
+  "city": "Nizhniy Novgorod",
+  "region": "Nizhny Novgorod Oblast",
+  "country": "RU",
+  "loc": "56.3287,44.0020",
+  "postal": "603000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS12389",
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "route": "82.208.64.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Personal network for",
+    "domain": "maga.ru",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "PJSC Rostelecom Technical Team",
+    "network": "82.208.88.56/29",
+    "phone": "+78313272798"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

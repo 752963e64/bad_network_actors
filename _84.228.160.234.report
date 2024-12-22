@@ -1,0 +1,42 @@
+{
+  "ip": "84.228.160.234",
+  "hostname": "igld-84-228-160-234.inter.net.il",
+  "city": "Petaẖ Tiqva",
+  "region": "Central District",
+  "country": "IL",
+  "loc": "32.0871,34.8875",
+  "timezone": "Asia/Jerusalem",
+  "asn": {
+    "asn": "AS12400",
+    "name": "Partner Communications Ltd.",
+    "domain": "orange.co.il",
+    "route": "84.228.160.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Partner Communications Ltd.",
+    "domain": "orange.co.il",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Partner Communications Ltd., SOC Center, 8 Amal St., 48103, Rosh Ha'ayin,, ISRAEL",
+    "country": "IL",
+    "email": "abuse@partner.co.il",
+    "name": "Abuse-C Role",
+    "network": "84.228.0.0-84.228.223.255",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

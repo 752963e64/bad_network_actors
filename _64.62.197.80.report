@@ -1,0 +1,43 @@
+{
+  "ip": "64.62.197.80",
+  "hostname": "scan-46d.shadowserver.org",
+  "city": "San Jose",
+  "region": "California",
+  "country": "US",
+  "loc": "37.3394,-121.8950",
+  "postal": "95103",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS6939",
+    "name": "Hurricane Electric LLC",
+    "domain": "he.net",
+    "route": "64.62.128.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Hurricane Electric LLC",
+    "domain": "he.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Fremont, 760 Mission Court, 94539",
+    "country": "US",
+    "email": "abuse@he.net",
+    "name": "Abuse Department",
+    "network": "64.62.197.0/24",
+    "phone": "+1-510-580-4100"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

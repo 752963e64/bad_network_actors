@@ -1,0 +1,43 @@
+{
+  "ip": "91.218.51.158",
+  "hostname": "dedicated.vsys.host",
+  "city": "Kyiv",
+  "region": "Kyiv City",
+  "country": "UA",
+  "loc": "50.4547,30.5238",
+  "postal": "03027",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS6698",
+    "name": "Virtual Systems LLC",
+    "domain": "v-sys.org",
+    "route": "91.218.50.0/23",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Virtual Systems LLC",
+    "domain": "v-sys.org",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Laboratorna 33/37, 03150, Kiyv, UKRAINE",
+    "country": "UA",
+    "email": "abuse@v-sys.org",
+    "name": "Abuse-C Role",
+    "network": "91.218.48.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

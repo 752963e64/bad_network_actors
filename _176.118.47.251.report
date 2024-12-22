@@ -1,0 +1,43 @@
+{
+  "ip": "176.118.47.251",
+  "hostname": "251-47-118-176.users.novi.uz.ua",
+  "city": "Vynohradiv",
+  "region": "Transcarpathia",
+  "country": "UA",
+  "loc": "48.1413,23.0362",
+  "postal": "90000",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS41820",
+    "name": "New Information Systems PP",
+    "domain": "novi.uz.ua",
+    "route": "176.118.47.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "EXPRES",
+    "domain": "expres.net.ua",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "post box 81, 90400, Khust, UKRAINE",
+    "country": "UA",
+    "email": "admin@novi.uz.ua",
+    "name": "Abuse-C Role",
+    "network": "176.118.47.0/24",
+    "phone": "+380892501086"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

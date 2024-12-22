@@ -1,0 +1,42 @@
+{
+  "ip": "156.59.207.206",
+  "city": "Melbourne",
+  "region": "Victoria",
+  "country": "AU",
+  "loc": "-37.8140,144.9633",
+  "postal": "3000",
+  "timezone": "Australia/Melbourne",
+  "asn": {
+    "asn": "AS21859",
+    "name": "Zenlayer Inc",
+    "domain": "zenlayer.com",
+    "route": "156.59.207.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "ZEN-AU",
+    "domain": "zenlayer.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "67 Ubi Road 1, # 10-02, Oxley Bizhub, Singapore 408730, singapore singapore 408730",
+    "country": "SG",
+    "email": "abuse@zenlayer.com",
+    "name": "ABUSE ZENSG",
+    "network": "156.59.207.0/24",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

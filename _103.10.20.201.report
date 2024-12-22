@@ -1,0 +1,40 @@
+{
+  "ip": "103.10.20.201",
+  "city": "Ulan Bator",
+  "region": "Ulaanbaatar",
+  "country": "MN",
+  "loc": "47.9077,106.8832",
+  "timezone": "Asia/Ulaanbaatar",
+  "asn": {
+    "asn": "AS56293",
+    "name": "Kewiko LLC",
+    "domain": "kewiko.mn",
+    "route": "103.10.20.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Asia Pacific Network Information Centre",
+    "domain": "apnic.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ikh toiruu # 21, 2nd khoroo, Chingeltei district",
+    "country": "MN",
+    "email": "admin@kewiko.mn",
+    "name": "ABUSE KEWIKONETMN1",
+    "network": "103.10.20.0/22",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "95.109.245.154",
+  "hostname": "95-109-245-154.vf-ua.net",
+  "city": "Kyiv",
+  "region": "Kyiv City",
+  "country": "UA",
+  "loc": "50.4547,30.5238",
+  "postal": "03027",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS21497",
+    "name": "PrJSC VF UKRAINE",
+    "domain": "vodafone.ua",
+    "route": "95.109.244.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PrJSC VF UKRAINE",
+    "domain": "vf-ua.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PrJSC \"VF Ukraine\", 15, Leiptsigska str., 01601, Kyiv, UKRAINE",
+    "country": "UA",
+    "email": "noc@vodafone.ua",
+    "name": "Abuse-C Role",
+    "network": "95.109.128.0/17",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

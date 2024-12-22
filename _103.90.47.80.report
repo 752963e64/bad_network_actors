@@ -1,0 +1,42 @@
+{
+  "ip": "103.90.47.80",
+  "city": "Rājkot",
+  "region": "Gujarat",
+  "country": "IN",
+  "loc": "22.2916,70.7932",
+  "postal": "360022",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS136297",
+    "name": "Vision Hi-speed Technology Pvt.ltd.",
+    "domain": "",
+    "route": "103.90.47.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Vision Hi-speed Technology Pvt.ltd.",
+    "domain": "",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "28,3RD FLOOR,SAMRUDDHI BHAVAN,OPP.BOMBAY PETROL PUMP,GONDAL ROAD,RAJKOT,Rajkot,Gujarat-360002",
+    "country": "IN",
+    "email": "vision_technology@ymail.com",
+    "name": "RAJ KALOLA",
+    "network": "103.90.44.0/22",
+    "phone": "+91 9067454737"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

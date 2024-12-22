@@ -1,0 +1,42 @@
+{
+  "ip": "109.123.117.241",
+  "hostname": "scanners.labs.rapid7.com",
+  "city": "London",
+  "region": "England",
+  "country": "GB",
+  "loc": "51.5085,-0.1257",
+  "postal": "E1W",
+  "timezone": "Europe/London",
+  "asn": {
+    "asn": "AS13213",
+    "name": "UK-2 Limited",
+    "domain": "uk2group.com",
+    "route": "109.123.112.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "UK-2 Limited",
+    "domain": "rapid7.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "2nd Floor - The Truman Brewery, 91-95 Brick Lane, London, E1 6QL, UNITED KINGDOM",
+    "country": "GB",
+    "email": "abuse@uk2group.com",
+    "name": "UK2Group abuse-c",
+    "network": "109.123.117.224/27",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

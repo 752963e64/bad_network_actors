@@ -1,0 +1,43 @@
+{
+  "ip": "141.95.21.213",
+  "hostname": "ip213.ip-141-95-21.eu",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "postal": "60306",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS16276",
+    "name": "OVH SAS",
+    "domain": "ovhcloud.com",
+    "route": "141.95.0.0/17",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "OVH GmbH",
+    "domain": "ovh.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "St. Johanner Str. 41-43",
+    "country": "FR",
+    "email": "abuse@ovh.net",
+    "name": "Abuse contact role object",
+    "network": "141.95.21.192/26",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

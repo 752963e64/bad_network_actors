@@ -1,0 +1,43 @@
+{
+  "ip": "208.87.242.77",
+  "hostname": "upcquiz.com",
+  "city": "Los Angeles",
+  "region": "California",
+  "country": "US",
+  "loc": "34.0522,-118.2437",
+  "postal": "90009",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS40676",
+    "name": "Psychz Networks",
+    "domain": "psychz.net",
+    "route": "208.87.240.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Psychz Networks",
+    "domain": "psychz.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Walnut, 20687-2 Amar Rd. #312, 91789",
+    "country": "US",
+    "email": "noc@psychz.net",
+    "name": "NOC",
+    "network": "208.87.240.0/22",
+    "phone": "+1-626-549-2801"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

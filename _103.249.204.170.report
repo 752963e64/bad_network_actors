@@ -1,0 +1,45 @@
+{
+  "ip": "103.249.204.170",
+  "hostname": "ptpl-as56272-rev-170.204.249.103-chn.pulse.in",
+  "city": "Ambattūr",
+  "region": "Tamil Nadu",
+  "country": "IN",
+  "loc": "13.0982,80.1615",
+  "postal": "600049",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS56272",
+    "name": "Pulse Telesystems Pvt Ltd",
+    "domain": "pulse.in",
+    "route": "103.249.204.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Pulse Tekh",
+    "domain": "pulse.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "51,52 Royapettah High Road, Mylapore,Chennai,Tamil Nadu-600004",
+    "country": "IN",
+    "email": "data@pulse.in",
+    "name": "AmeliaJothini Gopalapillai",
+    "network": "103.249.204.0/22",
+    "phone": "+91 04442857796"
+  },
+  "domains": {
+    "ip": "103.249.204.170",
+    "total": 1,
+    "domains": [
+      "clarkegable.in"
+    ]
+  }
+}

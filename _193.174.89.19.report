@@ -1,0 +1,42 @@
+{
+  "ip": "193.174.89.19",
+  "hostname": "fb02itsscan02.fh-muenster.de",
+  "city": "Hannover",
+  "region": "Lower Saxony",
+  "country": "DE",
+  "loc": "52.3705,9.7332",
+  "postal": "30159",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS680",
+    "name": "Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.",
+    "domain": "dfn.de",
+    "route": "193.174.0.0/15",
+    "type": "education"
+  },
+  "company": {
+    "name": "FH Muenster University of Applied Sciences",
+    "domain": "fh-muenster.de",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Stegerwaldstrasse 39, 48565 Steinfurt",
+    "country": "DE",
+    "email": "itsscan@fh-muenster.de",
+    "name": "FH-Muenster Informatik Abuse Service",
+    "network": "193.174.89.16/29",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

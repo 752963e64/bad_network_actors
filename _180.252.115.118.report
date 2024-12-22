@@ -1,0 +1,41 @@
+{
+  "ip": "180.252.115.118",
+  "city": "Bekasi",
+  "region": "West Java",
+  "country": "ID",
+  "loc": "-6.2349,106.9896",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS7713",
+    "name": "PT Telekomunikasi Indonesia",
+    "domain": "telin.net",
+    "route": "180.252.112.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PT TELKOM INDONESIA",
+    "domain": "telkom.co.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT. TELKOM INDONESIA, STO Telkom Gambir 3th Floor, Medan Merdeka Selatan, JAKARTA",
+    "country": "ID",
+    "email": "abuse@telkom.co.id",
+    "name": "ABUSE IDTELKOMID",
+    "network": "180.252.64.0/18",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

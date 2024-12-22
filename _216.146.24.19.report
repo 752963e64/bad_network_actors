@@ -1,0 +1,42 @@
+{
+  "ip": "216.146.24.19",
+  "city": "Dallas",
+  "region": "Texas",
+  "country": "US",
+  "loc": "32.7939,-96.8319",
+  "postal": "75207",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS48925",
+    "name": "VibeGAMES B.V.",
+    "domain": "vibegames.com",
+    "route": "216.146.24.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "VibeGAMES B.V.",
+    "domain": "vibegames.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "NETHERLANDS, Dongen, 5102 AE, Lage ham 190",
+    "country": "NL",
+    "email": "support@vibegames.net",
+    "name": "Abuse-C Role",
+    "network": "216.146.24.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

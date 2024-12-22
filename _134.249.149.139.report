@@ -1,0 +1,42 @@
+{
+  "ip": "134.249.149.139",
+  "hostname": "134-249-149-139.broadband.kyivstar.net",
+  "city": "Kamyanske",
+  "region": "Dnipropetrovsk",
+  "country": "UA",
+  "loc": "48.5172,34.6062",
+  "postal": "51900",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS15895",
+    "name": "\"Kyivstar\" PJSC",
+    "domain": "kyivstar.ua",
+    "route": "134.249.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Kyivstar GSM",
+    "domain": "kyivstar.ua",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "\"Kyivstar\" PJSC, Degtyarevskaya 53, 03113, Kiev, UKRAINE",
+    "country": "UA",
+    "email": "abuse@kyivstar.net",
+    "name": "Kyivstar GSM",
+    "network": "134.249.128.0/17",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "ip": "185.16.39.9",
+  "city": "Warsaw",
+  "region": "Mazovia",
+  "country": "PL",
+  "loc": "52.2298,21.0118",
+  "postal": "00-002",
+  "timezone": "Europe/Warsaw",
+  "asn": {
+    "asn": "AS201814",
+    "name": "MEVSPACE sp. z o.o.",
+    "domain": "mevspace.com",
+    "route": "185.16.36.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "MEVSPACE sp. z o.o.",
+    "domain": "mevspace.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "MEVSPACE Sp. z o.o., Augustyna Locciego 33, 02-928 Warszawa, POLAND",
+    "country": "PL",
+    "email": "abuse@mevspace.com",
+    "name": "Abuse-C Role",
+    "network": "185.16.36.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "185.16.39.9",
+    "total": 394,
+    "domains": [
+      "faceebok.com.pl",
+      "3xtak.pl",
+      "fdesign.pl",
+      "expert-seo.eu",
+      "krakowskamatematyka.malopolska.pl"
+    ]
+  }
+}

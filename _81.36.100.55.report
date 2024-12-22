@@ -1,0 +1,43 @@
+{
+  "ip": "81.36.100.55",
+  "hostname": "55.red-81-36-100.dynamicip.rima-tde.net",
+  "city": "Santiago de Compostela",
+  "region": "Galicia",
+  "country": "ES",
+  "loc": "42.8805,-8.5457",
+  "postal": "15701",
+  "timezone": "Europe/Madrid",
+  "asn": {
+    "asn": "AS3352",
+    "name": "TELEFONICA DE ESPANA S.A.U.",
+    "domain": "movistar.es",
+    "route": "81.36.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telefonica de Espana SAU",
+    "domain": "movistar.es",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "C/ Ronda de la Comunicaci?n s/n",
+    "country": "ES",
+    "email": "nemesys@telefonica.es",
+    "name": "NEMESYS ABUSE TEAM",
+    "network": "81.36.0.0/16",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

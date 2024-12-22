@@ -1,0 +1,42 @@
+{
+  "ip": "134.19.153.16",
+  "hostname": "16-153-19-134.loc-net.ru",
+  "city": "Mirny",
+  "region": "Sakha",
+  "country": "RU",
+  "loc": "62.5353,113.9611",
+  "postal": "678170",
+  "timezone": "Asia/Yakutsk",
+  "asn": {
+    "asn": "AS50477",
+    "name": "Svyaz-Energo Ltd.",
+    "domain": "sv-en.ru",
+    "route": "134.19.153.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Interconnect  brunch",
+    "domain": "interconnect.cz",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Energetikov street, building 5, Kostroma, Russia",
+    "country": "RU",
+    "email": "a.buse@sv-en.ru",
+    "name": "SVEN Abuse",
+    "network": "134.19.153.0/24",
+    "phone": "+7 495 7292568"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

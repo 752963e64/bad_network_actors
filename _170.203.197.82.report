@@ -1,0 +1,42 @@
+{
+  "ip": "170.203.197.82",
+  "hostname": "customer.frtabra1.pop.starlinkisp.net",
+  "city": "Fortaleza",
+  "region": "Ceará",
+  "country": "BR",
+  "loc": "-3.7172,-38.5431",
+  "postal": "60000-000",
+  "timezone": "America/Fortaleza",
+  "asn": {
+    "asn": "AS14593",
+    "name": "Space Exploration Technologies Corporation",
+    "domain": "spacex.com",
+    "route": "170.203.196.0/23",
+    "type": "business"
+  },
+  "company": {
+    "name": "SpaceX Services, Inc.",
+    "domain": "spacex.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Hawthorne, 1 Rocket Rd, 90250",
+    "country": "US",
+    "email": "starlink-abuse@spacex.com",
+    "name": "Starlink Abuse",
+    "network": "170.203.192.0/19",
+    "phone": "+1-310-363-6000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

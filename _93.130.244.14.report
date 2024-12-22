@@ -1,0 +1,42 @@
+{
+  "ip": "93.130.244.14",
+  "hostname": "dynamic-093-130-244-014.93.130.pool.telefonica.de",
+  "city": "Stuttgart",
+  "region": "Baden-Wurttemberg",
+  "country": "DE",
+  "loc": "48.7823,9.1770",
+  "postal": "70173",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS6805",
+    "name": "Telefonica Germany GmbH & Co.OHG",
+    "domain": "telefonica.de",
+    "route": "93.128.0.0/13",
+    "type": "isp"
+  },
+  "company": {
+    "name": "NCC # 2008040527",
+    "domain": "telefonica.de",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Telefonica Germany GmbH & Co. OHG, Georg-Brauchle-Ring 50, 80992 Muenchen, DE",
+    "country": "DE",
+    "email": "abuse.de@telefonica.com",
+    "name": "mediaWays Hostmaster",
+    "network": "93.130.0.0/16",
+    "phone": "+498924420"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "194.45.197.160",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "postal": "60306",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS48314",
+    "name": "Michael Sebastian Schinzel trading as IP-Projects GmbH & Co. KG",
+    "domain": "ip-projects.de",
+    "route": "194.45.197.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "cyberfilters.com",
+    "domain": "cyberfilters.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "8496 - Waly Al Ahd Dist",
+    "country": "SA",
+    "email": "info@cyberfilters.com",
+    "name": "Abuse Department",
+    "network": "194.45.197.0/24",
+    "phone": "+966563586458"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

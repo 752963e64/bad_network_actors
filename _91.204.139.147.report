@@ -1,0 +1,43 @@
+{
+  "ip": "91.204.139.147",
+  "hostname": "net091204139147.pskovline.ru",
+  "city": "Pskov",
+  "region": "Pskov Oblast",
+  "country": "RU",
+  "loc": "57.8140,28.3449",
+  "postal": "180000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS47438",
+    "name": "Pskovline Ltd.",
+    "domain": "pskovline.ru",
+    "route": "91.204.136.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Pskovline Ltd.",
+    "domain": "pskovline.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Russia, 180004, Pskov, Oktyabrsky 54",
+    "country": "RU",
+    "email": "info@pskovline.ru",
+    "name": "Abuse-C Role",
+    "network": "91.204.136.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

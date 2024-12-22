@@ -1,0 +1,41 @@
+{
+  "ip": "197.53.151.25",
+  "hostname": "host-197.53.151.25.tedata.net",
+  "city": "Cairo",
+  "region": "Cairo",
+  "country": "EG",
+  "loc": "30.0626,31.2497",
+  "timezone": "Africa/Cairo",
+  "asn": {
+    "asn": "AS8452",
+    "name": "TE-AS",
+    "domain": "te.eg",
+    "route": "197.53.128.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TE Data",
+    "domain": "tedata.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TE Data, Smart Village, Building A11-B90, Alex Desert Road,, 28 Km, 6th October 12577, Giza, Egypt",
+    "country": "EG",
+    "email": "abuse@te.eg",
+    "name": "TE Data Contact Role",
+    "network": "197.48.0.0/13",
+    "phone": "tel:+20-2-3320700"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

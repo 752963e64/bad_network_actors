@@ -1,0 +1,43 @@
+{
+  "ip": "93.141.222.207",
+  "hostname": "93-141-222-207.adsl.net.t-com.hr",
+  "city": "Osijek",
+  "region": "County of Osijek-Baranja",
+  "country": "HR",
+  "loc": "45.5511,18.6939",
+  "postal": "31000",
+  "timezone": "Europe/Zagreb",
+  "asn": {
+    "asn": "AS5391",
+    "name": "Hrvatski Telekom d.d.",
+    "domain": "ht.hr",
+    "route": "93.141.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Hrvatski Telekom d.d.",
+    "domain": "ht.hr",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Hrvatski Telekom d.d., Croatian Telecom Inc., Kruge 26, HR-10000 Zagreb, Croatia",
+    "country": "HR",
+    "email": "abuse@t.ht.hr",
+    "name": "T-HT Contact",
+    "network": "93.141.128.0/17",
+    "phone": "+385 1 4914 303"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

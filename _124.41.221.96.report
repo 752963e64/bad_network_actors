@@ -1,0 +1,41 @@
+{
+  "ip": "124.41.221.96",
+  "city": "Kathmandu",
+  "region": "Bagmati Province",
+  "country": "NP",
+  "loc": "27.7017,85.3206",
+  "timezone": "Asia/Kathmandu",
+  "asn": {
+    "asn": "AS17501",
+    "name": "WorldLink Communications Pvt Ltd",
+    "domain": "worldlink.com.np",
+    "route": "124.41.221.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "WorldLink Communications",
+    "domain": "worldlink.com.np",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Jawalakhel, Lalitpur, Kathmandu, Nepal",
+    "country": "NP",
+    "email": "abuse.enterprise@worldlink.com.np",
+    "name": "ABUSE ENTERPRISE1_NP",
+    "network": "124.41.221.0/24",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

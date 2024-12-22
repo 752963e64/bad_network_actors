@@ -1,0 +1,42 @@
+{
+  "ip": "217.208.157.79",
+  "hostname": "217-208-157-79-no2361.tbcn.telia.com",
+  "city": "Solna",
+  "region": "Stockholm",
+  "country": "SE",
+  "loc": "59.3600,18.0009",
+  "postal": "105 04",
+  "timezone": "Europe/Stockholm",
+  "asn": {
+    "asn": "AS3301",
+    "name": "Telia Company AB",
+    "domain": "teliacompany.com",
+    "route": "217.208.0.0/13",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telia Network Services",
+    "domain": "telia.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Telia Company AB, 16979 Solna, SWEDEN",
+    "country": "SE",
+    "email": "abuse@telia.com",
+    "name": "Abuse-C Role",
+    "network": "217.208.0.0/16",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

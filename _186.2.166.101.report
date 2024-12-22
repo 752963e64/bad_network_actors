@@ -1,0 +1,42 @@
+{
+  "ip": "186.2.166.101",
+  "city": "Moscow",
+  "region": "Moscow",
+  "country": "RU",
+  "loc": "55.7522,37.6156",
+  "postal": "101000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS59692",
+    "name": "IQWeb FZ-LLC",
+    "domain": "iqweb.io",
+    "route": "186.2.166.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "IQWeb FZ-LLC",
+    "domain": "iqweb.io",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "UNITED ARAB EMIRATES, Dubai, 00000, Dubai Internet City 3",
+    "country": "AE",
+    "email": "abuse@iqweb.io",
+    "name": "Abuse-C Role",
+    "network": "186.2.160.0/20",
+    "phone": "+97 058 506 8127"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

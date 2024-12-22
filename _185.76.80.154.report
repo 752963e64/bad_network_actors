@@ -1,0 +1,42 @@
+{
+  "ip": "185.76.80.154",
+  "city": "Simferopol",
+  "region": "Crimea",
+  "country": "UA",
+  "loc": "44.9572,34.1108",
+  "postal": "52413",
+  "timezone": "Europe/Simferopol",
+  "asn": {
+    "asn": "AS28761",
+    "name": "CrimeaCom South LLC",
+    "domain": "crimea-com.net",
+    "route": "185.76.80.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "CrimeaCom South LLC",
+    "domain": "crimea-com.ru",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "RUSSIAN FEDERATION, Saint Petersburg, 195297, Bryanceva, 13/1",
+    "country": "RU",
+    "email": "sergienko.abuse@gmail.com",
+    "name": "Abuse-C Role",
+    "network": "185.76.80.0/24",
+    "phone": "+7 (978) 000-20-33"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

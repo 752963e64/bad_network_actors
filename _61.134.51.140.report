@@ -1,0 +1,42 @@
+{
+  "ip": "61.134.51.140",
+  "city": "Xi’an",
+  "region": "Shaanxi",
+  "country": "CN",
+  "loc": "34.2583,108.9286",
+  "postal": "710000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4134",
+    "name": "CHINANET-BACKBONE",
+    "domain": "chinatelecom.com.cn",
+    "route": "61.134.0.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SHIHUIXIA  netbar",
+    "domain": "xa.sn.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Bei Xin street 106# ShangZhou Shaanxi 726000.China",
+    "country": "CN",
+    "email": "ptao@public.xa.sn.cn",
+    "name": "Peng Tao",
+    "network": "61.134.51.128/28",
+    "phone": "+86914-232-4844"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "213.159.76.179",
+  "city": "Yerevan",
+  "region": "Yerevan",
+  "country": "AM",
+  "loc": "40.1811,44.5136",
+  "timezone": "Asia/Yerevan",
+  "asn": {
+    "asn": "AS44477",
+    "name": "STARK INDUSTRIES SOLUTIONS LTD",
+    "domain": "pq.hosting",
+    "route": "213.159.76.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "STARK INDUSTRIES SOLUTIONS LTD.",
+    "domain": "stark-industries.solutions",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "UNITED KINGDOM, WC2H 9JQ, London, Covent Garden, 71-75, Shelton Street",
+    "country": "GB",
+    "email": "abuse@stark-industries.solutions",
+    "name": "Stark Industries Solutions NOC",
+    "network": "213.159.76.0/24",
+    "phone": "+441234416080"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

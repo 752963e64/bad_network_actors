@@ -1,0 +1,42 @@
+{
+  "ip": "181.214.137.179",
+  "city": "Panamá",
+  "region": "Panamá",
+  "country": "PA",
+  "loc": "8.9936,-79.5197",
+  "postal": "07113",
+  "timezone": "America/Panama",
+  "asn": {
+    "asn": "AS265867",
+    "name": "Trans Ocean Network",
+    "domain": "transoceanet.com",
+    "route": "181.214.137.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Internet Utilities Europe and Asia Limited",
+    "domain": "netutils.io",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "6th Floor 9 Appold Street London, EC2A 2AP",
+    "country": "PA",
+    "email": "report@abuseradar.com",
+    "name": "Internet Utilities Abuse Contact",
+    "network": "181.214.137.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

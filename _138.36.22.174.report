@@ -1,0 +1,42 @@
+{
+  "ip": "138.36.22.174",
+  "city": "Fortaleza",
+  "region": "Ceará",
+  "country": "BR",
+  "loc": "-3.7172,-38.5431",
+  "postal": "60000-000",
+  "timezone": "America/Fortaleza",
+  "asn": {
+    "asn": "AS263026",
+    "name": "IBL Banda Larga Internet Informatica LTDA",
+    "domain": "iblnet.com.br",
+    "route": "138.36.20.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "IBL Banda Larga Internet Informatica LTDA",
+    "domain": "iblnet.net.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "noc@iblnet.com.br",
+    "name": "Edgar Ribeiro de Abreu",
+    "network": "138.36.20.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "91.107.10.32",
+  "hostname": "mail.lubreg.ru",
+  "city": "Lyubertsy",
+  "region": "Moscow Oblast",
+  "country": "RU",
+  "loc": "55.6772,37.8932",
+  "postal": "140000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS48781",
+    "name": "AVK-computer ltd",
+    "domain": "avk-com.ru",
+    "route": "91.107.0.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "AVK Computer",
+    "domain": "avk-com.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "AVK-computer ltd. 1, Krasnaya str. 140000 Lubertsy RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "abuse@avk-com.ru",
+    "name": "Abuse-C Role",
+    "network": "91.107.0.0/20",
+    "phone": "+7 498 732-88-88"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

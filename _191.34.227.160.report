@@ -1,0 +1,43 @@
+{
+  "ip": "191.34.227.160",
+  "hostname": "191.34.227.160.dynamic.adsl.gvt.net.br",
+  "city": "Aracaju",
+  "region": "Sergipe",
+  "country": "BR",
+  "loc": "-10.9111,-37.0717",
+  "postal": "49000-000",
+  "timezone": "America/Maceio",
+  "asn": {
+    "asn": "AS18881",
+    "name": "TELEFÔNICA BRASIL S.A",
+    "domain": "telefonica.com.br",
+    "route": "191.34.224.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TELEFÔNICA BRASIL S.A",
+    "domain": "telefonica.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse.br@telefonica.com",
+    "name": "CSIRT TELEFONICA BR",
+    "network": "191.32.0.0/14",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

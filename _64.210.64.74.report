@@ -1,0 +1,42 @@
+{
+  "ip": "64.210.64.74",
+  "hostname": "host-64-210-64-074.metrompls.com",
+  "city": "Panamá",
+  "region": "Panamá",
+  "country": "PA",
+  "loc": "8.9936,-79.5197",
+  "postal": "07113",
+  "timezone": "America/Panama",
+  "asn": {
+    "asn": "AS262248",
+    "name": "Metro MPLS",
+    "domain": "metrompls.com",
+    "route": "64.210.64.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Cirion Technologies Solutions, LLC",
+    "domain": "ciriontechnologies.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, LA, Monroe, 100 CENTURYLINK DR, 71203",
+    "country": "US",
+    "email": "abuse@aup.lumen.com",
+    "name": "Centurylink Abuse Desk",
+    "network": "64.210.64.0/22",
+    "phone": "+1-877-886-6515"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "196.250.25.209",
+  "city": "Johannesburg",
+  "region": "Gauteng",
+  "country": "ZA",
+  "loc": "-26.2023,28.0436",
+  "postal": "2041",
+  "timezone": "Africa/Johannesburg",
+  "asn": {
+    "asn": "AS37515",
+    "name": "iConnectSA (Pty) Ltd",
+    "domain": "iconnectsa.co.za",
+    "route": "196.250.24.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "iConnectSA (Pty) Ltd",
+    "domain": "iconnectsa.co.za",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PO Box 1447",
+    "country": "ZA",
+    "email": "adrian@iconnecttelecoms.com",
+    "name": "Adrian Ellis",
+    "network": "196.250.24.0/21",
+    "phone": "+27 10 590 0100"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

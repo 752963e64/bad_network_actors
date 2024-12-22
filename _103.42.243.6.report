@@ -1,0 +1,41 @@
+{
+  "ip": "103.42.243.6",
+  "city": "Pemalang",
+  "region": "Central Java",
+  "country": "ID",
+  "loc": "-6.8919,109.3826",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS151595",
+    "name": "PT Merdeka Media Teknologi",
+    "domain": "merdekanet.co.id",
+    "route": "103.42.243.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "PT Merdeka Media Teknologi",
+    "domain": "merdekanet.co.id",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT. Merdeka Media Teknologi, Kecamatan Pemalang, Kabupaten Pemalang, Jawa Tengah",
+    "country": "ID",
+    "email": "abuse@merdekanet.co.id",
+    "name": "PT Merdeka Media Teknologi",
+    "network": "103.42.243.0/24",
+    "phone": "+62-823-2894-1475"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

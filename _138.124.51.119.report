@@ -1,0 +1,43 @@
+{
+  "ip": "138.124.51.119",
+  "hostname": "yummy-grade.aeza.network",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1112,8.6831",
+  "postal": "60311",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS210644",
+    "name": "AEZA INTERNATIONAL LTD",
+    "domain": "aeza.net",
+    "route": "138.124.51.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Aeza International LTD",
+    "domain": "aeza.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "311 Shoreham Street, Sheffield, S2 4FA, United Kingdom",
+    "country": "GB",
+    "email": "abuse@aeza.net",
+    "name": "Aeza International LTD",
+    "network": "138.124.51.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

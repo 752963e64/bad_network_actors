@@ -1,0 +1,43 @@
+{
+  "ip": "37.229.80.14",
+  "hostname": "37-229-80-14.broadband.kyivstar.net",
+  "city": "Uzhhorod",
+  "region": "Transcarpathia",
+  "country": "UA",
+  "loc": "48.6242,22.2947",
+  "postal": "88000",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS15895",
+    "name": "\"Kyivstar\" PJSC",
+    "domain": "kyivstar.ua",
+    "route": "37.229.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Kyivstar GSM",
+    "domain": "kyivstar.ua",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "\"Kyivstar\" PJSC, Degtyarevskaya 53, 03113, Kiev, UKRAINE",
+    "country": "UA",
+    "email": "abuse@kyivstar.net",
+    "name": "Kyivstar GSM",
+    "network": "37.229.0.0/17",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

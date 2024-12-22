@@ -1,0 +1,42 @@
+{
+  "ip": "199.204.97.18",
+  "city": "Overland Park",
+  "region": "Kansas",
+  "country": "US",
+  "loc": "38.9822,-94.6708",
+  "postal": "66204",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS399045",
+    "name": "DediOutlet, LLC",
+    "domain": "dedioutlet.com",
+    "route": "199.204.96.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "ProRacks Datacenter Solutions",
+    "domain": "proracks.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, MO, Smithville, 1500 S Hwy 169, Suite C, 64089",
+    "country": "US",
+    "email": "abuse@kansascitycolo.com",
+    "name": "Abuse",
+    "network": "199.204.97.0/24",
+    "phone": "+1-816-482-1681"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

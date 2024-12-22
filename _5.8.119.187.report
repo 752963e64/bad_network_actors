@@ -1,0 +1,43 @@
+{
+  "ip": "5.8.119.187",
+  "hostname": "res-112872d.ppp.twt.it",
+  "city": "Milan",
+  "region": "Lombardy",
+  "country": "IT",
+  "loc": "45.4643,9.1895",
+  "postal": "20121",
+  "timezone": "Europe/Rome",
+  "asn": {
+    "asn": "AS30848",
+    "name": "UNIDATA S.p.A.",
+    "domain": "unidata.it",
+    "route": "5.8.96.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "UNIDATA S.p.A.",
+    "domain": "unidata.it",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TWT S.p.A., viale jenner 33, 20139 Milano, Italy",
+    "country": "IT",
+    "email": "abuse@twt.it",
+    "name": "TWT Contact Role",
+    "network": "5.8.119.0/24",
+    "phone": "+39 02 890891"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

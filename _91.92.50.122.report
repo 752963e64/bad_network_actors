@@ -1,0 +1,41 @@
+{
+  "ip": "91.92.50.122",
+  "city": "Sofia",
+  "region": "Sofia-Capital",
+  "country": "BG",
+  "loc": "42.6975,23.3241",
+  "postal": "1000",
+  "timezone": "Europe/Sofia",
+  "asn": {
+    "asn": "AS25211",
+    "name": "Euro Crypt EOOD",
+    "domain": "mail.bg",
+    "route": "91.92.50.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Euro Crypt EOOD",
+    "domain": "mail.bg",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "5 \"545\" Str., 1517, Sofia, BULGARIA",
+    "country": "BG",
+    "email": "euro.crypt@mail.bg",
+    "name": "Abuse-C Role",
+    "network": "91.92.40.0-91.92.54.255",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

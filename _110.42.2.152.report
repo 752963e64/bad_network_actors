@@ -1,0 +1,41 @@
+{
+  "ip": "110.42.2.152",
+  "city": "Ningbo",
+  "region": "Zhejiang",
+  "country": "CN",
+  "loc": "29.8782,121.5494",
+  "postal": "315000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS136188",
+    "name": "NINGBO, ZHEJIANG Province, P.R.China.",
+    "domain": "chinatelecom.cn",
+    "route": "110.42.0.0/18",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Ningbo Zhuo Zhi Innovation Network Technology Co., Ltd",
+    "domain": "nbgaofang.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Beijing, China",
+    "country": "CN",
+    "email": "ipas@cnnic.cn",
+    "name": "ABUSE CNNICCN",
+    "network": "110.42.0.0/17",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

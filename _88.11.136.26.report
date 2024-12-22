@@ -1,0 +1,43 @@
+{
+  "ip": "88.11.136.26",
+  "hostname": "26.red-88-11-136.dynamicip.rima-tde.net",
+  "city": "Sant Celoni",
+  "region": "Catalonia",
+  "country": "ES",
+  "loc": "41.6892,2.4897",
+  "postal": "08470",
+  "timezone": "Europe/Madrid",
+  "asn": {
+    "asn": "AS3352",
+    "name": "TELEFONICA DE ESPANA S.A.U.",
+    "domain": "movistar.es",
+    "route": "88.11.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telefonica de Espana SAU",
+    "domain": "movistar.es",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "C/ Ronda de la Comunicaci?n s/n",
+    "country": "ES",
+    "email": "nemesys@telefonica.es",
+    "name": "NEMESYS ABUSE TEAM",
+    "network": "88.0.0.0/12",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

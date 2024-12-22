@@ -1,0 +1,42 @@
+{
+  "ip": "161.18.250.157",
+  "city": "Colombia",
+  "region": "Huila Department",
+  "country": "CO",
+  "loc": "3.3761,-74.8015",
+  "postal": "411080",
+  "timezone": "America/Bogota",
+  "asn": {
+    "asn": "AS3816",
+    "name": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
+    "domain": "movistar.com.co",
+    "route": "161.18.248.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "COLOMBIA TELECOMUNICACIONES S.A. ESP",
+    "domain": "telefonica.co",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Transversal 60 # 114A-55, 57,, 111121 - Bogotá - Cundinamarca",
+    "country": "CO",
+    "email": "admon.ip.telefonica@telefonica.com",
+    "name": "Abuse Colombia Telecomunicaciones",
+    "network": "161.18.0.0/16",
+    "phone": "+57  6017050000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

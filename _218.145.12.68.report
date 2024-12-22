@@ -1,0 +1,42 @@
+{
+  "ip": "218.145.12.68",
+  "city": "T’aebaek",
+  "region": "Gangwon-do",
+  "country": "KR",
+  "loc": "37.1759,128.9889",
+  "postal": "26006",
+  "timezone": "Asia/Seoul",
+  "asn": {
+    "asn": "AS4766",
+    "name": "Korea Telecom",
+    "domain": "kt.com",
+    "route": "218.144.0.0/13",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Korea Telecom",
+    "domain": "kt.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Jeollanam-do Naju-si Jinheung-gil",
+    "country": "KR",
+    "email": "irt@nic.or.kr",
+    "name": "IP Manager",
+    "network": "218.144.0.0/13",
+    "phone": "+82-2-500-6630"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

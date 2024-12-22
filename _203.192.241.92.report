@@ -1,0 +1,43 @@
+{
+  "ip": "203.192.241.92",
+  "hostname": "dhcp-192-241-92.in2cable.com",
+  "city": "Bengaluru",
+  "region": "Karnataka",
+  "country": "IN",
+  "loc": "12.9719,77.5937",
+  "postal": "562114",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS17665",
+    "name": "ONEOTT INTERTAINMENT LIMITED",
+    "domain": "onebroadband.in",
+    "route": "203.192.241.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Indusind Media And Communication Ltd.",
+    "domain": "indigital.co.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "49/50, IN CENTRE , 12th ROAD, MIDC, ANDHERI(E), MUMBAI-400093",
+    "country": "IN",
+    "email": "info@onebroadband.in",
+    "name": "ONEOTT iNTERTAINMENT LIMITED",
+    "network": "203.192.192.0/18",
+    "phone": "+91-22-66017900"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

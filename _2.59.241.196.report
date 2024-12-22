@@ -1,0 +1,42 @@
+{
+  "ip": "2.59.241.196",
+  "hostname": "mail.oko-tmn.ru",
+  "city": "Tyumen",
+  "region": "Tyumen Oblast",
+  "country": "RU",
+  "loc": "57.1522,65.5272",
+  "postal": "625000",
+  "timezone": "Asia/Yekaterinburg",
+  "asn": {
+    "asn": "AS202136",
+    "name": "\"A-Siti\" Limited Liability Company",
+    "domain": "vmeste72.ru",
+    "route": "2.59.240.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "A-Siti Limited Liability Company",
+    "domain": "rkdm.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Sovetskaya, 12, 625000, Tyumen, RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "adm@rkdm.ru",
+    "name": "Abuse-C Role",
+    "network": "2.59.240.0/22",
+    "phone": "+7 9123997051"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

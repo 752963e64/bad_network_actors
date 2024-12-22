@@ -1,0 +1,43 @@
+{
+  "ip": "177.155.128.171",
+  "hostname": "177-155-128-171.gegnet.com.br",
+  "city": "Caçador",
+  "region": "Santa Catarina",
+  "country": "BR",
+  "loc": "-26.7753,-51.0150",
+  "postal": "89500-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS53062",
+    "name": "ALT|GGNET TELECOM BACKBONE",
+    "domain": "alt.com.br",
+    "route": "177.155.128.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ALT|GGNET TELECOM BACKBONE",
+    "domain": "gegnet.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse@as53062.net.br",
+    "name": "ABUSE GGNET TELECOM BACKBONE",
+    "network": "177.155.128.0/20",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

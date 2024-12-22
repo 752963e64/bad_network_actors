@@ -1,0 +1,42 @@
+{
+  "ip": "47.251.90.27",
+  "city": "Santa Clara",
+  "region": "California",
+  "country": "US",
+  "loc": "37.3541,-121.9552",
+  "postal": "95050",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS45102",
+    "name": "Alibaba (US) Technology Co., Ltd.",
+    "domain": "alibabagroup.com",
+    "route": "47.251.0.0/17",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Alibaba Cloud - US",
+    "domain": "alibabacloud.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, San Mateo, 400 S El Camino Real, Suite 400, 94402",
+    "country": "US",
+    "email": "abuse@alibaba-inc.com",
+    "name": "Network Abuse",
+    "network": "47.250.0.0-47.254.255.255",
+    "phone": "+1-408-785-5580"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

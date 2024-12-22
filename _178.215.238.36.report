@@ -1,0 +1,42 @@
+{
+  "ip": "178.215.238.36",
+  "city": "Kerkrade",
+  "region": "Limburg",
+  "country": "NL",
+  "loc": "50.8658,6.0625",
+  "postal": "6461",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS215479",
+    "name": "Perfecto Consultoria E Apoio Administrativo LTDA",
+    "domain": "example.com",
+    "route": "178.215.238.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Perfecto Consultoria E Apoio Administrativo LTDA",
+    "domain": "perfectonetworks.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Rua Senador Otávio Mangabeira, 599, Morumbi, São Paulo, SP, 05662-000, Brazil",
+    "country": "BR",
+    "email": "dc@perfectonetworks.com",
+    "name": "Abuse contact role object",
+    "network": "178.215.238.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

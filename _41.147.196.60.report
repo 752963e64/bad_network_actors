@@ -1,0 +1,42 @@
+{
+  "ip": "41.147.196.60",
+  "hostname": "8ta-147-196-60.telkomadsl.co.za",
+  "city": "Pretoria",
+  "region": "Gauteng",
+  "country": "ZA",
+  "loc": "-25.7449,28.1878",
+  "postal": "0083",
+  "timezone": "Africa/Johannesburg",
+  "asn": {
+    "asn": "AS37457",
+    "name": "Telkom SA Ltd.",
+    "domain": "telkom.co.za",
+    "route": "41.147.192.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telkom SA Limited",
+    "domain": "telkom.co.za",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Integrated Network Planning, Private Bag X74, Gauteng, Pretoria 0001, South Africa",
+    "country": "ZA",
+    "email": "regulatoryadmin@telkom.co.za",
+    "name": "Markus Stoltz",
+    "network": "41.147.0.0/16",
+    "phone": "tel:+27-12-311-1429"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

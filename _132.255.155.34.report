@@ -1,0 +1,43 @@
+{
+  "ip": "132.255.155.34",
+  "hostname": "155-34.inetminas.net.br",
+  "city": "Teófilo Otoni",
+  "region": "Minas Gerais",
+  "country": "BR",
+  "loc": "-17.8575,-41.5053",
+  "postal": "39800-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS264508",
+    "name": "INET TELECOM E INFORMATICA LTDA",
+    "domain": "inetminas.com.br",
+    "route": "132.255.154.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "INET TELECOM E INFORMATICA LTDA",
+    "domain": "inetminas.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "alex@inetminas.com.br",
+    "name": "Alex Junio Silva Portugal",
+    "network": "132.255.152.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

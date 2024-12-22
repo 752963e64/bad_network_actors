@@ -1,0 +1,41 @@
+{
+  "ip": "203.135.100.75",
+  "city": "Ningbo",
+  "region": "Zhejiang",
+  "country": "CN",
+  "loc": "29.8782,121.5494",
+  "postal": "315000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS58461",
+    "name": "CT-HangZhou-IDC",
+    "domain": "chinatelecom.cn",
+    "route": "203.135.96.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Shaoxing Yun Tong Network Technology Co., Ltd",
+    "domain": "cnnic.cn",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Beijing, China",
+    "country": "CN",
+    "email": "ipas@cnnic.cn",
+    "name": "ABUSE CNNICCN",
+    "network": "203.135.96.0/19",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "41.193.198.16",
+  "city": "Johannesburg",
+  "region": "Gauteng",
+  "country": "ZA",
+  "loc": "-26.2023,28.0436",
+  "postal": "2041",
+  "timezone": "Africa/Johannesburg",
+  "asn": {
+    "asn": "AS11845",
+    "name": "Vox Telecom Ltd",
+    "domain": "voxtelecom.co.za",
+    "route": "41.193.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Vox Telecom Ltd",
+    "domain": "vox.co.za",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Vox Telecom (Pty) Ltd, Block B, Rutherford Estate, 1 Scott Street,, Waverley,, JHB, Gauteng, Johannesburg 2090, South Africa",
+    "country": "ZA",
+    "email": "ipadmin@voxtelecom.co.za",
+    "name": "NOC Hostmaster",
+    "network": "41.193.192.0/19",
+    "phone": "tel:+27-11-809-1500"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

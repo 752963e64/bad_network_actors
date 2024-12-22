@@ -1,0 +1,43 @@
+{
+  "ip": "45.168.112.3",
+  "hostname": "3-112-168-45.isp.lokalonline.com.br",
+  "city": "Rio de Janeiro",
+  "region": "Rio de Janeiro",
+  "country": "BR",
+  "loc": "-22.9064,-43.1822",
+  "postal": "20000-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS268055",
+    "name": "LOKAL ONLINE TELECOM SERVICO DE TELECOMUNICACAO EI",
+    "domain": "lokalonline.com.br",
+    "route": "45.168.112.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "LOKAL ONLINE TELECOM SERVICO DE TELECOMUNICACAO EI",
+    "domain": "lokalonline.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "adrianollima14@gmail.com",
+    "name": "ADRIANO LUIZ LIMA BAPTISTA",
+    "network": "45.168.112.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

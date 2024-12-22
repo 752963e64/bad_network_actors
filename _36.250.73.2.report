@@ -1,0 +1,42 @@
+{
+  "ip": "36.250.73.2",
+  "city": "Ningbo",
+  "region": "Zhejiang",
+  "country": "CN",
+  "loc": "29.8782,121.5494",
+  "postal": "315000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4837",
+    "name": "CHINA UNICOM China169 Backbone",
+    "domain": "chinaunicom.cn",
+    "route": "36.248.0.0/14",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Xiamen city, fujian provincial network of UNICOM",
+    "domain": "chinaunicom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.21,Financial Street, Beijing,100033, P.R.China",
+    "country": "CN",
+    "email": "zhaoyz3@chinaunicom.cn",
+    "name": "XIA MEN",
+    "network": "36.250.64.0/20",
+    "phone": "+86-592-3196202"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

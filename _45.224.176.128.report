@@ -1,0 +1,42 @@
+{
+  "ip": "45.224.176.128",
+  "city": "Itaúba",
+  "region": "Mato Grosso",
+  "country": "BR",
+  "loc": "-11.0078,-55.2422",
+  "postal": "78510-000",
+  "timezone": "America/Cuiaba",
+  "asn": {
+    "asn": "AS266918",
+    "name": "NCB TELECOMUNICAÇÕES EIRELI EPP",
+    "domain": "",
+    "route": "45.224.176.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "NCB TELECOMUNICAÇÕES EIRELI EPP",
+    "domain": "",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "neicesar@hotmail.com",
+    "name": "Nei Cesar de Borba",
+    "network": "45.224.176.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "45.131.71.130",
+  "hostname": "user-45-131-71-130.ber02.de.misaka.io",
+  "city": "Berlin",
+  "region": "Berlin",
+  "country": "DE",
+  "loc": "52.5244,13.4105",
+  "postal": "10119",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS35487",
+    "name": "Misaka Network, Inc.",
+    "domain": "misaka.io",
+    "route": "45.131.71.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Misaka Network, Inc.",
+    "domain": "misaka.io",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Suite, 19901, Dover, UNITED STATES",
+    "country": "US",
+    "email": "abuse@misaka.email",
+    "name": "Misaka Network, Inc.",
+    "network": "45.131.71.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

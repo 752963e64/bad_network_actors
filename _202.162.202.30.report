@@ -1,0 +1,42 @@
+{
+  "ip": "202.162.202.30",
+  "hostname": "host-202-30.sby.nusa.net.id",
+  "city": "Surabaya",
+  "region": "East Java",
+  "country": "ID",
+  "loc": "-7.2492,112.7508",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS23679",
+    "name": "PT. Media Antar Nusa",
+    "domain": "nusa.net.id",
+    "route": "202.162.202.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "PT. Internet Ini Saja",
+    "domain": "inisaja.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT. Internet Ini Saja, Intiland Tower 11th Floor Suite 1D, Jl. Panglima Sudirman 101-103, Surabaya, 60271",
+    "country": "ID",
+    "email": "abuse@inisaja.id",
+    "name": "Hostmaster Inisaja",
+    "network": "202.162.202.0/24",
+    "phone": "+62-31-5473838"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

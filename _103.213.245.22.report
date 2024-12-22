@@ -1,0 +1,45 @@
+{
+  "ip": "103.213.245.22",
+  "hostname": "103.213.245.22.static.klayer.com",
+  "city": "Shenzhen",
+  "region": "Guangdong",
+  "country": "CN",
+  "loc": "22.5455,114.0683",
+  "postal": "518000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS18254",
+    "name": "KLAYER LLC",
+    "domain": "klayer.com",
+    "route": "103.213.245.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "HongKong",
+    "domain": "hongkongmovie.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Colocation in Asia",
+    "country": "US",
+    "email": "hostmaster@klayer.com",
+    "name": "ABUSE KLAYAP",
+    "network": "103.213.245.0/24",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "ip": "103.213.245.22",
+    "total": 1,
+    "domains": [
+      "5hk.net"
+    ]
+  }
+}

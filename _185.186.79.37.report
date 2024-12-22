@@ -1,0 +1,41 @@
+{
+  "ip": "185.186.79.37",
+  "city": "Copenhagen",
+  "region": "Capital Region",
+  "country": "DK",
+  "loc": "55.6759,12.5655",
+  "postal": "1072",
+  "timezone": "Europe/Copenhagen",
+  "asn": {
+    "asn": "AS136258",
+    "name": "BrainStorm Network, Inc",
+    "domain": "oneprovider.com",
+    "route": "185.186.79.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Oneprovider.com - Copenhagen Infrastructure",
+    "domain": "oneprovider.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "SaferVPN"
+  },
+  "abuse": {
+    "address": "1500 Ste-Rose, H7K-1S4, LAVAL, CANADA",
+    "country": "CA",
+    "email": "info@oneprovider.com",
+    "name": "Abuse-C Role",
+    "network": "185.186.79.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

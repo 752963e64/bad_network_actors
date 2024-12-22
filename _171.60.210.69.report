@@ -1,0 +1,43 @@
+{
+  "ip": "171.60.210.69",
+  "hostname": "abts-tn-dynamic-70.210.60.171.airtelbroadband.in",
+  "city": "Kolkata",
+  "region": "West Bengal",
+  "country": "IN",
+  "loc": "22.5626,88.3630",
+  "postal": "700001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS45609",
+    "name": "Bharti Airtel Ltd. AS for GPRS Service",
+    "domain": "airtel.com",
+    "route": "171.60.208.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Bharti Airtel Limited",
+    "domain": "airtel.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Bharti Airtel Ltd.",
+    "country": "IN",
+    "email": "dsltac2north.unoc@airtel.com",
+    "name": "ABUSE BHARTITELEMEDIAIN",
+    "network": "171.48.0.0/12",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "195.251.255.69",
+  "hostname": "zff45.unnamed.aueb.gr",
+  "city": "Athens",
+  "region": "Attica",
+  "country": "GR",
+  "loc": "37.9838,23.7278",
+  "timezone": "Europe/Athens",
+  "asn": {
+    "asn": "AS8611",
+    "name": "Athens University of Economics and Business",
+    "domain": "aueb.gr",
+    "route": "195.251.248.0/21",
+    "type": "education"
+  },
+  "company": {
+    "name": "Athens University of Economics and Business",
+    "domain": "aueb.gr",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Network Operation Center,, Athens University of Economics and Business, 76 Patission st., 10434,, Athens, Greece",
+    "country": "GR",
+    "email": "abuse@aueb.gr",
+    "name": "AUEB NOC",
+    "network": "195.251.248.0/21",
+    "phone": "+30 210 8203900"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

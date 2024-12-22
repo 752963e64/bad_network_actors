@@ -1,0 +1,43 @@
+{
+  "ip": "37.190.61.166",
+  "hostname": "37-190-61-166.dynamic.spd-mgts.ru",
+  "city": "Moscow",
+  "region": "Moscow",
+  "country": "RU",
+  "loc": "55.7522,37.6156",
+  "postal": "101000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS25513",
+    "name": "PJSC Moscow city telephone network",
+    "domain": "spd-mgts.ru",
+    "route": "37.190.0.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Moscow Local Telephone Network (OAO MGTS)",
+    "domain": "spd-mgts.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "USPD MGTS, Moscow, Russia, Khachaturyana 5",
+    "country": "RU",
+    "email": "abuse@spd-mgts.ru",
+    "name": "PJSC Moscow City Telephone Network NOC",
+    "network": "37.190.0.0/18",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

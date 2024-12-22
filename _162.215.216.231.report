@@ -1,0 +1,49 @@
+{
+  "ip": "162.215.216.231",
+  "hostname": "server.digics.in",
+  "city": "Salt Lake City",
+  "region": "Utah",
+  "country": "US",
+  "loc": "40.7608,-111.8911",
+  "postal": "84101",
+  "timezone": "America/Denver",
+  "asn": {
+    "asn": "AS46606",
+    "name": "Unified Layer",
+    "domain": "endurance.com",
+    "route": "162.214.0.0/15",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Unified Layer",
+    "domain": "unifiedlayer.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, UT, Provo, 1958 South 950 East, 84606",
+    "country": "US",
+    "email": "abuse@bluehost.com",
+    "name": "Network Operations Center",
+    "network": "162.214.0.0/15",
+    "phone": "+1-801-765-9400"
+  },
+  "domains": {
+    "ip": "162.215.216.231",
+    "total": 24,
+    "domains": [
+      "shreeastropoint.com",
+      "aircurtainmanufacturer.co.in",
+      "jdsolitaires.com",
+      "digicssocial.com",
+      "nearbystudyabroadconsultant.com"
+    ]
+  }
+}

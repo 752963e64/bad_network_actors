@@ -1,0 +1,44 @@
+{
+  "ip": "216.185.57.137",
+  "city": "Mumbai",
+  "region": "Maharashtra",
+  "country": "IN",
+  "loc": "19.0728,72.8826",
+  "postal": "400017",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS132335",
+    "name": "LEAPSWITCH NETWORKS PRIVATE LIMITED",
+    "domain": "leapswitch.com",
+    "route": "216.185.57.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "IPXO LLC",
+    "domain": "ipxo.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "VPNJantit"
+  },
+  "abuse": {
+    "address": "GB, Hertfordshire, St. Albans, Ground Floor,4 Victoria Square, AL1-3TF",
+    "country": "GB",
+    "email": "abuse@ipxo.com",
+    "name": "IPXO Abuse Management Team",
+    "network": "216.185.56.0/21",
+    "phone": "+1 (650) 934-1667"
+  },
+  "domains": {
+    "ip": "216.185.57.137",
+    "total": 1,
+    "domains": [
+      "quorar.net"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "ip": "165.16.42.84",
+  "city": "Zliten",
+  "region": "Mişrātah",
+  "country": "LY",
+  "loc": "32.4674,14.5687",
+  "timezone": "Africa/Tripoli",
+  "asn": {
+    "asn": "AS37284",
+    "name": "Aljeel Aljadeed For Technology",
+    "domain": "aljeel.ly",
+    "route": "165.16.40.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Giga for telecommunication and technology ltd",
+    "domain": "giga.ly",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Abu Salim Street, Tripoli, Libya",
+    "country": "LY",
+    "email": "a.sharif@aljeel.ly",
+    "name": "Ahmed Sharif",
+    "network": "165.16.42.64/26",
+    "phone": "tel:+218-94-6660174"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

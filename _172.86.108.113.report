@@ -1,0 +1,43 @@
+{
+  "ip": "172.86.108.113",
+  "hostname": "113.108.86.172.static.cloudzy.com",
+  "city": "New Springville",
+  "region": "New York",
+  "country": "US",
+  "loc": "40.5934,-74.1632",
+  "postal": "10311",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS14956",
+    "name": "RouterHosting LLC",
+    "domain": "cloudzy.com",
+    "route": "172.86.104.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "RouterHosting LLC",
+    "domain": "cloudzy.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, NV, Las Vegas, 1110 Palms Airport Drive, 89119",
+    "country": "US",
+    "email": "abuse-reports@cloudzy.com",
+    "name": "abuse",
+    "network": "172.86.104.0/21",
+    "phone": "+1-778-977-8246"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

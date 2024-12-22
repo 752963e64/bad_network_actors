@@ -1,0 +1,41 @@
+{
+  "ip": "201.206.80.62",
+  "city": "Quesada",
+  "region": "Alajuela Province",
+  "country": "CR",
+  "loc": "10.3266,-84.4320",
+  "postal": "21001",
+  "timezone": "America/Costa_Rica",
+  "asn": {
+    "asn": "AS11830",
+    "name": "Instituto Costarricense de Electricidad y Telecom.",
+    "domain": "grupoice.com",
+    "route": "201.204.0.0/14",
+    "type": "isp"
+  },
+  "company": {
+    "name": "LAUREL",
+    "domain": "ice.go.cr",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "10032-1000 San José, Costa Rica, 10032, San José, 10032-100 - San José - cr",
+    "country": "CR",
+    "email": "gspam@ICE.GO.CR",
+    "name": "Disenno y Transporte, ICE",
+    "network": "201.206.80.0/22",
+    "phone": "+506  20001123 [0000]"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

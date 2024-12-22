@@ -1,0 +1,41 @@
+{
+  "ip": "45.130.189.150",
+  "city": "Krasnodar",
+  "region": "Krasnodar Krai",
+  "country": "RU",
+  "loc": "45.0448,38.9760",
+  "postal": "350000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS58314",
+    "name": "SvyazResurs-Kuban, LLC",
+    "domain": "srkub.ru",
+    "route": "45.130.189.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SvyazResurs-Kuban, LLC",
+    "domain": "srkub.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Bazovskaya Damba 8A, Russia, Krasnodar, 350033",
+    "country": "RU",
+    "email": "abuse@srkub.ru",
+    "name": "B2B-Telecom contacts",
+    "network": "45.130.189.0/24",
+    "phone": "+78612109933"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

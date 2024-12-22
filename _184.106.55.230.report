@@ -1,0 +1,48 @@
+{
+  "ip": "184.106.55.230",
+  "city": "Waterford",
+  "region": "Michigan",
+  "country": "US",
+  "loc": "42.6930,-83.4118",
+  "postal": "48329",
+  "timezone": "America/Detroit",
+  "asn": {
+    "asn": "AS32244",
+    "name": "Liquid Web, L.L.C",
+    "domain": "liquidweb.com",
+    "route": "184.106.55.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Liquid Web, L.L.C",
+    "domain": "liquidweb.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, MI, Lansing, 4210 Creyts Rd., 48917",
+    "country": "US",
+    "email": "abuse@liquidweb.com",
+    "name": "Abuse",
+    "network": "184.106.55.0/24",
+    "phone": "+1-800-580-4985"
+  },
+  "domains": {
+    "ip": "184.106.55.230",
+    "total": 9,
+    "domains": [
+      "mtsoa.com",
+      "synergeticsworldwide.com",
+      "pmdefenseattorney.com",
+      "sanmaninc.com",
+      "palmshotelkeywest.com"
+    ]
+  }
+}

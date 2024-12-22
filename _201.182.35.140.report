@@ -1,0 +1,43 @@
+{
+  "ip": "201.182.35.140",
+  "hostname": "201-182-35-140.informac.com.br",
+  "city": "Palhoça",
+  "region": "Santa Catarina",
+  "country": "BR",
+  "loc": "-27.6453,-48.6678",
+  "postal": "88130-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS264461",
+    "name": "ADM INTERNET EIRELI",
+    "domain": "informac.com.br",
+    "route": "201.182.34.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ADM INTERNET EIRELI",
+    "domain": "adminternet.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "noc@informac.com.br",
+    "name": "MARCOS AUR�LIO COELHO",
+    "network": "201.182.32.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

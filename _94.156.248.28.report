@@ -1,0 +1,42 @@
+{
+  "ip": "94.156.248.28",
+  "city": "Salt Lake City",
+  "region": "Utah",
+  "country": "US",
+  "loc": "40.7608,-111.8911",
+  "postal": "84101",
+  "timezone": "America/Denver",
+  "asn": {
+    "asn": "AS215450",
+    "name": "Snowcore Cyf",
+    "domain": "snowcore.io",
+    "route": "94.156.248.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "SnowCore",
+    "domain": "snowcore.io",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Redacted",
+    "country": "GB",
+    "email": "abuse@snowcore.io",
+    "name": "SnowCore",
+    "network": "94.156.248.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

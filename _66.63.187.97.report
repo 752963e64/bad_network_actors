@@ -1,0 +1,42 @@
+{
+  "ip": "66.63.187.97",
+  "city": "Bursa",
+  "region": "Bursa Province",
+  "country": "TR",
+  "loc": "40.1956,29.0601",
+  "postal": "16250",
+  "timezone": "Europe/Istanbul",
+  "asn": {
+    "asn": "AS214943",
+    "name": "Railnet LLC",
+    "domain": "virtualine.org",
+    "route": "66.63.187.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Virtualine Technologies",
+    "domain": "virtualine.org",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "GB, , London, 71-75 Shelton Street, Covent Garden, London, United Kingdom, WC2H 9JQ, WC2H 9JQ",
+    "country": "GB",
+    "email": "abuse@virtualine.org",
+    "name": "VIRTUALINE ABUSE DEPARTMENT",
+    "network": "66.63.187.0/24",
+    "phone": "+447458164463"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

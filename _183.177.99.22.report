@@ -1,0 +1,40 @@
+{
+  "ip": "183.177.99.22",
+  "city": "Saynshand",
+  "region": "East Gobi Aymag",
+  "country": "MN",
+  "loc": "44.8824,110.1163",
+  "timezone": "Asia/Ulaanbaatar",
+  "asn": {
+    "asn": "AS58439",
+    "name": "ICNC LLC",
+    "domain": "icn.mn",
+    "route": "183.177.96.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ICNC Network",
+    "domain": "icn.mn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "P.O.B-2027, Sukhbaatar Square - 1, Information and Communications Network Company Building, Ulaanbaa",
+    "country": "MN",
+    "email": "namjil@icn.mn",
+    "name": "ABUSE ICNCMN",
+    "network": "183.177.99.0/24",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

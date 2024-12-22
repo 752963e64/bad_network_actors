@@ -1,0 +1,43 @@
+{
+  "ip": "95.215.45.178",
+  "hostname": "hosted-by.yourserver.se",
+  "city": "Göteborg",
+  "region": "Västra Götaland",
+  "country": "SE",
+  "loc": "57.7072,11.9668",
+  "postal": "400 10",
+  "timezone": "Europe/Stockholm",
+  "asn": {
+    "asn": "AS52173",
+    "name": "Sia Nano IT",
+    "domain": "nano.lv",
+    "route": "95.215.45.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Virtual Server hosting",
+    "domain": "yourserver.se",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Sia Nano IT, Maskavas iela 240 - 510, LV-1063, Riga, LATVIA",
+    "country": "LV",
+    "email": "abuse@nano.lv",
+    "name": "Abuse-C Role",
+    "network": "95.215.45.0-95.215.47.255",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

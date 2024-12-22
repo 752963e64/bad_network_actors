@@ -1,0 +1,43 @@
+{
+  "ip": "193.251.68.89",
+  "hostname": "lputeaux-656-1-169-89.w193-251.abo.wanadoo.fr",
+  "city": "Puteaux",
+  "region": "Île-de-France",
+  "country": "FR",
+  "loc": "48.8834,2.2389",
+  "postal": "92800",
+  "timezone": "Europe/Paris",
+  "asn": {
+    "asn": "AS3215",
+    "name": "Orange S.A.",
+    "domain": "orange.com",
+    "route": "193.251.64.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "LNMSO655 Montsouris",
+    "domain": "orange.fr",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Orange, 111, quai du Président Roosevelt, 92130 ISSY-LES-MOULINEAUX",
+    "country": "FR",
+    "email": "gestionip.ft@orange.com",
+    "name": "Local Internet Registry Orange fr.telecom",
+    "network": "193.251.68.0/24",
+    "phone": "+33 1 58 88 50 00"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

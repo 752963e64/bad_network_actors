@@ -1,0 +1,43 @@
+{
+  "ip": "178.137.244.202",
+  "hostname": "178-137-244-202.broadband.kyivstar.net",
+  "city": "Odesa",
+  "region": "Odessa",
+  "country": "UA",
+  "loc": "46.4857,30.7438",
+  "postal": "65000",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS15895",
+    "name": "\"Kyivstar\" PJSC",
+    "domain": "kyivstar.ua",
+    "route": "178.137.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Kyivstar GSM",
+    "domain": "kyivstar.ua",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "\"Kyivstar\" PJSC, Degtyarevskaya 53, 03113, Kiev, UKRAINE",
+    "country": "UA",
+    "email": "abuse@kyivstar.net",
+    "name": "Kyivstar GSM",
+    "network": "178.137.192.0/18",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

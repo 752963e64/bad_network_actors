@@ -1,0 +1,41 @@
+{
+  "ip": "36.85.250.146",
+  "city": "Denpasar",
+  "region": "Bali",
+  "country": "ID",
+  "loc": "-8.6500,115.2167",
+  "timezone": "Asia/Makassar",
+  "asn": {
+    "asn": "AS7713",
+    "name": "PT Telekomunikasi Indonesia",
+    "domain": "telin.net",
+    "route": "36.85.248.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PT TELKOM INDONESIA STO Gambir 3rd Floor Jl. Medan Merdeka Selatan No. 12 Jakarta 10110",
+    "domain": "telkom.net.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT. TELKOM INDONESIA, STO Telkom Gambir 3th Floor, Medan Merdeka Selatan, JAKARTA",
+    "country": "ID",
+    "email": "abuse@telkom.co.id",
+    "name": "ABUSE IDTELKOMID",
+    "network": "36.85.240.0/20",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

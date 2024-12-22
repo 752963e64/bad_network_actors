@@ -1,0 +1,42 @@
+{
+  "ip": "185.189.72.135",
+  "hostname": "user-185-189-72-135.mrs01.fr.misaka.io",
+  "city": "Marseille",
+  "region": "Provence-Alpes-Côte d'Azur",
+  "country": "FR",
+  "loc": "43.2970,5.3811",
+  "postal": "13000",
+  "timezone": "Europe/Paris",
+  "asn": {
+    "asn": "AS57695",
+    "name": "Misaka Network, Inc.",
+    "domain": "misaka.io",
+    "route": "185.189.72.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Misaka Network, Inc.",
+    "domain": "misaka.io",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Suite, 19901, Dover, UNITED STATES",
+    "country": "US",
+    "email": "abuse@misaka.email",
+    "name": "Abuse-C Role",
+    "network": "185.189.72.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

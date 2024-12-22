@@ -1,0 +1,41 @@
+{
+  "ip": "92.124.141.50",
+  "city": "Omsk",
+  "region": "Omsk Oblast",
+  "country": "RU",
+  "loc": "54.9924,73.3686",
+  "postal": "644000",
+  "timezone": "Asia/Omsk",
+  "asn": {
+    "asn": "AS12389",
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "route": "92.124.128.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "OJSC Sibirtelecom",
+    "domain": "sibirtelecom.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "PJSC Rostelecom Technical Team",
+    "network": "92.124.128.0/20",
+    "phone": "+7 3812 241219"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

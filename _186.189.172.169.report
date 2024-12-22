@@ -1,0 +1,42 @@
+{
+  "ip": "186.189.172.169",
+  "hostname": "186-189-172-169.setardsl.aw",
+  "city": "Savaneta",
+  "region": "Aruba",
+  "country": "AW",
+  "loc": "12.4503,-69.9381",
+  "timezone": "America/Aruba",
+  "asn": {
+    "asn": "AS11816",
+    "name": "SERVICIO DI TELECOMUNICACION DI ARUBA (SETAR) N.V.",
+    "domain": "setardsl.aw",
+    "route": "186.189.172.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SERVICIO DI TELECOMUNICACION DI ARUBA (SETAR) N.V.",
+    "domain": "setarnet.aw",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "J.E. Irausquinplein #7, -,, - - Oranjestad - -",
+    "country": "AW",
+    "email": "hostmaster@setarnet.aw",
+    "name": "Edward Tromp",
+    "network": "186.189.172.0/23",
+    "phone": "+297  5251710"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

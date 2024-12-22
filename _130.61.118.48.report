@@ -1,0 +1,42 @@
+{
+  "ip": "130.61.118.48",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1025,8.6299",
+  "postal": "60326",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS31898",
+    "name": "Oracle Corporation",
+    "domain": "oracle.com",
+    "route": "130.61.112.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Oracle Public Cloud",
+    "domain": "oracleemaildelivery.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, WA, Seattle, 1501 4th Ave, #1800, 98101",
+    "country": "US",
+    "email": "abuse@oracleemaildelivery.com",
+    "name": "Oracle Bare Metal Operations",
+    "network": "130.61.0.0/16",
+    "phone": "+1-512-712-7403"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

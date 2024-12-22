@@ -1,0 +1,43 @@
+{
+  "ip": "45.128.99.94",
+  "hostname": "static.94.99.128.45.ip.webhost1.net",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "postal": "60306",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS198178",
+    "name": "365.partners INC",
+    "domain": "365.hosting",
+    "route": "45.128.99.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "US-365HOSTING",
+    "domain": "365.hosting",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "30 N GOULD ST, STE R, SHERIDAN WY 82801",
+    "country": "BG",
+    "email": "support@365.hosting",
+    "name": "CEO",
+    "network": "45.128.99.0/24",
+    "phone": "+359 2 975 16 16"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

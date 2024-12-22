@@ -1,0 +1,41 @@
+{
+  "ip": "89.219.17.214",
+  "city": "Almaty",
+  "region": "Almaty",
+  "country": "KZ",
+  "loc": "43.2500,76.9167",
+  "timezone": "Asia/Almaty",
+  "asn": {
+    "asn": "AS43994",
+    "name": "SMARTNET TOO",
+    "domain": "smartnet.kz",
+    "route": "89.219.17.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SMARTNET TOO",
+    "domain": "smartnet.kz",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "SMARTNET TOO Viktor Strelnikov Hodzhanova ave. 79. 050038 Almaty KAZAKHSTAN",
+    "country": "KZ",
+    "email": "nic@smartnet.kz",
+    "name": "Abuse-C Role",
+    "network": "89.219.17.0/24",
+    "phone": "+ 7 727 356 01 20"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

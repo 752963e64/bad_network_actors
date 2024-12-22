@@ -1,0 +1,42 @@
+{
+  "ip": "42.123.72.50",
+  "city": "Shanghai",
+  "region": "Shanghai",
+  "country": "CN",
+  "loc": "31.2222,121.4581",
+  "postal": "200000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS58519",
+    "name": "Cloud Computing Corporation",
+    "domain": "chinatelecom.cn",
+    "route": "42.123.64.0/19",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Cloud Computing Branch Corporation network",
+    "domain": "chinatelecom.cn",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.31 ,jingrong street,beijing, 100032",
+    "country": "CN",
+    "email": "anti-spam@chinatelecom.cn",
+    "name": "ABUSE CHINANETCN",
+    "network": "42.123.64.0/18",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

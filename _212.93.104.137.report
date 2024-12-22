@@ -1,0 +1,47 @@
+{
+  "ip": "212.93.104.137",
+  "city": "Riga",
+  "region": "Riga",
+  "country": "LV",
+  "loc": "56.9460,24.1059",
+  "postal": "LV-1001",
+  "timezone": "Europe/Riga",
+  "asn": {
+    "asn": "AS24921",
+    "name": "Latvijas Mobilais Telefons SIA",
+    "domain": "lmt.lv",
+    "route": "212.93.104.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Latvijas Mobilais Telefons SIA",
+    "domain": "lmt.lv",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "LMT",
+    "mcc": "247",
+    "mnc": "01"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ropazu 6, Riga, Latvia, LV1039, Latvijas Mobilais Telefons SIA",
+    "country": "LV",
+    "email": "abuse@lmt.lv",
+    "name": "LMT IT Hostmaster",
+    "network": "212.93.104.0/23",
+    "phone": "+371-80000076"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

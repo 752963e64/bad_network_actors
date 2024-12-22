@@ -1,0 +1,41 @@
+{
+  "ip": "85.172.39.179",
+  "city": "Krasnodar",
+  "region": "Krasnodar Krai",
+  "country": "RU",
+  "loc": "45.0448,38.9760",
+  "postal": "350000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS25490",
+    "name": "PJSC Rostelecom",
+    "domain": "rostelecom.ru",
+    "route": "85.172.32.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "OJSC Rostelecom Macroregional Branch South",
+    "domain": "rt.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "PJSC Rostelecom Technical Team",
+    "network": "85.172.32.0/19",
+    "phone": "+7 861 2558152"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

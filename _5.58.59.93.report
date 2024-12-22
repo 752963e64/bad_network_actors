@@ -1,0 +1,43 @@
+{
+  "ip": "5.58.59.93",
+  "hostname": "host-5-58-59-93.bitternet.ua",
+  "city": "Ternopil",
+  "region": "Ternopil",
+  "country": "UA",
+  "loc": "49.5540,25.5907",
+  "postal": "46000",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS16223",
+    "name": "MAXNET TELECOM, LTD",
+    "domain": "columbus.te.ua",
+    "route": "5.58.32.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "MAXNET TELECOM, LTD",
+    "domain": "maxnet.ua",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ukraine, Ternopil, Kyivska st. 2",
+    "country": "UA",
+    "email": "noc@columbus.in.ua",
+    "name": "COLUMBUS NOC",
+    "network": "5.58.32.0/19",
+    "phone": "+380 352 407407"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

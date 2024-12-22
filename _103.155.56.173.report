@@ -1,0 +1,42 @@
+{
+  "ip": "103.155.56.173",
+  "city": "Lucknow",
+  "region": "Uttar Pradesh",
+  "country": "IN",
+  "loc": "26.8393,80.9231",
+  "postal": "226004",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS136306",
+    "name": "Texes Connect Private Limited",
+    "domain": "texes.in",
+    "route": "103.155.56.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Texes Telecom Private Limited",
+    "domain": "texes.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ansal City Centre, 322, 3rd Floor, Hazratganj, Lucknow, Uttar Pradesh 226001",
+    "country": "IN",
+    "email": "sumit@texes.in",
+    "name": "Nitin Kakkar",
+    "network": "103.155.56.0/23",
+    "phone": "+91 5222630005"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

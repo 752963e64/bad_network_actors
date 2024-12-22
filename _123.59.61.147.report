@@ -1,0 +1,42 @@
+{
+  "ip": "123.59.61.147",
+  "city": "Beijing",
+  "region": "Beijing",
+  "country": "CN",
+  "loc": "39.9075,116.3972",
+  "postal": "100000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS23724",
+    "name": "IDC, China Telecommunications Corporation",
+    "domain": "chinatelecom.cn",
+    "route": "123.59.32.0/19",
+    "type": "business"
+  },
+  "company": {
+    "name": "CloudVsp.Inc",
+    "domain": "cloudvsp.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Beijing, China",
+    "country": "CN",
+    "email": "ipas@cnnic.cn",
+    "name": "ABUSE CNNICCN",
+    "network": "123.59.0.0/16",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

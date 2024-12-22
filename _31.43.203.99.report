@@ -1,0 +1,42 @@
+{
+  "ip": "31.43.203.99",
+  "city": "Biysk",
+  "region": "Altai Krai",
+  "country": "RU",
+  "loc": "52.5364,85.2072",
+  "postal": "659300",
+  "timezone": "Asia/Barnaul",
+  "asn": {
+    "asn": "AS56487",
+    "name": "Sotrudnik LTD",
+    "domain": "biisk.ru",
+    "route": "31.43.192.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Sotrudnik LTD",
+    "domain": "biisk.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "659322 Russia, Biysk, Sotsialisticheskaya Str., 1",
+    "country": "RU",
+    "email": "amt@sotr.biisk.ru",
+    "name": "Abuse-C Role",
+    "network": "31.43.192.0/19",
+    "phone": "+7 3854 30-33-06"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

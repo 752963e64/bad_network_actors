@@ -1,0 +1,43 @@
+{
+  "ip": "187.35.89.108",
+  "hostname": "187-35-89-108.dsl.telesp.net.br",
+  "city": "Indaiatuba",
+  "region": "São Paulo",
+  "country": "BR",
+  "loc": "-23.0884,-47.2119",
+  "postal": "13330-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS27699",
+    "name": "TELEFÔNICA BRASIL S.A",
+    "domain": "telefonica.com.br",
+    "route": "187.34.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TELEFÔNICA BRASIL S.A",
+    "domain": "telefonica.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse.br@telefonica.com",
+    "name": "CSIRT TELEFONICA BR",
+    "network": "187.34.0.0/15",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

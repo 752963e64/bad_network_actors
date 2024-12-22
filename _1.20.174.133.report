@@ -1,0 +1,41 @@
+{
+  "ip": "1.20.174.133",
+  "city": "Phanat Nikhom",
+  "region": "Chon Buri",
+  "country": "TH",
+  "loc": "13.4458,101.1844",
+  "postal": "20140",
+  "timezone": "Asia/Bangkok",
+  "asn": {
+    "asn": "AS23969",
+    "name": "TOT Public Company Limited",
+    "domain": "ntplc.co.th",
+    "route": "1.20.172.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TOT Mobile Co LTD",
+    "domain": "tot.co.th",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",
+    "country": "TH",
+    "email": "abuse@totidc.net",
+    "name": "ABUSE TOTMOBILETH",
+    "network": "1.20.0.0/16",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "177.23.200.14",
+  "hostname": "14.200.23.177.fhptelecom.com.br",
+  "city": "São João de Meriti",
+  "region": "Rio de Janeiro",
+  "country": "BR",
+  "loc": "-22.8039,-43.3722",
+  "postal": "25500-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS52937",
+    "name": "FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",
+    "domain": "fhptelecom.com.br",
+    "route": "177.23.200.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",
+    "domain": "fhptelecom.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "financeiro@fhptelecom.com.br",
+    "name": "Michel Olivier",
+    "network": "177.23.200.0/21",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

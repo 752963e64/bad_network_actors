@@ -1,0 +1,42 @@
+{
+  "ip": "182.226.216.42",
+  "city": "Uijeongbu-si",
+  "region": "Gyeonggi-do",
+  "country": "KR",
+  "loc": "37.7415,127.0474",
+  "postal": "11649",
+  "timezone": "Asia/Seoul",
+  "asn": {
+    "asn": "AS17858",
+    "name": "LG POWERCOMM",
+    "domain": "lguplus.co.kr",
+    "route": "182.224.0.0/14",
+    "type": "business"
+  },
+  "company": {
+    "name": "LG POWERCOMM",
+    "domain": "lguplus.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Jeollanam-do Naju-si Jinheung-gil",
+    "country": "KR",
+    "email": "irt@nic.or.kr",
+    "name": "IP Manager",
+    "network": "182.208.0.0-182.231.255.255",
+    "phone": "+82-2-1-01"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "199.71.214.127",
+  "hostname": "unassigned.psychz.net",
+  "city": "Dallas",
+  "region": "Texas",
+  "country": "US",
+  "loc": "32.7831,-96.8067",
+  "postal": "75201",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS40676",
+    "name": "Psychz Networks",
+    "domain": "psychz.net",
+    "route": "199.71.214.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Psychz Networks",
+    "domain": "psychz.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "ZoogVPN"
+  },
+  "abuse": {
+    "address": "US, CA, Walnut, 20687-2 Amar Rd. #312, 91789",
+    "country": "US",
+    "email": "noc@psychz.net",
+    "name": "NOC",
+    "network": "199.71.212.0/22",
+    "phone": "+1-626-549-2801"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "168.75.87.28",
+  "city": "São Paulo",
+  "region": "São Paulo",
+  "country": "BR",
+  "loc": "-23.5475,-46.6361",
+  "postal": "01000-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS31898",
+    "name": "Oracle Corporation",
+    "domain": "oracle.com",
+    "route": "168.75.64.0/19",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Oracle Corporation",
+    "domain": "oracle.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, TX, Austin, 2300 Oracle Way, Attn: Domain Administrator, 78741",
+    "country": "US",
+    "email": "abuse@oracleemaildelivery.com",
+    "name": "Network Information Systems Abuse Management",
+    "network": "168.75.64.0/18",
+    "phone": "+1-800-633-0738"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

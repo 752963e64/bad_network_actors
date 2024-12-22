@@ -1,0 +1,41 @@
+{
+  "ip": "103.190.8.83",
+  "city": "Deoli",
+  "region": "Delhi",
+  "country": "IN",
+  "loc": "28.5025,77.2312",
+  "postal": "110062",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS139538",
+    "name": "MOVEX DIGITAL TECHNOLOGY PRIVATE LIMITED",
+    "domain": "movexisp.in",
+    "route": "103.190.8.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "MOVEX DIGITAL TECHNOLOGY PRIVATE LIMITED",
+    "domain": "movexisp.in",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "A 65 2ND FLOOR BACK SIDE GALI NO 17 RAJAPURI UTTAM NAGAR WEST DELHI DELHI INDIA 110059,New Delhi,Delhi-110059",
+    "country": "IN",
+    "email": "billing@movexisp.in",
+    "name": "SONU KUMAR",
+    "network": "103.190.8.0/23",
+    "phone": "+91 9899276768"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

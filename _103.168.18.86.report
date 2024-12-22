@@ -1,0 +1,43 @@
+{
+  "ip": "103.168.18.86",
+  "hostname": "18.168.103.in-addr.arpa",
+  "city": "Ahmedabad",
+  "region": "Gujarat",
+  "country": "IN",
+  "loc": "23.0258,72.5873",
+  "postal": "380001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS138246",
+    "name": "Netclues Technologies Private Limited",
+    "domain": "netclues.com",
+    "route": "103.168.18.0/23",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "WEBNAPP",
+    "domain": "webnapp.in",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "605, Mauryansh Elanza, Beside Parekh's Hospital, Ahmedabad Gujarat 380015",
+    "country": "IN",
+    "email": "sasharma@netclues.com",
+    "name": "ABUSE WEBNAPPIN",
+    "network": "103.168.18.0/23",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

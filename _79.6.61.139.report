@@ -1,0 +1,42 @@
+{
+  "ip": "79.6.61.139",
+  "hostname": "host-79-6-61-139.business.telecomitalia.it",
+  "city": "Ospitaletto",
+  "region": "Lombardy",
+  "country": "IT",
+  "loc": "45.5522,10.0756",
+  "postal": "25035",
+  "timezone": "Europe/Rome",
+  "asn": {
+    "asn": "AS3269",
+    "name": "Telecom Italia S.p.A.",
+    "domain": "telecomitalia.com",
+    "route": "79.6.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telecom Italia S.p.A. TIN EASY LITE",
+    "domain": "tim.it",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Telecom Italia S.p.A., Abuse Consumer Customer Area",
+    "country": "IT",
+    "email": "abuse@retail.telecomitalia.it",
+    "name": "Telecom Italia S.p.A. TIN EASY LITE",
+    "network": "79.0.0.0/13",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

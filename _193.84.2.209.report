@@ -1,0 +1,41 @@
+{
+  "ip": "193.84.2.209",
+  "city": "Helsinki",
+  "region": "Uusimaa",
+  "country": "FI",
+  "loc": "60.1695,24.9354",
+  "postal": "00100",
+  "timezone": "Europe/Helsinki",
+  "asn": {
+    "asn": "AS57043",
+    "name": "HOSTKEY B.V.",
+    "domain": "hostkey.com",
+    "route": "193.84.2.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "HOSTKEY B.V.",
+    "domain": "hostkey.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "W Frederik Hermansstr 91, 1011DG, Amsterdam, NETHERLANDS",
+    "country": "NL",
+    "email": "abuse@hostkey.nl",
+    "name": "Hostkey_NL abuse",
+    "network": "193.84.2.0/23",
+    "phone": "+31208203777"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

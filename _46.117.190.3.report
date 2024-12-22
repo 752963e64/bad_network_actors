@@ -1,0 +1,41 @@
+{
+  "ip": "46.117.190.3",
+  "hostname": "46-117-190-3.bb.netvision.net.il",
+  "city": "Bat Yam",
+  "region": "Tel Aviv",
+  "country": "IL",
+  "loc": "32.0238,34.7518",
+  "timezone": "Asia/Jerusalem",
+  "asn": {
+    "asn": "AS1680",
+    "name": "Cellcom Fixed Line Communication L.P",
+    "domain": "cellcom.co.il",
+    "route": "46.117.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "013 Netvision",
+    "domain": "cellcom.co.il",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "013 NetVision Ltd, Eran Agmon, Omega Center,, Matam, 31905 Haifa, ISRAEL",
+    "country": "IL",
+    "email": "nvabuse@cellcom.co.il",
+    "name": "Abuse-C Role",
+    "network": "46.117.128.0/18",
+    "phone": "+972 4 8560 600"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

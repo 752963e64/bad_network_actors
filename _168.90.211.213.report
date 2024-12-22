@@ -1,0 +1,42 @@
+{
+  "ip": "168.90.211.213",
+  "hostname": "168-90-211-213.dominatelecom.net.br",
+  "city": "Sinop",
+  "region": "Mato Grosso",
+  "country": "BR",
+  "loc": "-11.8642,-55.5025",
+  "postal": "78550-000",
+  "timezone": "America/Cuiaba",
+  "asn": {
+    "asn": "AS265282",
+    "name": "DOMINA NET TELECOM",
+    "domain": "dominanet.com.br",
+    "route": "168.90.211.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "DOMINA NET TELECOM",
+    "domain": "dominatelecom.net.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "marcelo.donato@dominanet.com.br",
+    "name": "Marcelo da Silva Donato",
+    "network": "168.90.208.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

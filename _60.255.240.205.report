@@ -1,0 +1,42 @@
+{
+  "ip": "60.255.240.205",
+  "city": "Chengdu",
+  "region": "Sichuan",
+  "country": "CN",
+  "loc": "30.6667,104.0667",
+  "postal": "610000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4837",
+    "name": "CHINA UNICOM China169 Backbone",
+    "domain": "chinaunicom.cn",
+    "route": "60.255.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Asia Pacific Network Information Centre",
+    "domain": "apnic.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Beijing, China",
+    "country": "CN",
+    "email": "ipas@cnnic.cn",
+    "name": "ABUSE CNNICCN",
+    "network": "60.255.0.0/16",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

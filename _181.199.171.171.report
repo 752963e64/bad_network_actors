@@ -1,0 +1,42 @@
+{
+  "ip": "181.199.171.171",
+  "hostname": "dyn-181-199-171-171.isp.celpinf.com.ar",
+  "city": "Pergamino",
+  "region": "Buenos Aires",
+  "country": "AR",
+  "loc": "-33.8910,-60.5746",
+  "postal": "2700",
+  "timezone": "America/Argentina/Buenos_Aires",
+  "asn": {
+    "asn": "AS264759",
+    "name": "PERGAMINO CELP INFRACOM S.A.",
+    "domain": "celpinf.com.ar",
+    "route": "181.199.171.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PERGAMINO CELP INFRACOM S.A.",
+    "domain": "celpinf.com.ar",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Moreno, 577,, 2700 - Pergamino - Buenos Aires",
+    "country": "AR",
+    "email": "gerencia@celpinf.com.ar",
+    "name": "Gerencia CELPINF",
+    "network": "181.199.168.0/22",
+    "phone": "+54  2477465068"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

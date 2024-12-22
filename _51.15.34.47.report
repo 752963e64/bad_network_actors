@@ -1,0 +1,42 @@
+{
+  "ip": "51.15.34.47",
+  "hostname": "47-34-15-51.instances.scw.cloud",
+  "city": "Amsterdam",
+  "region": "North Holland",
+  "country": "NL",
+  "loc": "52.3740,4.8897",
+  "postal": "1012",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS12876",
+    "name": "SCALEWAY S.A.S.",
+    "domain": "scaleway.com",
+    "route": "51.15.0.0/17",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "ONLINE SAS NL",
+    "domain": "scaleway.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "8 rue de la ville l'évêque 75008 PARIS",
+    "country": "FR",
+    "email": "abuse@scaleway.com",
+    "name": "Scaleway Abuse",
+    "network": "51.15.0.0/18",
+    "phone": "+33173502000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

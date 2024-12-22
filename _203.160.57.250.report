@@ -1,0 +1,42 @@
+{
+  "ip": "203.160.57.250",
+  "hostname": "250.sub-57-160-203.hanastar.net.id",
+  "city": "Cikarang",
+  "region": "West Java",
+  "country": "ID",
+  "loc": "-6.2611,107.1528",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS24527",
+    "name": "Internet Service Provider",
+    "domain": "hanastar.net.id",
+    "route": "203.160.56.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Infrastruktur Dakara",
+    "domain": "dakara.net.id",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "DakaraNET, Gedung Korea Center Lt. I Room 101, Jl. Gatot Subroto Kav. 58 Kuningan Timur, Setiabudi Jakarta Selatan",
+    "country": "ID",
+    "email": "noc@hanastar.net.id",
+    "name": "Henny Eka Wahyuni",
+    "network": "203.160.57.0-203.160.57.254",
+    "phone": "+62-21-5202026"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

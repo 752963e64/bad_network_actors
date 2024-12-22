@@ -1,0 +1,42 @@
+{
+  "ip": "103.77.246.143",
+  "city": "Hanoi",
+  "region": "Hanoi",
+  "country": "VN",
+  "loc": "21.0245,105.8412",
+  "postal": "10000",
+  "timezone": "Asia/Bangkok",
+  "asn": {
+    "asn": "AS140810",
+    "name": "Megacore Technology Company Limited",
+    "domain": "megacore.net",
+    "route": "103.77.246.0/23",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "BIDATA MEDIA AND TECHNOLOGY JOINT STOCK COMPANY",
+    "domain": "vnnic.vn",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ha Noi, VietNam",
+    "country": "VN",
+    "email": "hm-changed@vnnic.vn",
+    "name": "Do Duy Toan",
+    "network": "103.77.246.0/23",
+    "phone": "+84-24-35564944"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

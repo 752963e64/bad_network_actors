@@ -1,0 +1,42 @@
+{
+  "ip": "38.175.123.220",
+  "city": "Warsaw",
+  "region": "Mazovia",
+  "country": "PL",
+  "loc": "52.2298,21.0118",
+  "postal": "00-002",
+  "timezone": "Europe/Warsaw",
+  "asn": {
+    "asn": "AS35487",
+    "name": "Misaka Network, Inc.",
+    "domain": "misaka.io",
+    "route": "38.175.123.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Misaka Network, Inc.",
+    "domain": "misaka.io",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Suite, 19901, Dover, UNITED STATES",
+    "country": "US",
+    "email": "abuse@misaka.email",
+    "name": "Abuse-C Role",
+    "network": "38.175.123.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

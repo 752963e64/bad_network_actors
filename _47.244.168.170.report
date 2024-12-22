@@ -1,0 +1,48 @@
+{
+  "ip": "47.244.168.170",
+  "city": "Hong Kong",
+  "region": "Hong Kong",
+  "country": "HK",
+  "loc": "22.2783,114.1747",
+  "postal": "999077",
+  "timezone": "Asia/Hong_Kong",
+  "asn": {
+    "asn": "AS45102",
+    "name": "Alibaba (US) Technology Co., Ltd.",
+    "domain": "alibabagroup.com",
+    "route": "47.244.128.0/17",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Alibaba Cloud - HK",
+    "domain": "alibabacloud.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, San Mateo, 400 S El Camino Real, Suite 400, 94402",
+    "country": "US",
+    "email": "abuse@alibaba-inc.com",
+    "name": "Network Abuse",
+    "network": "47.235.0.0-47.246.255.255",
+    "phone": "+1-408-785-5580"
+  },
+  "domains": {
+    "ip": "47.244.168.170",
+    "total": 6,
+    "domains": [
+      "druglots.com",
+      "liqun.ren",
+      "tomorni.com",
+      "wharfon.com",
+      "morningland.cn"
+    ]
+  }
+}

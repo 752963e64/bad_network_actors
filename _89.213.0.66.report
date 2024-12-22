@@ -1,0 +1,42 @@
+{
+  "ip": "89.213.0.66",
+  "city": "Hong Kong",
+  "region": "Hong Kong",
+  "country": "HK",
+  "loc": "22.2783,114.1747",
+  "postal": "999077",
+  "timezone": "Asia/Hong_Kong",
+  "asn": {
+    "asn": "AS60504",
+    "name": "Spike Telecom LLC",
+    "domain": "spiketelecom.com",
+    "route": "89.213.0.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Spike Telecom LLC",
+    "domain": "spiketelecom.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "6th Floor 9 Appold Street London, EC2A 2AP",
+    "country": "US",
+    "email": "report@abuseradar.com",
+    "name": "Internet Utilities Abuse Contact",
+    "network": "89.213.0.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

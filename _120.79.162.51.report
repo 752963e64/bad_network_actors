@@ -1,0 +1,44 @@
+{
+  "ip": "120.79.162.51",
+  "city": "Shenzhen",
+  "region": "Guangdong",
+  "country": "CN",
+  "loc": "22.5455,114.0683",
+  "postal": "518000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS37963",
+    "name": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "domain": "alibabagroup.com",
+    "route": "120.79.0.0/16",
+    "type": "business"
+  },
+  "company": {
+    "name": "Aliyun Computing Co., LTD",
+    "domain": "alibabacloud.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Beijing, China",
+    "country": "CN",
+    "email": "ipas@cnnic.cn",
+    "name": "ABUSE CNNICCN",
+    "network": "120.76.0.0/14",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "ip": "120.79.162.51",
+    "total": 1,
+    "domains": [
+      "yuntongcy.com"
+    ]
+  }
+}

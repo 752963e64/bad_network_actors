@@ -1,0 +1,43 @@
+{
+  "ip": "118.212.121.245",
+  "hostname": "245.121.212.118.adsl-pool.jx.chinaunicom.com",
+  "city": "Ningbo",
+  "region": "Zhejiang",
+  "country": "CN",
+  "loc": "29.8782,121.5494",
+  "postal": "315000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4837",
+    "name": "CHINA UNICOM China169 Backbone",
+    "domain": "chinaunicom.cn",
+    "route": "118.212.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "China Unicom Jiangxi province network",
+    "domain": "chinaunicom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.21,Financial Street, Beijing,100033, P.R.China",
+    "country": "CN",
+    "email": "zhaoyz3@chinaunicom.cn",
+    "name": "ChinaUnicom Hostmaster",
+    "network": "118.212.0.0/16",
+    "phone": "+86-10-66259764"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

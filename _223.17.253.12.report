@@ -1,0 +1,43 @@
+{
+  "ip": "223.17.253.12",
+  "hostname": "12-253-17-223-on-nets.com",
+  "city": "Kwai Chung",
+  "region": "Kwai Tsing",
+  "country": "HK",
+  "loc": "22.3683,114.1388",
+  "postal": "999077",
+  "timezone": "Asia/Hong_Kong",
+  "asn": {
+    "asn": "AS9304",
+    "name": "HGC Global Communications Limited",
+    "domain": "hgc-intl.com",
+    "route": "223.17.192.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "HGC Global Communications Limited",
+    "domain": "hgc.com.hk",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "9/F Low Block ,, Hutchison Telecom Tower,, 99 Cheung Fai Rd, Tsing Yi,, HONG KONG",
+    "country": "HK",
+    "email": "abuse@on-nets.com",
+    "name": "ABUSE HUTCHISONHK",
+    "network": "223.16.0.0/14",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

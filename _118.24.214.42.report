@@ -1,0 +1,41 @@
+{
+  "ip": "118.24.214.42",
+  "city": "Chongqing",
+  "region": "Chongqing",
+  "country": "CN",
+  "loc": "29.5603,106.5577",
+  "postal": "401100",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS45090",
+    "name": "Shenzhen Tencent Computer Systems Company Limited",
+    "domain": "tencent.com",
+    "route": "118.24.208.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Tencent Cloud Computing (Beijing) Co., Ltd",
+    "domain": "tencent.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Floor 6, Yinke Building, 38 Haidian St, Haidian District, Beijing Beijing 100080",
+    "country": "CN",
+    "email": "tencent_noc@tencent.com",
+    "name": "ABUSE TENCENTCN",
+    "network": "118.24.0.0/15",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

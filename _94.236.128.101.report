@@ -1,0 +1,42 @@
+{
+  "ip": "94.236.128.101",
+  "hostname": "istoikovv1.pppoe.optic-com.bg",
+  "city": "Sofia",
+  "region": "Sofia-Capital",
+  "country": "BG",
+  "loc": "42.6975,23.3241",
+  "postal": "1000",
+  "timezone": "Europe/Sofia",
+  "asn": {
+    "asn": "AS42555",
+    "name": "OPTICCOM- BULGARIA Ltd.",
+    "domain": "optic-com.eu",
+    "route": "94.236.128.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "OPTICCOM- BULGARIA Ltd.",
+    "domain": "optic-com.eu",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Boyan Magesnik 66 Str. 1000 Sofia BULGARIA",
+    "country": "BG",
+    "email": "abuse@optic-com.eu",
+    "name": "Ivan Stefanov",
+    "network": "94.236.128.0/24",
+    "phone": "+359878411277"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

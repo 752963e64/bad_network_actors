@@ -1,0 +1,42 @@
+{
+  "ip": "116.211.239.113",
+  "city": "Wuhan",
+  "region": "Hubei",
+  "country": "CN",
+  "loc": "30.5833,114.2667",
+  "postal": "430000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS58563",
+    "name": "CHINANET Hubei province network",
+    "domain": "chinatelecom.cn",
+    "route": "116.211.236.0/22",
+    "type": "business"
+  },
+  "company": {
+    "name": "CHINANET Hubei province network",
+    "domain": "chinatelecom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.31 ,jingrong street,beijing, 100032",
+    "country": "CN",
+    "email": "anti-spam@chinatelecom.cn",
+    "name": "ABUSE CHINANETCN",
+    "network": "116.208.0.0/14",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

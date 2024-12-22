@@ -1,0 +1,44 @@
+{
+  "ip": "2.56.154.149",
+  "city": "Istanbul",
+  "region": "Istanbul",
+  "country": "TR",
+  "loc": "41.0138,28.9497",
+  "postal": "34096",
+  "timezone": "Europe/Istanbul",
+  "asn": {
+    "asn": "AS207709",
+    "name": "CNC BILISIM HIZMETLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI",
+    "domain": "hizhosting.com",
+    "route": "2.56.154.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "CNC BILISIM HIZMETLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI",
+    "domain": "hizhosting.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Gürsel Mah Namzet Sok No: 15 Eksioglu Plaza Istanbul/Turkey",
+    "country": "TR",
+    "email": "abuse@hizhosting.com",
+    "name": "Abuse contact role object",
+    "network": "2.56.152.0/22",
+    "phone": "+908505330262"
+  },
+  "domains": {
+    "ip": "2.56.154.149",
+    "total": 1,
+    "domains": [
+      "kjkinformation.beauty"
+    ]
+  }
+}

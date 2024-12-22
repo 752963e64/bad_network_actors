@@ -1,0 +1,43 @@
+{
+  "ip": "213.65.211.104",
+  "hostname": "213-65-211-104-no600.tbcn.telia.com",
+  "city": "Stockholm",
+  "region": "Stockholm",
+  "country": "SE",
+  "loc": "59.3294,18.0687",
+  "postal": "195 87",
+  "timezone": "Europe/Stockholm",
+  "asn": {
+    "asn": "AS3301",
+    "name": "Telia Company AB",
+    "domain": "teliacompany.com",
+    "route": "213.64.0.0/14",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telia Network services",
+    "domain": "telia.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Telia Company AB, 16979 Solna, SWEDEN",
+    "country": "SE",
+    "email": "abuse@telia.com",
+    "name": "Telia Network services",
+    "network": "213.65.0.0/16",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

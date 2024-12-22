@@ -1,0 +1,43 @@
+{
+  "ip": "125.31.42.130",
+  "hostname": "n12531z42l130.static.ctmip.net",
+  "city": "Macau",
+  "region": "Macao",
+  "country": "MO",
+  "loc": "22.2006,113.5461",
+  "postal": "999078",
+  "timezone": "Asia/Macau",
+  "asn": {
+    "asn": "AS4609",
+    "name": "Companhia de Telecomunicacoes de Macau SARL",
+    "domain": "ctm.net",
+    "route": "125.31.32.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CTM",
+    "domain": "ctm.com.mo",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Rua da Lagos, Telecentro, P.O. Box 868, Taipa, Macau",
+    "country": "MO",
+    "email": "NMC_Internet_LeasedLine@ctm.com.mo",
+    "name": "ABUSE CTMMO",
+    "network": "125.31.0.0/18",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

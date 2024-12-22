@@ -1,0 +1,42 @@
+{
+  "ip": "61.216.17.85",
+  "hostname": "61-216-17-85.hinet-ip.hinet.net",
+  "city": "Banqiao",
+  "region": "Taipei",
+  "country": "TW",
+  "loc": "25.0143,121.4672",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS3462",
+    "name": "Data Communication Business Group",
+    "domain": "hinet.net",
+    "route": "61.216.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Data Communication Business Group,",
+    "domain": "hinet.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "3F., No. 123, Sec. 4, Bade Rd., Songshan Dist., Taipei 105, Taiwan",
+    "country": "TW",
+    "email": "hostmaster@twnic.tw",
+    "name": "ABUSE TWNICAP",
+    "network": "61.216.0.0/14",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

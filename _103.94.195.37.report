@@ -1,0 +1,41 @@
+{
+  "ip": "103.94.195.37",
+  "city": "Patna",
+  "region": "Bihar",
+  "country": "IN",
+  "loc": "25.5941,85.1356",
+  "postal": "800001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS45916",
+    "name": "Gujarat Telelink Pvt Ltd",
+    "domain": "gtpl.net",
+    "route": "103.94.195.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Gujarat Telelink Pvt Ltd",
+    "domain": "gtpl.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "F/7 Chandrapuri App B/H Sarkari Vasahat Vastrapur ,Ahmedabad,Gujarat-380015",
+    "country": "IN",
+    "email": "visionfirstnet@gmail.com",
+    "name": "FirstNett firstnett",
+    "network": "103.94.192.0/22",
+    "phone": "+91 07966219000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

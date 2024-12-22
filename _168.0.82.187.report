@@ -1,0 +1,43 @@
+{
+  "ip": "168.0.82.187",
+  "hostname": "187.82.0.168.xtfibra.com.br",
+  "city": "Altamira",
+  "region": "Pará",
+  "country": "BR",
+  "loc": "-3.2033,-52.2064",
+  "postal": "68370-000",
+  "timezone": "America/Santarem",
+  "asn": {
+    "asn": "AS265225",
+    "name": "XINGU TELECOM LTDA",
+    "domain": "toppnet.com.br",
+    "route": "168.0.82.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "XINGU TELECOM LTDA",
+    "domain": "xingutelecom.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "lucivaldo.maia@toppnet.com.br",
+    "name": "Lucivaldo Silva Maia",
+    "network": "168.0.80.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

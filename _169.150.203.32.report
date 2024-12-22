@@ -1,0 +1,43 @@
+{
+  "ip": "169.150.203.32",
+  "hostname": "unn-169-150-203-32.datapacket.com",
+  "city": "Los Angeles",
+  "region": "California",
+  "country": "US",
+  "loc": "34.0522,-118.2437",
+  "postal": "90009",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS212238",
+    "name": "Datacamp Limited",
+    "domain": "datacamp.co.uk",
+    "route": "169.150.203.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Datacamp Limited",
+    "domain": "datacamp.co.uk",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "Mullvad"
+  },
+  "abuse": {
+    "address": "Datacamp Limited, Zdenek Cendra, 207 Regent Street, W1B 3HH, London, UNITED KINGDOM",
+    "country": "GB",
+    "email": "abuse@datacamp.co.uk",
+    "name": "Abuse Contact",
+    "network": "169.150.203.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "103.104.73.211",
+  "city": "Delhi",
+  "region": "Delhi",
+  "country": "IN",
+  "loc": "28.6519,77.2315",
+  "postal": "110001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS133296",
+    "name": "Web Werks India Pvt. Ltd.",
+    "domain": "webwerks.in",
+    "route": "103.104.73.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Web Werks India Pvt. Ltd.",
+    "domain": "webwerks.in",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Unit No 902, Sigma IT Park, Plot No R-203,204, MIDC TTC Industrial Area,, Rabale,, Navi Mumbai 400701",
+    "country": "IN",
+    "email": "netops@webwerks.com",
+    "name": "WEB WERKS INDIA PVT LTD - network administrator",
+    "network": "103.104.72.0/22",
+    "phone": "+91-22-40500600"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

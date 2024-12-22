@@ -1,0 +1,42 @@
+{
+  "ip": "91.223.169.83",
+  "city": "Stockholm",
+  "region": "Stockholm",
+  "country": "SE",
+  "loc": "59.3294,18.0687",
+  "postal": "195 87",
+  "timezone": "Europe/Stockholm",
+  "asn": {
+    "asn": "AS36007",
+    "name": "Kamatera, Inc.",
+    "domain": "kamatera.com",
+    "route": "91.223.169.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+    "domain": "omc.co.il",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "15 Madison Ave., New York City, New York, USA",
+    "country": "US",
+    "email": "abuse@cloudwm.com",
+    "name": "Cloud Web Manage",
+    "network": "91.223.169.0/25",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

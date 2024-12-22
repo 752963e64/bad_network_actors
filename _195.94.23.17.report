@@ -1,0 +1,48 @@
+{
+  "ip": "195.94.23.17",
+  "hostname": "cp.sohobcom.ye",
+  "city": "Sanaa",
+  "region": "Amanat Alasimah",
+  "country": "YE",
+  "loc": "15.3547,44.2067",
+  "timezone": "Asia/Aden",
+  "asn": {
+    "asn": "AS12486",
+    "name": "TeleYemen",
+    "domain": "teleyemen.com.ye",
+    "route": "195.94.23.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "TeleYemen",
+    "domain": "teleyemen.com.ye",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Yemen International Telecommunications Co. Mr. Ahmed Al-Haidary 26th September Street P.O.Box 168 Sanaa Yemen",
+    "country": "YE",
+    "email": "admin@y.net.ye",
+    "name": "Abuse-C Role",
+    "network": "195.94.0.0/19",
+    "phone": "+967771715858"
+  },
+  "domains": {
+    "ip": "195.94.23.17",
+    "total": 39,
+    "domains": [
+      "yemenmobile.com.ye",
+      "eiu.edu.ye",
+      "hasti.gov.ye",
+      "yemen-wallet.ye",
+      "yemen-gsm.com"
+    ]
+  }
+}

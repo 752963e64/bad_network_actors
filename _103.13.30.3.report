@@ -1,0 +1,42 @@
+{
+  "ip": "103.13.30.3",
+  "city": "Bangkok",
+  "region": "Bangkok",
+  "country": "TH",
+  "loc": "13.7540,100.5014",
+  "postal": "10200",
+  "timezone": "Asia/Bangkok",
+  "asn": {
+    "asn": "AS56309",
+    "name": "Siamdata Communication Co.,Ltd.",
+    "domain": "readyidc.com",
+    "route": "103.13.28.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "ReadyIDC CO.,LTD.",
+    "domain": "readyidc.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "READYIDC COMPANY LIMITED 391/2 Pho Thong Tower, FL.5-7 Bond Street Rd. Bangpood, Pakkret, Nonthaburi 11120 Thailand",
+    "country": "TH",
+    "email": "admin@readyidc.com",
+    "name": "ReadyIDC - Network",
+    "network": "103.13.30.0/24",
+    "phone": "+6625034265"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

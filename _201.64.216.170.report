@@ -1,0 +1,42 @@
+{
+  "ip": "201.64.216.170",
+  "hostname": "bkbrasil-g100-0-0-5-1925-acr01.sts.embratel.net.br",
+  "city": "Praia Grande",
+  "region": "São Paulo",
+  "country": "BR",
+  "loc": "-24.0058,-46.4028",
+  "postal": "11700-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS4230",
+    "name": "CLARO S.A.",
+    "domain": "claro.com.br",
+    "route": "201.64.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CLARO S.A.",
+    "domain": "claro.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse@embratel.net.br",
+    "name": "Grupo de Seguran�a Internet da Embratel",
+    "network": "201.64.0.0/15",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

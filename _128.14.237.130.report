@@ -1,0 +1,41 @@
+{
+  "ip": "128.14.237.130",
+  "city": "Taipei",
+  "region": "Taiwan",
+  "country": "TW",
+  "loc": "25.0531,121.5264",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS135377",
+    "name": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "domain": "ucloud.cn",
+    "route": "128.14.237.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "UCLOUD",
+    "domain": "ucloud.cn",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CN, , Hong Kong, FLAT/RM 603 6/   FLAWS COMMERCIAL PLAZA 788 CHEUNG SHA WAN ROAD  KL, ",
+    "country": "CN",
+    "email": "hegui@ucloud.cn",
+    "name": "IP ABUSE Ucloud",
+    "network": "128.14.237.0/24",
+    "phone": "+86 17721465033"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

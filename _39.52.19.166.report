@@ -1,0 +1,42 @@
+{
+  "ip": "39.52.19.166",
+  "city": "Sargodha",
+  "region": "Punjab",
+  "country": "PK",
+  "loc": "32.0859,72.6742",
+  "postal": "40462",
+  "timezone": "Asia/Karachi",
+  "asn": {
+    "asn": "AS17557",
+    "name": "Pakistan Telecommunication Company Limited",
+    "domain": "ptcl.com.pk",
+    "route": "39.52.0.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Pakistan Telecommuication company limited",
+    "domain": "ptcl.net.pk",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "General Manager,, Pakistan Telecommunication Company Limited., H-9/1, CDDT Building, Training Block, Islamabad, Pakistan",
+    "country": "PK",
+    "email": "abuse.irt@ptcl.net",
+    "name": "ABUSE PTCLBBPK",
+    "network": "39.32.0.0/11",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

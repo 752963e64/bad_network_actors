@@ -1,0 +1,41 @@
+{
+  "ip": "190.97.231.1",
+  "city": "El Vigía",
+  "region": "Mérida",
+  "country": "VE",
+  "loc": "8.6135,-71.6570",
+  "timezone": "America/Caracas",
+  "asn": {
+    "asn": "AS263703",
+    "name": "VIGINET C.A",
+    "domain": "vnet.com.ve",
+    "route": "190.97.231.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CORPORACION WAVERED DE VENEZUELA, C.A.",
+    "domain": "wave.com.ve",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Avenida 2, 8, Municipio Garcia, 6301 - Villa Rosa - Nueva Esparta",
+    "country": "VE",
+    "email": "gabriel.caraballo@wave.com.ve",
+    "name": "Gabriel Caraballo",
+    "network": "190.97.231.0/29",
+    "phone": "+58  4148217822 [0000]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

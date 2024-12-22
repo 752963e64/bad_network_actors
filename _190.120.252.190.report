@@ -1,0 +1,40 @@
+{
+  "ip": "190.120.252.190",
+  "city": "Barquisimeto",
+  "region": "Lara",
+  "country": "VE",
+  "loc": "10.0647,-69.3570",
+  "timezone": "America/Caracas",
+  "asn": {
+    "asn": "AS264628",
+    "name": "CORPORACION FIBEX TELECOM, C.A.",
+    "domain": "fibextelecom.net",
+    "route": "190.120.252.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CORPORACION FIBEX TELECOM, C.A.",
+    "domain": "fibextelecom.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "2da Av de las Fuentes Quinta Cablehogar, 1, -, 1015 - Caracas - Distrito Capital",
+    "country": "VE",
+    "email": "lacnic@fibextelecom.net",
+    "name": "Corporacion Fibex Telecom C A",
+    "network": "190.120.248.0/21",
+    "phone": "+58  2124050211 [402]"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

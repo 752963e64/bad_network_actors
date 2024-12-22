@@ -1,0 +1,42 @@
+{
+  "ip": "125.76.82.93",
+  "city": "Lanzhou",
+  "region": "Gansu",
+  "country": "CN",
+  "loc": "36.0570,103.8399",
+  "postal": "730000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS141998",
+    "name": "China Telecom",
+    "domain": "ct1000.com",
+    "route": "125.76.80.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CHINANET Gansu province network",
+    "domain": "chinatelecom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.31 ,jingrong street,beijing, 100032",
+    "country": "CN",
+    "email": "anti-spam@chinatelecom.cn",
+    "name": "ABUSE CHINANETCN",
+    "network": "125.76.0.0/17",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

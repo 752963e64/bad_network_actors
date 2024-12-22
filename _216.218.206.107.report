@@ -1,0 +1,42 @@
+{
+  "ip": "216.218.206.107",
+  "hostname": "scan-06j.shadowserver.org",
+  "city": "Fremont",
+  "region": "California",
+  "country": "US",
+  "loc": "37.5483,-121.9886",
+  "postal": "94536",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS6939",
+    "name": "Hurricane Electric LLC",
+    "domain": "he.net",
+    "route": "216.218.128.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Hurricane Electric LLC",
+    "domain": "he.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Fremont, 760 Mission Court, 94539",
+    "country": "US",
+    "email": "abuse@he.net",
+    "name": "Abuse Department",
+    "network": "216.218.206.64/26",
+    "phone": "+1-510-580-4100"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

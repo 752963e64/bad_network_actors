@@ -1,0 +1,45 @@
+{
+  "ip": "192.34.59.235",
+  "city": "North Bergen",
+  "region": "New Jersey",
+  "country": "US",
+  "loc": "40.8043,-74.0121",
+  "postal": "07047",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS14061",
+    "name": "DigitalOcean, LLC",
+    "domain": "digitalocean.com",
+    "route": "192.34.56.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "DigitalOcean, LLC",
+    "domain": "digitalocean.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, NY, New York, 101, Ave of the Americas, 10013",
+    "country": "US",
+    "email": "abuse@digitalocean.com",
+    "name": "DigitalOcean Abuse",
+    "network": "192.34.56.0/21",
+    "phone": "+1-347-875-6044"
+  },
+  "domains": {
+    "ip": "192.34.59.235",
+    "total": 2,
+    "domains": [
+      "griggsaircraft.com",
+      "lawson-properties.com"
+    ]
+  }
+}

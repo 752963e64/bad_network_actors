@@ -1,0 +1,44 @@
+{
+  "ip": "194.247.23.186",
+  "city": "Balabanovo",
+  "region": "Kaluga Oblast",
+  "country": "RU",
+  "loc": "55.1816,36.6606",
+  "postal": "249000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS50852",
+    "name": "INTERRA Ltd.",
+    "domain": "interrainc.com",
+    "route": "194.247.22.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "INTERRA Ltd.",
+    "domain": "interra.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Russia, 24900, Balabanovo, ul. Promzona",
+    "country": "RU",
+    "email": "wifi.07@mail.ru",
+    "name": "Abuse-C Role",
+    "network": "194.247.22.0/23",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "194.247.23.186",
+    "total": 1,
+    "domains": [
+      "borovskadm.ru"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "190.121.134.99",
+  "hostname": "19012113499.ip47.static.mediacommerce.com.co",
+  "city": "Cali",
+  "region": "Valle del Cauca Department",
+  "country": "CO",
+  "loc": "3.4372,-76.5225",
+  "postal": "760001",
+  "timezone": "America/Bogota",
+  "asn": {
+    "asn": "AS27951",
+    "name": "Media Commerce Partners S.A",
+    "domain": "mc.net.co",
+    "route": "190.121.134.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "BENEMERITO CUERPO DE BOMBEROS VOLUNTARIOS CALI",
+    "domain": "emcali.net.co",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Carrera 25 No. 5 - 70, Telefonica San Fernando (Emcali), 70, Telefonica San Fernando (Emcali), 076001 - Cali - Other (Non U.S.)",
+    "country": "CO",
+    "email": "lacnic.emcali@EMCALI.NET.CO",
+    "name": "EMCALI E.I.C.E. E.S.P.",
+    "network": "190.121.134.98/31",
+    "phone": "+57  28998317 [0000]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

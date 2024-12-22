@@ -1,0 +1,42 @@
+{
+  "ip": "123.195.0.107",
+  "hostname": "123-195-0-107.dynamic.kbronet.com.tw",
+  "city": "Banqiao",
+  "region": "Taipei",
+  "country": "TW",
+  "loc": "25.0143,121.4672",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS38841",
+    "name": "kbro CO. Ltd.",
+    "domain": "kbro.com.tw",
+    "route": "123.195.0.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "kbro CO. Ltd.",
+    "domain": "kbro.com.tw",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "kbro CO. Ltd., 8F., No.260, Sec. 2, Bade Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.), Taipei Taiwan",
+    "country": "TW",
+    "email": "adm@kbro.com.tw",
+    "name": "adm adm",
+    "network": "123.195.0.0/18",
+    "phone": "+886-2-6611-1688 ext. 15126"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

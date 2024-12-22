@@ -1,0 +1,43 @@
+{
+  "ip": "84.201.242.30",
+  "hostname": "84x201x242x30.static-business.izhevsk.ertelecom.ru",
+  "city": "Izhevsk",
+  "region": "Udmurtiya Republic",
+  "country": "RU",
+  "loc": "56.8498,53.2045",
+  "postal": "426000",
+  "timezone": "Europe/Samara",
+  "asn": {
+    "asn": "AS34590",
+    "name": "JSC \"ER-Telecom Holding\"",
+    "domain": "ertelecom.ru",
+    "route": "84.201.240.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "JSC ER-Telecom Holding Izhevsk branch",
+    "domain": "ertelecom.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "JSC \"ER-Telecom\", 111, str. Shosse Kosmonavtov, 614000 Perm, Russian Federation",
+    "country": "RU",
+    "email": "abuse@domru.ru",
+    "name": "ER-Telecom ISP Contact Role",
+    "network": "84.201.240.0/21",
+    "phone": "+7 342 2462233"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "ip": "186.150.202.227",
+  "hostname": "ip-202-227.tricom.net",
+  "city": "Santiago de los Caballeros",
+  "region": "Santiago Province",
+  "country": "DO",
+  "loc": "19.4517,-70.6970",
+  "postal": "11403",
+  "timezone": "America/Santo_Domingo",
+  "asn": {
+    "asn": "AS28118",
+    "name": "ALTICE DOMINICANA S.A.",
+    "domain": "altice.com.do",
+    "route": "186.150.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ALTICE DOMINICANA S.A.",
+    "domain": "altice.com.do",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Altice",
+    "mcc": "370",
+    "mnc": "01"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Nuñez de Caceres, 8,, - Santo Domingo -",
+    "country": "DO",
+    "email": "transportoperations@altice.com.do",
+    "name": "Altice Dominicana",
+    "network": "186.150.0.0/16",
+    "phone": "+1809  8591332"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

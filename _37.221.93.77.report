@@ -1,0 +1,45 @@
+{
+  "ip": "37.221.93.77",
+  "hostname": "myonlinez.one",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "postal": "60306",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS58087",
+    "name": "Florian Kolb",
+    "domain": "datalix.de",
+    "route": "37.221.93.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Datalix",
+    "domain": "datalix.de",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Florian Kolb, Theodor-Heuss-Str. 1, 97230 Estenfeld, Deutschland",
+    "country": "DE",
+    "email": "abuse@datalix.de",
+    "name": "Abuse contact role object",
+    "network": "37.221.93.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "37.221.93.77",
+    "total": 1,
+    "domains": [
+      "sovia-ga.click"
+    ]
+  }
+}

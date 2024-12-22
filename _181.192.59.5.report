@@ -1,0 +1,43 @@
+{
+  "ip": "181.192.59.5",
+  "hostname": "host-181-192-59-5.telered.com.ar",
+  "city": "San Miguel",
+  "region": "Buenos Aires",
+  "country": "AR",
+  "loc": "-34.5433,-58.7123",
+  "postal": "1663",
+  "timezone": "America/Argentina/Buenos_Aires",
+  "asn": {
+    "asn": "AS27984",
+    "name": "Ver Tv S.A.",
+    "domain": "telered.com.ar",
+    "route": "181.192.59.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Ver Tv S.A.",
+    "domain": "vertv.net.ar",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Pte Perón, 1783, -, B1663GHG - San Miguel - BA",
+    "country": "AR",
+    "email": "telered.lacnic@gmail.com",
+    "name": "Lacnic TeleRed",
+    "network": "181.192.32.0/19",
+    "phone": "+54  1169942050 [0000]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

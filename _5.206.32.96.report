@@ -1,0 +1,43 @@
+{
+  "ip": "5.206.32.96",
+  "hostname": "pool-5-206-32-96.is74.ru",
+  "city": "Chelyabinsk",
+  "region": "Chelyabinsk",
+  "country": "RU",
+  "loc": "55.1540,61.4291",
+  "postal": "454000",
+  "timezone": "Asia/Yekaterinburg",
+  "asn": {
+    "asn": "AS8369",
+    "name": "Intersvyaz-2 JSC",
+    "domain": "is74.ru",
+    "route": "5.206.0.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Intersvyaz-2 JSC",
+    "domain": "is74.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "38-B, Komsomolsky prospekt, Chelyabinsk, 454138, Russia",
+    "country": "RU",
+    "email": "abuse@is74.ru",
+    "name": "Intersvyaz JSC Network Operation Center",
+    "network": "5.206.0.0/18",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

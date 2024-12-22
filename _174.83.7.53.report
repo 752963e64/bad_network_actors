@@ -1,0 +1,43 @@
+{
+  "ip": "174.83.7.53",
+  "hostname": "syn-174-083-007-053.res.spectrum.com",
+  "city": "Oxford",
+  "region": "Massachusetts",
+  "country": "US",
+  "loc": "42.1655,-71.8860",
+  "postal": "01537",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS20115",
+    "name": "Charter Communications",
+    "domain": "charter.com",
+    "route": "174.83.0.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Charter Communications",
+    "domain": "charter.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CO, Greenwood Village, P.O. Box 4987, 80155",
+    "country": "US",
+    "email": "abuse@charter.net",
+    "name": "Abuse",
+    "network": "174.80.0.0/13",
+    "phone": "+1-877-777-2263"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "145.249.247.146",
+  "city": "Astana",
+  "region": "Astana",
+  "country": "KZ",
+  "loc": "51.1801,71.4460",
+  "timezone": "Asia/Almaty",
+  "asn": {
+    "asn": "AS21299",
+    "name": "Kar-Tel LLC",
+    "domain": "beeline.kz",
+    "route": "145.249.247.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "2Day Telecom",
+    "domain": "2day.kz",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "2DAY Telecom, mkr. Koktem2, bld. 22, 050040 Almaty, Kazakhstan",
+    "country": "KZ",
+    "email": "2DayRIPE@beeline.kz",
+    "name": "Network Admins 2Day Telecom",
+    "network": "145.249.160.0-145.249.255.255",
+    "phone": "+77272587900"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "200.69.103.254",
+  "hostname": "static-200-69-103-254.static.etb.net.co",
+  "city": "Bogotá",
+  "region": "Bogota D.C.",
+  "country": "CO",
+  "loc": "4.6097,-74.0817",
+  "postal": "111411",
+  "timezone": "America/Bogota",
+  "asn": {
+    "asn": "AS19429",
+    "name": "ETB - Colombia",
+    "domain": "etb.com",
+    "route": "200.69.103.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "UNIVERSIDAD DISTRITAL FRANCISCO JOSE DE CALDAS",
+    "domain": "udistrital.edu.co",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Carrera 7 No 40B 53, 11021, -, 110231588 - Bogota -",
+    "country": "CO",
+    "email": "udnet@UDISTRITAL.EDU.CO",
+    "name": "Jefe Red de Datos UDNET",
+    "network": "200.69.103.252/30",
+    "phone": "+057  13239300 [1301]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

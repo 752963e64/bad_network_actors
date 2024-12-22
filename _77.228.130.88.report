@@ -1,0 +1,48 @@
+{
+  "ip": "77.228.130.88",
+  "hostname": "static-88-130-228-77.ipcom.comunitel.net",
+  "city": "Sevilla",
+  "region": "Andalusia",
+  "country": "ES",
+  "loc": "37.3828,-5.9732",
+  "postal": "41005",
+  "timezone": "Europe/Madrid",
+  "asn": {
+    "asn": "AS12430",
+    "name": "VODAFONE ESPANA S.A.U.",
+    "domain": "vodafone.es",
+    "route": "77.224.0.0/13",
+    "type": "isp"
+  },
+  "company": {
+    "name": "VODAFONE ESPANA, S.A.U.",
+    "domain": "vodafone.es",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Vodafone",
+    "mcc": "214",
+    "mnc": "01"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Vodafone Spain, Avenida de América, 115, 28042, Madrid, Spain",
+    "country": "ES",
+    "email": "abuse@corp.vodafone.es",
+    "name": "VODAFONE ESPANA ROLE",
+    "network": "77.228.114.0-77.228.131.255",
+    "phone": "+34 607133333"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

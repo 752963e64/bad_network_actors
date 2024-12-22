@@ -1,0 +1,43 @@
+{
+  "ip": "181.224.251.34",
+  "hostname": "static25134.flx.com.pe",
+  "city": "Lima",
+  "region": "Lima Province",
+  "country": "PE",
+  "loc": "-12.0432,-77.0282",
+  "postal": "15001",
+  "timezone": "America/Lima",
+  "asn": {
+    "asn": "AS262253",
+    "name": "ECONOCABLE MEDIA SAC",
+    "domain": "fiberlux.pe",
+    "route": "181.224.251.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "ECONOCABLE MEDIA SAC",
+    "domain": "fiberlux.pe",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Av. Ricardo Palma, 341,, 18 - lima -",
+    "country": "PE",
+    "email": "jternero@flx.com.pe",
+    "name": "Javier Ternero Herrera",
+    "network": "181.224.224.0/19",
+    "phone": "+51 1 7480606 [2017]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

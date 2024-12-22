@@ -1,0 +1,43 @@
+{
+  "ip": "190.94.132.98",
+  "hostname": "98.190-94-132.etapanet.net",
+  "city": "Cuenca",
+  "region": "Azuay",
+  "country": "EC",
+  "loc": "-2.9005,-79.0045",
+  "postal": "010101",
+  "timezone": "America/Guayaquil",
+  "asn": {
+    "asn": "AS27668",
+    "name": "ETAPA EP",
+    "domain": "etapa.net.ec",
+    "route": "190.94.128.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ETAPA EP",
+    "domain": "etapa.net.ec",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "297, sn, Central Telefonica Totoracocha, 010104 - Cuenca - Azuay",
+    "country": "EC",
+    "email": "wsarango@etapa.net.ec",
+    "name": "Wilmer Sarango Torres",
+    "network": "190.94.128.0/19",
+    "phone": "+593  72831900 [1134]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

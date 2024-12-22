@@ -1,0 +1,42 @@
+{
+  "ip": "164.92.142.117",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "postal": "60306",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS14061",
+    "name": "DigitalOcean, LLC",
+    "domain": "digitalocean.com",
+    "route": "164.92.128.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "DigitalOcean, LLC",
+    "domain": "digitalocean.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "TunnelBear"
+  },
+  "abuse": {
+    "address": "US, NY, New York, 101, Ave of the Americas, 10013",
+    "country": "US",
+    "email": "abuse@digitalocean.com",
+    "name": "DigitalOcean Abuse",
+    "network": "164.92.64.0-164.92.255.255",
+    "phone": "+1-347-875-6044"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

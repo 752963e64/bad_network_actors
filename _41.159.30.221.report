@@ -1,0 +1,41 @@
+{
+  "ip": "41.159.30.221",
+  "city": "Franceville",
+  "region": "Haut-Ogooué",
+  "country": "GA",
+  "loc": "-1.6333,13.5836",
+  "timezone": "Africa/Libreville",
+  "asn": {
+    "asn": "AS16058",
+    "name": "Gabon Telecom / Office of Posts and Telecommunications of Gabon",
+    "domain": "gabontelecom.ga",
+    "route": "41.159.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Réseau Internet IPMPLS assigné aux clients",
+    "domain": "gabontelecom.ga",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Immeuble DELTA POSTAL, 40000 Libreville GABON",
+    "country": "GA",
+    "email": "mbomeyo@gabontelecom.ga",
+    "name": "Francois MBOMEYO ONA",
+    "network": "41.159.0.0/17",
+    "phone": "tel:+241-741518"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

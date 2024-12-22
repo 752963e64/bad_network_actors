@@ -1,0 +1,41 @@
+{
+  "ip": "85.204.87.0",
+  "city": "Rasht",
+  "region": "Gilan Province",
+  "country": "IR",
+  "loc": "37.2761,49.5886",
+  "timezone": "Asia/Tehran",
+  "asn": {
+    "asn": "AS58224",
+    "name": "Iran Telecommunication Company PJS",
+    "domain": "tci.ir",
+    "route": "85.204.80.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telecommunication Company of Gilan",
+    "domain": "tci.ir",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Guilan - Rasht - Telecommunication Company of Guilan",
+    "country": "IR",
+    "email": "k.simaei@tci.ir",
+    "name": "Abuse Contact",
+    "network": "85.204.80.0/21",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

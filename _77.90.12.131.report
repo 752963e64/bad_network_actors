@@ -1,0 +1,42 @@
+{
+  "ip": "77.90.12.131",
+  "city": "Düsseldorf",
+  "region": "North Rhine-Westphalia",
+  "country": "DE",
+  "loc": "51.2217,6.7762",
+  "postal": "40210",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS207252",
+    "name": "Realtox Media",
+    "domain": "realtoxmedia.de",
+    "route": "77.90.12.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Realtox-Media",
+    "domain": "realtoxmedia.de",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Am Dachsbau 17, 65812 Bad Soden a. Ts., Deutschland",
+    "country": "DE",
+    "email": "abuse@ghostnet.de",
+    "name": "GHOSTnet GmbH",
+    "network": "77.90.12.0/24",
+    "phone": "+49 6172 185025"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

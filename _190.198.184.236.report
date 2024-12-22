@@ -1,0 +1,42 @@
+{
+  "ip": "190.198.184.236",
+  "hostname": "190-198-184-236.scr-00-p69.cantv.net",
+  "city": "Mérida",
+  "region": "Mérida",
+  "country": "VE",
+  "loc": "8.5897,-71.1561",
+  "timezone": "America/Caracas",
+  "asn": {
+    "asn": "AS8048",
+    "name": "CANTV Servicios, Venezuela",
+    "domain": "cantv.com.ve",
+    "route": "190.198.160.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CANTV Servicios, Venezuela",
+    "domain": "cantv.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CANTV COR Los Palos Grandes Chacao Caracas Venezuela, 000, -, 1060 - Caracas - MI",
+    "country": "VE",
+    "email": "ipadmin@cantv.com.ve",
+    "name": "Ger Sop",
+    "network": "190.198.0.0/15",
+    "phone": "+58  02125000000 [0000]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

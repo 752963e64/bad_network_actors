@@ -1,0 +1,41 @@
+{
+  "ip": "182.253.208.22",
+  "city": "Depok",
+  "region": "West Java",
+  "country": "ID",
+  "loc": "-6.4000,106.8186",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS17451",
+    "name": "BIZNET NETWORKS",
+    "domain": "biznetnetworks.com",
+    "route": "182.253.208.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PT TRANSLINGKAR KITA JAYA",
+    "domain": "translingkar.co.id",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Biznet Networks, Midplaza 2, 8th Floor, Jl. Jend Sudirman Kav 10-11, Jakarta 10220",
+    "country": "ID",
+    "email": "abuse@biz.net.id",
+    "name": "Alexander Wenas",
+    "network": "182.253.208.16/29",
+    "phone": "+62-21-570-8888"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

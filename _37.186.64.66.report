@@ -1,0 +1,41 @@
+{
+  "ip": "37.186.64.66",
+  "city": "Yerevan",
+  "region": "Yerevan",
+  "country": "AM",
+  "loc": "40.1811,44.5136",
+  "timezone": "Asia/Yerevan",
+  "asn": {
+    "asn": "AS49800",
+    "name": "GNC-Alfa CJSC",
+    "domain": "gnc.am",
+    "route": "37.186.64.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "GNC-Alfa CJSC",
+    "domain": "gnc.am",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Armenia, Abovyan, Khakhaghutyan str. 1",
+    "country": "AM",
+    "email": "abuse@gnc.am",
+    "name": "GNC Admin Role",
+    "network": "37.186.64.0/19",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

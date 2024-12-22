@@ -1,0 +1,42 @@
+{
+  "ip": "186.148.97.27",
+  "hostname": "host-186-148-97-27.ufinet.com.pa",
+  "city": "Panamá",
+  "region": "Panamá",
+  "country": "PA",
+  "loc": "8.9936,-79.5197",
+  "postal": "07113",
+  "timezone": "America/Panama",
+  "asn": {
+    "asn": "AS52468",
+    "name": "UFINET PANAMA S.A.",
+    "domain": "ufinet.com",
+    "route": "186.148.97.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "UFINET PANAMA S.A.",
+    "domain": "ufinet.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Vía Perimetral Km 4, Ciudad Digital, Guayaquil, Ecuador, 90116, -, - - Guayaquil -",
+    "country": "EC",
+    "email": "dparral@ufinet.com",
+    "name": "Daniel Parra",
+    "network": "186.148.96.0/20",
+    "phone": "+593  46008192 [0000]"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

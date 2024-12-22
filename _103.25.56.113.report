@@ -1,0 +1,42 @@
+{
+  "ip": "103.25.56.113",
+  "city": "Adelaide",
+  "region": "South Australia",
+  "country": "AU",
+  "loc": "-34.9287,138.5986",
+  "postal": "5000",
+  "timezone": "Australia/Adelaide",
+  "asn": {
+    "asn": "AS136557",
+    "name": "Host Universal Pty Ltd",
+    "domain": "hostuniversal.com.au",
+    "route": "103.25.56.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Ransom IT VPS Hosting",
+    "domain": "ransomit.com.au",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "VPNArea"
+  },
+  "abuse": {
+    "address": "Ransom IT, PO Box 124, West Beach South Australia 5024",
+    "country": "AU",
+    "email": "abuse@ransomit.com.au",
+    "name": "ABUSE RANSOMITTRUSTAU",
+    "network": "103.25.56.1-103.25.56.255",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

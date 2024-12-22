@@ -1,0 +1,42 @@
+{
+  "ip": "185.2.241.8",
+  "city": "Rotterdam",
+  "region": "South Holland",
+  "country": "NL",
+  "loc": "51.9225,4.4792",
+  "postal": "3011",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS39647",
+    "name": "Enreach Netherlands B.V.",
+    "domain": "enreach.com",
+    "route": "185.2.240.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Enreach Netherlands B.V.",
+    "domain": "enreach.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Editiestraat 29, 1321NG, Almere, NETHERLANDS",
+    "country": "NL",
+    "email": "abuse@redhosting.nl",
+    "name": "Abuse-C Role",
+    "network": "185.2.241.0/24",
+    "phone": "+31 36 5303862"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

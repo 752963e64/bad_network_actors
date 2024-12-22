@@ -1,0 +1,43 @@
+{
+  "ip": "178.46.158.254",
+  "hostname": "254.158.access.ttknet.ru",
+  "city": "Tyumen",
+  "region": "Tyumen Oblast",
+  "country": "RU",
+  "loc": "57.1522,65.5272",
+  "postal": "625000",
+  "timezone": "Asia/Yekaterinburg",
+  "asn": {
+    "asn": "AS12389",
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "route": "178.46.144.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Dynamic distribution IP's for broadband services",
+    "domain": "rt.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "PJSC Rostelecom Technical Team",
+    "network": "178.46.144.0/20",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

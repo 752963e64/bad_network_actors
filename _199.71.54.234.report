@@ -1,0 +1,42 @@
+{
+  "ip": "199.71.54.234",
+  "city": "Greater Sudbury",
+  "region": "Ontario",
+  "country": "CA",
+  "loc": "46.4900,-80.9900",
+  "postal": "P3C",
+  "timezone": "America/Toronto",
+  "asn": {
+    "asn": "AS395127",
+    "name": "Sunwire Inc.",
+    "domain": "sunwire.ca",
+    "route": "199.71.52.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Sunwire Inc.",
+    "domain": "sunwire.ca",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CA, ON, Sudbury, 850 Barrydowne Road, P3A 3T7",
+    "country": "CA",
+    "email": "noc@sunwire.ca",
+    "name": "Network Operations Center",
+    "network": "199.71.52.0/22",
+    "phone": "+1-705-521-6777"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

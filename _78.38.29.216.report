@@ -1,0 +1,41 @@
+{
+  "ip": "78.38.29.216",
+  "city": "Tabriz",
+  "region": "East Azerbaijan",
+  "country": "IR",
+  "loc": "38.0800,46.2919",
+  "timezone": "Asia/Tehran",
+  "asn": {
+    "asn": "AS58224",
+    "name": "Iran Telecommunication Company PJS",
+    "domain": "tci.ir",
+    "route": "78.38.28.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ardebil telecommunication company",
+    "domain": "ito.gov.ir",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Information Technology Company Ali Asghar Ansari Bayhaghi 1515674311 Teheran IRAN, ISLAMIC REPUBLIC OF",
+    "country": "IR",
+    "email": "abuse@ito.gov.ir",
+    "name": "Abuse-C Role",
+    "network": "78.38.29.0-78.38.31.255",
+    "phone": "+98 451 226 15 20"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

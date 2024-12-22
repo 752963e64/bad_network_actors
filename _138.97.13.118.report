@@ -1,0 +1,43 @@
+{
+  "ip": "138.97.13.118",
+  "hostname": "138-97-13-118.redebrtelecom.com.br",
+  "city": "Duque de Caxias",
+  "region": "Rio de Janeiro",
+  "country": "BR",
+  "loc": "-22.7856,-43.3117",
+  "postal": "25000-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS264111",
+    "name": "RedeBr Telecom",
+    "domain": "redebrtelecom.com.br",
+    "route": "138.97.12.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "RedeBr Telecom",
+    "domain": "redebrtelecom.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "UY, , Montevideo, Potosi 1517, 11500",
+    "country": "UY",
+    "email": "abuse@lacnic.net",
+    "name": "LACNIC Whois Info",
+    "network": "138.97.0.0/16",
+    "phone": "+598-2604-2222"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

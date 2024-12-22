@@ -1,0 +1,44 @@
+{
+  "ip": "45.88.9.173",
+  "city": "Kerkrade",
+  "region": "Limburg",
+  "country": "NL",
+  "loc": "50.8658,6.0625",
+  "postal": "6461",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS204914",
+    "name": "LABIXE LTD",
+    "domain": "labixe.host",
+    "route": "45.88.9.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Labixe Host DDoS Protected Network",
+    "domain": "labixe.net",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "6th Floor 9 Appold Street London, EC2A 2AP",
+    "country": "GB",
+    "email": "report@abuseradar.com",
+    "name": "Internet Utilities Abuse Contact",
+    "network": "45.88.9.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "45.88.9.173",
+    "total": 1,
+    "domains": [
+      "blastmember.online"
+    ]
+  }
+}

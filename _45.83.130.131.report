@@ -1,0 +1,43 @@
+{
+  "ip": "45.83.130.131",
+  "hostname": "vm3001861.stark-industries.solutions",
+  "city": "Prague",
+  "region": "Prague",
+  "country": "CZ",
+  "loc": "50.0880,14.4208",
+  "postal": "110 00",
+  "timezone": "Europe/Prague",
+  "asn": {
+    "asn": "AS44477",
+    "name": "STARK INDUSTRIES SOLUTIONS LTD",
+    "domain": "pq.hosting",
+    "route": "45.83.130.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "STARK INDUSTRIES SOLUTIONS LTD.",
+    "domain": "stark-industries.solutions",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "UNITED KINGDOM, WC2H 9JQ, London, Covent Garden, 71-75, Shelton Street",
+    "country": "GB",
+    "email": "abuse@stark-industries.solutions",
+    "name": "Stark Industries Solutions NOC",
+    "network": "45.83.130.0/24",
+    "phone": "+441234416080"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

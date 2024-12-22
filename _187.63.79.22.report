@@ -1,0 +1,42 @@
+{
+  "ip": "187.63.79.22",
+  "hostname": "187-63-79-22.static.lestetelecom.com.br",
+  "city": "Itaboraí",
+  "region": "Rio de Janeiro",
+  "country": "BR",
+  "loc": "-22.7444,-42.8594",
+  "postal": "24800-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS262664",
+    "name": "GIGALINE INTERNET SERVICOS DE INFORMATICA LTDA",
+    "domain": "lestetelecom.com.br",
+    "route": "187.63.79.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "GIGALINE INTERNET SERVICOS DE INFORMATICA LTDA",
+    "domain": "gigaline.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "srinaldo@gmail.com",
+    "name": "Sandro Rinaldo",
+    "network": "187.63.64.0/20",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

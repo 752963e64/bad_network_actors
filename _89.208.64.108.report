@@ -1,0 +1,43 @@
+{
+  "ip": "89.208.64.108",
+  "hostname": "host108.stg.ru",
+  "city": "Moscow",
+  "region": "Moscow",
+  "country": "RU",
+  "loc": "55.7522,37.6156",
+  "postal": "101000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS201564",
+    "name": "JSC \"STNG\"",
+    "domain": "stng.ru",
+    "route": "89.208.64.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "LLC Digital Network",
+    "domain": "msm.ru",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Digital Network JSC, 13a, Yaroslavskaya st., 129366, Moscow, RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "lir@di-net.ru",
+    "name": "Abuse-C Role",
+    "network": "89.208.64.0-89.208.83.255",
+    "phone": "+7 495 660 8383"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

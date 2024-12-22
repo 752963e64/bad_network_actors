@@ -1,0 +1,42 @@
+{
+  "ip": "84.237.205.145",
+  "city": "Riga",
+  "region": "Riga",
+  "country": "LV",
+  "loc": "56.9460,24.1059",
+  "postal": "LV-1001",
+  "timezone": "Europe/Riga",
+  "asn": {
+    "asn": "AS12578",
+    "name": "SIA Tet",
+    "domain": "tet.lv",
+    "route": "84.237.128.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SIA Tet",
+    "domain": "tet.lv",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "SIA Tet, Dzirnavu Street 105, LV-1011 Riga, LATVIA",
+    "country": "LV",
+    "email": "abuse@tet.lv",
+    "name": "LTC Hostmaster",
+    "network": "84.237.204.0-84.237.209.255",
+    "phone": "+371-80008098"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "103.85.118.88",
+  "hostname": "103.85.118.88.stgscloud.com",
+  "city": "Delhi",
+  "region": "Delhi",
+  "country": "IN",
+  "loc": "28.6519,77.2315",
+  "postal": "110001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS133676",
+    "name": "Precious netcom pvt ltd",
+    "domain": "preciousnetcom.in",
+    "route": "103.85.118.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Precious netcom pvt ltd",
+    "domain": "preciousnetcom.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Second floor, B-87, Sector-64, Noida, Gautambuddha Nagar, Uttar Pradesh, 201301",
+    "country": "IN",
+    "email": "siplindia100@gmail.com",
+    "name": "Director Company",
+    "network": "103.85.118.0/23",
+    "phone": "+91 8800881753"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

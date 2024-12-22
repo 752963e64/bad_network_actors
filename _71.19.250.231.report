@@ -1,0 +1,44 @@
+{
+  "ip": "71.19.250.231",
+  "city": "Coquitlam",
+  "region": "British Columbia",
+  "country": "CA",
+  "loc": "49.2846,-122.7822",
+  "postal": "V3B",
+  "timezone": "America/Vancouver",
+  "asn": {
+    "asn": "AS11831",
+    "name": "eSecureData",
+    "domain": "esecuredata.com",
+    "route": "71.19.250.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "eSecureData",
+    "domain": "esecuredata.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "Hotspot Shield"
+  },
+  "abuse": {
+    "address": "CA, BC, Coquitlam, 1478 Hartley Ave., V3K 7A1",
+    "country": "CA",
+    "email": "noc@esecuredata.com",
+    "name": "Support Department",
+    "network": "71.19.240.0/20",
+    "phone": "+1-800-620-1985"
+  },
+  "domains": {
+    "ip": "71.19.250.231",
+    "total": 1,
+    "domains": [
+      "djdukeman.ca"
+    ]
+  }
+}

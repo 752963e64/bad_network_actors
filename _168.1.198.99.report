@@ -1,0 +1,43 @@
+{
+  "ip": "168.1.198.99",
+  "hostname": "63.c6.01a8.ip4.static.sl-reverse.com",
+  "city": "Sydney",
+  "region": "New South Wales",
+  "country": "AU",
+  "loc": "-33.8678,151.2073",
+  "postal": "1001",
+  "timezone": "Australia/Sydney",
+  "asn": {
+    "asn": "AS36351",
+    "name": "SoftLayer Technologies Inc.",
+    "domain": "softlayer.com",
+    "route": "168.1.192.0/18",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "SoftLayer Technologies, Inc.",
+    "domain": "ibm.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "4849 Alpha Road, Dallas TX 75244 US",
+    "country": "NL",
+    "email": "abuse@softlayer.com",
+    "name": "SoftLayer Abuse Dept",
+    "network": "168.1.0.0/16",
+    "phone": "+1-281-714-3958"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

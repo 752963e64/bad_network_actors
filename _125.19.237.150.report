@@ -1,0 +1,47 @@
+{
+  "ip": "125.19.237.150",
+  "city": "Greater Noida",
+  "region": "Uttar Pradesh",
+  "country": "IN",
+  "loc": "28.4962,77.5360",
+  "postal": "201311",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS9498",
+    "name": "BHARTI Airtel Ltd.",
+    "domain": "airtel.in",
+    "route": "125.19.237.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "WORLD PHONE INTERNET SERVICES PVT LTD.",
+    "domain": "worldphone.in",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Airtel",
+    "mcc": "404",
+    "mnc": "10"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Bharti Airtel Ltd., ISP Division - Transport Network Group, 234 , Okhla Industrial Estate,, Phase III, New Delhi-110020, INDIA",
+    "country": "IN",
+    "email": "ip.misuse@airtel.com",
+    "name": "ABUSE BHARTIIN",
+    "network": "125.19.237.148/30",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

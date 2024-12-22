@@ -1,0 +1,42 @@
+{
+  "ip": "122.102.25.252",
+  "city": "Bhindār",
+  "region": "Rajasthan",
+  "country": "IN",
+  "loc": "24.5023,74.1855",
+  "postal": "313603",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS45433",
+    "name": "Kappa Internet Services Private Limited",
+    "domain": "kappa.net.in",
+    "route": "122.102.25.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Kappa Ramganjmandi Network",
+    "domain": "kappa.net.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "1-RA-8 Vigyan Nagar, KOTA - 5, INDIA",
+    "country": "IN",
+    "email": "mail@kappa.net.in",
+    "name": "KAPPA INTERNET SERVICES PRIVATE LIMITED - network",
+    "network": "122.102.25.0/24",
+    "phone": "+91-744-2436000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

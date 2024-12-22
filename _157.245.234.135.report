@@ -1,0 +1,43 @@
+{
+  "ip": "157.245.234.135",
+  "hostname": "prod-beryllium-sfo2-97.do.binaryedge.ninja",
+  "city": "Santa Clara",
+  "region": "California",
+  "country": "US",
+  "loc": "37.3483,-121.9844",
+  "postal": "95051",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS14061",
+    "name": "DigitalOcean, LLC",
+    "domain": "digitalocean.com",
+    "route": "157.245.224.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "DigitalOcean, LLC",
+    "domain": "digitalocean.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, NY, New York, 101, Ave of the Americas, 10013",
+    "country": "US",
+    "email": "abuse@digitalocean.com",
+    "name": "DigitalOcean Abuse",
+    "network": "157.245.0.0/16",
+    "phone": "+1-347-875-6044"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

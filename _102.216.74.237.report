@@ -1,0 +1,42 @@
+{
+  "ip": "102.216.74.237",
+  "city": "Cape Town",
+  "region": "Western Cape",
+  "country": "ZA",
+  "loc": "-33.9258,18.4232",
+  "postal": "7945",
+  "timezone": "Africa/Johannesburg",
+  "asn": {
+    "asn": "AS329028",
+    "name": "Rapid Networks (Pty) Ltd",
+    "domain": "rapidnetworks.co.za",
+    "route": "102.216.74.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Customer assigned IP addresses for PPPOE Dialup services",
+    "domain": "rapidnetworks.co.za",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Windstone Farm",
+    "country": "ZA",
+    "email": "matthew@rapidnetworks.co.za",
+    "name": "Matthew Winder",
+    "network": "102.216.74.0/23",
+    "phone": "tel:+27-63-433-8551"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

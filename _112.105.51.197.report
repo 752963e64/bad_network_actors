@@ -1,0 +1,42 @@
+{
+  "ip": "112.105.51.197",
+  "hostname": "112-105-51-197.adsl.dynamic.seed.net.tw",
+  "city": "Taichung",
+  "region": "Taiwan",
+  "country": "TW",
+  "loc": "24.1469,120.6839",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS18049",
+    "name": "Taiwan Infrastructure Network Technologie",
+    "domain": "topmso.com.tw",
+    "route": "112.105.48.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "New Century InfoComm Tech. Co., Ltd.",
+    "domain": "seed.net.tw",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TINP, No.68, Sec. 1, Guoguang Rd., Dali City, Taichung County 412, Taiwa, N/A Taiwan",
+    "country": "TW",
+    "email": "robin@tinp.net.tw",
+    "name": "root root",
+    "network": "112.105.32.0/19",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

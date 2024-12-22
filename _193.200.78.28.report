@@ -1,0 +1,42 @@
+{
+  "ip": "193.200.78.28",
+  "city": "Aachen",
+  "region": "North Rhine-Westphalia",
+  "country": "DE",
+  "loc": "50.7766,6.0834",
+  "postal": "52062",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS214967",
+    "name": "Optibounce, LLC",
+    "domain": "optibounce.fun",
+    "route": "193.200.78.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Xantho UAB",
+    "domain": "xantho.lt",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Lilienstraße 5, 94051 Hauzenberg",
+    "country": "LT",
+    "email": "abuse@pfcloud.io",
+    "name": "Admin",
+    "network": "193.200.78.0/24",
+    "phone": "+37067670060"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

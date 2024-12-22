@@ -1,0 +1,42 @@
+{
+  "ip": "107.173.166.239",
+  "hostname": "107-173-166-239-host.colocrossing.com",
+  "city": "Ashburn",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0437,-77.4875",
+  "postal": "20147",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS36352",
+    "name": "HostPapa",
+    "domain": "colocrossing.com",
+    "route": "107.173.166.0/23",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "HostPapa",
+    "domain": "hostpapa.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, NY, Buffalo, 325 Delaware Avenue, Suite 300, 14202",
+    "country": "US",
+    "email": "net-abuse-global@hostpapa.com",
+    "name": "NETABUSE",
+    "network": "107.172.0.0/14",
+    "phone": "+1-905-315-3455"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

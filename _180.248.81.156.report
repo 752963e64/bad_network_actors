@@ -1,0 +1,40 @@
+{
+  "ip": "180.248.81.156",
+  "city": "Balikpapan",
+  "region": "East Kalimantan",
+  "country": "ID",
+  "loc": "-1.2675,116.8289",
+  "timezone": "Asia/Makassar",
+  "asn": {
+    "asn": "AS7713",
+    "name": "PT Telekomunikasi Indonesia",
+    "domain": "telin.net",
+    "route": "180.248.80.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PT TELKOM INDONESIA",
+    "domain": "telkom.co.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT. TELKOM INDONESIA, STO Telkom Gambir 3th Floor, Medan Merdeka Selatan, JAKARTA",
+    "country": "ID",
+    "email": "abuse@telkom.co.id",
+    "name": "ABUSE IDTELKOMID",
+    "network": "180.248.64.0/18",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

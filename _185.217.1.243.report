@@ -1,0 +1,42 @@
+{
+  "ip": "185.217.1.243",
+  "city": "Stockholm",
+  "region": "Stockholm",
+  "country": "SE",
+  "loc": "59.3294,18.0687",
+  "postal": "195 87",
+  "timezone": "Europe/Stockholm",
+  "asn": {
+    "asn": "AS42237",
+    "name": "w1n ltd",
+    "domain": "w1n.nl",
+    "route": "185.217.1.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "w1n ltd",
+    "domain": "icmenet.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "PerfectPrivacy"
+  },
+  "abuse": {
+    "address": "UNITED KINGDOM, Doncaster, DN6 8DA, Dept 302, 43 Owston Road, Carcroft",
+    "country": "GB",
+    "email": "abuse@w1n.nl",
+    "name": "Abuse-C Role",
+    "network": "185.217.1.0/24",
+    "phone": "+44841200700"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

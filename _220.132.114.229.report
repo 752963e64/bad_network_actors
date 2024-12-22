@@ -1,0 +1,44 @@
+{
+  "ip": "220.132.114.229",
+  "hostname": "220-132-114-229.hinet-ip.hinet.net",
+  "city": "Kaohsiung",
+  "region": "Takao",
+  "country": "TW",
+  "loc": "22.6163,120.3133",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS3462",
+    "name": "Data Communication Business Group",
+    "domain": "hinet.net",
+    "route": "220.132.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Chunghwa Telecom Co.,Ltd.",
+    "domain": "cht.com.tw",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Taipei Taiwan",
+    "country": "TW",
+    "email": "network-adm@hinet.net",
+    "name": "HINET",
+    "network": "220.132.0.0/16",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "220.132.114.229",
+    "total": 1,
+    "domains": [
+      "tedchen.idv.tw"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "85.198.129.40",
+  "hostname": "129-40.trifle.net",
+  "city": "Dnipro",
+  "region": "Dnipropetrovsk",
+  "country": "UA",
+  "loc": "48.4666,35.0407",
+  "postal": "49000",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS6702",
+    "name": "Science Production Company \"Trifle\" Ltd.",
+    "domain": "trifle.net",
+    "route": "85.198.128.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Science Production Company Trifle Ltd.",
+    "domain": "apex.dp.ua",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "7 Nauky Ave., office 61, Ukraine, Dnipro, 49005",
+    "country": "UA",
+    "email": "abuse@trifle.net",
+    "name": "Abuse Team",
+    "network": "85.198.129.0/24",
+    "phone": "+380 56 7319911"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

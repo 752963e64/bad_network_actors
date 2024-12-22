@@ -1,0 +1,42 @@
+{
+  "ip": "81.161.238.94",
+  "city": "Amsterdam",
+  "region": "North Holland",
+  "country": "NL",
+  "loc": "52.3630,4.8923",
+  "postal": "1017",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS401116",
+    "name": "Nybula LLC",
+    "domain": "nybula.com",
+    "route": "81.161.238.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Nybula LLC",
+    "domain": "nybula.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "821 N ST STE 102 ANCHORAGE",
+    "country": "US",
+    "email": "abuse@nybula.com",
+    "name": "Abuse contact role object",
+    "network": "81.161.238.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "102.221.249.234",
+  "city": "Johannesburg",
+  "region": "Gauteng",
+  "country": "ZA",
+  "loc": "-26.2023,28.0436",
+  "postal": "2041",
+  "timezone": "Africa/Johannesburg",
+  "asn": {
+    "asn": "AS328760",
+    "name": "ZTEL PTY LTD",
+    "domain": "ztel.co.za",
+    "route": "102.221.248.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ZTEL PTY LTD",
+    "domain": "ztel.co.za",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "20 Phlox St, Port Elizabeth 6000, South Africa",
+    "country": "ZA",
+    "email": "admin@ztel.co.za",
+    "name": "Victory Adam",
+    "network": "102.221.248.0/22",
+    "phone": "tel:+27-61-943-0573"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "189.1.160.181",
+  "city": "São Bernardo do Campo",
+  "region": "São Paulo",
+  "country": "BR",
+  "loc": "-23.6939,-46.5650",
+  "postal": "09700-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS28666",
+    "name": "HOSTLOCATION LTDA",
+    "domain": "hostfiber.com.br",
+    "route": "189.1.160.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "HOSTLOCATION LTDA",
+    "domain": "hostfiber.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "noc@hostfiber.com.br",
+    "name": "GrupoHost LTDA",
+    "network": "189.1.160.0/21",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

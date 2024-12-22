@@ -1,0 +1,43 @@
+{
+  "ip": "72.138.161.155",
+  "hostname": "unallocated-static.rogers.com",
+  "city": "Toronto",
+  "region": "Ontario",
+  "country": "CA",
+  "loc": "43.7064,-79.3986",
+  "postal": "M5A",
+  "timezone": "America/Toronto",
+  "asn": {
+    "asn": "AS812",
+    "name": "Rogers Communications Canada Inc.",
+    "domain": "rogers.com",
+    "route": "72.138.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Rogers Communications Canada Inc.",
+    "domain": "rogers.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CA, ON, Brampton, 8200 Dixie Rd, L6T 0C1",
+    "country": "CA",
+    "email": "abuse@rogers.com",
+    "name": "Rogers High-Speed Internet",
+    "network": "72.136.0.0/13",
+    "phone": "+1-647-747-3294"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

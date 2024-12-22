@@ -1,0 +1,48 @@
+{
+  "ip": "185.73.194.82",
+  "city": "Moscow",
+  "region": "Moscow",
+  "country": "RU",
+  "loc": "55.7522,37.6156",
+  "postal": "101000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS44386",
+    "name": "LLC Internet Solutions",
+    "domain": "ozon.ru",
+    "route": "185.73.194.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Data-center Network in Zone1",
+    "domain": "ozon.ru",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Moscow, Presnenskaya embankment 10",
+    "country": "RU",
+    "email": "noc@ozon.ru",
+    "name": "OZON.RU RIPE MANAGEMENT TEAM",
+    "network": "185.73.194.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "185.73.194.82",
+    "total": 33,
+    "domains": [
+      "ozon.ru",
+      "ozon.express",
+      "asometech.ru",
+      "vurta.shop",
+      "lila-ethno.ru"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "76.77.24.175",
+  "hostname": "dsl-76-77-24-175.dellcity.com",
+  "city": "Pecos",
+  "region": "Texas",
+  "country": "US",
+  "loc": "31.4229,-103.4932",
+  "postal": "79772",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS23546",
+    "name": "Delcom, Inc.",
+    "domain": "delcomgroup.com",
+    "route": "76.77.24.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Delcom, Inc.",
+    "domain": "delcom.it",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, TX, Dell City, Delcom Inc, 110 N. Main Street, 79837",
+    "country": "US",
+    "email": "drwisdom@ncom.com",
+    "name": "Joel Muniz",
+    "network": "76.77.24.0/24",
+    "phone": "+1-915-964-2355"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

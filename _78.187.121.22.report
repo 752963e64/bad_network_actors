@@ -1,0 +1,43 @@
+{
+  "ip": "78.187.121.22",
+  "hostname": "78.187.121.22.dynamic.ttnet.com.tr",
+  "city": "Ankara",
+  "region": "Ankara",
+  "country": "TR",
+  "loc": "39.9199,32.8543",
+  "postal": "06420",
+  "timezone": "Europe/Istanbul",
+  "asn": {
+    "asn": "AS9121",
+    "name": "Turk Telekomunikasyon Anonim Sirketi",
+    "domain": "turktelekom.com.tr",
+    "route": "78.187.0.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Turk Telekomunikasyon Anonim Sirketi",
+    "domain": "turktelekom.com.tr",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Turk Telekomunikasyon A.S Turgut Ozal Blv. Aydinlikevler, 06103 ANKARA TURKEY",
+    "country": "TR",
+    "email": "abuse@turktelekom.com.tr",
+    "name": "Abuse Role",
+    "network": "78.187.120.0/21",
+    "phone": "+90 312 555 0000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "129.82.138.44",
+  "hostname": "isi-pinger6.cs-win.colostate.edu",
+  "city": "Fort Collins",
+  "region": "Colorado",
+  "country": "US",
+  "loc": "40.5853,-105.0844",
+  "postal": "80523",
+  "timezone": "America/Denver",
+  "asn": {
+    "asn": "AS12145",
+    "name": "Colorado State University",
+    "domain": "colostate.edu",
+    "route": "129.82.0.0/16",
+    "type": "education"
+  },
+  "company": {
+    "name": "Colorado State University",
+    "domain": "colostate.edu",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CO, Fort Collins, Academic Computing and Networking Services, Colorado State University, 80523",
+    "country": "US",
+    "email": "dns.admin@colostate.edu",
+    "name": "DNS Administrator",
+    "network": "129.82.0.0/16",
+    "phone": "+1-970-491-5600"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "112.93.138.192",
+  "city": "Shenzhen",
+  "region": "Guangdong",
+  "country": "CN",
+  "loc": "22.5455,114.0683",
+  "postal": "518000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS17816",
+    "name": "China Unicom IP network China169 Guangdong province",
+    "domain": "chinaunicom.cn",
+    "route": "112.88.0.0/13",
+    "type": "isp"
+  },
+  "company": {
+    "name": "China Unicom Guangdong province network",
+    "domain": "chinaunicom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.21,Financial Street, Beijing,100033, P.R.China",
+    "country": "CN",
+    "email": "zhaoyz3@chinaunicom.cn",
+    "name": "ChinaUnicom Hostmaster",
+    "network": "112.88.0.0/13",
+    "phone": "+86-10-66259764"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

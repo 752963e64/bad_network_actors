@@ -1,0 +1,43 @@
+{
+  "ip": "200.175.192.63",
+  "hostname": "200.175.192.63.dynamic.dialup.gvt.net.br",
+  "city": "Curitiba",
+  "region": "Paraná",
+  "country": "BR",
+  "loc": "-25.4278,-49.2731",
+  "postal": "80000-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS18881",
+    "name": "TELEFÔNICA BRASIL S.A",
+    "domain": "telefonica.com.br",
+    "route": "200.175.192.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TELEFÔNICA BRASIL S.A",
+    "domain": "telefonica.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse.br@telefonica.com",
+    "name": "CSIRT TELEFONICA BR",
+    "network": "200.175.192.0/18",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

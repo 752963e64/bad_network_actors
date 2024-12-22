@@ -1,0 +1,42 @@
+{
+  "ip": "202.179.31.242",
+  "hostname": "mt-242.mtcone.net",
+  "city": "Ulan Bator",
+  "region": "Ulaanbaatar",
+  "country": "MN",
+  "loc": "47.9077,106.8832",
+  "timezone": "Asia/Ulaanbaatar",
+  "asn": {
+    "asn": "AS9934",
+    "name": "Mongolia Telecom",
+    "domain": "telecommongolia.mn",
+    "route": "202.179.31.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "MTC-NETWORK-BROADBAND",
+    "domain": "mtcone.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Sq.Sukhbaatar-1, Chingeltei District, Ulaanbaatar-210611",
+    "country": "MN",
+    "email": "ulsbold@mtcone.net",
+    "name": "ABUSE TELECOMMN",
+    "network": "202.179.31.0/24",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

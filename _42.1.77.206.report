@@ -1,0 +1,42 @@
+{
+  "ip": "42.1.77.206",
+  "city": "Hanoi",
+  "region": "Hanoi",
+  "country": "VN",
+  "loc": "21.0245,105.8412",
+  "postal": "10000",
+  "timezone": "Asia/Bangkok",
+  "asn": {
+    "asn": "AS131429",
+    "name": "MOBIFONE Corporation",
+    "domain": "mobifone.vn",
+    "route": "42.1.77.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Mobifone Corporation",
+    "domain": "mobifone.vn",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "MOBIFONE-VN",
+    "country": "VN",
+    "email": "duong.do@mobifone.vn",
+    "name": "Do Quang Duong",
+    "network": "42.1.64.0/18",
+    "phone": "+84-2437831769"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

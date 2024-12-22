@@ -1,0 +1,43 @@
+{
+  "ip": "117.2.161.244",
+  "hostname": "dynamic-ip-adsl.viettel.vn",
+  "city": "Buôn Ma Thuột",
+  "region": "Đắk Lắk",
+  "country": "VN",
+  "loc": "12.6675,108.0378",
+  "postal": "63150",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "asn": {
+    "asn": "AS7552",
+    "name": "Viettel Group",
+    "domain": "viettel.com.vn",
+    "route": "117.2.160.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Viettel Group",
+    "domain": "viettel.com.vn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ha Noi, VietNam",
+    "country": "VN",
+    "email": "hm-changed@vnnic.vn",
+    "name": "Tran Van Thanh",
+    "network": "117.2.0.0/16",
+    "phone": "+84-24-35564944"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}
