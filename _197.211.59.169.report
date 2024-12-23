@@ -1,0 +1,41 @@
+{
+  "ip": "197.211.59.169",
+  "city": "Lagos",
+  "region": "Lagos",
+  "country": "NG",
+  "loc": "6.4541,3.3947",
+  "timezone": "Africa/Lagos",
+  "asn": {
+    "asn": "AS37148",
+    "name": "Globacom Limited",
+    "domain": "gloworld.com",
+    "route": "197.211.32.0/19",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Globacom Limited",
+    "domain": "glosmartbiz.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "1- Mike Adenuga Close, Victoria Island, Lagos, Lagos, Nigeria",
+    "country": "NG",
+    "email": "michael.okoduwa@gloworld.com",
+    "name": "Prasoon Agarwal",
+    "network": "197.211.59.0/24",
+    "phone": "tel:+234-805-557-1050"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "75.67.42.223",
+  "hostname": "c-75-67-42-223.hsd1.ma.comcast.net",
+  "city": "Nashua",
+  "region": "New Hampshire",
+  "country": "US",
+  "loc": "42.7654,-71.4676",
+  "postal": "03060",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS7922",
+    "name": "Comcast Cable Communications, LLC",
+    "domain": "comcast.com",
+    "route": "75.64.0.0/13",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Comcast Cable Communications Holdings, Inc",
+    "domain": "comcast.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, NJ, Mount Laurel, 1800 Bishops Gate Blvd, 08054",
+    "country": "US",
+    "email": "abuse@comcast.net",
+    "name": "Network Abuse and Policy Observance",
+    "network": "75.67.0.0/16",
+    "phone": "+1-888-565-4329"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

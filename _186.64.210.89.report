@@ -1,0 +1,43 @@
+{
+  "ip": "186.64.210.89",
+  "hostname": "ip89-210-64-186.ct.co.cr",
+  "city": "San José",
+  "region": "San José",
+  "country": "CR",
+  "loc": "9.9333,-84.0833",
+  "postal": "40602",
+  "timezone": "America/Costa_Rica",
+  "asn": {
+    "asn": "AS52228",
+    "name": "Cable Tica",
+    "domain": "libertycr.com",
+    "route": "186.64.208.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Cable Tica",
+    "domain": "ct.co.cr",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Cabletica sabana oeste, ,, - San Jose -",
+    "country": "CR",
+    "email": "e.zuniga@libertycr.com",
+    "name": "Erick Francisco Zuñiga Perez",
+    "network": "186.64.128.0/17",
+    "phone": "+506  47017855"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

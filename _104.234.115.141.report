@@ -1,0 +1,45 @@
+{
+  "ip": "104.234.115.141",
+  "hostname": "crawler141.deepfield.net",
+  "city": "Ashburn",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0437,-77.4875",
+  "postal": "20147",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS396982",
+    "name": "Google LLC",
+    "domain": "google.com",
+    "route": "104.234.115.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "CyberOneData LLC",
+    "domain": "cyberone.com.au",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Mountain View, 1600 Amphitheatre Parkway, 94043",
+    "country": "US",
+    "email": "google-cloud-compliance@google.com",
+    "name": "GC Abuse",
+    "network": "104.234.115.0/24",
+    "phone": "+1-650-253-0000"
+  },
+  "domains": {
+    "ip": "104.234.115.141",
+    "total": 1,
+    "domains": [
+      "girlgames.me"
+    ]
+  }
+}

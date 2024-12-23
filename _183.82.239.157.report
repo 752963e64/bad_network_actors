@@ -1,0 +1,43 @@
+{
+  "ip": "183.82.239.157",
+  "hostname": "broadband.actcorp.in",
+  "city": "Hyderābād",
+  "region": "Telangana",
+  "country": "IN",
+  "loc": "17.3840,78.4564",
+  "postal": "500001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS55577",
+    "name": "Atria Convergence Technologies Ltd.,",
+    "domain": "actcorp.in",
+    "route": "183.82.236.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ACT Eluru",
+    "domain": "actcorp.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Atria Convergence Technologies Pvt Ltd, # 1, 2nd Floor, Indian Express Building,, Queen's Road, Bangalore - 560 001",
+    "country": "IN",
+    "email": "abuse@actcorp.in",
+    "name": "ABUSE CABLELITEIN",
+    "network": "183.82.239.128/26",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

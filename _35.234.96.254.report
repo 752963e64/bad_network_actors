@@ -1,0 +1,43 @@
+{
+  "ip": "35.234.96.254",
+  "hostname": "254.96.234.35.bc.googleusercontent.com",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "postal": "60306",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS396982",
+    "name": "Google LLC",
+    "domain": "google.com",
+    "route": "35.234.64.0/18",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Google LLC",
+    "domain": "google.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Mountain View, 1600 Amphitheatre Parkway, 94043",
+    "country": "US",
+    "email": "google-cloud-compliance@google.com",
+    "name": "GC Abuse",
+    "network": "35.208.0.0-35.247.255.255",
+    "phone": "+1-650-253-0000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

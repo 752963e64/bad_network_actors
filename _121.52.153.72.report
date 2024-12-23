@@ -1,0 +1,43 @@
+{
+  "ip": "121.52.153.72",
+  "hostname": "fsb.numl.edu.pk",
+  "city": "Faisalabad",
+  "region": "Punjab",
+  "country": "PK",
+  "loc": "31.4155,73.0897",
+  "postal": "38000",
+  "timezone": "Asia/Karachi",
+  "asn": {
+    "asn": "AS45773",
+    "name": "PERN AS Content Servie Provider, Islamabad, Pakistan",
+    "domain": "pern.edu.pk",
+    "route": "121.52.153.0/24",
+    "type": "education"
+  },
+  "company": {
+    "name": "PERN-Pakistan Education & Research Network is an",
+    "domain": "pern.pk",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Data Center, Higher Education Commission, Sector H-9 Islamabad",
+    "country": "PK",
+    "email": "wakhan@hec.gov.pk",
+    "name": "ABUSE HECPERNPK",
+    "network": "121.52.144.0/20",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "ip": "47.121.203.235",
+  "city": "Heyuan",
+  "region": "Guangdong",
+  "country": "CN",
+  "loc": "23.7333,114.6833",
+  "postal": "517000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS37963",
+    "name": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "domain": "alibabagroup.com",
+    "route": "47.121.0.0/16",
+    "type": "business"
+  },
+  "company": {
+    "name": "Aliyun Computing Co., LTD",
+    "domain": "alibabacloud.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Beijing, China",
+    "country": "CN",
+    "email": "ipas@cnnic.cn",
+    "name": "ABUSE CNNICCN",
+    "network": "47.120.0.0/13",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "ip": "47.121.203.235",
+    "total": 1,
+    "domains": [
+      "fancheng168.cn"
+    ]
+  }
+}

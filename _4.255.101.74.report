@@ -1,0 +1,43 @@
+{
+  "ip": "4.255.101.74",
+  "hostname": "azpdesc21.stretchoid.com",
+  "city": "Sterling",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0062,-77.4286",
+  "postal": "20163",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS8075",
+    "name": "Microsoft Corporation",
+    "domain": "microsoft.com",
+    "route": "4.240.0.0/12",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Microsoft Corporation",
+    "domain": "microsoft.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, WA, Redmond, One Microsoft Way, 98052",
+    "country": "US",
+    "email": "abuse@microsoft.com",
+    "name": "Microsoft Abuse Contact",
+    "network": "4.240.0.0/12",
+    "phone": "+1-425-882-8080"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

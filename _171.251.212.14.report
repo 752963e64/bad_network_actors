@@ -1,0 +1,43 @@
+{
+  "ip": "171.251.212.14",
+  "hostname": "dynamic-ip-adsl.viettel.vn",
+  "city": "Hanoi",
+  "region": "Hanoi",
+  "country": "VN",
+  "loc": "21.0245,105.8412",
+  "postal": "10000",
+  "timezone": "Asia/Bangkok",
+  "asn": {
+    "asn": "AS7552",
+    "name": "Viettel Group",
+    "domain": "viettel.com.vn",
+    "route": "171.248.0.0/14",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Viettel Group",
+    "domain": "viettel.com.vn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ha Noi, VietNam",
+    "country": "VN",
+    "email": "hm-changed@vnnic.vn",
+    "name": "Tran Van Thanh",
+    "network": "171.224.0.0/11",
+    "phone": "+84-24-35564944"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "110.93.230.37",
+  "city": "Karachi",
+  "region": "Sindh",
+  "country": "PK",
+  "loc": "24.8608,67.0104",
+  "postal": "74000",
+  "timezone": "Asia/Karachi",
+  "asn": {
+    "asn": "AS135407",
+    "name": "Trans World Enterprise Services (Private) Limited",
+    "domain": "transworld-home.com",
+    "route": "110.93.230.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Transworld Associates (Pvt.) Ltd.",
+    "domain": "tw1.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Transworld Associates (Pvt) Ltd., 6th Floor, Executive Tower, Dolmen City, Marine Drive, Clifton Block 4, Karachi",
+    "country": "PK",
+    "email": "abuse@tw1.com",
+    "name": "ABUSE TWAPK",
+    "network": "110.93.192.0/18",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

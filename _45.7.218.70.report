@@ -1,0 +1,41 @@
+{
+  "ip": "45.7.218.70",
+  "city": "Caucaia",
+  "region": "Ceará",
+  "country": "BR",
+  "loc": "-3.7361,-38.6531",
+  "postal": "61600-000",
+  "timezone": "America/Fortaleza",
+  "asn": {
+    "asn": "AS266619",
+    "name": "LOGPLAY TELECOM",
+    "domain": "logplay.com.br",
+    "route": "45.7.218.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Vagnet Provedor de Internet",
+    "domain": "vagnet.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "noc@sigafibra.com",
+    "name": "jose cristiano vieira barros",
+    "network": "45.7.218.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

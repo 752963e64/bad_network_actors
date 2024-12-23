@@ -1,0 +1,42 @@
+{
+  "ip": "114.143.228.196",
+  "hostname": "static-196.228.143.114-tataidc.co.in",
+  "city": "Mumbai",
+  "region": "Maharashtra",
+  "country": "IN",
+  "loc": "19.0728,72.8826",
+  "postal": "400017",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS17762",
+    "name": "Tata Teleservices Maharashtra Ltd",
+    "domain": "tataindicom.com",
+    "route": "114.143.228.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Tata Teleservices Maharashtra Ltd",
+    "domain": "tataindicom.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "D 26 TTC Industrial Area MIDC Sanpada Navi mumbai P.O Turbhe, Pin 400703, Turbhe Navi mumbai",
+    "country": "IN",
+    "email": "Vikas.Mate@tatacommunications.com",
+    "name": "ISP Operation",
+    "network": "114.143.228.1-114.143.228.255",
+    "phone": "+91-22-67910367"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

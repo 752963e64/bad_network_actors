@@ -1,0 +1,42 @@
+{
+  "ip": "103.207.39.22",
+  "city": "Hanoi",
+  "region": "Hanoi",
+  "country": "VN",
+  "loc": "21.0245,105.8412",
+  "postal": "10000",
+  "timezone": "Asia/Bangkok",
+  "asn": {
+    "asn": "AS135905",
+    "name": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+    "domain": "vnpt.com.vn",
+    "route": "103.207.39.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "VIETSERVER SERVICES TECHNOLOGY COMPANY LIMITED",
+    "domain": "vietserver.vn",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ha Noi, VietNam",
+    "country": "VN",
+    "email": "hm-changed@vnnic.vn",
+    "name": "Nguyen Ngoc An",
+    "network": "103.207.36.0/22",
+    "phone": "+84-24-35564944"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "188.177.20.243",
+  "hostname": "188-177-20-243-static.dk.customer.tdc.net",
+  "city": "Copenhagen",
+  "region": "Capital Region",
+  "country": "DK",
+  "loc": "55.6759,12.5655",
+  "postal": "1072",
+  "timezone": "Europe/Copenhagen",
+  "asn": {
+    "asn": "AS3292",
+    "name": "TDC Holding A/S",
+    "domain": "tdcgroup.com",
+    "route": "188.176.0.0/13",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TDC Holding A/S",
+    "domain": "tdc.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Sletvej 30, DK-8310 Tranbjerg, Denmark",
+    "country": "DK",
+    "email": "postmaster@abuse.mail.dk",
+    "name": "TDC A-S Denmark Abuse",
+    "network": "188.177.20.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

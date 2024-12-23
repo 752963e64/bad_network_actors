@@ -1,0 +1,42 @@
+{
+  "ip": "212.164.217.180",
+  "city": "Novosibirsk",
+  "region": "Novosibirsk Oblast",
+  "country": "RU",
+  "loc": "55.0415,82.9346",
+  "postal": "630000",
+  "timezone": "Asia/Novosibirsk",
+  "asn": {
+    "asn": "AS12389",
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "route": "212.164.208.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "OJSC Sibirtelecom",
+    "domain": "sibirtelecom.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "OJSC Sibirtelecom",
+    "network": "212.164.208.0/20",
+    "phone": "+7 383 2 270669"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

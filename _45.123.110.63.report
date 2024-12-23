@@ -1,0 +1,42 @@
+{
+  "ip": "45.123.110.63",
+  "city": "Kolkata",
+  "region": "West Bengal",
+  "country": "IN",
+  "loc": "22.5626,88.3630",
+  "postal": "700001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS45775",
+    "name": "WISH NET PRIVATE LIMITED",
+    "domain": "wishnet.co.in",
+    "route": "45.123.108.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "WISH NET PRIVATE LIMITED",
+    "domain": "wnpl.co.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "86,GOLAGHATA ROAD, KOLKATA 700048",
+    "country": "IN",
+    "email": "abuse-wishnet@wishnet.co.in",
+    "name": "ABHISHEK PAL",
+    "network": "45.123.108.0/22",
+    "phone": "+91-033-6606 2636"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

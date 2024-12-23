@@ -1,0 +1,42 @@
+{
+  "ip": "49.231.243.194",
+  "city": "Bangkok",
+  "region": "Bangkok",
+  "country": "TH",
+  "loc": "13.7540,100.5014",
+  "postal": "10200",
+  "timezone": "Asia/Bangkok",
+  "asn": {
+    "asn": "AS45458",
+    "name": "SBN-ISP/AWN-ISP and SBN-NIX/AWN-NIX",
+    "domain": "ais.co.th",
+    "route": "49.231.243.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "AIS Corporate",
+    "domain": "ais.th",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "414 Phaholyothin Rd Samsen Nai Phayathai Thailand Bangkok 10400",
+    "country": "TH",
+    "email": "abuseIPv4@ais.co.th",
+    "name": "ABUSE AWNCOLTDTH",
+    "network": "49.231.140.0-49.231.255.255",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

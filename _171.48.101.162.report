@@ -1,0 +1,47 @@
+{
+  "ip": "171.48.101.162",
+  "city": "Bengaluru",
+  "region": "Karnataka",
+  "country": "IN",
+  "loc": "12.9719,77.5937",
+  "postal": "562114",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS45609",
+    "name": "Bharti Airtel Ltd. AS for GPRS Service",
+    "domain": "airtel.com",
+    "route": "171.48.100.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Bharti Airtel Limited, Plot Number 21 Rajiv Gandhi Technology Park In Bharti Airtel Campus, I T Park, Chandigarh - 160001",
+    "domain": "airtel.com",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Airtel",
+    "mcc": "404",
+    "mnc": "02"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Bharti Airtel Ltd., Airtel Center, Plot No. 16 Udhyog Vihar, Gurgaon, India",
+    "country": "IN",
+    "email": "ip.misuse@airtel.com",
+    "name": "ABUSE BHARTIMOIN",
+    "network": "171.48.96.0/21",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

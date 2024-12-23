@@ -1,0 +1,42 @@
+{
+  "ip": "27.68.105.232",
+  "city": "Biên Hòa",
+  "region": "Đồng Nai Province",
+  "country": "VN",
+  "loc": "10.9447,106.8243",
+  "postal": "76199",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "asn": {
+    "asn": "AS7552",
+    "name": "Viettel Group",
+    "domain": "viettel.com.vn",
+    "route": "27.68.104.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Viettel Group",
+    "domain": "viettel.com.vn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ha Noi, VietNam",
+    "country": "VN",
+    "email": "hm-changed@vnnic.vn",
+    "name": "Tran Van Thanh",
+    "network": "27.64.0.0/12",
+    "phone": "+84-24-35564944"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

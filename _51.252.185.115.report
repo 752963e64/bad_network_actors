@@ -1,0 +1,45 @@
+{
+  "ip": "51.252.185.115",
+  "city": "Riyadh",
+  "region": "Riyadh Region",
+  "country": "SA",
+  "loc": "24.6877,46.7219",
+  "timezone": "Asia/Riyadh",
+  "asn": {
+    "asn": "AS39891",
+    "name": "Saudi Telecom Company JSC",
+    "domain": "stc.com.sa",
+    "route": "51.252.185.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Saudi Telecom Company JSC",
+    "domain": "stc.com.sa",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Al Jawal (STC)",
+    "mcc": "420",
+    "mnc": "01"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Murslat Campus, Riyadh, P.O.Box: 295997, Riyadh 11351, Saudi Arabia",
+    "country": "SA",
+    "email": "registry@stc.com.sa",
+    "name": "Saudi Telecom Co. Registry Tech-C contact",
+    "network": "51.252.128.0/17",
+    "phone": "+966114525020"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "35.241.129.65",
+  "hostname": "65.129.241.35.bc.googleusercontent.com",
+  "city": "Brussels",
+  "region": "Brussels Capital",
+  "country": "BE",
+  "loc": "50.8505,4.3488",
+  "postal": "1000",
+  "timezone": "Europe/Brussels",
+  "asn": {
+    "asn": "AS396982",
+    "name": "Google LLC",
+    "domain": "google.com",
+    "route": "35.241.128.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Google LLC",
+    "domain": "google.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Mountain View, 1600 Amphitheatre Parkway, 94043",
+    "country": "US",
+    "email": "google-cloud-compliance@google.com",
+    "name": "GC Abuse",
+    "network": "35.208.0.0-35.247.255.255",
+    "phone": "+1-650-253-0000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

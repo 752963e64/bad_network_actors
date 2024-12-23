@@ -1,0 +1,43 @@
+{
+  "ip": "50.98.49.47",
+  "hostname": "d50-98-49-47.bchsia.telus.net",
+  "city": "Vernon",
+  "region": "British Columbia",
+  "country": "CA",
+  "loc": "50.2673,-119.2734",
+  "postal": "V1T",
+  "timezone": "America/Vancouver",
+  "asn": {
+    "asn": "AS852",
+    "name": "TELUS Communications Inc.",
+    "domain": "telus.com",
+    "route": "50.98.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TELUS-FIBRE-VERNBC01",
+    "domain": "telus.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CA, AB, Edmonton, 10th Floor 10020 100 Street NW, T5J-0N5",
+    "country": "CA",
+    "email": "abuse@telus.com",
+    "name": "Abuse at TELUS",
+    "network": "50.98.48.0/22",
+    "phone": "+1-877-945-8220"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

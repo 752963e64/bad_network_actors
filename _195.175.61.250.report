@@ -1,0 +1,42 @@
+{
+  "ip": "195.175.61.250",
+  "hostname": "195.175.61.250.static.turktelekom.com.tr",
+  "city": "Kayseri",
+  "region": "Kayseri",
+  "country": "TR",
+  "loc": "38.7322,35.4853",
+  "postal": "38110",
+  "timezone": "Europe/Istanbul",
+  "asn": {
+    "asn": "AS9121",
+    "name": "Turk Telekomunikasyon Anonim Sirketi",
+    "domain": "turktelekom.com.tr",
+    "route": "195.175.0.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Turk Telekom RAS Test Network",
+    "domain": "turktelekom.com.tr",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Turk Telekomunikasyon A.S Turgut Ozal Blv. Aydinlikevler, 06103 ANKARA TURKEY",
+    "country": "TR",
+    "email": "abuse@turktelekom.com.tr",
+    "name": "Turk Telekom RAS Test Network",
+    "network": "195.175.48.0/20",
+    "phone": "+90 312 555 0000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "187.49.159.60",
+  "hostname": "187-49-159-60.avato.com.br",
+  "city": "Dom Pedrito",
+  "region": "Rio Grande do Sul",
+  "country": "BR",
+  "loc": "-30.9828,-54.6731",
+  "postal": "96450-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS262907",
+    "name": "BRASIL TECPAR | AMIGO | AVATO",
+    "domain": "brasiltecpar.com.br",
+    "route": "187.49.158.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "BRASIL TECPAR SERVICOS DE TELECOMUNICACOES SA",
+    "domain": "brasiltecpar.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "soc@brasiltecpar.com.br",
+    "name": "Brasil TecPar SOC",
+    "network": "187.49.156.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

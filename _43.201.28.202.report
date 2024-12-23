@@ -1,0 +1,43 @@
+{
+  "ip": "43.201.28.202",
+  "hostname": "ec2-43-201-28-202.ap-northeast-2.compute.amazonaws.com",
+  "city": "Incheon",
+  "region": "Incheon",
+  "country": "KR",
+  "loc": "37.4565,126.7052",
+  "postal": "21505",
+  "timezone": "Asia/Seoul",
+  "asn": {
+    "asn": "AS16509",
+    "name": "Amazon.com, Inc.",
+    "domain": "amazon.com",
+    "route": "43.200.0.0/14",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Amazon.com, Inc.",
+    "domain": "amazon.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Bedok Central Post Office PO Box 482",
+    "country": "SG",
+    "email": "abuse@amazonaws.com",
+    "name": "ABUSE AMAZONASAP1",
+    "network": "43.200.0.0/13",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

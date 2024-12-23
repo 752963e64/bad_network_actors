@@ -1,0 +1,43 @@
+{
+  "ip": "114.170.158.39",
+  "hostname": "p728040-mobac01.tokyo.ocn.ne.jp",
+  "city": "Tokyo",
+  "region": "Tokyo",
+  "country": "JP",
+  "loc": "35.6895,139.6917",
+  "postal": "101-8656",
+  "timezone": "Asia/Tokyo",
+  "asn": {
+    "asn": "AS4713",
+    "name": "NTT Communications Corporation",
+    "domain": "ntt.com",
+    "route": "114.160.0.0/11",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Open Computer Network",
+    "domain": "ocn.ne.jp",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",
+    "country": "JP",
+    "email": "hostmaster@nic.ad.jp",
+    "name": "",
+    "network": "114.160.0.0/11",
+    "phone": "+81-3-5297-2311"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

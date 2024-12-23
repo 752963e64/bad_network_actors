@@ -1,0 +1,43 @@
+{
+  "ip": "124.71.175.210",
+  "hostname": "ecs-124-71-175-210.compute.hwclouds-dns.com",
+  "city": "Shanghai",
+  "region": "Shanghai",
+  "country": "CN",
+  "loc": "31.2222,121.4581",
+  "postal": "200000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS55990",
+    "name": "Huawei Cloud Service data center",
+    "domain": "huaweicloud.com",
+    "route": "124.71.160.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co)",
+    "domain": "huawei.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Beijing, China",
+    "country": "CN",
+    "email": "ipas@cnnic.cn",
+    "name": "ABUSE CNNICCN",
+    "network": "124.70.0.0/15",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

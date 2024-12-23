@@ -1,0 +1,43 @@
+{
+  "ip": "172.234.246.199",
+  "hostname": "b84b1b38-72f1-55cb-8280-919e10d0d354.6f63746f76706e.com",
+  "city": "Tukwila",
+  "region": "Washington",
+  "country": "US",
+  "loc": "47.4740,-122.2610",
+  "postal": "98178",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS63949",
+    "name": "Akamai Connected Cloud",
+    "domain": "linode.com",
+    "route": "172.234.224.0/19",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Linode",
+    "domain": "linode.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, PA, Philadelphia, 249 Arch St, 19106",
+    "country": "US",
+    "email": "abuse@linode.com",
+    "name": "Linode Abuse Support",
+    "network": "172.232.0.0/13",
+    "phone": "+1-609-380-7100"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

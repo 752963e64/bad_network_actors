@@ -1,0 +1,40 @@
+{
+  "ip": "114.9.50.10",
+  "city": "Batam",
+  "region": "Riau",
+  "country": "ID",
+  "loc": "1.1494,104.0249",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS4761",
+    "name": "INDOSAT Internet Network Provider",
+    "domain": "ioh.co.id",
+    "route": "114.9.50.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "IOH B2B",
+    "domain": "ioh.co.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT Indosat, Jl. Medan Merdeka Barat 21, Jakarta Pusat",
+    "country": "ID",
+    "email": "hostmaster@ioh.co.id",
+    "name": "ABUSE INDOSATINPID",
+    "network": "114.9.48.0/20",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "110.235.233.210",
+  "city": "Ghāziābād",
+  "region": "Uttar Pradesh",
+  "country": "IN",
+  "loc": "28.6654,77.4391",
+  "postal": "201009",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS133982",
+    "name": "Excitel Broadband Private Limited",
+    "domain": "excitel.com",
+    "route": "110.235.233.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Verivoz Communication Private Limited",
+    "domain": "verivoz.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "28/A/5, Jia Sarai, Hauz Khas",
+    "country": "IN",
+    "email": "ipmanage@excitel.com",
+    "name": "SUBHASH YADAV",
+    "network": "110.235.224.0/20",
+    "phone": "+91 8377006568"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

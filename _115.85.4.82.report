@@ -1,0 +1,42 @@
+{
+  "ip": "115.85.4.82",
+  "hostname": "82.4.85.115.ids.service.static.eastern-tele.com",
+  "city": "Pasig City",
+  "region": "Metro Manila",
+  "country": "PH",
+  "loc": "14.5869,121.0614",
+  "postal": "1603",
+  "timezone": "Asia/Manila",
+  "asn": {
+    "asn": "AS9658",
+    "name": "Eastern Telecoms Phils., Inc.",
+    "domain": "eastern.com.ph",
+    "route": "115.85.4.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Eastern Telecom Philippines Inc.",
+    "domain": "easterntelecom.com.ph",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "316 Sen. Gil Puyat Ave., Telecoms Plaza Blg.,, Salcedo Village, Makati City.",
+    "country": "PH",
+    "email": "ipnetworks@etpi.com.ph",
+    "name": "ABUSE ETPH",
+    "network": "115.85.0.0/18",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

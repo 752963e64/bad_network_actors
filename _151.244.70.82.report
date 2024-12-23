@@ -1,0 +1,42 @@
+{
+  "ip": "151.244.70.82",
+  "hostname": "151-244-70-82.shatel.ir",
+  "city": "Tehran",
+  "region": "Tehran",
+  "country": "IR",
+  "loc": "35.6944,51.4215",
+  "timezone": "Asia/Tehran",
+  "asn": {
+    "asn": "AS205647",
+    "name": "PARDIS FANVARI PARTAK LTD",
+    "domain": "rasana.net",
+    "route": "151.244.64.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Aria Shatel PJSC",
+    "domain": "shatel.ir",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Arya Rasana Tadbir Co., Tehran, Iran, 1914733444",
+    "country": "IR",
+    "email": "abuse@rasana.net",
+    "name": "SHATEL Network Operations Team",
+    "network": "151.244.0.0/14",
+    "phone": "+98 21 2261 2601"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

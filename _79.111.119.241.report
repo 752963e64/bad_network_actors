@@ -1,0 +1,42 @@
+{
+  "ip": "79.111.119.241",
+  "city": "Serpukhov",
+  "region": "Moscow Oblast",
+  "country": "RU",
+  "loc": "54.9198,37.4162",
+  "postal": "142200",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS12714",
+    "name": "PJSC MegaFon",
+    "domain": "wifire.ru",
+    "route": "79.111.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Net By Net Holding LLC",
+    "domain": "netbynet.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC MegaFon, 41, Oruzheyniy lane, Moscow, 127006, Russian Federation",
+    "country": "RU",
+    "email": "abuse-mailbox@megafon.ru",
+    "name": "MegaFon PJSC - Internet Service Network Operation Center",
+    "network": "79.111.0.0/17",
+    "phone": "+7 495 980 2800"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "210.99.59.212",
+  "city": "Kunwi",
+  "region": "Gyeongsangbuk-do",
+  "country": "KR",
+  "loc": "36.2347,128.5728",
+  "postal": "39013",
+  "timezone": "Asia/Seoul",
+  "asn": {
+    "asn": "AS4766",
+    "name": "Korea Telecom",
+    "domain": "kt.com",
+    "route": "210.99.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Korea Telecom",
+    "domain": "kt.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Jeollanam-do Naju-si Jinheung-gil",
+    "country": "KR",
+    "email": "irt@nic.or.kr",
+    "name": "IP Manager",
+    "network": "210.99.40.0-210.99.75.255",
+    "phone": "+82-2-500-6630"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

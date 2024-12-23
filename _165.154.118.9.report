@@ -1,0 +1,41 @@
+{
+  "ip": "165.154.118.9",
+  "city": "Bangkok",
+  "region": "Bangkok",
+  "country": "TH",
+  "loc": "13.7540,100.5014",
+  "postal": "10200",
+  "timezone": "Asia/Bangkok",
+  "asn": {
+    "asn": "AS135377",
+    "name": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "domain": "ucloud.cn",
+    "route": "165.154.118.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "domain": "ucloud.cn",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "FLAT/RM 603 6/F, LAWS COMMERCIAL PLAZA, 788 CHEUNG SHA WAN ROAD, KL,, Hong Kong",
+    "country": "HK",
+    "email": "hegui@ucloud.cn",
+    "name": "ABUSE UCLOUDHK",
+    "network": "165.154.118.0-165.154.121.255",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

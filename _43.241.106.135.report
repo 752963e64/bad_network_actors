@@ -1,0 +1,41 @@
+{
+  "ip": "43.241.106.135",
+  "city": "Daegu",
+  "region": "Daegu",
+  "country": "KR",
+  "loc": "35.8703,128.5911",
+  "postal": "41581",
+  "timezone": "Asia/Seoul",
+  "asn": {
+    "asn": "AS18033",
+    "name": "CMB TAEGU BROADCASTING",
+    "domain": "cmb.co.kr",
+    "route": "43.241.106.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CMB TAEGU BROADCAST SUSEONG",
+    "domain": "cmb.co.kr",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Jeollanam-do Naju-si Jinheung-gil",
+    "country": "KR",
+    "email": "irt@nic.or.kr",
+    "name": "IP Manager",
+    "network": "43.241.104.0/22",
+    "phone": "+82-53-218-2000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

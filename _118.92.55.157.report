@@ -1,0 +1,43 @@
+{
+  "ip": "118.92.55.157",
+  "hostname": "118-92-55-157.dsl.dyn.ihug.co.nz",
+  "city": "Pukekohe East",
+  "region": "Auckland",
+  "country": "NZ",
+  "loc": "-37.2000,174.9500",
+  "postal": "2677",
+  "timezone": "Pacific/Auckland",
+  "asn": {
+    "asn": "AS9500",
+    "name": "One New Zealand Group Limited",
+    "domain": "one.nz",
+    "route": "118.92.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "One New Zealand Group Limited",
+    "domain": "one.nz",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Smales Farm, 74 Taharoto Road Takapuna, Auckland 0622 New Zealand",
+    "country": "NZ",
+    "email": "hostmaster.nz@vodafone.com",
+    "name": "ABUSE ONENZNZ",
+    "network": "118.92.0.0/15",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

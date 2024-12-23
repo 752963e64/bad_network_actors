@@ -1,0 +1,42 @@
+{
+  "ip": "82.96.153.213",
+  "city": "Lucé",
+  "region": "Centre",
+  "country": "FR",
+  "loc": "48.4369,1.4636",
+  "postal": "28110",
+  "timezone": "Europe/Paris",
+  "asn": {
+    "asn": "AS199636",
+    "name": "Free Pro SAS",
+    "domain": "freepro.com",
+    "route": "82.96.128.0/18",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Free Pro SAS",
+    "domain": "freepro.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "3, rue Paul Brutus, 13015 Marseille, France",
+    "country": "FR",
+    "email": "abuse@as30781.net",
+    "name": "Free Pro",
+    "network": "82.96.128.0/18",
+    "phone": "+33 4 88 00 65 10"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

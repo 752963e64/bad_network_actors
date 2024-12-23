@@ -1,0 +1,42 @@
+{
+  "ip": "85.209.135.84",
+  "city": "McLean",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "38.9343,-77.1775",
+  "postal": "22101",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS200080",
+    "name": "Ravnix LLC",
+    "domain": "ravnix.net",
+    "route": "85.209.135.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "RAVNIX LLC",
+    "domain": "ravnix.llc",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "1942 Broadway Ste 314C, Boulder, CO, 80302, US",
+    "country": "US",
+    "email": "abuse@ravnix.llc",
+    "name": "RAVNIX LLC",
+    "network": "85.209.135.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

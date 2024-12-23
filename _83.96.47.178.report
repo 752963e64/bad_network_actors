@@ -1,0 +1,41 @@
+{
+  "ip": "83.96.47.178",
+  "city": "Kuwait City",
+  "region": "Al Asimah",
+  "country": "KW",
+  "loc": "29.3697,47.9783",
+  "timezone": "Asia/Kuwait",
+  "asn": {
+    "asn": "AS21050",
+    "name": "Fast Communication Company Ltd",
+    "domain": "fasttelco.com",
+    "route": "83.96.47.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Fast Communication Company Ltd",
+    "domain": "ooredoo.com.kw",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "P.O.BOX 287, Dasman - 15453, Kuwait",
+    "country": "KW",
+    "email": "abuse@fasttelco.net",
+    "name": "FT Abuse",
+    "network": "83.96.47.160/27",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

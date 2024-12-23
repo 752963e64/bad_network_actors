@@ -1,0 +1,43 @@
+{
+  "ip": "187.142.1.98",
+  "hostname": "dsl-187-142-1-98-dyn.prod-infinitum.com.mx",
+  "city": "Tancítaro",
+  "region": "Michoacán",
+  "country": "MX",
+  "loc": "19.3384,-102.3626",
+  "postal": "60460",
+  "timezone": "America/Mexico_City",
+  "asn": {
+    "asn": "AS8151",
+    "name": "UNINET",
+    "domain": "telmex.com",
+    "route": "187.142.0.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Uninet S.A. de C.V.",
+    "domain": "uninet.net.mx",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PERIFERICO SUR, 3190, ALVARO OBREG, 01900 - MEXICO - CX",
+    "country": "MX",
+    "email": "abuse@UNINET.NET.MX",
+    "name": "SEGURIDAD DE RED UNINET",
+    "network": "187.128.0.0/12",
+    "phone": "+52 55 52237234 []"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

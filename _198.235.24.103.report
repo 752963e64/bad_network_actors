@@ -1,0 +1,41 @@
+{
+  "ip": "198.235.24.103",
+  "city": "Changhua",
+  "region": "Taiwan",
+  "country": "TW",
+  "loc": "24.0692,120.5512",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS396982",
+    "name": "Google LLC",
+    "domain": "google.com",
+    "route": "198.235.24.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Palo Alto Networks, Inc",
+    "domain": "paloaltonetworks.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Santa Clara, 3000 Tannery Way, 95054",
+    "country": "US",
+    "email": "dl-ipabuse@paloaltonetworks.com",
+    "name": "IP Abuse",
+    "network": "198.235.24.0/24",
+    "phone": "+1-408-753-4000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

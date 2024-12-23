@@ -1,0 +1,41 @@
+{
+  "ip": "188.53.230.124",
+  "city": "Riyadh",
+  "region": "Riyadh Region",
+  "country": "SA",
+  "loc": "24.6877,46.7219",
+  "timezone": "Asia/Riyadh",
+  "asn": {
+    "asn": "AS39891",
+    "name": "Saudi Telecom Company JSC",
+    "domain": "stc.com.sa",
+    "route": "188.53.230.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Saudi Telecom Company JSC",
+    "domain": "stc.com.sa",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Riyadh, Saudi Arabia",
+    "country": "SA",
+    "email": "registry@stc.com.sa",
+    "name": "STC ABUSE ROLE",
+    "network": "188.53.0.0/16",
+    "phone": "+966114525020"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

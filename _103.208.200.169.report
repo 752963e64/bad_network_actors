@@ -1,0 +1,42 @@
+{
+  "ip": "103.208.200.169",
+  "city": "Sonīpat",
+  "region": "Haryana",
+  "country": "IN",
+  "loc": "28.9948,77.0194",
+  "postal": "131001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS133275",
+    "name": "Gigantic Infotel Pvt Ltd",
+    "domain": "gtel.in",
+    "route": "103.208.200.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Green Energy & Insulation",
+    "domain": "gtel.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "WZ-490 /A, Britannia Chowk",
+    "country": "IN",
+    "email": "ipadmin@gtel.in",
+    "name": "Amit Batra",
+    "network": "103.208.200.0/22",
+    "phone": "+91 01171123123"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

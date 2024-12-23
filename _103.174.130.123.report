@@ -1,0 +1,41 @@
+{
+  "ip": "103.174.130.123",
+  "city": "Mumbai",
+  "region": "Maharashtra",
+  "country": "IN",
+  "loc": "19.0728,72.8826",
+  "postal": "400017",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS147287",
+    "name": "DATAPARADISE",
+    "domain": "dataparadise.net",
+    "route": "103.174.130.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "DATAPARADISE",
+    "domain": "dataparadise.net",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "306 FORTUNE AURA BHAWARKUA MAIN ROAD ,Indore,Madhya Pradesh-452001",
+    "country": "IN",
+    "email": "abuse@dataparadise.net",
+    "name": "AJAY SONGARE",
+    "network": "103.174.130.0/23",
+    "phone": "+91 9691112440"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

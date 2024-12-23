@@ -1,0 +1,42 @@
+{
+  "ip": "181.177.235.86",
+  "city": "Callao",
+  "region": "Callao",
+  "country": "PE",
+  "loc": "-12.0566,-77.1181",
+  "postal": "07001",
+  "timezone": "America/Lima",
+  "asn": {
+    "asn": "AS27843",
+    "name": "WIN EMPRESAS S.A.C.",
+    "domain": "optical.pe",
+    "route": "181.177.235.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "CALLAO SALUD S.A.C.",
+    "domain": "callaosalud.com.pe",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Jr. Ernesto Krumdieck, 287, La Victoria, 13 - Lima -",
+    "country": "BR",
+    "email": "acbort59@gmail.com",
+    "name": "Antonio Carlos Bortolotto",
+    "network": "181.177.235.80/29",
+    "phone": "+51  17107500 [0000]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "87.225.92.109",
+  "city": "Khabarovsk",
+  "region": "Khabarovsk",
+  "country": "RU",
+  "loc": "48.4827,135.0838",
+  "postal": "680000",
+  "timezone": "Asia/Vladivostok",
+  "asn": {
+    "asn": "AS12389",
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "route": "87.225.92.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "PJSC Rostelecom Technical Team",
+    "network": "87.225.92.64/26",
+    "phone": "+7 421 2323794"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

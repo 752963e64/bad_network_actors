@@ -1,0 +1,41 @@
+{
+  "ip": "105.96.92.91",
+  "city": "Algiers",
+  "region": "Algiers",
+  "country": "DZ",
+  "loc": "36.7323,3.0875",
+  "postal": "16006",
+  "timezone": "Africa/Algiers",
+  "asn": {
+    "asn": "AS36947",
+    "name": "Telecom Algeria",
+    "domain": "algerietelecom.dz",
+    "route": "105.96.92.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telecom Algeria",
+    "domain": "algerietelecom.dz",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Alger",
+    "country": "DZ",
+    "email": "security@djaweb.dz",
+    "name": "Security Departement",
+    "network": "105.96.0.0/16",
+    "phone": "+21321911224"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

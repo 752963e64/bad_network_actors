@@ -1,0 +1,42 @@
+{
+  "ip": "112.133.222.158",
+  "city": "Penukonda",
+  "region": "Andhra Pradesh",
+  "country": "IN",
+  "loc": "14.0829,77.5947",
+  "postal": "515110",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS24186",
+    "name": "RailTel Corporation of India Ltd",
+    "domain": "railtelindia.com",
+    "route": "112.133.222.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Shri Vishnu Engineering College for Women Autonomous, Bhimavaram",
+    "domain": "railtel.in",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Plot No, 143, Sector 44 ,Gurugram, Haryana ,122003",
+    "country": "IN",
+    "email": "abuse@railtelindia.com",
+    "name": "Pradeep Kumar",
+    "network": "112.133.222.158/32",
+    "phone": "+91-11-51501455"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

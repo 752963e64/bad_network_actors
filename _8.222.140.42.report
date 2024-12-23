@@ -1,0 +1,41 @@
+{
+  "ip": "8.222.140.42",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.2897,103.8501",
+  "postal": "018989",
+  "timezone": "Asia/Singapore",
+  "asn": {
+    "asn": "AS45102",
+    "name": "Alibaba (US) Technology Co., Ltd.",
+    "domain": "alibabagroup.com",
+    "route": "8.222.128.0/18",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Alibaba Cloud (Singapore) Private Limited",
+    "domain": "alibabacloud.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "1 Raffles Place # 59-00 One Raffles Place, Tower One Singapore, Singapore",
+    "country": "SG",
+    "email": "abuse@alibaba-inc.com",
+    "name": "ABUSE ASEPLSG",
+    "network": "8.208.0.0/12",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "80.234.77.134",
+  "hostname": "77.234.80-134.samtel.ru",
+  "city": "Samara",
+  "region": "Samara Oblast",
+  "country": "RU",
+  "loc": "53.2001,50.1500",
+  "postal": "446393",
+  "timezone": "Europe/Samara",
+  "asn": {
+    "asn": "AS12389",
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "route": "80.234.77.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "PJSC Rostelecom Technical Team",
+    "network": "80.234.0.0/17",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

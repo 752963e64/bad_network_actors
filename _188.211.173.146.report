@@ -1,0 +1,43 @@
+{
+  "ip": "188.211.173.146",
+  "hostname": "bcd3ad92.static.cust.trined.nl",
+  "city": "Boxtel",
+  "region": "North Brabant",
+  "country": "NL",
+  "loc": "51.5908,5.3292",
+  "postal": "5281",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS207375",
+    "name": "Fiber Operator B.V.",
+    "domain": "fiber-operator.nl",
+    "route": "188.211.172.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TriNed B.V.",
+    "domain": "trined.nl",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Postbus 96, 5490AB, Sint-Oedenrode, NETHERLANDS",
+    "country": "NL",
+    "email": "abuse@tnoc.nl",
+    "name": "Abuse-C Role",
+    "network": "188.211.172.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

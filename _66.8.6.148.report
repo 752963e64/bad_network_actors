@@ -1,0 +1,47 @@
+{
+  "ip": "66.8.6.148",
+  "city": "Johannesburg",
+  "region": "Gauteng",
+  "country": "ZA",
+  "loc": "-26.2023,28.0436",
+  "postal": "2041",
+  "timezone": "Africa/Johannesburg",
+  "asn": {
+    "asn": "AS16637",
+    "name": "MTN SA",
+    "domain": "mtn.com",
+    "route": "66.8.0.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "MTN SA",
+    "domain": "mtn.com",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "MTN",
+    "mcc": "655",
+    "mnc": "10"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "216 14th Avenue, Fairland, Roodepoort, 2195., Roodepoort, Other",
+    "country": "ZA",
+    "email": "antonio.teixeira@mtn.com",
+    "name": "Antonio Teixeira",
+    "network": "66.8.0.0/17",
+    "phone": "tel:+27-11-912-3000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

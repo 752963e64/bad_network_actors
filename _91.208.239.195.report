@@ -1,0 +1,42 @@
+{
+  "ip": "91.208.239.195",
+  "city": "Bradford",
+  "region": "England",
+  "country": "GB",
+  "loc": "53.7939,-1.7521",
+  "postal": "BD1",
+  "timezone": "Europe/London",
+  "asn": {
+    "asn": "AS48003",
+    "name": "Wm Morrison Supermarkets Limited",
+    "domain": "morrisonsplc.co.uk",
+    "route": "91.208.239.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "Wm Morrison Supermarkets Limited",
+    "domain": "morrisonsplc.co.uk",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "71 Gain Lane, Bradford, BD3 7DL, United Kingdom",
+    "country": "GB",
+    "email": "ipabuse@vodafone.co.uk",
+    "name": "Abuse-C Role",
+    "network": "91.208.239.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

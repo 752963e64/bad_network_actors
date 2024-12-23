@@ -1,0 +1,42 @@
+{
+  "ip": "38.110.42.254",
+  "hostname": "ioda-active-probing2.inetintel.cc.gatech.edu",
+  "city": "Atlanta",
+  "region": "Georgia",
+  "country": "US",
+  "loc": "33.7490,-84.3880",
+  "postal": "30302",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS2637",
+    "name": "Georgia Institute of Technology",
+    "domain": "gatech.edu",
+    "route": "38.110.42.0/24",
+    "type": "education"
+  },
+  "company": {
+    "name": "Georgia Institute of Technology",
+    "domain": "gatech.edu",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, GA, Atlanta, 756 W Peachtree ST NW, 30308",
+    "country": "US",
+    "email": "abuse@gatech.edu",
+    "name": "Gatech Abuse",
+    "network": "38.110.42.0/24",
+    "phone": "+1-404-385-5555"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}
