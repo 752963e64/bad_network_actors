@@ -1,0 +1,43 @@
+{
+  "ip": "201.234.243.62",
+  "hostname": "201.234.243-62.static.impsat.com.co",
+  "city": "Barrio San Luis",
+  "region": "Bogota D.C.",
+  "country": "CO",
+  "loc": "4.7432,-74.0653",
+  "postal": "111156",
+  "timezone": "America/Bogota",
+  "asn": {
+    "asn": "AS3549",
+    "name": "Level 3 Parent, LLC",
+    "domain": "lumen.com",
+    "route": "201.234.240.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "COMPAÑIA COMERCIAL E INDUSTRIAL LA SABANA AVESCO SAS",
+    "domain": "lumen.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Autopista Norte No 122-35. Piso 7, ,, 11001000 - Bogotá -",
+    "country": "CO",
+    "email": "lacnic_ancol@globalcrossing.com",
+    "name": "COGCCS LACNIC",
+    "network": "201.234.243.60/30",
+    "phone": "+57 1 6119000 [4088]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

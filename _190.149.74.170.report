@@ -1,0 +1,43 @@
+{
+  "ip": "190.149.74.170",
+  "hostname": "170.74.149.190.static.intelnet.net.gt",
+  "city": "Guatemala City",
+  "region": "Guatemala",
+  "country": "GT",
+  "loc": "14.6407,-90.5133",
+  "postal": "01001",
+  "timezone": "America/Guatemala",
+  "asn": {
+    "asn": "AS14754",
+    "name": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+    "domain": "claro.com.gt",
+    "route": "190.149.0.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telgua",
+    "domain": "telgua.com.gt",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Diagonal 15, Avenida la castellana 38-40 zona 8, Edificio Torre Telgua., na,, 01008 - Guatemala -",
+    "country": "GT",
+    "email": "gestion.seguridad@claro.com.gt",
+    "name": "Claro Guatemala",
+    "network": "190.149.0.0/17",
+    "phone": "+502  24217633"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

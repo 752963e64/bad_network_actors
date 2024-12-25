@@ -1,0 +1,42 @@
+{
+  "ip": "190.196.33.240",
+  "city": "Chicureo",
+  "region": "Santiago Metropolitan",
+  "country": "CL",
+  "loc": "-33.2838,-70.6533",
+  "postal": "9340000",
+  "timezone": "America/Santiago",
+  "asn": {
+    "asn": "AS18822",
+    "name": "Manquehuenet",
+    "domain": "gtdmanquehue.com",
+    "route": "190.196.33.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SALCOBRAND S.A.",
+    "domain": "salcobrand.cl",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "adr2791@gmail.com",
+    "name": "Alexandre Duarte Ribeiro",
+    "network": "190.196.33.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

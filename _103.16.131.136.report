@@ -1,0 +1,42 @@
+{
+  "ip": "103.16.131.136",
+  "hostname": "rtrace.ipip.net",
+  "city": "Brisbane",
+  "region": "Queensland",
+  "country": "AU",
+  "loc": "-27.4679,153.0281",
+  "postal": "9000",
+  "timezone": "Australia/Brisbane",
+  "asn": {
+    "asn": "AS133159",
+    "name": "Mammoth Media Pty Ltd",
+    "domain": "mammoth.com.au",
+    "route": "103.16.128.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Mammoth Media Pty Ltd",
+    "domain": "mammoth.com.au",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Suite S04 Level 1 / 34 Coonan St Indooroopilly Qld 4068",
+    "country": "AU",
+    "email": "abuse@mammothmedia.com.au",
+    "name": "ABUSE MAMMOTHMEDIAAU",
+    "network": "103.16.128.0/22",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

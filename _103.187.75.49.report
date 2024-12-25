@@ -1,0 +1,42 @@
+{
+  "ip": "103.187.75.49",
+  "city": "Lucknow",
+  "region": "Uttar Pradesh",
+  "country": "IN",
+  "loc": "26.8393,80.9231",
+  "postal": "226004",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS152538",
+    "name": "Bhomika Network Pvt Ltd",
+    "domain": "bhomika.co.in",
+    "route": "103.187.75.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PRAJ NETWORK PVT LTD",
+    "domain": "prajnetwork.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "LG 17 TARUN MARKET SITAPUR ROAD LUCKNOW, TARUN MARKET,Lucknow,Uttar Pradesh-226020",
+    "country": "IN",
+    "email": "gaurav@prajnetwork.com",
+    "name": "GAURAV SAHU",
+    "network": "103.187.74.0/23",
+    "phone": "+91 9919880011"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

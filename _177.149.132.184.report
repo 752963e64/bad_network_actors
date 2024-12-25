@@ -1,0 +1,43 @@
+{
+  "ip": "177.149.132.184",
+  "hostname": "184.132.149.177.isp.timbrasil.com.br",
+  "city": "Goiânia",
+  "region": "Goiás",
+  "country": "BR",
+  "loc": "-16.6786,-49.2539",
+  "postal": "74000-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS26615",
+    "name": "TIM S/A",
+    "domain": "tim.com.br",
+    "route": "177.149.128.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TIM S/A",
+    "domain": "timbrasil.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse@timbrasil.com.br",
+    "name": "TIM SOC",
+    "network": "177.148.0.0/14",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

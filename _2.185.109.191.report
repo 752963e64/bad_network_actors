@@ -1,0 +1,41 @@
+{
+  "ip": "2.185.109.191",
+  "city": "Kermanshah",
+  "region": "Kermanshah Province",
+  "country": "IR",
+  "loc": "34.3142,47.0650",
+  "timezone": "Asia/Tehran",
+  "asn": {
+    "asn": "AS58224",
+    "name": "Iran Telecommunication Company PJS",
+    "domain": "tci.ir",
+    "route": "2.185.96.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Information Technology Company (ITC)",
+    "domain": "dci.co.ir",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Information Technology Company Ali Asghar Ansari Bayhaghi 1515674311 Teheran IRAN, ISLAMIC REPUBLIC OF",
+    "country": "IR",
+    "email": "abuse@ito.gov.ir",
+    "name": "Abuse-C Role",
+    "network": "2.185.108.0-2.185.127.255",
+    "phone": "+98 831 824 32 32"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

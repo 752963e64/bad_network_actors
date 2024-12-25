@@ -1,0 +1,43 @@
+{
+  "ip": "95.179.243.213",
+  "hostname": "95.179.243.213.vultrusercontent.com",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "postal": "60306",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS20473",
+    "name": "The Constant Company, LLC",
+    "domain": "constant.com",
+    "route": "95.179.240.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Hanauer Landstraße 302",
+    "domain": "vultr.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "14 Cliffwood Ave Suite 300, Metropark South, Matawan, NJ 07747, United States",
+    "country": "US",
+    "email": "abuse@vultr.com",
+    "name": "Vultr Holdings LLC Frankfurt Abuse",
+    "network": "95.179.242.0/23",
+    "phone": "+1-973-849-0500"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

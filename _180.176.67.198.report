@@ -1,0 +1,42 @@
+{
+  "ip": "180.176.67.198",
+  "hostname": "180-176-67-198.dynamic.kbronet.com.tw",
+  "city": "Pingtung",
+  "region": "Taiwan",
+  "country": "TW",
+  "loc": "22.6714,120.4881",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS38841",
+    "name": "kbro CO. Ltd.",
+    "domain": "kbro.com.tw",
+    "route": "180.176.64.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "kbro CO. Ltd.",
+    "domain": "kbro.com.tw",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "kbro CO. Ltd., 8F., No.260, Sec. 2, Bade Rd., Songshan Dist., Taipei City 105, Taiwan (R.O.C.), Taipei Taiwan",
+    "country": "TW",
+    "email": "adm@kbro.com.tw",
+    "name": "adm adm",
+    "network": "180.176.64.0/19",
+    "phone": "+886-2-6611-1688 ext. 15126"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

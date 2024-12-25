@@ -1,0 +1,41 @@
+{
+  "ip": "182.23.83.98",
+  "city": "Banjar",
+  "region": "West Java",
+  "country": "ID",
+  "loc": "-7.1955,107.4313",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS4800",
+    "name": "PT Aplikanusa Lintasarta",
+    "domain": "lintasarta.net",
+    "route": "182.23.83.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ANGKASA PURA I, PT",
+    "domain": "ap1.co.id",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT Aplikanusa Lintasarta, MH Thamrin Kav 3, Menara Thamrin Bulding 12th Floor, Jakarta 10250",
+    "country": "ID",
+    "email": "abuse@idola.net.id",
+    "name": "LINTASARTA ADMINISTRATOR",
+    "network": "182.23.83.96/28",
+    "phone": "+62-21-2302345"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

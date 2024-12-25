@@ -1,0 +1,46 @@
+{
+  "ip": "68.183.90.191",
+  "city": "Doddaballapura",
+  "region": "Karnataka",
+  "country": "IN",
+  "loc": "13.2257,77.5750",
+  "postal": "560100",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS14061",
+    "name": "DigitalOcean, LLC",
+    "domain": "digitalocean.com",
+    "route": "68.183.80.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "DigitalOcean, LLC",
+    "domain": "digitalocean.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "metrovpn"
+  },
+  "abuse": {
+    "address": "US, NY, New York, 101, Ave of the Americas, 10013",
+    "country": "US",
+    "email": "abuse@digitalocean.com",
+    "name": "DigitalOcean Abuse",
+    "network": "68.183.0.0/16",
+    "phone": "+1-347-875-6044"
+  },
+  "domains": {
+    "ip": "68.183.90.191",
+    "total": 3,
+    "domains": [
+      "marktail.in",
+      "pcblanka.com",
+      "rootlevel.in"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "36.113.68.211",
+  "city": "Shanghai",
+  "region": "Shanghai",
+  "country": "CN",
+  "loc": "31.2222,121.4581",
+  "postal": "200000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS137689",
+    "name": "IOT Jiangsu network, Chinatelecom, P.R.China.",
+    "domain": "chinatelecom.cn",
+    "route": "36.113.68.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CHINANET Zhejiang province network",
+    "domain": "hz.zj.cn",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Hangzhou, 288 fucun Road, China",
+    "country": "CN",
+    "email": "antispam_zjnoc@163.com",
+    "name": "ABUSE CHINANETZJ",
+    "network": "36.96.0.0/11",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

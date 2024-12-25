@@ -1,0 +1,41 @@
+{
+  "ip": "197.158.9.190",
+  "city": "Maputo",
+  "region": "Maputo City",
+  "country": "MZ",
+  "loc": "-25.9655,32.5832",
+  "timezone": "Africa/Maputo",
+  "asn": {
+    "asn": "AS30619",
+    "name": "TMCEL - Moçambique Telecom, SA",
+    "domain": "tmcel.mz",
+    "route": "197.158.0.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TMCEL - Moçambique Telecom, SA",
+    "domain": "tmcel.mz",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Rua Belmiro Obadias Muianga, 384",
+    "country": "MZ",
+    "email": "mmussa@tmcel.mz",
+    "name": "Mahomed Mussa",
+    "network": "197.158.0.0/20",
+    "phone": "tel:+258-82-217-2100"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

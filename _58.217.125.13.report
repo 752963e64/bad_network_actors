@@ -1,0 +1,42 @@
+{
+  "ip": "58.217.125.13",
+  "city": "Shanghai",
+  "region": "Shanghai",
+  "country": "CN",
+  "loc": "31.2222,121.4581",
+  "postal": "200000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4134",
+    "name": "CHINANET-BACKBONE",
+    "domain": "chinatelecom.com.cn",
+    "route": "58.208.0.0/12",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CHINANET jiangsu province network",
+    "domain": "chinatelecom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.18,Dianli Road,Zhenjiang 212007",
+    "country": "CN",
+    "email": "ipzj@pub.zj.jsinfo.net",
+    "name": "chinanet-js-zj hostmaster",
+    "network": "58.217.125.0/28",
+    "phone": "+86-511-5235035"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

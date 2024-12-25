@@ -1,0 +1,41 @@
+{
+  "ip": "165.1.122.170",
+  "city": "Valparaíso",
+  "region": "Valparaíso",
+  "country": "CL",
+  "loc": "-33.0360,-71.6296",
+  "postal": "2340000",
+  "timezone": "America/Santiago",
+  "asn": {
+    "asn": "AS31898",
+    "name": "Oracle Corporation",
+    "domain": "oracle.com",
+    "route": "165.1.120.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Oracle Corporation",
+    "domain": "oracle.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, TX, Austin, 2300 Oracle Way, Attn: Domain Administrator, 78741",
+    "country": "US",
+    "email": "abuse@oracleemaildelivery.com",
+    "name": "Network Information Systems Abuse Management",
+    "network": "165.1.64.0/18",
+    "phone": "+1-800-633-0738"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

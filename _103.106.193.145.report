@@ -1,0 +1,42 @@
+{
+  "ip": "103.106.193.145",
+  "city": "Gurugram",
+  "region": "Haryana",
+  "country": "IN",
+  "loc": "28.4601,77.0263",
+  "postal": "122004",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS134319",
+    "name": "Elyzium Technologies Pvt. Ltd.",
+    "domain": "elyzium.co.in",
+    "route": "103.106.193.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Elyzium Consulting",
+    "domain": "elyziumconsulting.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "A-107, XU-1, Gulmohar Enclave,Greater Noida,Uttar Pradesh-201310",
+    "country": "IN",
+    "email": "info@elyziumconsulting.com",
+    "name": "Network Admin",
+    "network": "103.106.192.0/22",
+    "phone": "+91 1206542927"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -32,7 +32,7 @@
     "email": "security@djaweb.dz",
     "name": "Security Departement",
     "network": "105.96.0.0/16",
-    "phone": "+21321911224"
+    "phone": "tel:+213-21-91-12-24"
   },
   "domains": {
     "total": 0,

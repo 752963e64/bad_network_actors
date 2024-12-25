@@ -1,0 +1,43 @@
+{
+  "ip": "66.57.151.236",
+  "hostname": "syn-066-057-151-236.biz.spectrum.com",
+  "city": "Charlotte",
+  "region": "North Carolina",
+  "country": "US",
+  "loc": "35.2271,-80.8431",
+  "postal": "28202",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS11426",
+    "name": "Charter Communications Inc",
+    "domain": "charter.com",
+    "route": "66.57.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Charter Communications Inc",
+    "domain": "charter.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CO, Greenwood Village, P.O. Box 4987, 80155",
+    "country": "US",
+    "email": "abuse@charter.net",
+    "name": "Abuse",
+    "network": "66.57.151.232/29",
+    "phone": "+1-877-777-2263"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "193.140.242.59",
+  "city": "Diyarbakır",
+  "region": "Diyarbakır Province",
+  "country": "TR",
+  "loc": "37.9136,40.2172",
+  "postal": "21070",
+  "timezone": "Europe/Istanbul",
+  "asn": {
+    "asn": "AS8517",
+    "name": "National Academic Network and Information Center",
+    "domain": "ulakbim.gov.tr",
+    "route": "193.140.0.0/16",
+    "type": "education"
+  },
+  "company": {
+    "name": "Dicle University",
+    "domain": "mynet.com",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TUBITAK ULAKBIM YOK Binasi B5-Blok 3 kat Bilkent 06539 ANKARA Turkey",
+    "country": "TR",
+    "email": "abuse@ulakbim.gov.tr",
+    "name": "Abuse-C Role",
+    "network": "193.140.240.0/22",
+    "phone": "+90 412 2488356"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

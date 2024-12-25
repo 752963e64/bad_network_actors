@@ -27,12 +27,12 @@
     "service": ""
   },
   "abuse": {
-    "address": "Taipei Taiwan",
+    "address": "Changhua Telecom Co., Ltd., No. 21, Sec. 21, Hsin-Yi Rd., Taipei Taiwan",
     "country": "TW",
     "email": "network-adm@hinet.net",
-    "name": "HINET",
+    "name": "HINET Network-Adm",
     "network": "210.61.64.0/24",
-    "phone": ""
+    "phone": "+886-2-2322-3495"
   },
   "domains": {
     "page": 0,

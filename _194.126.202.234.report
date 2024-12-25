@@ -1,0 +1,42 @@
+{
+  "ip": "194.126.202.234",
+  "city": "Hong Kong",
+  "region": "Hong Kong",
+  "country": "HK",
+  "loc": "22.2783,114.1747",
+  "postal": "999077",
+  "timezone": "Asia/Hong_Kong",
+  "asn": {
+    "asn": "AS136038",
+    "name": "HDTIDC LIMITED",
+    "domain": "allcloud.cc",
+    "route": "194.126.202.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "HDTIDC LIMITED",
+    "domain": "allcloud.cc",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "FLAT/RM B-01 20/F, Full WIN COMMERCIAL CENTRE, 573 NATHAN ROAD, YAU MA TEI, HONGKONG",
+    "country": "HK",
+    "email": "abuse@allcloud.cc",
+    "name": "Abuse contact role object",
+    "network": "194.126.202.0/24",
+    "phone": "+852-30696943"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

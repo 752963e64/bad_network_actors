@@ -1,0 +1,42 @@
+{
+  "ip": "46.26.235.81",
+  "hostname": "static-81-235-26-46.ipcom.comunitel.net",
+  "city": "Madrid",
+  "region": "Madrid",
+  "country": "ES",
+  "loc": "40.4165,-3.7026",
+  "postal": "28004",
+  "timezone": "Europe/Madrid",
+  "asn": {
+    "asn": "AS12430",
+    "name": "VODAFONE ESPANA S.A.U.",
+    "domain": "vodafone.es",
+    "route": "46.24.0.0/14",
+    "type": "isp"
+  },
+  "company": {
+    "name": "VODAFONE ESPANA, S.A.U",
+    "domain": "vodafone.es",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Vodafone Spain, Avenida de América, 115, 28042, Madrid, Spain",
+    "country": "ES",
+    "email": "abuse@corp.vodafone.es",
+    "name": "VODAFONE ESPANA ROLE",
+    "network": "46.26.201.0-46.26.255.255",
+    "phone": "+34 607133333"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

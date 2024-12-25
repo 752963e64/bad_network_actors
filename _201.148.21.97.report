@@ -1,0 +1,43 @@
+{
+  "ip": "201.148.21.97",
+  "hostname": "97.201-148-21.bestelclientes.com.mx",
+  "city": "Mexico City",
+  "region": "Mexico City",
+  "country": "MX",
+  "loc": "19.4285,-99.1277",
+  "postal": "03020",
+  "timezone": "America/Mexico_City",
+  "asn": {
+    "asn": "AS18734",
+    "name": "Operbes, S.A. de C.V.",
+    "domain": "bestel.com.mx",
+    "route": "201.148.0.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Operbes, S.A. de C.V.",
+    "domain": "izzi.mx",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Javier Barros Sierra, 540, Col. Lomas de Santa Fe, 01219 - Deleg. Alvaro Obregon - CX",
+    "country": "MX",
+    "email": "abuse@bestel.com.mx",
+    "name": "ABUSE OPERBES - SEGURIDAD DE RED",
+    "network": "201.148.0.0/19",
+    "phone": "+52  5540002222"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

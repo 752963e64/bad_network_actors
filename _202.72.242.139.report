@@ -1,0 +1,41 @@
+{
+  "ip": "202.72.242.139",
+  "city": "Saynshand",
+  "region": "East Gobi Aymag",
+  "country": "MN",
+  "loc": "44.8824,110.1163",
+  "timezone": "Asia/Ulaanbaatar",
+  "asn": {
+    "asn": "AS24320",
+    "name": "Railcom - Commercial Center,",
+    "domain": "railcom.mn",
+    "route": "202.72.242.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Mongolian Railway Commercial Center - Railcom,",
+    "domain": "railcom.mn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Railcom - Commercial Center,, Narnii zam - 8, Bayangol district, P.O.Box - 35-212, Ulaanbaatar 16052, Mongolia, Ulaanbaatar, Mongolia",
+    "country": "MN",
+    "email": "abuse@railcom.mn",
+    "name": "ABUSE RAILCOMMN",
+    "network": "202.72.240.0/21",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

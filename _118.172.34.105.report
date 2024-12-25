@@ -1,0 +1,43 @@
+{
+  "ip": "118.172.34.105",
+  "hostname": "node-6sp.pool-118-172.dynamic.totinternet.net",
+  "city": "Khanu Woralaksaburi",
+  "region": "Kamphaeng Phet",
+  "country": "TH",
+  "loc": "16.0617,99.8606",
+  "postal": "62130",
+  "timezone": "Asia/Bangkok",
+  "asn": {
+    "asn": "AS23969",
+    "name": "TOT Public Company Limited",
+    "domain": "ntplc.co.th",
+    "route": "118.172.34.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TOT Public Company Limited Bangkok",
+    "domain": "tot.co.th",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",
+    "country": "TH",
+    "email": "abuse@totisp.net",
+    "name": "Pansak Arpakajorn",
+    "network": "118.172.34.0/24",
+    "phone": "+66-2574-9178"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

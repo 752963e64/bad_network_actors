@@ -1,0 +1,46 @@
+{
+  "ip": "91.215.41.41",
+  "city": "Rostov-na-Donu",
+  "region": "Rostov",
+  "country": "RU",
+  "loc": "47.2364,39.7139",
+  "postal": "344010",
+  "timezone": "Europe/Moscow",
+  "anycast": true,
+  "asn": {
+    "asn": "AS57724",
+    "name": "DDOS-GUARD LTD",
+    "domain": "ddos-guard.net",
+    "route": "91.215.41.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "DDOS-GUARD LTD",
+    "domain": "ddos-guard.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "ul. Maksima Gor'kogo, d. 276, floor 5, 344019, Rostov-on-Don, RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "abuse@ddos-guard.net",
+    "name": "Abuse-C Role",
+    "network": "91.215.40.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "91.215.41.41",
+    "total": 2,
+    "domains": [
+      "volnamobile.ru",
+      "ktk-telecom.ru"
+    ]
+  }
+}

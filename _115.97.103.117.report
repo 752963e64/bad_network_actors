@@ -1,0 +1,43 @@
+{
+  "ip": "115.97.103.117",
+  "hostname": "103.97.115.117.hathway.com",
+  "city": "Tirupati",
+  "region": "Andhra Pradesh",
+  "country": "IN",
+  "loc": "13.6355,79.4199",
+  "postal": "517004",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS17488",
+    "name": "Hathway IP Over Cable Internet",
+    "domain": "hathway.net",
+    "route": "115.97.103.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "HATHWAY CABLE AND DATACOM LIMITED",
+    "domain": "hathway.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Trade World, B Wing, 10th Floor, Kamla Mills Compound,, Lower Parel,, Mumbai 400013",
+    "country": "IN",
+    "email": "abuse@hathway.net",
+    "name": "ABUSE HATHWAYIN",
+    "network": "115.96.0.0/14",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

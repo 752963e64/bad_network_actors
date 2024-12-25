@@ -1,0 +1,42 @@
+{
+  "ip": "172.169.109.91",
+  "hostname": "azpdcgb80.stretchoid.com",
+  "city": "Des Moines",
+  "region": "Iowa",
+  "country": "US",
+  "loc": "41.6005,-93.6091",
+  "postal": "50307",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS8075",
+    "name": "Microsoft Corporation",
+    "domain": "microsoft.com",
+    "route": "172.160.0.0/11",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Microsoft Limited",
+    "domain": "microsoft.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, WA, Redmond, One Microsoft Way, 98052",
+    "country": "US",
+    "email": "abuse@microsoft.com",
+    "name": "Microsoft Abuse Contact",
+    "network": "172.128.0.0-172.215.255.255",
+    "phone": "+1-425-882-8080"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

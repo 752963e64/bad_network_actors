@@ -1,0 +1,46 @@
+{
+  "ip": "122.114.12.80",
+  "city": "Zhengzhou",
+  "region": "Henan",
+  "country": "CN",
+  "loc": "34.7578,113.6486",
+  "postal": "450000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4837",
+    "name": "CHINA UNICOM China169 Backbone",
+    "domain": "chinaunicom.cn",
+    "route": "122.114.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Zhengzhou GIANT Computer Network Technology Co., Ltd",
+    "domain": "gainet.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Beijing, China",
+    "country": "CN",
+    "email": "ipas@cnnic.cn",
+    "name": "ABUSE CNNICCN",
+    "network": "122.114.0.0/16",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "ip": "122.114.12.80",
+    "total": 3,
+    "domains": [
+      "bedrock-windows.com",
+      "sdchezhong.com",
+      "muxiongxiong.cn"
+    ]
+  }
+}

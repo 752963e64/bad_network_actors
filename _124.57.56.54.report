@@ -1,0 +1,42 @@
+{
+  "ip": "124.57.56.54",
+  "city": "Ulsan",
+  "region": "Ulsan",
+  "country": "KR",
+  "loc": "35.5372,129.3167",
+  "postal": "44670",
+  "timezone": "Asia/Seoul",
+  "asn": {
+    "asn": "AS17858",
+    "name": "LG POWERCOMM",
+    "domain": "lguplus.co.kr",
+    "route": "124.56.0.0/13",
+    "type": "business"
+  },
+  "company": {
+    "name": "LG POWERCOMM",
+    "domain": "lguplus.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Jeollanam-do Naju-si Jinheung-gil",
+    "country": "KR",
+    "email": "irt@nic.or.kr",
+    "name": "IP Manager",
+    "network": "124.48.0.0/12",
+    "phone": "+82-2-1-01"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

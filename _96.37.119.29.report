@@ -1,0 +1,43 @@
+{
+  "ip": "96.37.119.29",
+  "hostname": "syn-096-037-119-029.res.spectrum.com",
+  "city": "Sheboygan",
+  "region": "Wisconsin",
+  "country": "US",
+  "loc": "43.7508,-87.7145",
+  "postal": "53081",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS20115",
+    "name": "Charter Communications",
+    "domain": "charter.com",
+    "route": "96.37.96.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Charter Communications",
+    "domain": "charter.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CO, Greenwood Village, P.O. Box 4987, 80155",
+    "country": "US",
+    "email": "abuse@charter.net",
+    "name": "Abuse",
+    "network": "96.32.0.0-96.42.255.255",
+    "phone": "+1-877-777-2263"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

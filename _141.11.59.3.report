@@ -1,0 +1,42 @@
+{
+  "ip": "141.11.59.3",
+  "city": "Johannesburg",
+  "region": "Gauteng",
+  "country": "ZA",
+  "loc": "-26.2023,28.0436",
+  "postal": "2041",
+  "timezone": "Africa/Johannesburg",
+  "asn": {
+    "asn": "AS48925",
+    "name": "VibeGAMES B.V.",
+    "domain": "vibegames.com",
+    "route": "141.11.59.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Vantiva SA",
+    "domain": "vantiva.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Private Residence",
+    "country": "NL",
+    "email": "report@abuseradar.com",
+    "name": "Private Customer",
+    "network": "141.11.59.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,11 +1,11 @@
 {
   "ip": "125.25.200.177",
   "hostname": "node-13n5.pool-125-25.dynamic.totinternet.net",
-  "city": "Nakhon Sawan",
-  "region": "Nakhon Sawan",
+  "city": "Surat Thani",
+  "region": "Surat Thani",
   "country": "TH",
-  "loc": "15.7047,100.1372",
-  "postal": "60000",
+  "loc": "9.1401,99.3331",
+  "postal": "84150",
   "timezone": "Asia/Bangkok",
   "asn": {
     "asn": "AS23969",

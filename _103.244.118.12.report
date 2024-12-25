@@ -1,0 +1,42 @@
+{
+  "ip": "103.244.118.12",
+  "city": "Paripark",
+  "region": "Seoul",
+  "country": "KR",
+  "loc": "37.5829,126.8859",
+  "postal": "03921",
+  "timezone": "Asia/Seoul",
+  "asn": {
+    "asn": "AS139648",
+    "name": "PacketStream Korea",
+    "domain": "packet.stream",
+    "route": "103.244.118.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "PacketStream Korea",
+    "domain": "packet.stream",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "207 Regent Street",
+    "country": "CN",
+    "email": "abuse@heficed.com",
+    "name": "Digital Energy Technologies Limited administrator",
+    "network": "103.244.118.0/23",
+    "phone": "+447841016238"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

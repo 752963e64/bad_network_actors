@@ -1,0 +1,43 @@
+{
+  "ip": "96.56.184.26",
+  "hostname": "ool-6038b81a.static.optonline.net",
+  "city": "Huntington",
+  "region": "New York",
+  "country": "US",
+  "loc": "40.8681,-73.4257",
+  "postal": "11743",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS6128",
+    "name": "Cablevision Systems Corp.",
+    "domain": "cablevision.com",
+    "route": "96.56.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Static IP Services",
+    "domain": "alticeusa.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, NY, Hicksville, 111 New South Rd, 11801",
+    "country": "US",
+    "email": "hostmaster@alticeusa.com",
+    "name": "Static IP Services",
+    "network": "96.56.176.0/20",
+    "phone": "+1-516-803-2300"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

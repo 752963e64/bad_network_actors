@@ -1,0 +1,46 @@
+{
+  "ip": "78.47.185.90",
+  "hostname": "mail.larsenrektor.de",
+  "city": "Nürnberg",
+  "region": "Bavaria",
+  "country": "DE",
+  "loc": "49.4542,11.0775",
+  "postal": "90402",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS24940",
+    "name": "Hetzner Online GmbH",
+    "domain": "hetzner.de",
+    "route": "78.46.0.0/15",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Hetzner Online GmbH",
+    "domain": "hetzner.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Hetzner Online GmbH, Industriestrasse 25, D-91710 Gunzenhausen, Germany",
+    "country": "DE",
+    "email": "abuse@hetzner.com",
+    "name": "Hetzner Online GmbH - Contact Role",
+    "network": "78.47.185.80/28",
+    "phone": "+49 9831 505-0"
+  },
+  "domains": {
+    "ip": "78.47.185.90",
+    "total": 2,
+    "domains": [
+      "larsenrektor.de",
+      "lrektor.de"
+    ]
+  }
+}

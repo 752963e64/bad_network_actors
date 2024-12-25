@@ -1,0 +1,43 @@
+{
+  "ip": "185.200.116.70",
+  "hostname": "no-mans-land.m247.com",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.2959,103.7907",
+  "postal": "139963",
+  "timezone": "Asia/Singapore",
+  "asn": {
+    "asn": "AS9009",
+    "name": "M247 Europe SRL",
+    "domain": "m247.com",
+    "route": "185.200.116.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "M247 LTD Singapore Infrastructure",
+    "domain": "m247.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "AirVPN"
+  },
+  "abuse": {
+    "address": "Sos. Fabrica de Glucoza, Nr 11B, etaj 1, Sector 2, Bucuresti Romania",
+    "country": "RO",
+    "email": "abuse@m247.ro",
+    "name": "M247 LTD Singapore Infrastructure",
+    "network": "185.200.116.0/24",
+    "phone": "+441616151270"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

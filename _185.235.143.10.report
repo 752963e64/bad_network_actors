@@ -1,0 +1,44 @@
+{
+  "ip": "185.235.143.10",
+  "city": "Tallinn",
+  "region": "Harjumaa",
+  "country": "EE",
+  "loc": "59.4370,24.7535",
+  "postal": "10111",
+  "timezone": "Europe/Tallinn",
+  "asn": {
+    "asn": "AS211494",
+    "name": "Narayana OU",
+    "domain": "narayana.im",
+    "route": "185.235.143.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Narayana OU",
+    "domain": "narayana.im",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Väike-Paala tn 2, 11415, Tallinn, ESTONIA",
+    "country": "EE",
+    "email": "support@narayana.im",
+    "name": "Abuse-C Role",
+    "network": "185.235.143.0/24",
+    "phone": "+3724444000"
+  },
+  "domains": {
+    "ip": "185.235.143.10",
+    "total": 1,
+    "domains": [
+      "sip-venomspoof.com"
+    ]
+  }
+}

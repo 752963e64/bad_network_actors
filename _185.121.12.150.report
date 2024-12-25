@@ -1,0 +1,42 @@
+{
+  "ip": "185.121.12.150",
+  "city": "Madrid",
+  "region": "Madrid",
+  "country": "ES",
+  "loc": "40.4428,-3.5933",
+  "postal": "28022",
+  "timezone": "Europe/Madrid",
+  "asn": {
+    "asn": "AS49600",
+    "name": "NEAR IP, S.L.",
+    "domain": "nearip.com",
+    "route": "185.121.12.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "JaJoJoo LLC",
+    "domain": "jajojoo.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Kyrgyzstan, Gorkova str, 108",
+    "country": "KG",
+    "email": "support@jajojoo.com",
+    "name": "Abuse contact role object",
+    "network": "185.121.12.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

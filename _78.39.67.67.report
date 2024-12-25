@@ -1,0 +1,41 @@
+{
+  "ip": "78.39.67.67",
+  "city": "Borāzjān",
+  "region": "Bushehr",
+  "country": "IR",
+  "loc": "29.2699,51.2188",
+  "timezone": "Asia/Tehran",
+  "asn": {
+    "asn": "AS58224",
+    "name": "Iran Telecommunication Company PJS",
+    "domain": "tci.ir",
+    "route": "78.39.64.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "BUSHEHR TELECOMUNICATION COMPANY",
+    "domain": "bushehrtelecom.ir",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Information Technology Company Ali Asghar Ansari Bayhaghi 1515674311 Teheran IRAN, ISLAMIC REPUBLIC OF",
+    "country": "IR",
+    "email": "abuse@ito.gov.ir",
+    "name": "Abuse-C Role",
+    "network": "78.39.67.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

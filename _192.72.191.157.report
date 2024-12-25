@@ -1,0 +1,41 @@
+{
+  "ip": "192.72.191.157",
+  "city": "Taipei",
+  "region": "Taiwan",
+  "country": "TW",
+  "loc": "25.0531,121.5264",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS4780",
+    "name": "Digital United Inc.",
+    "domain": "seed.net.tw",
+    "route": "192.72.128.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Digital United I",
+    "domain": "fareastone.com.tw",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "3F., No. 123, Sec. 4, Bade Rd., Songshan Dist., Taipei 105, Taiwan",
+    "country": "TW",
+    "email": "hostmaster@twnic.tw",
+    "name": "ABUSE TWNICAP",
+    "network": "192.72.3.0-192.72.252.255",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

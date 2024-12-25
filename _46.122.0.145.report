@@ -1,0 +1,48 @@
+{
+  "ip": "46.122.0.145",
+  "hostname": "apn-122-0-145-gprs.simobil.net",
+  "city": "Ljubljana",
+  "region": "Ljubljana",
+  "country": "SI",
+  "loc": "46.0511,14.5051",
+  "postal": "1500",
+  "timezone": "Europe/Ljubljana",
+  "asn": {
+    "asn": "AS21283",
+    "name": "A1 Slovenija telekomunikacijske storitve,d.d.",
+    "domain": "a1.si",
+    "route": "46.122.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "A1 Slovenija",
+    "domain": "a1.si",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "A1 SI",
+    "mcc": "293",
+    "mnc": "40"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "A1 Slovenija d.d., Smartinska cesta 134b, SI-1000 Ljubljana, Slovenija",
+    "country": "SI",
+    "email": "abuse@a1.si",
+    "name": "Abuse-C Role",
+    "network": "46.122.0.0/15",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

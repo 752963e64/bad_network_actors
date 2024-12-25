@@ -11,7 +11,7 @@
     "name": "JSC Comcor",
     "domain": "akado-telecom.ru",
     "route": "62.117.64.0/18",
-    "type": "hosting"
+    "type": "isp"
   },
   "company": {
     "name": "JSC Comcor",
@@ -23,7 +23,7 @@
     "proxy": false,
     "tor": false,
     "relay": false,
-    "hosting": true,
+    "hosting": false,
     "service": ""
   },
   "abuse": {

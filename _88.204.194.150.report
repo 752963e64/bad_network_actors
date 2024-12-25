@@ -1,0 +1,41 @@
+{
+  "ip": "88.204.194.150",
+  "hostname": "88.204.194.150.metro.online.kz",
+  "city": "Aktau",
+  "region": "Karaganda",
+  "country": "KZ",
+  "loc": "50.2347,73.0666",
+  "timezone": "Asia/Almaty",
+  "asn": {
+    "asn": "AS9198",
+    "name": "JSC Kazakhtelecom",
+    "domain": "online.kz",
+    "route": "88.204.128.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "The company with limited liability <MKLOMBARD>",
+    "domain": "telecom.kz",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Kazakhtelecom Corporate sales administration, 129 Panfilov, Almaty 050000, Kazakhstan",
+    "country": "KZ",
+    "email": "abuse@telecom.kz",
+    "name": "Kazakhtelecom Network Information Center",
+    "network": "88.204.194.148/30",
+    "phone": "+7 727 2588254"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -11,7 +11,7 @@
     "name": "Linknet ASN",
     "domain": "multipolar.co.id",
     "route": "139.0.24.0/21",
-    "type": "hosting"
+    "type": "isp"
   },
   "company": {
     "name": "PT. First Media,Tbk",

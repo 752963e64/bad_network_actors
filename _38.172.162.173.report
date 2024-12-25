@@ -1,0 +1,41 @@
+{
+  "ip": "38.172.162.173",
+  "city": "Barquisimeto",
+  "region": "Lara",
+  "country": "VE",
+  "loc": "10.0647,-69.3570",
+  "timezone": "America/Caracas",
+  "asn": {
+    "asn": "AS270026",
+    "name": "RED SERVITEL, CA",
+    "domain": "servitel.net.ve",
+    "route": "38.172.162.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "RED SERVITEL, CA",
+    "domain": "servitel.net.ve",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, DC, Washington, 2450 N street, NW, 20037",
+    "country": "US",
+    "email": "abuse@cogentco.com",
+    "name": "Cogent Abuse",
+    "network": "38.172.160.0/19",
+    "phone": "+1-877-875-4311"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

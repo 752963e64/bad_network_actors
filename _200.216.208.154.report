@@ -1,0 +1,42 @@
+{
+  "ip": "200.216.208.154",
+  "city": "Juiz de Fora",
+  "region": "Minas Gerais",
+  "country": "BR",
+  "loc": "-21.7642,-43.3503",
+  "postal": "36000-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS7738",
+    "name": "V tal",
+    "domain": "vtal.com",
+    "route": "200.216.192.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Interfire Tecnologia da Informação Ltda",
+    "domain": "interfire.co.uk",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse@vtal.com",
+    "name": "Seguran�a da Informa��o Vtal",
+    "network": "200.216.208.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

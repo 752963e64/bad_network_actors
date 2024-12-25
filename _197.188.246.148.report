@@ -1,0 +1,41 @@
+{
+  "ip": "197.188.246.148",
+  "city": "Windhoek",
+  "region": "Khomas Region",
+  "country": "NA",
+  "loc": "-22.5594,17.0832",
+  "timezone": "Africa/Windhoek",
+  "asn": {
+    "asn": "AS36996",
+    "name": "Telecom Namibia",
+    "domain": "telecom.na",
+    "route": "197.188.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telecom Namibia",
+    "domain": "telecom.na",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "P.O.Box 297, Windhoek, Namibia, Windhoek 9000, Namibia",
+    "country": "NA",
+    "email": "shipenaa@telecom.na",
+    "name": "Albertine Shipena",
+    "network": "197.188.0.0/16",
+    "phone": "tel:+264-61-201-2271"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

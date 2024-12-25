@@ -1,0 +1,43 @@
+{
+  "ip": "14.136.84.254",
+  "hostname": "014136084254.ctinets.com",
+  "city": "Hong Kong",
+  "region": "Hong Kong",
+  "country": "HK",
+  "loc": "22.2783,114.1747",
+  "postal": "999077",
+  "timezone": "Asia/Hong_Kong",
+  "asn": {
+    "asn": "AS9269",
+    "name": "Hong Kong Broadband Network Ltd.",
+    "domain": "hkbn.net",
+    "route": "14.136.64.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Hong Kong Broadband Network Ltd",
+    "domain": "hkbn.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "15/F Trans Asia Centre, 18 Kin Hong Street, Kwai Chung, N.T.",
+    "country": "HK",
+    "email": "abuse@hkbn.net",
+    "name": "ABUSE HKBNHK",
+    "network": "14.136.0.0/16",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

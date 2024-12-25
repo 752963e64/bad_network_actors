@@ -1,0 +1,42 @@
+{
+  "ip": "82.140.0.80",
+  "city": "Potsdam",
+  "region": "Brandenburg",
+  "country": "DE",
+  "loc": "52.3989,13.0657",
+  "postal": "14461",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS8881",
+    "name": "1&1 Versatel Deutschland GmbH",
+    "domain": "1und1.net",
+    "route": "82.140.0.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "W3 Solutions GmbH",
+    "domain": "w3solutions.de",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Versatel West GmbH, Unterste-Wilms-Strasse 29, 44143 Dortmund, Germany",
+    "country": "DE",
+    "email": "abuse@1und1.net",
+    "name": "Versatel Hostmaster",
+    "network": "82.140.0.0/22",
+    "phone": "+49 (0) 231 399 0"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

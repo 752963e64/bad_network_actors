@@ -24,7 +24,7 @@
     "proxy": false,
     "tor": false,
     "relay": false,
-    "hosting": true,
+    "hosting": false,
     "service": ""
   },
   "abuse": {

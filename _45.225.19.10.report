@@ -1,0 +1,43 @@
+{
+  "ip": "45.225.19.10",
+  "hostname": "45-225-19-10.host.brasildigital.net.br",
+  "city": "Porto Velho",
+  "region": "Rondônia",
+  "country": "BR",
+  "loc": "-8.7619,-63.9039",
+  "postal": "78900-000",
+  "timezone": "America/Porto_Velho",
+  "asn": {
+    "asn": "AS266920",
+    "name": "Globofiber Telecom",
+    "domain": "globofiber.com.br",
+    "route": "45.225.19.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "BRASIL DIGITAL SERVIÇOS DE INFORMATICA E COMERCIO",
+    "domain": "brasildigital.net.br",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "noc@globofiber.com.br",
+    "name": "Globofiber Telecom",
+    "network": "45.225.19.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

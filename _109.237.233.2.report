@@ -1,0 +1,43 @@
+{
+  "ip": "109.237.233.2",
+  "hostname": "109-237-233-2.tv-kvant.ru",
+  "city": "Zaraysk",
+  "region": "Moscow Oblast",
+  "country": "RU",
+  "loc": "54.7633,38.8808",
+  "postal": "140600",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS50449",
+    "name": "Limited Liability Company \"Kvant\"",
+    "domain": "tv-kvant.ru",
+    "route": "109.237.224.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "LLC Kvant NetBLK2",
+    "domain": "tv-kvant.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Limited Liability Company \"Kvant\", Vladimir Karasyov, 1 Uritskiy str, 140600, Zaraysk, RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "ktv_kvant@mail.ru",
+    "name": "Abuse-C Role",
+    "network": "109.237.232.0/21",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

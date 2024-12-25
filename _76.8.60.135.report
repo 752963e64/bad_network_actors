@@ -1,11 +1,11 @@
 {
   "ip": "76.8.60.135",
   "hostname": "vps-servers.vpslaunch.com",
-  "city": "Trooper",
+  "city": "Philadelphia",
   "region": "Pennsylvania",
   "country": "US",
-  "loc": "40.1498,-75.4018",
-  "postal": "19415",
+  "loc": "39.9524,-75.1636",
+  "postal": "19099",
   "timezone": "America/New_York",
   "asn": {
     "asn": "AS397384",

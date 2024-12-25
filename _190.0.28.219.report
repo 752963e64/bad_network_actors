@@ -1,0 +1,43 @@
+{
+  "ip": "190.0.28.219",
+  "hostname": "vigitecol.com",
+  "city": "Medellín",
+  "region": "Antioquia",
+  "country": "CO",
+  "loc": "6.2518,-75.5636",
+  "postal": "050001",
+  "timezone": "America/Bogota",
+  "asn": {
+    "asn": "AS13489",
+    "name": "UNE EPM TELECOMUNICACIONES S.A.",
+    "domain": "une.com.co",
+    "route": "190.0.0.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "EPM Telecomunicaciones S.A. E.S.P.",
+    "domain": "epm.net.co",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Rivana, 100,, 00 - MEDELLIN - ANTIOQUIA",
+    "country": "CO",
+    "email": "abuse.internet@tigo.com.co",
+    "name": "Abuso Internet",
+    "network": "190.0.0.0/19",
+    "phone": "+57  3001231234"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "ip": "168.76.20.229",
+  "city": "Hong Kong",
+  "region": "Hong Kong",
+  "country": "HK",
+  "loc": "22.2783,114.1747",
+  "postal": "999077",
+  "timezone": "Asia/Hong_Kong",
+  "asn": {
+    "asn": "AS137951",
+    "name": "ASLINE LIMITED",
+    "domain": "asline.net",
+    "route": "168.76.20.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Free State Education Department",
+    "domain": "ufs.ac.za",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Orange Free State Dept of Education, PO Box 521, Bloemfontein 9300, ZA",
+    "country": "ZA",
+    "email": "hannesduplooy77@gmail.com",
+    "name": "Hannes Du Plooy",
+    "network": "168.76.0.0/16",
+    "phone": "tel:+27-51-407-4054"
+  },
+  "domains": {
+    "ip": "168.76.20.229",
+    "total": 1,
+    "domains": [
+      "artistfaktura.com"
+    ]
+  }
+}

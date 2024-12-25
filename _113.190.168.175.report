@@ -1,11 +1,11 @@
 {
   "ip": "113.190.168.175",
   "hostname": "static.vnpt.vn",
-  "city": "Hà Đông",
+  "city": "Hanoi",
   "region": "Hanoi",
   "country": "VN",
-  "loc": "20.9714,105.7788",
-  "postal": "12150",
+  "loc": "21.0245,105.8412",
+  "postal": "10000",
   "timezone": "Asia/Bangkok",
   "asn": {
     "asn": "AS45899",

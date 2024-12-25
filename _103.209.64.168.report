@@ -1,0 +1,41 @@
+{
+  "ip": "103.209.64.168",
+  "city": "Himatnagar",
+  "region": "Gujarat",
+  "country": "IN",
+  "loc": "23.5989,72.9660",
+  "postal": "383001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS45916",
+    "name": "Gujarat Telelink Pvt Ltd",
+    "domain": "gtpl.net",
+    "route": "103.209.64.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "GTPL ABHILASH COMMUNICATION PRIVATE LIMITED",
+    "domain": "gtpl.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "202, shahjanand Complex, Opp. Swaminarayan Temple, Shahibag Ahmedabad Gujarat",
+    "country": "IN",
+    "email": "abuse.report@gtpl.net",
+    "name": "Rutul Shah",
+    "network": "103.209.64.0/22",
+    "phone": "+91-9727725806"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

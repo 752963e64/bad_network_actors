@@ -1,0 +1,42 @@
+{
+  "ip": "185.230.160.4",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "postal": "60306",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS208208",
+    "name": "Marco Lingl trading as Cyberse GmbH & Co. KG",
+    "domain": "cyberse.de",
+    "route": "185.230.160.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Marco Lingl trading as Cyberse GmbH & Co. KG",
+    "domain": "venocix.de",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TH Webmedia &amp; Dienstleistungen, Im Fronhof 12, 52428 Juelich",
+    "country": "DE",
+    "email": "abuse@venocix.de",
+    "name": "Abuse",
+    "network": "185.230.160.0/29",
+    "phone": "+4924617039909"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

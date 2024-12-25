@@ -1,0 +1,45 @@
+{
+  "ip": "163.172.49.222",
+  "hostname": "163-172-49-222.rev.poneytelecom.eu",
+  "city": "Paris",
+  "region": "Île-de-France",
+  "country": "FR",
+  "loc": "48.8534,2.3488",
+  "postal": "75000",
+  "timezone": "Europe/Paris",
+  "asn": {
+    "asn": "AS12876",
+    "name": "SCALEWAY S.A.S.",
+    "domain": "scaleway.com",
+    "route": "163.172.0.0/16",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Scaleway Dedibox - Paris, France",
+    "domain": "scaleway.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "8 rue de la ville l'évêque 75008 PARIS",
+    "country": "FR",
+    "email": "abuse@scaleway.com",
+    "name": "Scaleway Dedibox - Paris, France",
+    "network": "163.172.0.0/16",
+    "phone": "+33173502000"
+  },
+  "domains": {
+    "ip": "163.172.49.222",
+    "total": 1,
+    "domains": [
+      "spellworthcomic.com"
+    ]
+  }
+}

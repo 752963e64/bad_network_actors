@@ -1,0 +1,43 @@
+{
+  "ip": "131.108.167.78",
+  "hostname": "131-108-167-78.netwaytelecon.com.br",
+  "city": "São Paulo",
+  "region": "São Paulo",
+  "country": "BR",
+  "loc": "-23.5475,-46.6361",
+  "postal": "01000-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS61678",
+    "name": "NETWAY INFORMATICA LTDA",
+    "domain": "netwayro.com.br",
+    "route": "131.108.167.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "NETWAY INFORMATICA LTDA",
+    "domain": "netway.inf.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "abuse@netway.inf.br",
+    "name": "Abuse Grupo Netway",
+    "network": "131.108.164.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

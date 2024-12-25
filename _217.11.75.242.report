@@ -1,0 +1,41 @@
+{
+  "ip": "217.11.75.242",
+  "city": "Almaty",
+  "region": "Almaty",
+  "country": "KZ",
+  "loc": "43.2500,76.9167",
+  "timezone": "Asia/Almaty",
+  "asn": {
+    "asn": "AS8720",
+    "name": "Aspan telecom",
+    "domain": "aspan.kz",
+    "route": "217.11.75.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "internet_clients_Aspan_Telecom",
+    "domain": "aspan.kz",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Kazakhstan Almaty Solodovnikova 21E",
+    "country": "KZ",
+    "email": "admin@aspan.kz",
+    "name": "Abuse admin",
+    "network": "217.11.75.0/24",
+    "phone": "+7 727 3410141"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

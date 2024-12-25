@@ -1,0 +1,43 @@
+{
+  "ip": "79.124.60.218",
+  "hostname": "ip-60-218.4vendeta.com",
+  "city": "Sofia",
+  "region": "Sofia-Capital",
+  "country": "BG",
+  "loc": "42.6975,23.3241",
+  "postal": "1000",
+  "timezone": "Europe/Sofia",
+  "asn": {
+    "asn": "AS50360",
+    "name": "Tamatiya EOOD",
+    "domain": "4vendeta.com",
+    "route": "79.124.60.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Tamatiya EOOD",
+    "domain": "4vendeta.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "35, Ivan Vazov str, Sopot, Bulgaria",
+    "country": "BG",
+    "email": "noc@4vendeta.com",
+    "name": "Abuse-C Role",
+    "network": "79.124.60.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

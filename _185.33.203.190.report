@@ -1,0 +1,43 @@
+{
+  "ip": "185.33.203.190",
+  "hostname": "mail.mfc-samara.ru",
+  "city": "Samara",
+  "region": "Samara Oblast",
+  "country": "RU",
+  "loc": "53.2001,50.1500",
+  "postal": "446393",
+  "timezone": "Europe/Samara",
+  "asn": {
+    "asn": "AS197235",
+    "name": "AVANTEL SAMARA",
+    "domain": "avantel.ru",
+    "route": "185.33.200.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Avantel",
+    "domain": "avantel.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Aerodromnaya 45, 443070, Samara, Russian Federation",
+    "country": "RU",
+    "email": "support-samara@avantel.ru",
+    "name": "ABUSE-C Avantel branch in Samara",
+    "network": "185.33.202.0/23",
+    "phone": "+7 846 2070100"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

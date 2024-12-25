@@ -1,0 +1,42 @@
+{
+  "ip": "218.108.150.74",
+  "city": "Shanghai",
+  "region": "Shanghai",
+  "country": "CN",
+  "loc": "31.2222,121.4581",
+  "postal": "200000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS24139",
+    "name": "Huashu media&Network Limited",
+    "domain": "21cn.com",
+    "route": "218.108.128.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "WASU-BB",
+    "domain": "wasu.com.cn",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Gudang Scientific and Economic Park ,No.398, Tian Mu Shan Roa, Hangzhou, Zhejiang, P.R.C",
+    "country": "CN",
+    "email": "xuewei@wasu.com.cn",
+    "name": "Kelly Xue",
+    "network": "218.108.150.0/24",
+    "phone": "+86-571-56808888-8145"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ip": "94.79.4.18",
+  "city": "Moscow",
+  "region": "Moscow",
+  "country": "RU",
+  "loc": "55.7522,37.6156",
+  "postal": "101000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS8732",
+    "name": "JSC Comcor",
+    "domain": "akado-telecom.ru",
+    "route": "94.79.0.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "JSC Comcor",
+    "domain": "akado-telecom.ru",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "133, Varshavskoe sh. Moscow",
+    "country": "RU",
+    "email": "netadm@comcor.ru",
+    "name": "Abuse Contacts",
+    "network": "94.79.4.0/24",
+    "phone": "+7 (495) 411-73-33"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

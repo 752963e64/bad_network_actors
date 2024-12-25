@@ -1,0 +1,43 @@
+{
+  "ip": "217.18.208.225",
+  "hostname": "host-217.18.208.225.kayizer.com",
+  "city": "Bursa",
+  "region": "Bursa Province",
+  "country": "TR",
+  "loc": "40.1956,29.0601",
+  "postal": "16250",
+  "timezone": "Europe/Istanbul",
+  "asn": {
+    "asn": "AS215645",
+    "name": "Kayizer Teknoloji Ltd. Sti.",
+    "domain": "kayizer.com",
+    "route": "217.18.208.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Kayizer Teknoloji Ltd. Sti.",
+    "domain": "kayizer.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Sirketimiz, internet hosting hizmeti saglamaktadir ve YER SAGLAYICI konumundadir.",
+    "country": "TR",
+    "email": "abuse@kayizer.com",
+    "name": "Kayizer Network Operation Center",
+    "network": "217.18.208.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

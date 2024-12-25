@@ -1,0 +1,41 @@
+{
+  "ip": "110.139.237.89",
+  "city": "Gorontalo",
+  "region": "Gorontalo",
+  "country": "ID",
+  "loc": "0.5375,123.0625",
+  "timezone": "Asia/Makassar",
+  "asn": {
+    "asn": "AS7713",
+    "name": "PT Telekomunikasi Indonesia",
+    "domain": "telin.net",
+    "route": "110.139.236.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PT TELKOM INDONESIA",
+    "domain": "telkom.co.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT. TELKOM INDONESIA, Menara Multimedia Lt. 7, Jl. Kebonsirih No.12, JAKARTA",
+    "country": "ID",
+    "email": "ip-admin@telkom.net.id",
+    "name": "PT Telkom Indonesia APNIC Resources Management",
+    "network": "110.139.224.0/20",
+    "phone": "+62-21-3860500"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

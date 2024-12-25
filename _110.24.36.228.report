@@ -1,0 +1,47 @@
+{
+  "ip": "110.24.36.228",
+  "hostname": "110-24-36-228.adsl.fetnet.net",
+  "city": "Taipei",
+  "region": "Taiwan",
+  "country": "TW",
+  "loc": "25.0531,121.5264",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS9674",
+    "name": "Far EastTone Telecommunication Co., Ltd.",
+    "domain": "fareastone.com.tw",
+    "route": "110.24.0.0/13",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Far EasTone Telecommunication Co., Ltd.",
+    "domain": "fareastone.com.tw",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "FarEasTone",
+    "mcc": "466",
+    "mnc": "01"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Far EasTone Telecommunication Co., Ltd., Taipei Taiwan",
+    "country": "TW",
+    "email": "rhung@fareastone.com.tw",
+    "name": "Ryan Hung",
+    "network": "110.24.0.0/18",
+    "phone": "+886-2-2950-5330"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

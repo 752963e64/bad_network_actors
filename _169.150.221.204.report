@@ -1,0 +1,43 @@
+{
+  "ip": "169.150.221.204",
+  "hostname": "unn-169-150-221-204.datapacket.com",
+  "city": "San Jose",
+  "region": "California",
+  "country": "US",
+  "loc": "37.3394,-121.8950",
+  "postal": "95103",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS60068",
+    "name": "Datacamp Limited",
+    "domain": "cdn77.com",
+    "route": "169.150.221.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Datacamp Limited",
+    "domain": "datacamp.co.uk",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Datacamp Limited, Zdenek Cendra, 207 Regent Street, W1B 3HH, London, UNITED KINGDOM",
+    "country": "GB",
+    "email": "abuse@datacamp.co.uk",
+    "name": "Abuse Contact",
+    "network": "169.150.221.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

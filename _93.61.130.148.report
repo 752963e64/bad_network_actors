@@ -1,0 +1,42 @@
+{
+  "ip": "93.61.130.148",
+  "hostname": "93-61-130-148.ip146.fastwebnet.it",
+  "city": "Milan",
+  "region": "Lombardy",
+  "country": "IT",
+  "loc": "45.4643,9.1895",
+  "postal": "20121",
+  "timezone": "Europe/Rome",
+  "asn": {
+    "asn": "AS12874",
+    "name": "Fastweb SpA",
+    "domain": "fastweb.it",
+    "route": "93.60.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Fastweb SpA",
+    "domain": "fastweb.it",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Via Caracciolo, 51, 20155 Milano MI, Italy",
+    "country": "IT",
+    "email": "abuse@fastweb.it",
+    "name": "Fastweb Abuse",
+    "network": "93.61.130.128/25",
+    "phone": "+39 02 45451"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

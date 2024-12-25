@@ -1,0 +1,45 @@
+{
+  "ip": "62.138.7.226",
+  "hostname": "astra4920.dedicatedpanel.com",
+  "city": "Strasbourg",
+  "region": "Grand Est",
+  "country": "FR",
+  "loc": "48.5839,7.7455",
+  "postal": "67000",
+  "timezone": "Europe/Paris",
+  "asn": {
+    "asn": "AS29066",
+    "name": "velia.net Internetdienste GmbH",
+    "domain": "velia.net",
+    "route": "62.138.6.0/23",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Host Europe Group",
+    "domain": "heg.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Host Europe GmbH, Welserstrasse 14, 51149 Koeln",
+    "country": "DE",
+    "email": "abuse@hosteurope.de",
+    "name": "Host Europe Group",
+    "network": "62.138.7.0/24",
+    "phone": "+49 2203 1045 0"
+  },
+  "domains": {
+    "ip": "62.138.7.226",
+    "total": 1,
+    "domains": [
+      "segate.org"
+    ]
+  }
+}

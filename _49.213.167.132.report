@@ -1,0 +1,42 @@
+{
+  "ip": "49.213.167.132",
+  "hostname": "132-167-213-49.tinp.net.tw",
+  "city": "Taichung",
+  "region": "Taiwan",
+  "country": "TW",
+  "loc": "24.1469,120.6839",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS18049",
+    "name": "Taiwan Infrastructure Network Technologie",
+    "domain": "topmso.com.tw",
+    "route": "49.213.160.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Asia Pacific Network Information Centre",
+    "domain": "apnic.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Taiwan Infrastructure Network Technologies, 2F, No. 68, Sec. 1, Kuo-Kung Rd., Da-Li City , Taichung Taiwan",
+    "country": "TW",
+    "email": "ken@topmso.com.tw",
+    "name": "Ken Liao",
+    "network": "49.213.160.0/20",
+    "phone": "+886-4-3705-0705"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

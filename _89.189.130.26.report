@@ -1,0 +1,43 @@
+{
+  "ip": "89.189.130.26",
+  "hostname": "89.189.130.26.static.neft.ufanet.ru",
+  "city": "Neftekamsk",
+  "region": "Bashkortostan Republic",
+  "country": "RU",
+  "loc": "56.0920,54.2661",
+  "postal": "452680",
+  "timezone": "Asia/Yekaterinburg",
+  "asn": {
+    "asn": "AS24955",
+    "name": "JSC \"Ufanet\"",
+    "domain": "ufanet.ru",
+    "route": "89.189.130.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "JSC Ufanet",
+    "domain": "ufanet.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "pr. Oktyabrya, 4/3, Ufa, Russia",
+    "country": "RU",
+    "email": "abuse@ufanet.ru",
+    "name": "JSC Ufanet",
+    "network": "89.189.128.0/20",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

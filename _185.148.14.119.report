@@ -1,0 +1,44 @@
+{
+  "ip": "185.148.14.119",
+  "city": "San Jose",
+  "region": "California",
+  "country": "US",
+  "loc": "37.3329,-121.8916",
+  "postal": "95113",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS41378",
+    "name": "Kirino LLC",
+    "domain": "as41378.net",
+    "route": "185.148.12.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Kirino LLC",
+    "domain": "as41378.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "8100 Greenbelt Station Pkwy, 20770, Greenbelt, UNITED STATES",
+    "country": "US",
+    "email": "abuse@as41378.net",
+    "name": "Abuse-C Role",
+    "network": "185.148.14.0/23",
+    "phone": ""
+  },
+  "domains": {
+    "ip": "185.148.14.119",
+    "total": 1,
+    "domains": [
+      "jks.im"
+    ]
+  }
+}

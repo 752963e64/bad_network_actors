@@ -1,11 +1,11 @@
 {
   "ip": "14.226.161.12",
   "hostname": "static.vnpt.vn",
-  "city": "Chợ Mới",
+  "city": "Long Xuyên",
   "region": "An Giang Province",
   "country": "VN",
-  "loc": "10.5512,105.4044",
-  "postal": "90206",
+  "loc": "10.3864,105.4352",
+  "postal": "90150",
   "timezone": "Asia/Ho_Chi_Minh",
   "asn": {
     "asn": "AS45899",

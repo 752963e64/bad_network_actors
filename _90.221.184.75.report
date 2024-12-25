@@ -1,0 +1,41 @@
+{
+  "ip": "90.221.184.75",
+  "city": "Brayton",
+  "region": "England",
+  "country": "GB",
+  "loc": "53.7651,-1.0892",
+  "postal": "YO8",
+  "timezone": "Europe/London",
+  "asn": {
+    "asn": "AS5607",
+    "name": "Sky UK Limited",
+    "domain": "sky.com",
+    "route": "90.192.0.0/11",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Sky UK Limited",
+    "domain": "sky.uk",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Sky Network Services, 1 Brick Lane, London, E1 6PU, UK",
+    "country": "GB",
+    "email": "abuse@sky.uk",
+    "name": "Sky UK Limited",
+    "network": "90.220.0.0/15",
+    "phone": "+44 20 7032 7000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

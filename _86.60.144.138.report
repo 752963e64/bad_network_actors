@@ -1,0 +1,43 @@
+{
+  "ip": "86.60.144.138",
+  "hostname": "86-60-144-138.dynamic.lounea.fi",
+  "city": "Halikko",
+  "region": "Southwest Finland",
+  "country": "FI",
+  "loc": "60.4000,23.0833",
+  "postal": "24800",
+  "timezone": "Europe/Helsinki",
+  "asn": {
+    "asn": "AS39699",
+    "name": "Lounea Palvelut Oy",
+    "domain": "lounea.fi",
+    "route": "86.60.128.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Lounea palvelut Oy, Tehdaskatu 6, 24100 Salo",
+    "domain": "lounea.fi",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Lounea Oy Tehdaskatu 6 24100 Salo FINLAND",
+    "country": "FI",
+    "email": "abuse@lounea.fi",
+    "name": "Lounea palvelut Oy, Tehdaskatu 6, 24100 Salo",
+    "network": "86.60.144.0/20",
+    "phone": "+358277331"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

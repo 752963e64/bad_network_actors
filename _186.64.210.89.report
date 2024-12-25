@@ -11,7 +11,7 @@
     "asn": "AS52228",
     "name": "Cable Tica",
     "domain": "libertycr.com",
-    "route": "186.64.208.0/22",
+    "route": "186.64.210.0/23",
     "type": "isp"
   },
   "company": {

@@ -1,0 +1,43 @@
+{
+  "ip": "80.62.57.186",
+  "hostname": "80-62-57-186-dynamic.dk.customer.tdc.net",
+  "city": "Kolding",
+  "region": "South Denmark",
+  "country": "DK",
+  "loc": "55.4904,9.4722",
+  "postal": "6000",
+  "timezone": "Europe/Copenhagen",
+  "asn": {
+    "asn": "AS3292",
+    "name": "TDC Holding A/S",
+    "domain": "tdcgroup.com",
+    "route": "80.62.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TDC Holding A/S",
+    "domain": "tdc.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Sletvej 30, DK-8310 Tranbjerg, Denmark",
+    "country": "DK",
+    "email": "postmaster@abuse.mail.dk",
+    "name": "TDC A-S Denmark Abuse",
+    "network": "80.62.56.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

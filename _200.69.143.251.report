@@ -1,0 +1,43 @@
+{
+  "ip": "200.69.143.251",
+  "hostname": "host251.200-69-143.static.telmex.net.ar",
+  "city": "Buenos Aires",
+  "region": "Buenos Aires F.D.",
+  "country": "AR",
+  "loc": "-34.6131,-58.3772",
+  "postal": "1871",
+  "timezone": "America/Argentina/Buenos_Aires",
+  "asn": {
+    "asn": "AS19037",
+    "name": "AMX Argentina S.A.",
+    "domain": "claro.com.ar",
+    "route": "200.69.128.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Techtel LMDS Comunicaciones Interactivas S.A.",
+    "domain": "techtel.com.ar",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Av. de Mayo, 878, -, 1425 - Capital Federal - Other",
+    "country": "AR",
+    "email": "abuse@claro.com.ar",
+    "name": "Abuse Claro AR",
+    "network": "200.69.128.0/19",
+    "phone": "+54  1141098823 [0000]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

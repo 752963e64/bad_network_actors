@@ -1,0 +1,43 @@
+{
+  "ip": "148.245.119.70",
+  "hostname": "jardinesdemexico.com",
+  "city": "Mexico City",
+  "region": "Mexico City",
+  "country": "MX",
+  "loc": "19.4285,-99.1277",
+  "postal": "03020",
+  "timezone": "America/Mexico_City",
+  "asn": {
+    "asn": "AS6503",
+    "name": "Axtel, S.A.B. de C.V.",
+    "domain": "axtel.mx",
+    "route": "148.245.96.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Servicios Broadband Wireless",
+    "domain": "axtel.com.mx",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Boulevard Díaz Ordaz Km. 3.33 L1, San P, Colonia Unidad San Pedro, 66215 - Garza Garcia - NL",
+    "country": "MX",
+    "email": "rogerjav2@HOTMAIL.COM",
+    "name": "Roger Javier Jiménez Luna",
+    "network": "148.245.119.0/24",
+    "phone": "+52  8187486100 [74639]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

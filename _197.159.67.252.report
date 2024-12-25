@@ -1,0 +1,41 @@
+{
+  "ip": "197.159.67.252",
+  "city": "Abuja",
+  "region": "FCT",
+  "country": "NG",
+  "loc": "9.0579,7.4951",
+  "timezone": "Africa/Lagos",
+  "asn": {
+    "asn": "AS37018",
+    "name": "Galaxy Backbone PLC",
+    "domain": "galaxybackbone.com.ng",
+    "route": "197.159.67.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "GAlaxy Backbone Lagos Metro Network",
+    "domain": "galaxybackbone.com",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "61 adetokumbo ademola",
+    "country": "NG",
+    "email": "mukhtar.sadiq@galaxybackbone.com",
+    "name": "Mukhtar Sadiq",
+    "network": "197.159.64.0/22",
+    "phone": "tel:+234-803-711-0730"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

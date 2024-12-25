@@ -1,0 +1,42 @@
+{
+  "ip": "103.179.41.124",
+  "city": "Madurāntakam",
+  "region": "Tamil Nadu",
+  "country": "IN",
+  "loc": "12.5117,79.8849",
+  "postal": "603306",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS149781",
+    "name": "STACKBIT INTERNET SERVICES PRIVATE LIMITED",
+    "domain": "evergreeninternet.in",
+    "route": "103.179.41.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "GTECH COMMUNICATION PRIVATE LIMITED",
+    "domain": "",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "NO. 2/311, SANTHAIMEDU, POIGAI, VELLORE, TAMILNADU,Vellore,Tamil Nadu-632114",
+    "country": "IN",
+    "email": "nmadhavan.123@gmail.com",
+    "name": "NEELAMADHAVAN G",
+    "network": "103.179.40.0/23",
+    "phone": "+91 9994725681"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

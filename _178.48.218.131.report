@@ -1,0 +1,43 @@
+{
+  "ip": "178.48.218.131",
+  "hostname": "catv-178-48-218-131.catv.fixed.vodafone.hu",
+  "city": "Kétegyháza",
+  "region": "Bekes County",
+  "country": "HU",
+  "loc": "46.5333,21.1833",
+  "postal": "5741",
+  "timezone": "Europe/Budapest",
+  "asn": {
+    "asn": "AS21334",
+    "name": "Vodafone Hungary Ltd.",
+    "domain": "vodafone.hu",
+    "route": "178.48.128.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Vodafone Hungary Ltd.",
+    "domain": "vodafone.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Vodafone Hungary Ltd., Lechner Odon fasor 6., 1096, Budapest, HUNGARY",
+    "country": "HU",
+    "email": "abuse.hu@vodafone.com",
+    "name": "Abuse-C Role",
+    "network": "178.48.0.0/16",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

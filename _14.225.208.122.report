@@ -1,0 +1,49 @@
+{
+  "ip": "14.225.208.122",
+  "hostname": "static.vnpt.vn",
+  "city": "Ho Chi Minh City",
+  "region": "Ho Chi Minh",
+  "country": "VN",
+  "loc": "10.8230,106.6296",
+  "postal": "71606",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "asn": {
+    "asn": "AS135905",
+    "name": "VIETNAM POSTS AND TELECOMMUNICATIONS GROUP",
+    "domain": "vnpt.com.vn",
+    "route": "14.225.208.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Vietnam Posts and Telecommunications Group",
+    "domain": "vnpt.com.vn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ha Noi, VietNam",
+    "country": "VN",
+    "email": "hm-changed@vnnic.vn",
+    "name": "Pham Tien Huy",
+    "network": "14.224.0.0/11",
+    "phone": "+84-24-35564944"
+  },
+  "domains": {
+    "ip": "14.225.208.122",
+    "total": 5,
+    "domains": [
+      "gunchienthan.com",
+      "kiemlong.net",
+      "gundautruong.com",
+      "nrorobi.click",
+      "gungosu.com"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "109.115.58.187",
+  "hostname": "net-109-115-58-187.cust.vodafonedsl.it",
+  "city": "Beinasco",
+  "region": "Piedmont",
+  "country": "IT",
+  "loc": "45.0247,7.5856",
+  "postal": "10092",
+  "timezone": "Europe/Rome",
+  "asn": {
+    "asn": "AS30722",
+    "name": "Vodafone Italia S.p.A.",
+    "domain": "vodafone.it",
+    "route": "109.114.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Vodafone Italia S.p.A.",
+    "domain": "vodafone.it",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Via Jervis, 13, Ivrea (TO), ITALY",
+    "country": "IT",
+    "email": "italy.abuse@mail.vodafone.it",
+    "name": "Vodafone Italy",
+    "network": "109.115.0.0/17",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

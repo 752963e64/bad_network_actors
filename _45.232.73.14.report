@@ -1,0 +1,42 @@
+{
+  "ip": "45.232.73.14",
+  "city": "Londrina",
+  "region": "Paraná",
+  "country": "BR",
+  "loc": "-23.3103,-51.1628",
+  "postal": "86000-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS267251",
+    "name": "TELEFONARNET TELECOMUNICACOES",
+    "domain": "telefonarnet.com.br",
+    "route": "45.232.73.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TELEFONARNET TELECOMUNICACOES",
+    "domain": "renpac.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "lacier.dias@renpac.com.br",
+    "name": "Lacier da Costa Dias Junior",
+    "network": "45.232.72.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

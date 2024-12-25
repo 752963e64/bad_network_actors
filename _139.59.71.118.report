@@ -1,0 +1,42 @@
+{
+  "ip": "139.59.71.118",
+  "city": "Doddaballapura",
+  "region": "Karnataka",
+  "country": "IN",
+  "loc": "13.2257,77.5750",
+  "postal": "560100",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS14061",
+    "name": "DigitalOcean, LLC",
+    "domain": "digitalocean.com",
+    "route": "139.59.64.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "DigitalOcean, LLC",
+    "domain": "digitalocean.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "101 Avenue of the Americas, 10th Floor, New York NY 10013",
+    "country": "US",
+    "email": "abuse@digitalocean.com",
+    "name": "ABUSE DIGITALOCEANAP",
+    "network": "139.59.64.0/20",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

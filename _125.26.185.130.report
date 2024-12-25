@@ -1,0 +1,43 @@
+{
+  "ip": "125.26.185.130",
+  "hostname": "node-10n6.pool-125-26.dynamic.totinternet.net",
+  "city": "Hat Yai",
+  "region": "Songkhla",
+  "country": "TH",
+  "loc": "7.0084,100.4767",
+  "postal": "90110",
+  "timezone": "Asia/Bangkok",
+  "asn": {
+    "asn": "AS23969",
+    "name": "TOT Public Company Limited",
+    "domain": "ntplc.co.th",
+    "route": "125.26.184.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TOT Public Company Limited Bangkok",
+    "domain": "tot.co.th",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",
+    "country": "TH",
+    "email": "abuse@totisp.net",
+    "name": "Pansak Arpakajorn",
+    "network": "125.26.185.0/24",
+    "phone": "+66-2574-9178"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

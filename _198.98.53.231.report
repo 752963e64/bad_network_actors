@@ -1,0 +1,43 @@
+{
+  "ip": "198.98.53.231",
+  "hostname": "cloud.slackshell.com",
+  "city": "New York City",
+  "region": "New York",
+  "country": "US",
+  "loc": "40.7143,-74.0060",
+  "postal": "10001",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS53667",
+    "name": "FranTech Solutions",
+    "domain": "frantech.ca",
+    "route": "198.98.48.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "FranTech Solutions",
+    "domain": "frantech.ca",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "VPNGate"
+  },
+  "abuse": {
+    "address": "CA, BC, Victoria, 3252 Glasgow Ave, Unit #401, V8X 1M2",
+    "country": "CA",
+    "email": "admin@frantech.ca",
+    "name": "Francisco Dias",
+    "network": "198.98.48.0/20",
+    "phone": "+1-778-977-8246"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

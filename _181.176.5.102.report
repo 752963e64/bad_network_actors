@@ -1,0 +1,47 @@
+{
+  "ip": "181.176.5.102",
+  "city": "Lima",
+  "region": "Lima Province",
+  "country": "PE",
+  "loc": "-12.0432,-77.0282",
+  "postal": "15001",
+  "timezone": "America/Lima",
+  "asn": {
+    "asn": "AS262210",
+    "name": "VIETTEL PERÚ S.A.C.",
+    "domain": "bitel.com.pe",
+    "route": "181.176.5.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "VIETTEL PERÚ S.A.C.",
+    "domain": "viettel.com.vn",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Bitel",
+    "mcc": "716",
+    "mnc": "15"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Calle 21 Urb.Corpac - San Isidro, 878, -, LIMA27 - Lima -",
+    "country": "PE",
+    "email": "truclc@viettel.com.vn",
+    "name": "Le Chanh Truc",
+    "network": "181.176.0.0/16",
+    "phone": "+51  930234998 [0000]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

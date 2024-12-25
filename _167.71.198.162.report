@@ -19,12 +19,12 @@
     "type": "hosting"
   },
   "privacy": {
-    "vpn": true,
+    "vpn": false,
     "proxy": false,
     "tor": false,
     "relay": false,
     "hosting": true,
-    "service": "TunnelBear"
+    "service": ""
   },
   "abuse": {
     "address": "US, NY, New York, 101, Ave of the Americas, 10013",

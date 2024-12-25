@@ -1,0 +1,44 @@
+{
+  "ip": "124.128.247.169",
+  "city": "Jinan",
+  "region": "Shandong",
+  "country": "CN",
+  "loc": "36.6683,116.9972",
+  "postal": "250000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4837",
+    "name": "CHINA UNICOM China169 Backbone",
+    "domain": "chinaunicom.cn",
+    "route": "124.128.0.0/13",
+    "type": "isp"
+  },
+  "company": {
+    "name": "China Unicom Shandong province network",
+    "domain": "chinaunicom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.77 Jingsan Road,Jinan,Shandong,P.R.China",
+    "country": "CN",
+    "email": "ip@sdinfo.net",
+    "name": "Data Communication Bureau Shandong",
+    "network": "124.128.247.160/28",
+    "phone": "+86-531-6052611"
+  },
+  "domains": {
+    "ip": "124.128.247.169",
+    "total": 1,
+    "domains": [
+      "sdnsfw.com"
+    ]
+  }
+}

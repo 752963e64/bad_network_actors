@@ -1,0 +1,43 @@
+{
+  "ip": "116.202.232.170",
+  "hostname": "root2022.comstark.de",
+  "city": "Falkenstein",
+  "region": "Saxony",
+  "country": "DE",
+  "loc": "50.4779,12.3713",
+  "postal": "08520",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS24940",
+    "name": "Hetzner Online GmbH",
+    "domain": "hetzner.de",
+    "route": "116.202.0.0/16",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Hetzner Online GmbH",
+    "domain": "hetzner.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Hetzner Online GmbH, Industriestrasse 25, D-91710 Gunzenhausen, Germany",
+    "country": "DE",
+    "email": "abuse@hetzner.com",
+    "name": "Hetzner Online GmbH - Contact Role",
+    "network": "116.202.0.0/15",
+    "phone": "+49 9831 505-0"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

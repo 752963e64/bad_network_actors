@@ -1,0 +1,42 @@
+{
+  "ip": "88.228.229.140",
+  "hostname": "88.228.229.140.dynamic.ttnet.com.tr",
+  "city": "İskenderun",
+  "region": "Hatay",
+  "country": "TR",
+  "loc": "36.5872,36.1735",
+  "postal": "31200",
+  "timezone": "Europe/Istanbul",
+  "asn": {
+    "asn": "AS9121",
+    "name": "Turk Telekomunikasyon Anonim Sirketi",
+    "domain": "turktelekom.com.tr",
+    "route": "88.228.128.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Turk Telekomunikasyon Anonim Sirketi",
+    "domain": "turktelekom.com.tr",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Turk Telekomunikasyon A.S Turgut Ozal Blv. Aydinlikevler, 06103 ANKARA TURKEY",
+    "country": "TR",
+    "email": "abuse@turktelekom.com.tr",
+    "name": "Abuse Role",
+    "network": "88.228.0.0/16",
+    "phone": "+90 312 555 0000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}
