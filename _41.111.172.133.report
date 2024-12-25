@@ -1,0 +1,41 @@
+{
+  "ip": "41.111.172.133",
+  "city": "Oran",
+  "region": "Oran",
+  "country": "DZ",
+  "loc": "35.6991,-0.6359",
+  "postal": "31000",
+  "timezone": "Africa/Algiers",
+  "asn": {
+    "asn": "AS36947",
+    "name": "Telecom Algeria",
+    "domain": "algerietelecom.dz",
+    "route": "41.111.128.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "41.111.0.0/20 LAGHOUAT RESIDENTIEL",
+    "domain": "djaweb.dz",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Alger",
+    "country": "DZ",
+    "email": "security@djaweb.dz",
+    "name": "Security Departement",
+    "network": "41.111.0.0/16",
+    "phone": "tel:+213-21-91-12-24"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

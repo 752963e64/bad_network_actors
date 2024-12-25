@@ -1,0 +1,43 @@
+{
+  "ip": "62.221.41.254",
+  "hostname": "dneprosviaz-gw.dniepr.ucomline.net",
+  "city": "Dnipro",
+  "region": "Dnipropetrovsk",
+  "country": "UA",
+  "loc": "48.4666,35.0407",
+  "postal": "49000",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS12883",
+    "name": "PRIVATE JOINT-STOCK COMPANY \"FARLEP-INVEST\"",
+    "domain": "vegatele.com",
+    "route": "62.221.32.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Ucomline LLC",
+    "domain": "ucomline.net",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Kiev, Ukraine",
+    "country": "UA",
+    "email": "abuse@vegatele.com",
+    "name": "Farlep-Invest PJSC",
+    "network": "62.221.41.128/25",
+    "phone": "+380-44-2308430"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

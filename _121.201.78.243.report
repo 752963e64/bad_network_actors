@@ -1,0 +1,41 @@
+{
+  "ip": "121.201.78.243",
+  "city": "Shenzhen",
+  "region": "Guangdong",
+  "country": "CN",
+  "loc": "22.5455,114.0683",
+  "postal": "518000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS58543",
+    "name": "Guangdong",
+    "domain": "chinatelecom.cn",
+    "route": "121.201.64.0/18",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Guangdong RuiJiang Science and Tech Ltd.",
+    "domain": "efly.cc",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Beijing CNISP Technology Co., Ltd",
+    "country": "CN",
+    "email": "support@cnispgroup.com",
+    "name": "ABUSE CNISPCN",
+    "network": "121.201.0.0/17",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

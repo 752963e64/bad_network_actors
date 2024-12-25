@@ -1,0 +1,45 @@
+{
+  "ip": "185.125.200.71",
+  "city": "Amsterdam",
+  "region": "North Holland",
+  "country": "NL",
+  "loc": "52.3740,4.8897",
+  "postal": "1012",
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS9123",
+    "name": "TimeWeb Ltd.",
+    "domain": "timeweb.ru",
+    "route": "185.125.200.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "lease for Timeweb",
+    "domain": "timeweb.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "22/2 lit.A,Zastavskaya str., 196006, Saint-Petersburg, Russia",
+    "country": "RU",
+    "email": "abuse@timeweb.ru",
+    "name": "lease for Timeweb",
+    "network": "185.125.200.0/23",
+    "phone": "+7 812 2481081"
+  },
+  "domains": {
+    "ip": "185.125.200.71",
+    "total": 2,
+    "domains": [
+      "prometheus-build.ru",
+      "prbuild.ru"
+    ]
+  }
+}

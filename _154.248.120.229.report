@@ -1,0 +1,42 @@
+{
+  "ip": "154.248.120.229",
+  "city": "Constantine",
+  "region": "Constantine",
+  "country": "DZ",
+  "loc": "36.3650,6.6147",
+  "postal": "04011",
+  "timezone": "Africa/Algiers",
+  "asn": {
+    "asn": "AS36947",
+    "name": "Telecom Algeria",
+    "domain": "algerietelecom.dz",
+    "route": "154.248.96.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telecom Algeria",
+    "domain": "algerietelecom.dz",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Alger",
+    "country": "DZ",
+    "email": "security@djaweb.dz",
+    "name": "Security Departement",
+    "network": "154.248.0.0/16",
+    "phone": "tel:+213-21-91-12-24"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

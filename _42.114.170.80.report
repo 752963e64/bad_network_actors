@@ -1,0 +1,42 @@
+{
+  "ip": "42.114.170.80",
+  "city": "Hanoi",
+  "region": "Hanoi",
+  "country": "VN",
+  "loc": "21.0245,105.8412",
+  "postal": "10000",
+  "timezone": "Asia/Bangkok",
+  "asn": {
+    "asn": "AS18403",
+    "name": "FPT Telecom Company",
+    "domain": "fpt.vn",
+    "route": "42.114.170.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "FPT Telecom Company",
+    "domain": "fpt.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ha Noi, VietNam",
+    "country": "VN",
+    "email": "hm-changed@vnnic.vn",
+    "name": "Luong Duy Phuong",
+    "network": "42.114.160.0/20",
+    "phone": "+84-24-35564944"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "5.160.123.70",
+  "city": "Shiraz",
+  "region": "Fars",
+  "country": "IR",
+  "loc": "29.6103,52.5311",
+  "timezone": "Asia/Tehran",
+  "asn": {
+    "asn": "AS42337",
+    "name": "Respina Networks & Beyond PJSC",
+    "domain": "respina.net",
+    "route": "5.160.123.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Respina Networks & Beyond PJSC",
+    "domain": "respina.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "UNITED ARAB EMIRATES, Dubai, 95195, Meydan Grandstand, 6th Floor, Meydan Road, Nad Al Sheba.",
+    "country": "AE",
+    "email": "ipmastergroupllc@gmail.com",
+    "name": "Abuse-C Role",
+    "network": "5.160.0.0/16",
+    "phone": "+971 4 777 7222"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

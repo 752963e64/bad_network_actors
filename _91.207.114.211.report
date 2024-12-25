@@ -1,0 +1,38 @@
+{
+  "ip": "91.207.114.211",
+  "hostname": "mail.dv-com.net",
+  "city": "Protvino",
+  "region": "Moscow Oblast",
+  "country": "RU",
+  "loc": "54.8682,37.2158",
+  "postal": "142280",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS213890",
+    "name": "NOVOROS-TELECOM LLC",
+    "domain": "novoros-telecom.ru",
+    "route": "91.207.114.0/24",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Protvino, 142281, Russia",
+    "country": "RU",
+    "email": "alex@bezzubov.ru",
+    "name": "Abuse-C Role",
+    "network": "91.207.114.0/23",
+    "phone": "+74950000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

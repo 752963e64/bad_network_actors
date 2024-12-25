@@ -1,0 +1,43 @@
+{
+  "ip": "60.10.1.34",
+  "hostname": "hebei.10.60.in-addr.arpa",
+  "city": "Ningbo",
+  "region": "Zhejiang",
+  "country": "CN",
+  "loc": "29.8782,121.5494",
+  "postal": "315000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4837",
+    "name": "CHINA UNICOM China169 Backbone",
+    "domain": "chinaunicom.cn",
+    "route": "60.10.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "company LangFang City,Hebei prouince.",
+    "domain": "chinaunicom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "45, Guang An Street, Shi Jiazhuang City, HeBei Province,050011,CN",
+    "country": "CN",
+    "email": "konglf5@chinaunicom.cn",
+    "name": "Kong Lingfei",
+    "network": "60.10.1.0/24",
+    "phone": "+86-311-86681601"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

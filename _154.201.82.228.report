@@ -1,0 +1,44 @@
+{
+  "ip": "154.201.82.228",
+  "city": "Hong Kong",
+  "region": "Hong Kong",
+  "country": "HK",
+  "loc": "22.2783,114.1747",
+  "postal": "999077",
+  "timezone": "Asia/Hong_Kong",
+  "asn": {
+    "asn": "AS142032",
+    "name": "High Family Technology Co., Limited",
+    "domain": "mytgts.com",
+    "route": "154.201.80.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "High Family Technology Co., Limited",
+    "domain": "cloudinnovation.org",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ebene, MU, Mahe, Seychelles",
+    "country": "SC",
+    "email": "abuse@cloudinnovation.org",
+    "name": "Cloud Innovation Support",
+    "network": "154.201.82.0/24",
+    "phone": "tel:+248-4-610-795"
+  },
+  "domains": {
+    "ip": "154.201.82.228",
+    "total": 1,
+    "domains": [
+      "gnmlgb.com"
+    ]
+  }
+}

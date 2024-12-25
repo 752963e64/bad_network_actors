@@ -1,0 +1,42 @@
+{
+  "ip": "45.14.106.240",
+  "hostname": "s4850.vps.hosting",
+  "city": "Osaka",
+  "region": "Osaka",
+  "country": "JP",
+  "loc": "34.6938,135.5011",
+  "postal": "543-0062",
+  "timezone": "Asia/Tokyo",
+  "asn": {
+    "asn": "AS4785",
+    "name": "xTom",
+    "domain": "xtom.com",
+    "route": "45.14.106.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "V.PS Osaka",
+    "domain": "v.ps",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "1-26-1 Shinmachi Nishi-ku, Osaka, 550-0013, Japan",
+    "country": "JP",
+    "email": "abuse@vps.hosting",
+    "name": "V.PS Osaka Administrator",
+    "network": "45.14.106.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "ip": "122.173.26.100",
+  "hostname": "abts-north-dynamic-100.26.173.122.airtelbroadband.in",
+  "city": "Chandīgarh",
+  "region": "Chandigarh",
+  "country": "IN",
+  "loc": "30.7363,76.7884",
+  "postal": "140119",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS24560",
+    "name": "Bharti Airtel Ltd., Telemedia Services",
+    "domain": "airtel.com",
+    "route": "122.173.24.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Bharti Airtel Ltd, C-25,Phase-2,Industrial Area. Mohali(SAS Nagar) Punjab-160055 IN",
+    "domain": "airtel.com",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "Airtel",
+    "mcc": "404",
+    "mnc": "02"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Bharti Airtel Ltd.",
+    "country": "IN",
+    "email": "dsltac2north.unoc@airtel.com",
+    "name": "ABUSE BHARTITELEMEDIAIN",
+    "network": "122.173.0.0/16",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

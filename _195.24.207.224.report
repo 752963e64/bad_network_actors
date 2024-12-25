@@ -1,0 +1,41 @@
+{
+  "ip": "195.24.207.224",
+  "city": "Douala",
+  "region": "Littoral",
+  "country": "CM",
+  "loc": "4.0483,9.7043",
+  "timezone": "Africa/Douala",
+  "asn": {
+    "asn": "AS15964",
+    "name": "CAMTEL",
+    "domain": "camtel.cm",
+    "route": "195.24.192.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CAMTEL",
+    "domain": "camtel.cm",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CAMTEL, Yaounde, Cameroon",
+    "country": "CM",
+    "email": "jules.ngamba@camtel.cm",
+    "name": "Jules NGAMBA",
+    "network": "195.24.207.0/24",
+    "phone": "tel:+237-2-22-23-40-65"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

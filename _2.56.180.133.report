@@ -1,0 +1,42 @@
+{
+  "ip": "2.56.180.133",
+  "city": "Kazan",
+  "region": "Tatarstan Republic",
+  "country": "RU",
+  "loc": "55.7887,49.1221",
+  "postal": "422525",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS31566",
+    "name": "SkyNetwork Ltd.",
+    "domain": "skynet.ru",
+    "route": "2.56.180.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Skynetwork LLC",
+    "domain": "skynet.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Moscowskya 15, 420030, Kazan, RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "noc@skynet-kazan.com",
+    "name": "Abuse-C Role",
+    "network": "2.56.180.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

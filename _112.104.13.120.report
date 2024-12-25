@@ -1,0 +1,42 @@
+{
+  "ip": "112.104.13.120",
+  "hostname": "112-104-13-120.adsl.dynamic.seed.net.tw",
+  "city": "Hsinchu",
+  "region": "Taiwan",
+  "country": "TW",
+  "loc": "24.8036,120.9686",
+  "timezone": "Asia/Taipei",
+  "asn": {
+    "asn": "AS4780",
+    "name": "Digital United Inc.",
+    "domain": "seed.net.tw",
+    "route": "112.104.0.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "New Century InfoComm Tech. Co., Ltd.",
+    "domain": "seed.net.tw",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "New Century InfoComm Tech Co., Ltd, No.218, Rueiguang Road,Nei-Hu, Taipei City, TW Taiwan",
+    "country": "TW",
+    "email": "antispam@seed.net.tw",
+    "name": "Anti-Spammer NCIC",
+    "network": "112.104.0.0/19",
+    "phone": "+886-2-7700-8888"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

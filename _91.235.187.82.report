@@ -1,0 +1,43 @@
+{
+  "ip": "91.235.187.82",
+  "hostname": "host-91-235-187-82.baza.net",
+  "city": "Vologda",
+  "region": "Vologda Oblast",
+  "country": "RU",
+  "loc": "59.2239,39.8840",
+  "postal": "160000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS49821",
+    "name": "Electrica LLC",
+    "domain": "baza.net",
+    "route": "91.235.184.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Electrica LLC",
+    "domain": "baza.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Maltseva st., n. 52, of. 313, 160009, Vologda, RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "abuse@baza.net",
+    "name": "Abuse-C Role",
+    "network": "91.235.184.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

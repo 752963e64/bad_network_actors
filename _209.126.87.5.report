@@ -1,0 +1,45 @@
+{
+  "ip": "209.126.87.5",
+  "hostname": "vmi1566388.contaboserver.net",
+  "city": "St. Louis",
+  "region": "Missouri",
+  "country": "US",
+  "loc": "38.6273,-90.1979",
+  "postal": "63101",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS40021",
+    "name": "Nubes, LLC",
+    "domain": "nubes-llc.com",
+    "route": "209.126.80.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Contabo Inc.",
+    "domain": "contabo.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "DE, , Munich, Aschauer Str. 32a, 81549",
+    "country": "DE",
+    "email": "abuse@contabo.de",
+    "name": "Contabo Abuse Department",
+    "network": "209.126.80.0/21",
+    "phone": "+498921268372"
+  },
+  "domains": {
+    "ip": "209.126.87.5",
+    "total": 1,
+    "domains": [
+      "nectaserve.com"
+    ]
+  }
+}

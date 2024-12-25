@@ -1,0 +1,43 @@
+{
+  "ip": "185.233.117.25",
+  "hostname": "vps-29629.vps-default-host.net",
+  "city": "Kyiv",
+  "region": "Kyiv City",
+  "country": "UA",
+  "loc": "50.4547,30.5238",
+  "postal": "03027",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS200000",
+    "name": "Hosting Ukraine LTD",
+    "domain": "ukraine.com.ua",
+    "route": "185.233.116.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Hosting Ukraine LTD",
+    "domain": "ukraine.com.ua",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Hosting Ukraine LTD, PO Box 65, 04112, Kiev, Ukraine",
+    "country": "UA",
+    "email": "network@abuse.team",
+    "name": "Hosting Ukraine Ltd. Netmaster",
+    "network": "185.233.116.0/23",
+    "phone": "+380443927433"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

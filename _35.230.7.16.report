@@ -1,0 +1,42 @@
+{
+  "ip": "35.230.7.16",
+  "hostname": "16.7.230.35.bc.googleusercontent.com",
+  "city": "The Dalles",
+  "region": "Oregon",
+  "country": "US",
+  "loc": "45.5946,-121.1787",
+  "postal": "97058",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS396982",
+    "name": "Google LLC",
+    "domain": "google.com",
+    "route": "35.230.0.0/17",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Google LLC",
+    "domain": "google.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CA, Mountain View, 1600 Amphitheatre Parkway, 94043",
+    "country": "US",
+    "email": "google-cloud-compliance@google.com",
+    "name": "GC Abuse",
+    "network": "35.208.0.0-35.247.255.255",
+    "phone": "+1-650-253-0000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

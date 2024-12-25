@@ -1,0 +1,42 @@
+{
+  "ip": "86.98.158.190",
+  "hostname": "bba-86-98-158-190.alshamil.net.ae",
+  "city": "Al Fujairah City",
+  "region": "Fujairah",
+  "country": "AE",
+  "loc": "25.1164,56.3414",
+  "timezone": "Asia/Dubai",
+  "asn": {
+    "asn": "AS5384",
+    "name": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
+    "domain": "emirates.net.ae",
+    "route": "86.98.128.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Emirates Telecommunications Corporation",
+    "domain": "etisalat.ae",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "P.O. Box 93939 Dubai United Arab Emirates",
+    "country": "AE",
+    "email": "abuse@emirates.net.ae",
+    "name": "Emirates Telecommunications Corporation",
+    "network": "86.98.154.0-86.98.158.255",
+    "phone": "+971 800 6100"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

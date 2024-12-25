@@ -1,0 +1,43 @@
+{
+  "ip": "185.178.244.252",
+  "hostname": "ns-2.more-telecom.ru",
+  "city": "Melitopol",
+  "region": "Zaporizhzhia",
+  "country": "UA",
+  "loc": "46.8473,35.3820",
+  "postal": "72300",
+  "timezone": "Europe/Kyiv",
+  "asn": {
+    "asn": "AS215503",
+    "name": "MUE \"SEA TELECOM\" VGA MELITOPOL ZAPORIZHIE REGION",
+    "domain": "more-telecom.ru",
+    "route": "185.178.244.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "MUE SEA TELECOM VGA MELITOPOL ZAPORIZHIE REGION",
+    "domain": "more-telecom.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Zaporozhye region, Melitopol, Bogdan Khmelnitsky Ave. 28",
+    "country": "RU",
+    "email": "moretelecom@yandex.ru",
+    "name": "Abuse contact role object",
+    "network": "185.178.244.0/24",
+    "phone": "+74993211735"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

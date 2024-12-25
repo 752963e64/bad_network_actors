@@ -1,0 +1,44 @@
+{
+  "ip": "134.209.176.25",
+  "city": "London",
+  "region": "England",
+  "country": "GB",
+  "loc": "51.5085,-0.1257",
+  "postal": "E1W",
+  "timezone": "Europe/London",
+  "asn": {
+    "asn": "AS14061",
+    "name": "DigitalOcean, LLC",
+    "domain": "digitalocean.com",
+    "route": "134.209.176.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "DigitalOcean, LLC",
+    "domain": "digitalocean.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, NY, New York, 101, Ave of the Americas, 10013",
+    "country": "US",
+    "email": "abuse@digitalocean.com",
+    "name": "DigitalOcean Abuse",
+    "network": "134.209.0.0/16",
+    "phone": "+1-347-875-6044"
+  },
+  "domains": {
+    "ip": "134.209.176.25",
+    "total": 1,
+    "domains": [
+      "growshare.co.uk"
+    ]
+  }
+}

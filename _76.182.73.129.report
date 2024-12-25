@@ -1,0 +1,43 @@
+{
+  "ip": "76.182.73.129",
+  "hostname": "syn-076-182-073-129.res.spectrum.com",
+  "city": "Raleigh",
+  "region": "North Carolina",
+  "country": "US",
+  "loc": "35.7667,-78.6008",
+  "postal": "27610",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS11426",
+    "name": "Charter Communications Inc",
+    "domain": "charter.com",
+    "route": "76.182.0.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Charter Communications Inc",
+    "domain": "charter.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CO, Greenwood Village, P.O. Box 4987, 80155",
+    "country": "US",
+    "email": "abuse@charter.net",
+    "name": "Abuse",
+    "network": "76.182.0.0/17",
+    "phone": "+1-877-777-2263"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

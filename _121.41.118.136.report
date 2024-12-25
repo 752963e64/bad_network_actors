@@ -1,0 +1,45 @@
+{
+  "ip": "121.41.118.136",
+  "city": "Hangzhou",
+  "region": "Zhejiang",
+  "country": "CN",
+  "loc": "30.2936,120.1614",
+  "postal": "310000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS37963",
+    "name": "Hangzhou Alibaba Advertising Co.,Ltd.",
+    "domain": "alibabagroup.com",
+    "route": "121.40.0.0/15",
+    "type": "business"
+  },
+  "company": {
+    "name": "Aliyun Computing Co., LTD",
+    "domain": "alibabacloud.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Beijing, China",
+    "country": "CN",
+    "email": "ipas@cnnic.cn",
+    "name": "ABUSE CNNICCN",
+    "network": "121.40.0.0/14",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "ip": "121.41.118.136",
+    "total": 2,
+    "domains": [
+      "zhmod.com",
+      "zcl10.com"
+    ]
+  }
+}

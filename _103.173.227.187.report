@@ -1,0 +1,46 @@
+{
+  "ip": "103.173.227.187",
+  "city": "Ho Chi Minh City",
+  "region": "Ho Chi Minh",
+  "country": "VN",
+  "loc": "10.8230,106.6296",
+  "postal": "71606",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "asn": {
+    "asn": "AS140826",
+    "name": "INTER GROUP VIET NAM JOINT STOCK COMPANY",
+    "domain": "interdata.vn",
+    "route": "103.173.226.0/23",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "INTER GROUP VIET NAM JOINT STOCK COMPANY",
+    "domain": "interdata.vn",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ha Noi, VietNam",
+    "country": "VN",
+    "email": "hm-changed@vnnic.vn",
+    "name": "Truong Thi Hong My",
+    "network": "103.173.226.0/23",
+    "phone": "+84-24-35564944"
+  },
+  "domains": {
+    "ip": "103.173.227.187",
+    "total": 3,
+    "domains": [
+      "vuongden4ny.com",
+      "website247.vn",
+      "khoahocgiatot.online"
+    ]
+  }
+}

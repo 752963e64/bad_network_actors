@@ -1,0 +1,42 @@
+{
+  "ip": "220.197.51.122",
+  "city": "Guiyang",
+  "region": "Guizhou",
+  "country": "CN",
+  "loc": "26.5833,106.7167",
+  "postal": "550000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4837",
+    "name": "CHINA UNICOM China169 Backbone",
+    "domain": "chinaunicom.cn",
+    "route": "220.197.0.0/17",
+    "type": "isp"
+  },
+  "company": {
+    "name": "China Unicom",
+    "domain": "chinaunicom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Beijing, China",
+    "country": "CN",
+    "email": "ipas@cnnic.cn",
+    "name": "ABUSE CNNICCN",
+    "network": "220.192.0.0/12",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

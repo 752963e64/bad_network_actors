@@ -1,0 +1,43 @@
+{
+  "ip": "104.237.240.112",
+  "hostname": "104-237-240-112-host.colocrossing.com",
+  "city": "Buffalo",
+  "region": "New York",
+  "country": "US",
+  "loc": "42.8865,-78.8784",
+  "postal": "14202",
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS16628",
+    "name": "DedFiberCo",
+    "domain": "dedfiber.com",
+    "route": "104.237.240.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "DedFiberCo",
+    "domain": "dedfiber.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, DE, Wilmington, 913 N Market Street, Suit 200, 19801",
+    "country": "US",
+    "email": "noc@dedfiber.com",
+    "name": "Network Operations Center",
+    "network": "104.237.224.0/19",
+    "phone": "+1-302-416-3088"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

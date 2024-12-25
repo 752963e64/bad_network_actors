@@ -1,0 +1,43 @@
+{
+  "ip": "177.38.9.138",
+  "hostname": "p4net.net.br",
+  "city": "Xanxerê",
+  "region": "Santa Catarina",
+  "country": "BR",
+  "loc": "-26.8769,-52.4042",
+  "postal": "89820-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS262893",
+    "name": "P4 TELECOM LTDA",
+    "domain": "p4telecom.com.br",
+    "route": "177.38.9.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "P4 TELECOM LTDA",
+    "domain": "p4telecom.com.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "whois@p4telecom.com.br",
+    "name": "P4 TELECOM LTDA ME",
+    "network": "177.38.9.136/29",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

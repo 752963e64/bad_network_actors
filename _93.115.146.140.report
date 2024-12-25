@@ -1,0 +1,41 @@
+{
+  "ip": "93.115.146.140",
+  "city": "Shiraz",
+  "region": "Fars",
+  "country": "IR",
+  "loc": "29.6103,52.5311",
+  "timezone": "Asia/Tehran",
+  "asn": {
+    "asn": "AS43754",
+    "name": "Asiatech Data Transmission company",
+    "domain": "asiatech.ir",
+    "route": "93.115.144.0/22",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Asiatech Data Transmission Co.",
+    "domain": "asiatech.ir",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.37, Miremad, Motahari street, Tehran, Iran, 1587843111, Asiatech Telecommunication Co., FCP license 100-94-16",
+    "country": "IR",
+    "email": "abuse@asiatech.ir",
+    "name": "Asiatech Data Transmission Co.",
+    "network": "93.115.146.0/24",
+    "phone": "+982191011100"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}
