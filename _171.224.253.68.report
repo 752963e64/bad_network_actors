@@ -5,39 +5,7 @@
   "region": "Hải Dương Province",
   "country": "VN",
   "loc": "20.9410,106.3330",
+  "org": "AS7552 Viettel Group",
   "postal": "03150",
-  "timezone": "Asia/Bangkok",
-  "asn": {
-    "asn": "AS7552",
-    "name": "Viettel Group",
-    "domain": "viettel.com.vn",
-    "route": "171.224.252.0/22",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Viettel Group",
-    "domain": "viettel.com.vn",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Ha Noi, VietNam",
-    "country": "VN",
-    "email": "hm-changed@vnnic.vn",
-    "name": "Tran Van Thanh",
-    "network": "171.224.0.0/11",
-    "phone": "+84-24-35564944"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Bangkok"
 }

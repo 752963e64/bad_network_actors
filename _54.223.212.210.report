@@ -5,39 +5,7 @@
   "region": "Beijing",
   "country": "CN",
   "loc": "39.9075,116.3972",
+  "org": "AS55960 Beijing Guanghuan Xinwang Digital",
   "postal": "100000",
-  "timezone": "Asia/Shanghai",
-  "asn": {
-    "asn": "AS55960",
-    "name": "Beijing Guanghuan Xinwang Digital",
-    "domain": "sinnet.com.cn",
-    "route": "54.223.128.0/17",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Beijing Guanghuan Xinwang Digital Technology co.Ltd",
-    "domain": "sinnet.com.cn",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Beijing, China",
-    "country": "CN",
-    "email": "ipas@cnnic.cn",
-    "name": "ABUSE CNNICCN",
-    "network": "54.222.0.0/15",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Shanghai"
 }

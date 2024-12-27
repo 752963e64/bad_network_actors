@@ -5,39 +5,7 @@
   "region": "Dnipropetrovsk",
   "country": "UA",
   "loc": "48.4666,35.0407",
+  "org": "AS13188 CONTENT DELIVERY NETWORK LTD",
   "postal": "49000",
-  "timezone": "Europe/Kyiv",
-  "asn": {
-    "asn": "AS13188",
-    "name": "CONTENT DELIVERY NETWORK LTD",
-    "domain": "triolan.com",
-    "route": "109.87.177.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "CONTENT DELIVERY NETWORK LTD",
-    "domain": "triolan.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Ukraine, Kyiv, Prirechnaya 25A, office 7",
-    "country": "UA",
-    "email": "abuse@triolan.com.ua",
-    "name": "Abuse Role",
-    "network": "109.87.177.0/24",
-    "phone": "+38 097-437-27-17"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Kyiv"
 }

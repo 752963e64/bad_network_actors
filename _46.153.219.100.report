@@ -4,38 +4,6 @@
   "region": "Riyadh Region",
   "country": "SA",
   "loc": "24.6877,46.7219",
-  "timezone": "Asia/Riyadh",
-  "asn": {
-    "asn": "AS35819",
-    "name": "Etihad Etisalat, a joint stock company",
-    "domain": "mobily.com.sa",
-    "route": "46.153.208.0/20",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Etihad Etisalat",
-    "domain": "mobily.com.sa",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "P.O 69179, Riyadh 11423",
-    "country": "SA",
-    "email": "abuse@mobily.com.sa",
-    "name": "Mobily Admin Abuse Reporting",
-    "network": "46.153.0.0/16",
-    "phone": "+966 560315751"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS35819 Etihad Etisalat, a joint stock company",
+  "timezone": "Asia/Riyadh"
 }

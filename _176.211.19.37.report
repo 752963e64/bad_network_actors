@@ -1,11 +1,11 @@
 {
   "ip": "176.211.19.37",
   "hostname": "ppp-176.211.19.37.nsk.rt.ru",
-  "city": "Nizhny Tagil",
+  "city": "Yekaterinburg",
   "region": "Sverdlovsk Oblast",
   "country": "RU",
-  "loc": "57.9194,59.9650",
-  "postal": "622000",
+  "loc": "56.8519,60.6122",
+  "postal": "620000",
   "timezone": "Asia/Yekaterinburg",
   "asn": {
     "asn": "AS12389",

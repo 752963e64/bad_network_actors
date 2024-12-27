@@ -1,10 +1,10 @@
 {
   "ip": "193.140.242.59",
-  "city": "Diyarbakır",
-  "region": "Diyarbakır Province",
+  "city": "Ankara",
+  "region": "Ankara",
   "country": "TR",
-  "loc": "37.9136,40.2172",
-  "postal": "21070",
+  "loc": "39.9199,32.8543",
+  "postal": "06420",
   "timezone": "Europe/Istanbul",
   "asn": {
     "asn": "AS8517",

@@ -18,6 +18,11 @@
     "domain": "bsnl.co.in",
     "type": "isp"
   },
+  "carrier": {
+    "name": "BSNL Mobile",
+    "mcc": "404",
+    "mnc": "64"
+  },
   "privacy": {
     "vpn": false,
     "proxy": false,

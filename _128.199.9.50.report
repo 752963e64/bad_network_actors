@@ -4,38 +4,7 @@
   "region": "California",
   "country": "US",
   "loc": "37.3924,-121.9623",
+  "org": "AS14061 DigitalOcean, LLC",
   "postal": "95054",
-  "timezone": "America/Los_Angeles",
-  "asn": {
-    "asn": "AS14061",
-    "name": "DigitalOcean, LLC",
-    "domain": "digitalocean.com",
-    "route": "128.199.0.0/20",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "DigitalOcean, LLC",
-    "domain": "digitalocean.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": "VPNUnlimited"
-  },
-  "abuse": {
-    "address": "DigitalOcean, Inc., 101 Avenue of the Americas, FL2, New York, NY, 10013, United States of America",
-    "country": "US",
-    "email": "abuse@digitalocean.com",
-    "name": "DigitalOcean, LLC",
-    "network": "128.199.0.0/16",
-    "phone": "+13478756044"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Los_Angeles"
 }

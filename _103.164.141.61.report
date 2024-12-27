@@ -4,39 +4,7 @@
   "region": "Delhi",
   "country": "IN",
   "loc": "28.6519,77.2315",
+  "org": "AS132116 Ani Network Pvt Ltd",
   "postal": "110001",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS132116",
-    "name": "Ani Network Pvt Ltd",
-    "domain": "aninetwork.in",
-    "route": "103.164.141.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Digital Telecom",
-    "domain": "digital-telecom.com",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "B1 EXCHANGE ROOM CROWN HIEGHTS SEC 10 ROHINI,New Delhi,Delhi-110085",
-    "country": "IN",
-    "email": "india.sksharma@gmail.com",
-    "name": "SK SHARMA",
-    "network": "103.164.140.0/23",
-    "phone": "+91 01166373701"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

@@ -5,39 +5,7 @@
   "region": "Maharashtra",
   "country": "IN",
   "loc": "19.0728,72.8826",
+  "org": "AS24560 Bharti Airtel Ltd., Telemedia Services",
   "postal": "400017",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS24560",
-    "name": "Bharti Airtel Ltd., Telemedia Services",
-    "domain": "airtel.com",
-    "route": "122.169.103.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "ABTS-MUMBAI",
-    "domain": "airtel.in",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "ABTS, 6th Floor, Interface, Bldg No 7, Link Road,Malad (W),, Mumbai,Maharashtra",
-    "country": "IN",
-    "email": "Tech.support@airtel.com",
-    "name": "Network Administrator for ABTS MUM",
-    "network": "122.169.0.0/17",
-    "phone": "+91-124-4244017"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

@@ -1,0 +1,43 @@
+{
+  "ip": "5.183.29.99",
+  "hostname": "inet-ip-nat4-99.sats.spb.ru",
+  "city": "Saint Petersburg",
+  "region": "St.-Petersburg",
+  "country": "RU",
+  "loc": "59.9386,30.3141",
+  "postal": "195213",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS57334",
+    "name": "SPB State Unitary Enterprise \"ATS Smolnogo\"",
+    "domain": "spb.ru",
+    "route": "5.183.29.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SPB State Unitary Enterprise ATS Smolnogo",
+    "domain": "spb.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "RUSSIAN FEDERATION 197343 St.Petersburg Omskaya str bld. 6, korpus 2, litera A",
+    "country": "RU",
+    "email": "abuse@sats.spb.ru",
+    "name": "ATSS ABUSE",
+    "network": "5.183.28.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

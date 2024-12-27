@@ -1,0 +1,42 @@
+{
+  "ip": "112.109.92.78",
+  "city": "Quận Ba",
+  "region": "Ho Chi Minh",
+  "country": "VN",
+  "loc": "10.7749,106.6863",
+  "postal": "71964",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "asn": {
+    "asn": "AS55309",
+    "name": "Minh Tu Telecom Limited Company",
+    "domain": "mtt.vn",
+    "route": "112.109.92.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Minh Tu Telecom Limited Company",
+    "domain": "mtt.vn",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ha Noi, VietNam",
+    "country": "VN",
+    "email": "hm-changed@vnnic.vn",
+    "name": "Nguyen Van Minh",
+    "network": "112.109.88.0/21",
+    "phone": "+84-24-35564944"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

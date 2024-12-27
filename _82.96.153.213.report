@@ -1,10 +1,10 @@
 {
   "ip": "82.96.153.213",
-  "city": "Lucé",
-  "region": "Centre",
+  "city": "Paris",
+  "region": "Île-de-France",
   "country": "FR",
-  "loc": "48.4369,1.4636",
-  "postal": "28110",
+  "loc": "48.8534,2.3488",
+  "postal": "75000",
   "timezone": "Europe/Paris",
   "asn": {
     "asn": "AS199636",

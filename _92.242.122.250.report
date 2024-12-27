@@ -5,39 +5,7 @@
   "region": "Volgograd Oblast",
   "country": "RU",
   "loc": "47.9500,43.9700",
+  "org": "AS41039 Timer, LLC",
   "postal": "346720",
-  "timezone": "Europe/Volgograd",
-  "asn": {
-    "asn": "AS41039",
-    "name": "Timer, LLC",
-    "domain": "dbd-breitband.de",
-    "route": "92.242.120.0/21",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Timer, LLC",
-    "domain": "timernet.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Russia, Rostovskaja obl, Prospekt Lenina 11, 346720, g.Aksay, RUSSIAN FEDERATION",
-    "country": "RU",
-    "email": "network@timernet.ru",
-    "name": "Abuse-C Role",
-    "network": "92.242.96.0/19",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Volgograd"
 }

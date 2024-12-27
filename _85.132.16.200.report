@@ -4,38 +4,6 @@
   "region": "Nakhichevan ASSR",
   "country": "AZ",
   "loc": "39.2089,45.4122",
-  "timezone": "Asia/Baku",
-  "asn": {
-    "asn": "AS199731",
-    "name": "The Educational Center for Internet and New Technologies of the Nakhchivan Autonomous Republic",
-    "domain": "nakhchivan.az",
-    "route": "85.132.16.0/24",
-    "type": "education"
-  },
-  "company": {
-    "name": "DELTA Satellite Network",
-    "domain": "delta-telecom.net",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Delta Telecom Ltd, 69 Muzaffar Hasanov str., AZ1012, Baku, AZERBAIJAN",
-    "country": "AZ",
-    "email": "abuse@delta-telecom.net",
-    "name": "Abuse-C Role",
-    "network": "85.132.16.0/20",
-    "phone": "+99412 4041212"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS199731 The Educational Center for Internet and New Technologies of the Nakhchivan Autonomous Republic",
+  "timezone": "Asia/Baku"
 }

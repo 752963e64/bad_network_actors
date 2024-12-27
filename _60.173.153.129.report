@@ -1,10 +1,10 @@
 {
   "ip": "60.173.153.129",
-  "city": "Shanghai",
-  "region": "Shanghai",
+  "city": "Jiaxing",
+  "region": "Zhejiang",
   "country": "CN",
-  "loc": "31.2222,121.4581",
-  "postal": "200000",
+  "loc": "30.7522,120.7500",
+  "postal": "314000",
   "timezone": "Asia/Shanghai",
   "asn": {
     "asn": "AS4134",

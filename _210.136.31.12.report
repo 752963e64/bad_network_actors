@@ -1,11 +1,11 @@
 {
   "ip": "210.136.31.12",
   "hostname": "pl43020.ag1313.nttpc.ne.jp",
-  "city": "Nagoya",
-  "region": "Aichi",
+  "city": "Osaka",
+  "region": "Osaka",
   "country": "JP",
-  "loc": "35.1815,136.9064",
-  "postal": "460-0002",
+  "loc": "34.6938,135.5011",
+  "postal": "543-0062",
   "timezone": "Asia/Tokyo",
   "asn": {
     "asn": "AS2514",

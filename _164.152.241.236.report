@@ -4,39 +4,7 @@
   "region": "São Paulo",
   "country": "BR",
   "loc": "-23.0297,-46.9753",
+  "org": "AS31898 Oracle Corporation",
   "postal": "13280-000",
-  "timezone": "America/Sao_Paulo",
-  "asn": {
-    "asn": "AS31898",
-    "name": "Oracle Corporation",
-    "domain": "oracle.com",
-    "route": "164.152.240.0/20",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Oracle Corporation",
-    "domain": "oracle.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "US, TX, Austin, 2300 Oracle Way, Attn: Domain Administrator, 78741",
-    "country": "US",
-    "email": "abuse@oracleemaildelivery.com",
-    "name": "Network Information Systems Abuse Management",
-    "network": "164.152.240.0/20",
-    "phone": "+1-800-633-0738"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Sao_Paulo"
 }

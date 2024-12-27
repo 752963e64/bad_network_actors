@@ -4,39 +4,7 @@
   "region": "Hainan",
   "country": "CN",
   "loc": "20.0342,110.3465",
+  "org": "AS4134 CHINANET-BACKBONE",
   "postal": "570000",
-  "timezone": "Asia/Shanghai",
-  "asn": {
-    "asn": "AS4134",
-    "name": "CHINANET-BACKBONE",
-    "domain": "chinatelecom.com.cn",
-    "route": "223.198.0.0/15",
-    "type": "isp"
-  },
-  "company": {
-    "name": "CHINANET HAINAN PROVINCE NETWORK",
-    "domain": "chinatelecom.cn",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "No.31 ,jingrong street,beijing, 100032",
-    "country": "CN",
-    "email": "anti-spam@chinatelecom.cn",
-    "name": "ABUSE CHINANETCN",
-    "network": "223.198.0.0/15",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Shanghai"
 }

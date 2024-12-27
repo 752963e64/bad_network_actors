@@ -4,43 +4,6 @@
   "region": "Razavi Khorasan",
   "country": "IR",
   "loc": "36.2981,59.6057",
-  "timezone": "Asia/Tehran",
-  "asn": {
-    "asn": "AS44244",
-    "name": "Iran Cell Service and Communication Company",
-    "domain": "mtnirancell.ir",
-    "route": "5.126.32.0/20",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Iran Cell Service and Communication Company",
-    "domain": "mtnirancell.ir",
-    "type": "isp"
-  },
-  "carrier": {
-    "name": "MTN Irancell",
-    "mcc": "432",
-    "mnc": "35"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Iran Cell Service and Communication Company, No 5, Alidoost Alley, Ghaderi Alley, Zandi Ave, Golzar Blvd, Heravi Sq, Tehran, Iran, 1665973561, Tehran, IRAN, ISLAMIC REPUBLIC OF",
-    "country": "IR",
-    "email": "abuse@mtnirancell.ir",
-    "name": "Abuse-C Role",
-    "network": "5.125.0.0-5.126.255.255",
-    "phone": "+98 21 23190000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS44244 Iran Cell Service and Communication Company",
+  "timezone": "Asia/Tehran"
 }

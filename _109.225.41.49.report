@@ -1,11 +1,11 @@
 {
   "ip": "109.225.41.49",
   "hostname": "49.net-94.242.41.kaluga.ru",
-  "city": "Kaluga",
+  "city": "Obninsk",
   "region": "Kaluga Oblast",
   "country": "RU",
-  "loc": "54.5293,36.2754",
-  "postal": "248000",
+  "loc": "55.1099,36.6124",
+  "postal": "249030",
   "timezone": "Europe/Moscow",
   "asn": {
     "asn": "AS15468",

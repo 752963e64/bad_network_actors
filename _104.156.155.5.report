@@ -1,0 +1,42 @@
+{
+  "ip": "104.156.155.5",
+  "city": "Los Angeles",
+  "region": "California",
+  "country": "US",
+  "loc": "34.0522,-118.2437",
+  "postal": "90009",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS400161",
+    "name": "Academy for Internet Research Limited Liability Company",
+    "domain": "deptofinternetservices.org",
+    "route": "104.156.155.0/24",
+    "type": "education"
+  },
+  "company": {
+    "name": "Academy for Internet Research Limited Liability Company",
+    "domain": "deptofinternetservices.org",
+    "type": "education"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, HI, Honolulu, Department of Internet Services, #A1- 5436, 1110 Nuuanu Ave, 96817",
+    "country": "US",
+    "email": "abuse@deptofinternetservices.org",
+    "name": "Abuse",
+    "network": "104.156.155.0/24",
+    "phone": "+1-833-439-0956"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -4,39 +4,7 @@
   "region": "Central Serbia",
   "country": "RS",
   "loc": "42.9291,21.2630",
+  "org": "AS8661 Telekomi i Kosoves SH.A.",
   "postal": "18445",
-  "timezone": "Europe/Belgrade",
-  "asn": {
-    "asn": "AS8661",
-    "name": "Telekomi i Kosoves SH.A.",
-    "domain": "kosovotelecom.com",
-    "route": "213.163.104.0/21",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Telekomi i Kosovës (Custumer Static IP)",
-    "domain": "telekomi.net",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PTK HQ, Dardania pn, 10000 Prishtine, Kosove",
-    "country": "AL",
-    "email": "abuse@kosovotelecom.com",
-    "name": "PTK ABUSE",
-    "network": "213.163.104.0/22",
-    "phone": "+38344425171"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Belgrade"
 }

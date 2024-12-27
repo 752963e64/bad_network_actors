@@ -4,43 +4,7 @@
   "region": "Gujarat",
   "country": "IN",
   "loc": "21.1959,72.8302",
+  "org": "AS45916 Gujarat Telelink Pvt Ltd",
   "postal": "395005",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS45916",
-    "name": "Gujarat Telelink Pvt Ltd",
-    "domain": "gtpl.net",
-    "route": "103.251.59.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Gtpl Broadband Pvt. Ltd.",
-    "domain": "gtpl.net",
-    "type": "isp"
-  },
-  "carrier": {
-    "name": "Jio",
-    "mcc": "405",
-    "mnc": "840"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "202, shahjanand Complex, Opp. Swaminarayan Temple, Shahibag Ahmedabad Gujarat",
-    "country": "IN",
-    "email": "abuse.report@gtpl.net",
-    "name": "Rutul Shah",
-    "network": "103.251.56.0/22",
-    "phone": "+91-9727725806"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

@@ -1,0 +1,41 @@
+{
+  "ip": "194.186.98.18",
+  "city": "Khabarovsk",
+  "region": "Khabarovsk",
+  "country": "RU",
+  "loc": "48.4827,135.0838",
+  "postal": "680000",
+  "timezone": "Asia/Vladivostok",
+  "asn": {
+    "asn": "AS3216",
+    "name": "PJSC \"Vimpelcom\"",
+    "domain": "beeline.ru",
+    "route": "194.186.98.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Golden Telecom",
+    "domain": "goldentelecom.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "111250 Russia Moscow, Krasnokazarmennaya, 12",
+    "country": "RU",
+    "email": "abuse-b2b@beeline.ru",
+    "name": "Sovintel Abuse Department",
+    "network": "194.186.98.0/24",
+    "phone": "+7 495 7871000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

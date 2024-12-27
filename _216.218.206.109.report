@@ -1,11 +1,11 @@
 {
   "ip": "216.218.206.109",
   "hostname": "scan-08j.shadowserver.org",
-  "city": "Fremont",
+  "city": "San Jose",
   "region": "California",
   "country": "US",
-  "loc": "37.5483,-121.9886",
-  "postal": "94536",
+  "loc": "37.3394,-121.8950",
+  "postal": "95103",
   "timezone": "America/Los_Angeles",
   "asn": {
     "asn": "AS6939",

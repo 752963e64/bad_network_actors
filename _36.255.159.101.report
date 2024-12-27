@@ -4,38 +4,7 @@
   "region": "Gujarat",
   "country": "IN",
   "loc": "20.3717,72.9049",
+  "org": "AS135718 DISHAWAVES INFONET PVT. LTD",
   "postal": "396191",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS135718",
-    "name": "DISHAWAVES INFONET PVT. LTD",
-    "domain": "dishawaves.com",
-    "route": "36.255.159.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "DISHAWAVES INFONET PVT. LTD",
-    "domain": "dishawaves.com",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "R.S.NO.1951, ASSET NO.1887, CHAR RASTA, DHANSURA, TA-DHANSURA, DIST-ARVALLI,Modasa,Gujarat-383310",
-    "country": "IN",
-    "email": "info@dishawaves.com",
-    "name": "Manager NOC",
-    "network": "36.255.156.0/22",
-    "phone": "+91 02774223733"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

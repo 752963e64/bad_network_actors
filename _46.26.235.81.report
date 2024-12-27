@@ -19,6 +19,11 @@
     "domain": "vodafone.es",
     "type": "isp"
   },
+  "carrier": {
+    "name": "Vodafone",
+    "mcc": "214",
+    "mnc": "01"
+  },
   "privacy": {
     "vpn": false,
     "proxy": false,

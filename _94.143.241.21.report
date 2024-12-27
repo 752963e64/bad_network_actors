@@ -1,0 +1,43 @@
+{
+  "ip": "94.143.241.21",
+  "hostname": "vikar.su",
+  "city": "Petrozavodsk",
+  "region": "Karelia",
+  "country": "RU",
+  "loc": "61.7849,34.3469",
+  "postal": "185000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS42387",
+    "name": "Limited Company Svyazservice",
+    "domain": "limited.com",
+    "route": "94.143.240.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Limited Company Svyazservice",
+    "domain": "karelia.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Russia, Petrozavodsk, Rigatchina, 64a",
+    "country": "RU",
+    "email": "abuse@sampo.ru",
+    "name": "Svyazservice Abuse Role",
+    "network": "94.143.241.0-94.143.242.255",
+    "phone": "+7 8142 592410"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -4,34 +4,7 @@
   "region": "Berlin",
   "country": "DE",
   "loc": "52.5244,13.4105",
+  "org": "AS208843 Alpha Strike Labs GmbH",
   "postal": "10119",
-  "timezone": "Europe/Berlin",
-  "asn": {
-    "asn": "AS208843",
-    "name": "Alpha Strike Labs GmbH",
-    "domain": "alphastrike.io",
-    "route": "45.83.64.0/22",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Albert-Einstein-StraÃŸe 14, 12489, Berlin, GERMANY",
-    "country": "DE",
-    "email": "abuse@alphastrike.io",
-    "name": "Internet Security Research Project - For exclude requests mail to abuse@alphastrike.io",
-    "network": "45.83.64.1-45.83.67.255",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Berlin"
 }

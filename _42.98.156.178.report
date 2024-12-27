@@ -1,10 +1,10 @@
 {
   "ip": "42.98.156.178",
   "hostname": "42-98-156-178.static.netvigator.com",
-  "city": "Sha Tin",
-  "region": "Sha Tin",
+  "city": "Hong Kong",
+  "region": "Hong Kong",
   "country": "HK",
-  "loc": "22.3833,114.1833",
+  "loc": "22.2783,114.1747",
   "postal": "999077",
   "timezone": "Asia/Hong_Kong",
   "asn": {

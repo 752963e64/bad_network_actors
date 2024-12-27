@@ -4,39 +4,7 @@
   "region": "Tuscany",
   "country": "IT",
   "loc": "43.8805,11.0970",
+  "org": "AS21056 Vianova S.p.A",
   "postal": "59100",
-  "timezone": "Europe/Rome",
-  "asn": {
-    "asn": "AS21056",
-    "name": "Vianova S.p.A",
-    "domain": "welcomeitalia.it",
-    "route": "103.61.184.0/22",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Vianova S.p.A",
-    "domain": "vianova.it",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Via di Montramito, 431/A, Italy",
-    "country": "IT",
-    "email": "ipnoc@welcomeitalia.it",
-    "name": "Welcome Italia IP NOC",
-    "network": "103.61.184.0/22",
-    "phone": "+39 058442441"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Rome"
 }

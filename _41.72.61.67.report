@@ -1,0 +1,41 @@
+{
+  "ip": "41.72.61.67",
+  "city": "Luanda",
+  "region": "Luanda",
+  "country": "AO",
+  "loc": "-8.8368,13.2343",
+  "timezone": "Africa/Luanda",
+  "asn": {
+    "asn": "AS37155",
+    "name": "NetOne Telecomunicacoes",
+    "domain": "netone.co.ao",
+    "route": "41.72.60.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "African Network Information Center - (AfriNIC) Ltd",
+    "domain": "afrinic.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Raffles Tower - 11th Floor, Cybercity, Mauritius",
+    "country": "MU",
+    "email": "sysadmin@afrinic.net",
+    "name": "AfriNIC TEAM",
+    "network": "41.0.0.0/8",
+    "phone": "tel:+230-403-5100"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

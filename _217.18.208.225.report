@@ -28,7 +28,7 @@
     "service": ""
   },
   "abuse": {
-    "address": "Sirketimiz, internet hosting hizmeti saglamaktadir ve YER SAGLAYICI konumundadir.",
+    "address": "Sirketimiz, internet hosting hizmeti saglamaktadir ve \"YER SAGLAYICI\" konumundadir.",
     "country": "TR",
     "email": "abuse@kayizer.com",
     "name": "Kayizer Network Operation Center",

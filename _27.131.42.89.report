@@ -1,43 +1,11 @@
 {
   "ip": "27.131.42.89",
   "hostname": "static-27-131-42-89.mykris.net",
-  "city": "Semenyih",
+  "city": "Kajang",
   "region": "Selangor",
   "country": "MY",
-  "loc": "2.9516,101.8430",
-  "postal": "43500",
-  "timezone": "Asia/Kuala_Lumpur",
-  "asn": {
-    "asn": "AS23678",
-    "name": "Enterprise Managed Services Sdn. Bhd.",
-    "domain": "mykris.net",
-    "route": "27.131.42.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Enterprise Managed Services Sdn. Bhd.",
-    "domain": "mykris.net",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Enterprise Managed Services Sdn. Bhd., C-1-G, The Link, 2,, Jalan Jalil Perkasa 1,, Bukit Jalil, 57000 Kuala Lumpur.",
-    "country": "MY",
-    "email": "noc@mykris.net",
-    "name": "ABUSE EMSMY",
-    "network": "27.131.32.0/19",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "loc": "2.9942,101.7887",
+  "org": "AS23678 Enterprise Managed Services Sdn. Bhd.",
+  "postal": "43007",
+  "timezone": "Asia/Kuala_Lumpur"
 }

@@ -1,0 +1,42 @@
+{
+  "ip": "177.126.46.125",
+  "city": "Mairiporã",
+  "region": "São Paulo",
+  "country": "BR",
+  "loc": "-23.3186,-46.5867",
+  "postal": "07600-000",
+  "timezone": "America/Sao_Paulo",
+  "asn": {
+    "asn": "AS271401",
+    "name": "ATUAL TELECOM",
+    "domain": "atualtelecom.net",
+    "route": "177.126.44.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ATUAL TELECOM",
+    "domain": "atualtelecom.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "contatoatualtelecom@gmail.com",
+    "name": "Valdair Martins",
+    "network": "177.126.44.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

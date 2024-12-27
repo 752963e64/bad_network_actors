@@ -1,0 +1,41 @@
+{
+  "ip": "203.160.161.45",
+  "city": "Makati City",
+  "region": "Metro Manila",
+  "country": "PH",
+  "loc": "14.5503,121.0327",
+  "postal": "1209",
+  "timezone": "Asia/Manila",
+  "asn": {
+    "asn": "AS18233",
+    "name": "Philippine Telegraph and Telephone Corporation,",
+    "domain": "ptt.com.ph",
+    "route": "203.160.161.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Philippine Telegraph and Telephone Corporation",
+    "domain": "ptt.com.ph",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Spirit of Communications Center Building, # 106 Carlos Palanca St Legaspi Village, Makati City",
+    "country": "PH",
+    "email": "abuse@ptt.com.ph",
+    "name": "ABUSE PTTPH",
+    "network": "203.160.160.0/19",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

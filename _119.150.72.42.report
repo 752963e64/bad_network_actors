@@ -5,39 +5,7 @@
   "region": "Chiba",
   "country": "JP",
   "loc": "35.6000,140.1167",
+  "org": "AS4685 Asahi Net",
   "postal": "260-0014",
-  "timezone": "Asia/Tokyo",
-  "asn": {
-    "asn": "AS4685",
-    "name": "Asahi Net",
-    "domain": "asahi-net.jp",
-    "route": "119.150.64.0/19",
-    "type": "isp"
-  },
-  "company": {
-    "name": "ASAHI Net,Inc.",
-    "domain": "asahi-net.jp",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",
-    "country": "JP",
-    "email": "hostmaster@nic.ad.jp",
-    "name": "Japan Network Information Center",
-    "network": "119.150.32.0-119.150.95.255",
-    "phone": "+81-3-5297-2311"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Tokyo"
 }

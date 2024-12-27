@@ -5,39 +5,7 @@
   "region": "West Bengal",
   "country": "IN",
   "loc": "22.5626,88.3630",
+  "org": "AS9498 BHARTI Airtel Ltd.",
   "postal": "700001",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS9498",
-    "name": "BHARTI Airtel Ltd.",
-    "domain": "airtel.in",
-    "route": "182.75.0.0/16",
-    "type": "isp"
-  },
-  "company": {
-    "name": "CHARNOCK HOSPITALS PRIVAT",
-    "domain": "charnockhospital.com",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Bharti Airtel Ltd., ISP Division - Transport Network Group, 234 , Okhla Industrial Estate,, Phase III, New Delhi-110020, INDIA",
-    "country": "IN",
-    "email": "ip.misuse@airtel.com",
-    "name": "ABUSE BHARTIIN",
-    "network": "182.75.44.88/29",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

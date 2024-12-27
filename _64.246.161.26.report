@@ -5,41 +5,7 @@
   "region": "Valencia",
   "country": "ES",
   "loc": "39.4739,-0.3797",
+  "org": "AS53939 Telx",
   "postal": "46001",
-  "timezone": "Europe/Madrid",
-  "asn": {
-    "asn": "AS53939",
-    "name": "Telx",
-    "domain": "telx.com",
-    "route": "64.246.160.0/19",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Telx",
-    "domain": "telx.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "US, NY, New York, 1 State St, Suite 2100, 10004",
-    "country": "US",
-    "email": "ip-abuse@telx.com",
-    "name": "IP Abuse",
-    "network": "64.246.160.0/19",
-    "phone": "+1-877-357-7782"
-  },
-  "domains": {
-    "ip": "64.246.161.26",
-    "total": 1,
-    "domains": [
-      "seattlespectrum.com"
-    ]
-  }
+  "timezone": "Europe/Madrid"
 }

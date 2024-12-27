@@ -5,33 +5,7 @@
   "region": "Buenos Aires F.D.",
   "country": "AR",
   "loc": "-34.6131,-58.3772",
+  "org": "AS266777 DOVAL MANUEL ANGEL (INETGAMING)",
   "postal": "1871",
-  "timezone": "America/Argentina/Buenos_Aires",
-  "asn": {
-    "asn": "AS266777",
-    "name": "DOVAL MANUEL ANGEL (INETGAMING)",
-    "domain": "inetgaming.com.ar",
-    "route": "45.235.99.0/24",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Santiago Bradley, 885, -, 1852 - Burzaco - Buenos Aires",
-    "country": "AR",
-    "email": "altas@inetgaming.com.ar",
-    "name": "Manuel Angel Doval",
-    "network": "45.235.98.0/23",
-    "phone": "+54  1120930294 [0000]"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Argentina/Buenos_Aires"
 }

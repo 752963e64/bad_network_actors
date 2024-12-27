@@ -30,10 +30,10 @@
   "abuse": {
     "address": "PERIFERICO SUR, 3190, ALVARO OBREG, 01900 - MEXICO - CX",
     "country": "MX",
-    "email": "abuse@uninet.net.mx",
+    "email": "abuse@UNINET.NET.MX",
     "name": "SEGURIDAD DE RED UNINET",
     "network": "189.178.183.0/24",
-    "phone": "+52 55 52237234"
+    "phone": "+52 55 52237234 []"
   },
   "domains": {
     "page": 0,

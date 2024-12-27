@@ -5,39 +5,7 @@
   "region": "Samara Oblast",
   "country": "RU",
   "loc": "53.2001,50.1500",
+  "org": "AS35032 LLC SIP \"NIS\"",
   "postal": "446393",
-  "timezone": "Europe/Samara",
-  "asn": {
-    "asn": "AS35032",
-    "name": "LLC SIP \"NIS\"",
-    "domain": "samaralan.ru",
-    "route": "85.236.176.0/20",
-    "type": "isp"
-  },
-  "company": {
-    "name": "TAHION ISP Network",
-    "domain": "samaralan.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Russia, Samara, Molodogvardeiskaya, 225",
-    "country": "RU",
-    "email": "abuse@samaralan.ru",
-    "name": "SAMARALAN ABUSE CONTACTS",
-    "network": "85.236.179.0/24",
-    "phone": "+7 846 212 01 10"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Samara"
 }

@@ -4,39 +4,7 @@
   "region": "Telangana",
   "country": "IN",
   "loc": "17.4270,78.5353",
+  "org": "AS139490 Aspt Networks Pvt Ltd",
   "postal": "500007",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS139490",
-    "name": "Aspt Networks Pvt Ltd",
-    "domain": "aeronetonline.in",
-    "route": "160.30.38.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "NUMARO HOST",
-    "domain": "numarohost.com",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "729, PARASRAM CHOWK, MODEL TOWN,,Yamunanagar,Haryana-135001",
-    "country": "IN",
-    "email": "abuse@numarohost.com",
-    "name": "GAURAV GARG",
-    "network": "160.30.38.0/23",
-    "phone": "+91 9034774004"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

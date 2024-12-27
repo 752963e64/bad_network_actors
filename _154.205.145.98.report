@@ -4,38 +4,7 @@
   "region": "Sindh",
   "country": "PK",
   "loc": "24.8608,67.0104",
+  "org": "AS138915 Kaopu Cloud HK Limited",
   "postal": "74000",
-  "timezone": "Asia/Karachi",
-  "asn": {
-    "asn": "AS138915",
-    "name": "Kaopu Cloud HK Limited",
-    "domain": "kaopucloud.com",
-    "route": "154.205.145.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Lightnode Limited",
-    "domain": "cloudinnovation.org",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": "VPNJantit"
-  },
-  "abuse": {
-    "address": "Ebene, MU, Mahe, Seychelles",
-    "country": "SC",
-    "email": "abuse@cloudinnovation.org",
-    "name": "Cloud Innovation Support",
-    "network": "154.205.145.0/24",
-    "phone": "tel:+248-4-610-795"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Karachi"
 }

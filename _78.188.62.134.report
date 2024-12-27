@@ -1,11 +1,11 @@
 {
   "ip": "78.188.62.134",
   "hostname": "78.188.62.134.static.ttnet.com.tr",
-  "city": "Diyarbakır",
-  "region": "Diyarbakır Province",
+  "city": "Karakoçan",
+  "region": "Elazığ",
   "country": "TR",
-  "loc": "37.9136,40.2172",
-  "postal": "21070",
+  "loc": "38.9518,40.0271",
+  "postal": "23600",
   "timezone": "Europe/Istanbul",
   "asn": {
     "asn": "AS9121",

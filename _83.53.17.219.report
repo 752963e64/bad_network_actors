@@ -1,0 +1,42 @@
+{
+  "ip": "83.53.17.219",
+  "hostname": "219.red-83-53-17.dynamicip.rima-tde.net",
+  "city": "Barcelona",
+  "region": "Catalonia",
+  "country": "ES",
+  "loc": "41.3888,2.1590",
+  "postal": "08007",
+  "timezone": "Europe/Madrid",
+  "asn": {
+    "asn": "AS3352",
+    "name": "TELEFONICA DE ESPANA S.A.U.",
+    "domain": "movistar.es",
+    "route": "83.53.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telefonica de Espana SAU",
+    "domain": "movistar.es",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "C/ Ronda de la Comunicaci?n s/n",
+    "country": "ES",
+    "email": "nemesys@telefonica.es",
+    "name": "NEMESYS ABUSE TEAM",
+    "network": "83.52.0.0/14",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

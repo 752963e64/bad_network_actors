@@ -4,39 +4,7 @@
   "region": "Nairobi County",
   "country": "KE",
   "loc": "-1.2833,36.8167",
+  "org": "AS15399 Wananchi Group (Kenya) Limited",
   "postal": "00800",
-  "timezone": "Africa/Nairobi",
-  "asn": {
-    "asn": "AS15399",
-    "name": "Wananchi Group (Kenya) Limited",
-    "domain": "wananchi.com",
-    "route": "197.211.0.0/19",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Simbanet Com (K) Ltd",
-    "domain": "simbanet.co.ke",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PO Box 10286 - 00100, Gateway Park, Mombasa Rd, Block A, 8th floor, Nairobi, Kenya, Nairobi, Kenya",
-    "country": "KE",
-    "email": "hostmaster@simbanet.co.ke",
-    "name": "SimbaNET Kenya Hostmaster",
-    "network": "197.211.12.232/30",
-    "phone": "tel:+254-20-2804000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Africa/Nairobi"
 }

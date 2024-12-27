@@ -5,39 +5,7 @@
   "region": "England",
   "country": "GB",
   "loc": "51.5085,-0.1257",
+  "org": "AS13213 UK-2 Limited",
   "postal": "E1W",
-  "timezone": "Europe/London",
-  "asn": {
-    "asn": "AS13213",
-    "name": "UK-2 Limited",
-    "domain": "uk2group.com",
-    "route": "88.202.176.0/20",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "UK-2 Limited",
-    "domain": "rapid7.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": "VPNAsia"
-  },
-  "abuse": {
-    "address": "2nd Floor - The Truman Brewery, 91-95 Brick Lane, London, E1 6QL, UNITED KINGDOM",
-    "country": "GB",
-    "email": "abuse@uk2group.com",
-    "name": "UK2Group abuse-c",
-    "network": "88.202.190.128/27",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/London"
 }

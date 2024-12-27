@@ -5,38 +5,7 @@
   "region": "Hesse",
   "country": "DE",
   "loc": "50.1155,8.6842",
+  "org": "AS63949 Akamai Connected Cloud",
   "postal": "60306",
-  "timezone": "Europe/Berlin",
-  "asn": {
-    "asn": "AS63949",
-    "name": "Akamai Connected Cloud",
-    "domain": "linode.com",
-    "route": "172.104.224.0/19",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Linode",
-    "domain": "linode.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "US, MA, Cambridge, 8 Cambridge Center, Mailstop 926-G, 02142",
-    "country": "US",
-    "email": "abuse@akamai.com",
-    "name": "NOC United States",
-    "network": "172.104.0.0/15",
-    "phone": "+1-617-444-2535"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Berlin"
 }

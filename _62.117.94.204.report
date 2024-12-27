@@ -16,7 +16,7 @@
   "company": {
     "name": "JSC Comcor",
     "domain": "akado-telecom.ru",
-    "type": "hosting"
+    "type": "isp"
   },
   "privacy": {
     "vpn": false,

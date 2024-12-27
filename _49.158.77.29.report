@@ -5,38 +5,6 @@
   "region": "Taipei",
   "country": "TW",
   "loc": "25.0143,121.4672",
-  "timezone": "Asia/Taipei",
-  "asn": {
-    "asn": "AS24164",
-    "name": "UNION BROADBAND NETWORK",
-    "domain": "twmbroadband.com",
-    "route": "49.158.76.0/22",
-    "type": "isp"
-  },
-  "company": {
-    "name": "TFN MEDIA CO., LTD.",
-    "domain": "tfn.net.tw",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "UNION BROADBAND NETWORK, 11F., No.98, Zhouzi St., Neihu Dist., Taipei City 114, Taiwan (R.O.C.), Taipei City Taiwan",
-    "country": "TW",
-    "email": "evanslin@taiwanmobile.com",
-    "name": "Evans Lin",
-    "network": "49.158.72.0/21",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS24164 UNION BROADBAND NETWORK",
+  "timezone": "Asia/Taipei"
 }

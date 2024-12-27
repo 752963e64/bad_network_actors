@@ -1,0 +1,43 @@
+{
+  "ip": "52.195.145.35",
+  "hostname": "ec2-52-195-145-35.ap-northeast-1.compute.amazonaws.com",
+  "city": "Tokyo",
+  "region": "Tokyo",
+  "country": "JP",
+  "loc": "35.6895,139.6917",
+  "postal": "101-8656",
+  "timezone": "Asia/Tokyo",
+  "asn": {
+    "asn": "AS16509",
+    "name": "Amazon.com, Inc.",
+    "domain": "amazon.com",
+    "route": "52.194.0.0/15",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Amazon Data Services Japan",
+    "domain": "amazon.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, WA, Seattle, Amazon Web Services Elastic Compute Cloud, EC2, 410 Terry Avenue North, 98109-5210",
+    "country": "US",
+    "email": "trustandsafety@support.aws.com",
+    "name": "Amazon EC2 Abuse",
+    "network": "52.194.0.0/15",
+    "phone": "+1-206-555-0000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

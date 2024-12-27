@@ -15,7 +15,7 @@
   "company": {
     "name": "Respina Networks & Beyond PJSC",
     "domain": "respina.net",
-    "type": "hosting"
+    "type": "isp"
   },
   "privacy": {
     "vpn": false,

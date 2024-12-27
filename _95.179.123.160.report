@@ -1,11 +1,11 @@
 {
   "ip": "95.179.123.160",
   "hostname": "x160.bbn2-123.lipetsk.ru",
-  "city": "Lipetsk",
+  "city": "Gryazi",
   "region": "Lipetsk Oblast",
   "country": "RU",
-  "loc": "52.6031,39.5708",
-  "postal": "398000",
+  "loc": "52.4954,39.9403",
+  "postal": "399050",
   "timezone": "Europe/Moscow",
   "asn": {
     "asn": "AS12389",

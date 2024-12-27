@@ -5,39 +5,7 @@
   "region": "Quebec",
   "country": "CA",
   "loc": "45.5088,-73.5878",
+  "org": "AS19527 Google LLC",
   "postal": "H3H",
-  "timezone": "America/Toronto",
-  "asn": {
-    "asn": "AS19527",
-    "name": "Google LLC",
-    "domain": "google.com",
-    "route": "35.215.0.0/18",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Google LLC",
-    "domain": "google.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "US, CA, Mountain View, 1600 Amphitheatre Parkway, 94043",
-    "country": "US",
-    "email": "google-cloud-compliance@google.com",
-    "name": "GC Abuse",
-    "network": "35.208.0.0-35.247.255.255",
-    "phone": "+1-650-253-0000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Toronto"
 }

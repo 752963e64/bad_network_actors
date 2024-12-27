@@ -7,9 +7,9 @@
   "postal": "999077",
   "timezone": "Asia/Hong_Kong",
   "asn": {
-    "asn": "AS141883",
-    "name": "BGPNET PTE. LTD.",
-    "domain": "bgpnet.com",
+    "asn": "AS54801",
+    "name": "Zillion Network Inc.",
+    "domain": "zillionnetwork.com",
     "route": "46.8.125.0/24",
     "type": "isp"
   },

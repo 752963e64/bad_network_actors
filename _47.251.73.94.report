@@ -1,10 +1,10 @@
 {
   "ip": "47.251.73.94",
-  "city": "Santa Clara",
+  "city": "San Jose",
   "region": "California",
   "country": "US",
-  "loc": "37.3541,-121.9552",
-  "postal": "95050",
+  "loc": "37.3394,-121.8950",
+  "postal": "95103",
   "timezone": "America/Los_Angeles",
   "asn": {
     "asn": "AS45102",

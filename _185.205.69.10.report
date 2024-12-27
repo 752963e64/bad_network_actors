@@ -1,0 +1,48 @@
+{
+  "ip": "185.205.69.10",
+  "city": "Frankfurt am Main",
+  "region": "Hesse",
+  "country": "DE",
+  "loc": "50.1155,8.6842",
+  "postal": "60306",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS210909",
+    "name": "Tutao GmbH",
+    "domain": "tutao.de",
+    "route": "185.205.69.0/24",
+    "type": "business"
+  },
+  "company": {
+    "name": "Tutao GmbH",
+    "domain": "tutao.de",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Deisterstr. 17a, 30449, Hannover, GERMANY",
+    "country": "DE",
+    "email": "abuse@tutanota.de",
+    "name": "Abuse-C Role",
+    "network": "185.205.69.0/24",
+    "phone": "+49-511-202801-0"
+  },
+  "domains": {
+    "ip": "185.205.69.10",
+    "total": 31,
+    "domains": [
+      "ttttml.ml",
+      "f7mail.com",
+      "kedimail.com",
+      "flannery.email",
+      "mayvel.fr"
+    ]
+  }
+}

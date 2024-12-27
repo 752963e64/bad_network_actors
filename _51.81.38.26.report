@@ -5,39 +5,7 @@
   "region": "Virginia",
   "country": "US",
   "loc": "39.0437,-77.4875",
+  "org": "AS16276 OVH SAS",
   "postal": "20147",
-  "timezone": "America/New_York",
-  "asn": {
-    "asn": "AS16276",
-    "name": "OVH SAS",
-    "domain": "ovhcloud.com",
-    "route": "51.81.0.0/17",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "100UP, Hosting",
-    "domain": "100up.org",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "OVH SAS, 2 Rue Kellermann, 59100 ROUBAIX, FRANCE",
-    "country": "FR",
-    "email": "abuse@ovh.net",
-    "name": "Abuse-C Role",
-    "network": "51.81.38.24/29",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/New_York"
 }

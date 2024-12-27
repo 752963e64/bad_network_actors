@@ -1,0 +1,45 @@
+{
+  "ip": "203.205.52.137",
+  "hostname": "static.cmcti.vn",
+  "city": "Da Nang",
+  "region": "Da Nang",
+  "country": "VN",
+  "loc": "16.0678,108.2208",
+  "postal": "50250",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "asn": {
+    "asn": "AS45903",
+    "name": "CMC Telecom Infrastructure Company",
+    "domain": "cmctelecom.vn",
+    "route": "203.205.52.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CMC Telecom Infrastructure Company",
+    "domain": "cmctelecom.vn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ha Noi, VietNam",
+    "country": "VN",
+    "email": "hm-changed@vnnic.vn",
+    "name": "Hoang Viet Anh",
+    "network": "203.205.0.0/18",
+    "phone": "+84-24-35564944"
+  },
+  "domains": {
+    "ip": "203.205.52.137",
+    "total": 1,
+    "domains": [
+      "phukiennailmie.vn"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "ip": "91.235.147.212",
+  "hostname": "bras4.nat-client-pool2.sat-dv.ru",
+  "city": "Amursk",
+  "region": "Khabarovsk",
+  "country": "RU",
+  "loc": "50.2368,136.8814",
+  "postal": "682640",
+  "timezone": "Asia/Vladivostok",
+  "asn": {
+    "asn": "AS57808",
+    "name": "SAT-DV LLC",
+    "domain": "sat-dv.ru",
+    "route": "91.235.146.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SAT-DV LLC",
+    "domain": "sat-dv.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "682640 Amursk, Komsomolskiy, 19 - 60",
+    "country": "RU",
+    "email": "abuse@sat-dv.ru",
+    "name": "Abuse-C Role",
+    "network": "91.235.144.0/22",
+    "phone": "+7 42142 99500"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -5,44 +5,7 @@
   "region": "Hamburg",
   "country": "DE",
   "loc": "53.5507,9.9930",
+  "org": "AS3320 Deutsche Telekom AG",
   "postal": "20038",
-  "timezone": "Europe/Berlin",
-  "asn": {
-    "asn": "AS3320",
-    "name": "Deutsche Telekom AG",
-    "domain": "telekom.de",
-    "route": "80.187.0.0/16",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Telekom Deutschland GmbH",
-    "domain": "telekom.de",
-    "type": "isp"
-  },
-  "carrier": {
-    "name": "Telekom",
-    "mcc": "262",
-    "mnc": "01"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Telekom Deutschland GmbH, T-CSD, Landgrabenweg 151, 53227 Bonn, GERMANY",
-    "country": "DE",
-    "email": "abuse@telekom.de",
-    "name": "Telekom Deutschland GmbH",
-    "network": "80.187.112.0/20",
-    "phone": "+49 228 181 0"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Berlin"
 }

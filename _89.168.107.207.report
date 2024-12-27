@@ -4,39 +4,7 @@
   "region": "Hesse",
   "country": "DE",
   "loc": "50.1025,8.6299",
+  "org": "AS31898 Oracle Corporation",
   "postal": "60326",
-  "timezone": "Europe/Berlin",
-  "asn": {
-    "asn": "AS31898",
-    "name": "Oracle Corporation",
-    "domain": "oracle.com",
-    "route": "89.168.64.0/18",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Oracle Svenska AB",
-    "domain": "oracle.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Oracle Svenska AB, Kronborgsgrand 17, 164 46 Kista, SE",
-    "country": "US",
-    "email": "abuse@oracleemaildelivery.com",
-    "name": "Abuse-C Role",
-    "network": "89.168.0.0/17",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Berlin"
 }

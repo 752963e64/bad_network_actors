@@ -1,11 +1,11 @@
 {
   "ip": "96.56.184.26",
   "hostname": "ool-6038b81a.static.optonline.net",
-  "city": "Huntington",
+  "city": "New York City",
   "region": "New York",
   "country": "US",
-  "loc": "40.8681,-73.4257",
-  "postal": "11743",
+  "loc": "40.7143,-74.0060",
+  "postal": "10001",
   "timezone": "America/New_York",
   "asn": {
     "asn": "AS6128",

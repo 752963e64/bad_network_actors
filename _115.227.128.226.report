@@ -1,42 +1,10 @@
 {
   "ip": "115.227.128.226",
-  "city": "Shaoxing",
+  "city": "Jiaxing",
   "region": "Zhejiang",
   "country": "CN",
-  "loc": "30.0024,120.5786",
-  "postal": "312000",
-  "timezone": "Asia/Shanghai",
-  "asn": {
-    "asn": "AS4134",
-    "name": "CHINANET-BACKBONE",
-    "domain": "chinatelecom.com.cn",
-    "route": "115.224.0.0/12",
-    "type": "isp"
-  },
-  "company": {
-    "name": "CHINANET Zhejiang province network",
-    "domain": "chinatelecom.cn",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "No.31 ,jingrong street,beijing, 100032",
-    "country": "CN",
-    "email": "anti-spam@chinatelecom.cn",
-    "name": "ABUSE CHINANETCN",
-    "network": "115.224.0.0/12",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "loc": "30.7522,120.7500",
+  "org": "AS4134 CHINANET-BACKBONE",
+  "postal": "314000",
+  "timezone": "Asia/Shanghai"
 }

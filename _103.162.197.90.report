@@ -4,39 +4,7 @@
   "region": "Uttar Pradesh",
   "country": "IN",
   "loc": "26.7755,82.1502",
+  "org": "AS141522 Byte Technologies",
   "postal": "224001",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS141522",
-    "name": "Byte Technologies",
-    "domain": "",
-    "route": "103.162.197.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Byte Technologies",
-    "domain": "",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "HIG 85, awas vikash colony, angooribagh faizabad,Lucknow,Uttar Pradesh-224001",
-    "country": "IN",
-    "email": "ankit.vaid1@gmail.com",
-    "name": "vikas kumar",
-    "network": "103.162.196.0/23",
-    "phone": "+91 5272500451"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

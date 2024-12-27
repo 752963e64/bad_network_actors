@@ -1,11 +1,11 @@
 {
   "ip": "95.253.136.129",
   "hostname": "host-95-253-136-129.business.telecomitalia.it",
-  "city": "Rome",
-  "region": "Lazio",
+  "city": "Rimini",
+  "region": "Emilia-Romagna",
   "country": "IT",
-  "loc": "41.8919,12.5113",
-  "postal": "00118",
+  "loc": "44.0575,12.5653",
+  "postal": "47900",
   "timezone": "Europe/Rome",
   "asn": {
     "asn": "AS3269",

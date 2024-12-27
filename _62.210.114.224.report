@@ -1,43 +1,11 @@
 {
   "ip": "62.210.114.224",
   "hostname": "62-210-114-224.rev.poneytelecom.eu",
-  "city": "Orly",
+  "city": "Choisy-le-Roi",
   "region": "Île-de-France",
   "country": "FR",
-  "loc": "48.7479,2.3925",
-  "postal": "94310",
-  "timezone": "Europe/Paris",
-  "asn": {
-    "asn": "AS12876",
-    "name": "SCALEWAY S.A.S.",
-    "domain": "scaleway.com",
-    "route": "62.210.0.0/16",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Scaleway Dedibox",
-    "domain": "scaleway.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "8 rue de la ville l'évêque 75008 PARIS",
-    "country": "FR",
-    "email": "abuse@scaleway.com",
-    "name": "Scaleway Dedibox",
-    "network": "62.210.0.0/17",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "loc": "48.7685,2.4187",
+  "org": "AS12876 SCALEWAY S.A.S.",
+  "postal": "94600",
+  "timezone": "Europe/Paris"
 }

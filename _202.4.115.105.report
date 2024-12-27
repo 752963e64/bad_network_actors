@@ -4,39 +4,7 @@
   "region": "Dhaka Division",
   "country": "BD",
   "loc": "23.7104,90.4074",
+  "org": "AS23956 AmberIT Limited",
   "postal": "1000",
-  "timezone": "Asia/Dhaka",
-  "asn": {
-    "asn": "AS23956",
-    "name": "AmberIT Limited",
-    "domain": "amberit.com.bd",
-    "route": "202.4.115.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "DhakaCom Limited",
-    "domain": "dhakacom.com",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "dhakaCom Limited, Navana Tower (7th Floor), 45 Gulshan South C/A,Circle 1, Dhaka-1212, Bangladesh",
-    "country": "BD",
-    "email": "abuse@amberit.com.bd",
-    "name": "ABUSE DHAKACOMBD",
-    "network": "202.4.96.0/19",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Dhaka"
 }

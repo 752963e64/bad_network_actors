@@ -5,38 +5,7 @@
   "region": "New York",
   "country": "US",
   "loc": "40.7143,-74.0060",
+  "org": "AS40021 Nubes, LLC",
   "postal": "10001",
-  "timezone": "America/New_York",
-  "asn": {
-    "asn": "AS40021",
-    "name": "Nubes, LLC",
-    "domain": "nubes-llc.com",
-    "route": "154.38.184.0/21",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Contabo Inc",
-    "domain": "contabo.com",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "US, DC, Washington, 2450 N street, NW, 20037",
-    "country": "US",
-    "email": "abuse@cogentco.com",
-    "name": "Cogent Abuse",
-    "network": "154.38.160.0/19",
-    "phone": "+1-877-875-4311"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/New_York"
 }

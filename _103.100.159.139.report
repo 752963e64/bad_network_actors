@@ -1,0 +1,49 @@
+{
+  "ip": "103.100.159.139",
+  "hostname": "unknown.itsidc.com",
+  "city": "Hong Kong",
+  "region": "Hong Kong",
+  "country": "HK",
+  "loc": "22.2783,114.1747",
+  "postal": "999077",
+  "timezone": "Asia/Hong_Kong",
+  "asn": {
+    "asn": "AS55933",
+    "name": "Cloudie Limited",
+    "domain": "worria.com",
+    "route": "103.100.159.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "CLOUDIE LIMITED",
+    "domain": "cloudie.hk",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Unit 04, 7/F Bright Way Tower, 33 Mong Kok Road",
+    "country": "HK",
+    "email": "ABUSE@CLOUDIE.HK",
+    "name": "ABUSE CLOUDHKHK",
+    "network": "103.100.159.0/24",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "ip": "103.100.159.139",
+    "total": 7,
+    "domains": [
+      "zzds.com.cn",
+      "qifenglog.com",
+      "dgtangsheng.com",
+      "dgxinsiyuan.com",
+      "uooyo.com"
+    ]
+  }
+}

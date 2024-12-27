@@ -4,39 +4,7 @@
   "region": "North Rhine-Westphalia",
   "country": "DE",
   "loc": "51.2217,6.7762",
+  "org": "AS207252 Realtox Media",
   "postal": "40210",
-  "timezone": "Europe/Berlin",
-  "asn": {
-    "asn": "AS207252",
-    "name": "Realtox Media",
-    "domain": "realtoxmedia.de",
-    "route": "85.202.163.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Realtox-Media",
-    "domain": "realtoxmedia.de",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Talweg 4s, 21149 Hamburg, Germany",
-    "country": "DE",
-    "email": "noc@realtoxmedia.de",
-    "name": "Abuse role object",
-    "network": "85.202.163.0/24",
-    "phone": "+491602304983"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Berlin"
 }

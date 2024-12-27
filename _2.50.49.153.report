@@ -1,0 +1,43 @@
+{
+  "ip": "2.50.49.153",
+  "hostname": "bba-2-50-49-153.alshamil.net.ae",
+  "city": "Dubai",
+  "region": "Dubai",
+  "country": "AE",
+  "loc": "25.0772,55.3093",
+  "postal": "28506 74783",
+  "timezone": "Asia/Dubai",
+  "asn": {
+    "asn": "AS5384",
+    "name": "EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC",
+    "domain": "emirates.net.ae",
+    "route": "2.50.48.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Emirates Telecommunications Corporation",
+    "domain": "etisalat.ae",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "P.O. Box 93939 Dubai United Arab Emirates",
+    "country": "AE",
+    "email": "abuse@emirates.net.ae",
+    "name": "Emirates Telecommunications Corporation",
+    "network": "2.50.28.0-2.50.63.255",
+    "phone": "+971 800 6100"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,9 +1,9 @@
 {
   "ip": "41.60.186.255",
-  "city": "Kitwe",
-  "region": "Copperbelt",
+  "city": "Lusaka",
+  "region": "Lusaka Province",
   "country": "ZM",
-  "loc": "-12.8024,28.2132",
+  "loc": "-15.4067,28.2871",
   "timezone": "Africa/Lusaka",
   "asn": {
     "asn": "AS30844",

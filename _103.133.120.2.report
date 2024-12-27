@@ -5,39 +5,7 @@
   "region": "Rajasthan",
   "country": "IN",
   "loc": "25.1825,75.8391",
+  "org": "AS138277 Radinet Info Solutions Private Limited",
   "postal": "322243",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS138277",
-    "name": "Radinet Info Solutions Private Limited",
-    "domain": "radinet.in",
-    "route": "103.133.120.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Radinet Info Solutions Private Limited",
-    "domain": "radinet.in",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "I-A-1, Vasundhra Vihar,, Near Shivam Apartments, Bajrang Nagar, Nayapura,Kota,Rajasthan-324001",
-    "country": "IN",
-    "email": "jayant.bhutoria@radinet.in",
-    "name": "Vikram Kabra",
-    "network": "103.133.120.0/22",
-    "phone": "+91 74406702040"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

@@ -16,14 +16,14 @@
   "company": {
     "name": "Narayana OU",
     "domain": "narayana.im",
-    "type": "hosting"
+    "type": "isp"
   },
   "privacy": {
     "vpn": true,
     "proxy": false,
     "tor": false,
     "relay": false,
-    "hosting": true,
+    "hosting": false,
     "service": ""
   },
   "abuse": {

@@ -4,38 +4,7 @@
   "region": "São Paulo",
   "country": "BR",
   "loc": "-23.4339,-45.0711",
+  "org": "AS268645 FUTURE DIGITAL TECHNOLOGY E TELECOM LTDA EPP",
   "postal": "11680-000",
-  "timezone": "America/Sao_Paulo",
-  "asn": {
-    "asn": "AS268645",
-    "name": "FUTURE DIGITAL TECHNOLOGY E TELECOM LTDA EPP",
-    "domain": "aja.digital",
-    "route": "45.164.177.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "FUTURE DIGITAL TECHNOLOGY E TELECOM LTDA EPP",
-    "domain": "futuredigital.net.br",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "",
-    "country": "BR",
-    "email": "noc@meganet.com.vc",
-    "name": "MEGANET - Ger�ncia da Rede IP",
-    "network": "45.164.176.0/22",
-    "phone": ""
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Sao_Paulo"
 }

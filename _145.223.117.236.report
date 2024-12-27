@@ -5,41 +5,7 @@
   "region": "Hesse",
   "country": "DE",
   "loc": "50.1155,8.6842",
+  "org": "AS47583 Hostinger International Limited",
   "postal": "60306",
-  "timezone": "Europe/Berlin",
-  "asn": {
-    "asn": "AS47583",
-    "name": "Hostinger International Limited",
-    "domain": "hostinger.com",
-    "route": "145.223.112.0/21",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Brander Group Inc.",
-    "domain": "brandergroup.net",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Private Residence",
-    "country": "DE",
-    "email": "report@abuseradar.com",
-    "name": "Private Customer",
-    "network": "145.223.112.0/21",
-    "phone": ""
-  },
-  "domains": {
-    "ip": "145.223.117.236",
-    "total": 1,
-    "domains": [
-      "pjssolutions.nl"
-    ]
-  }
+  "timezone": "Europe/Berlin"
 }
