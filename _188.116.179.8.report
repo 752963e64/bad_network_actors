@@ -1,0 +1,43 @@
+{
+  "ip": "188.116.179.8",
+  "hostname": "8-179.homenet.orn.ru",
+  "city": "Orël",
+  "region": "Oryol oblast",
+  "country": "RU",
+  "loc": "52.9593,36.0780",
+  "postal": "302000",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS34629",
+    "name": "\"Resurs-Svyaz\" Ltd",
+    "domain": "orn.ru",
+    "route": "188.116.128.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Resurs-Svyaz Ltd.",
+    "domain": "orn.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Russia 302000 Orel",
+    "country": "RU",
+    "email": "abuse@orn.ru",
+    "name": "IT department",
+    "network": "188.116.160.0-188.116.191.0",
+    "phone": "+7 4862 402006"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

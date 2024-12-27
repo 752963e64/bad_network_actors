@@ -1,0 +1,42 @@
+{
+  "ip": "103.119.179.170",
+  "city": "Thiruvananthapuram",
+  "region": "Kerala",
+  "country": "IN",
+  "loc": "8.4855,76.9492",
+  "postal": "695020",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS141549",
+    "name": "Kerala State Information Technology Infrastructure Limited",
+    "domain": "ksitil.org",
+    "route": "103.119.179.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "KERALA FIBRE OPTIC NETWORK LIMITED",
+    "domain": "kerala.gov.in",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "FIRST FLOOR,SAANKETHIKA, PF ROAD, PATTOM PALACE P.O THIRUVANANTHAPURAM PIN-695004,Thiruvananthapuram,Kerala-695004",
+    "country": "IN",
+    "email": "pmpop.kfon@ksitil.org",
+    "name": "LEKHA P",
+    "network": "103.119.178.0/23",
+    "phone": "+91 9495689794"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

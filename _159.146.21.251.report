@@ -5,38 +5,7 @@
   "region": "Istanbul",
   "country": "TR",
   "loc": "41.0138,28.9497",
+  "org": "AS12735 TurkNet Iletisim Hizmetleri A.S.",
   "postal": "34096",
-  "timezone": "Europe/Istanbul",
-  "asn": {
-    "asn": "AS12735",
-    "name": "TurkNet Iletisim Hizmetleri A.S.",
-    "domain": "turk.net",
-    "route": "159.146.21.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "TurkNet Iletisim Hizmetleri A.S.",
-    "domain": "turk.net",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "TurkNet Iletisim Hizmetleri A.S Buyukdere Cad. No:121 Ercan Han Kat:2 34394 Istanbul Turkey",
-    "country": "TR",
-    "email": "lir@turknet.net.tr",
-    "name": "Abuse-C Role",
-    "network": "159.146.0.0/17",
-    "phone": ""
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Istanbul"
 }

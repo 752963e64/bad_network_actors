@@ -4,39 +4,7 @@
   "region": "Baki",
   "country": "AZ",
   "loc": "40.3777,49.8920",
+  "org": "AS28787 Baku Telephone Communication LLC",
   "postal": "AZ 1000",
-  "timezone": "Asia/Baku",
-  "asn": {
-    "asn": "AS28787",
-    "name": "Baku Telephone Communication LLC",
-    "domain": "baktelecom.az",
-    "route": "81.17.80.0/20",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Bakinternet Network",
-    "domain": "bakinter.net",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "",
-    "country": "AZ",
-    "email": "abuse@baktelecom.az",
-    "name": "Abuse contact role object",
-    "network": "81.17.88.0/21",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Baku"
 }

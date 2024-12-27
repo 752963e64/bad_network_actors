@@ -4,7 +4,39 @@
   "region": "Ho Chi Minh",
   "country": "VN",
   "loc": "10.8230,106.6296",
-  "org": "AS18403 FPT Telecom Company",
   "postal": "71606",
-  "timezone": "Asia/Ho_Chi_Minh"
+  "timezone": "Asia/Ho_Chi_Minh",
+  "asn": {
+    "asn": "AS18403",
+    "name": "FPT Telecom Company",
+    "domain": "fpt.vn",
+    "route": "42.118.112.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "FPT Telecom Company",
+    "domain": "fpt.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ha Noi, VietNam",
+    "country": "VN",
+    "email": "hm-changed@vnnic.vn",
+    "name": "Luong Duy Phuong",
+    "network": "42.118.112.0/20",
+    "phone": "+84-24-35564944"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

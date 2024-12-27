@@ -4,39 +4,7 @@
   "region": "Tianjin",
   "country": "CN",
   "loc": "39.1422,117.1767",
+  "org": "AS58542 Tianjij,300000",
   "postal": "300000",
-  "timezone": "Asia/Shanghai",
-  "asn": {
-    "asn": "AS58542",
-    "name": "Tianjij,300000",
-    "domain": "chinatelecom.cn",
-    "route": "42.81.0.0/16",
-    "type": "business"
-  },
-  "company": {
-    "name": "CHINANET TIANJIN PROVINCE NETWORK",
-    "domain": "chinatelecom.cn",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "No.31 ,jingrong street,beijing, 100032",
-    "country": "CN",
-    "email": "anti-spam@chinatelecom.cn",
-    "name": "ABUSE CHINANETCN",
-    "network": "42.80.0.0/15",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Shanghai"
 }

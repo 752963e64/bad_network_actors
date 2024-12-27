@@ -1,0 +1,42 @@
+{
+  "ip": "203.223.191.4",
+  "city": "Coimbatore",
+  "region": "Tamil Nadu",
+  "country": "IN",
+  "loc": "11.0055,76.9661",
+  "postal": "641001",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS45536",
+    "name": "Readylink Internet Services Limited",
+    "domain": "readylink.in",
+    "route": "203.223.191.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SNS College of Technology",
+    "domain": "readylink.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "'Galaxy', Plot No:7, Sakthi Colony, R.K.Puram, Ganapathy,, Coimbatore -641006",
+    "country": "IN",
+    "email": "admin@readylink.in",
+    "name": "READYLINK INTERNET SERVICES PVT LIMITED  - networ",
+    "network": "203.223.191.0/28",
+    "phone": "+91-422-4299399"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

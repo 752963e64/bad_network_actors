@@ -4,38 +4,7 @@
   "region": "Los Ríos Region",
   "country": "CL",
   "loc": "-39.8142,-73.2459",
+  "org": "AS14117 Telefonica del Sur S.A.",
   "postal": "5090000",
-  "timezone": "America/Santiago",
-  "asn": {
-    "asn": "AS14117",
-    "name": "Telefonica del Sur S.A.",
-    "domain": "telsur.cl",
-    "route": "181.226.212.0/22",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Telefonica del Sur S.A.",
-    "domain": "telsur.cl",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Moneda, 920, -, NONE - Santiago - SA",
-    "country": "CL",
-    "email": "netadmin@grupogtd.com",
-    "name": "Manuel Suanez Berrios",
-    "network": "181.226.0.0/16",
-    "phone": "+56  224139000 [0000]"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Santiago"
 }

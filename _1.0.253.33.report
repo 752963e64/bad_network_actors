@@ -1,0 +1,43 @@
+{
+  "ip": "1.0.253.33",
+  "hostname": "node-opt.pool-1-0.dynamic.totinternet.net",
+  "city": "Yala",
+  "region": "Yala",
+  "country": "TH",
+  "loc": "6.5400,101.2813",
+  "postal": "95000",
+  "timezone": "Asia/Bangkok",
+  "asn": {
+    "asn": "AS23969",
+    "name": "TOT Public Company Limited",
+    "domain": "ntplc.co.th",
+    "route": "1.0.248.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TOT Public Company Limited",
+    "domain": "tot.co.th",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",
+    "country": "TH",
+    "email": "abuse@totisp.net",
+    "name": "ABUSE TOTTH",
+    "network": "1.0.192.0/18",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

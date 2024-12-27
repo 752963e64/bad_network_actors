@@ -5,39 +5,7 @@
   "region": "Rheinland-Pfalz",
   "country": "DE",
   "loc": "50.5500,7.9333",
+  "org": "AS3320 Deutsche Telekom AG",
   "postal": "56459",
-  "timezone": "Europe/Berlin",
-  "asn": {
-    "asn": "AS3320",
-    "name": "Deutsche Telekom AG",
-    "domain": "telekom.de",
-    "route": "80.128.0.0/12",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Deutsche Telekom AG",
-    "domain": "telekom.de",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Deutsche Telekom AG",
-    "country": "DE",
-    "email": "abuse@telekom.de",
-    "name": "Deutsche Telekom LIR Abuse Contact",
-    "network": "80.128.0.0/11",
-    "phone": "+49 421 5155 4041"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Berlin"
 }

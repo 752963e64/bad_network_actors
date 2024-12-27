@@ -1,0 +1,43 @@
+{
+  "ip": "189.174.83.8",
+  "hostname": "dsl-189-174-83-8-dyn.prod-infinitum.com.mx",
+  "city": "Playa del Carmen",
+  "region": "Quintana Roo",
+  "country": "MX",
+  "loc": "20.6274,-87.0799",
+  "postal": "77710",
+  "timezone": "America/Cancun",
+  "asn": {
+    "asn": "AS8151",
+    "name": "UNINET",
+    "domain": "telmex.com",
+    "route": "189.174.80.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Gestión de direccionamiento UniNet",
+    "domain": "uninet.net.mx",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PERIFERICO SUR, 3190, ALVARO OBREG, 01900 - MEXICO - CX",
+    "country": "MX",
+    "email": "abuse@UNINET.NET.MX",
+    "name": "SEGURIDAD DE RED UNINET",
+    "network": "189.174.83.0/24",
+    "phone": "+52 55 52237234 []"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

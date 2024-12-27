@@ -4,39 +4,7 @@
   "region": "Sichuan",
   "country": "CN",
   "loc": "30.6667,104.0667",
+  "org": "AS4134 CHINANET-BACKBONE",
   "postal": "610000",
-  "timezone": "Asia/Shanghai",
-  "asn": {
-    "asn": "AS4134",
-    "name": "CHINANET-BACKBONE",
-    "domain": "chinatelecom.com.cn",
-    "route": "171.208.0.0/12",
-    "type": "isp"
-  },
-  "company": {
-    "name": "CHINANET Sichuan province network",
-    "domain": "sctel.com.cn",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "No.31 ,jingrong street,beijing, 100032",
-    "country": "CN",
-    "email": "anti-spam@chinatelecom.cn",
-    "name": "ABUSE CHINANETCN",
-    "network": "171.208.0.0/12",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Shanghai"
 }

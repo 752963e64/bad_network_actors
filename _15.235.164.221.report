@@ -5,7 +5,39 @@
   "region": "Singapore",
   "country": "SG",
   "loc": "1.2897,103.8501",
-  "org": "AS16276 OVH SAS",
   "postal": "018989",
-  "timezone": "Asia/Singapore"
+  "timezone": "Asia/Singapore",
+  "asn": {
+    "asn": "AS16276",
+    "name": "OVH SAS",
+    "domain": "ovhcloud.com",
+    "route": "15.235.128.0/17",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "OVH Singapore PTE. LTD",
+    "domain": "ovh.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CA, QC, Montreal, 800-1801 McGill College, H3A 2N4",
+    "country": "CA",
+    "email": "noc@ovh.net",
+    "name": "NOC",
+    "network": "15.235.164.0/23",
+    "phone": "+1-855-684-5463"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

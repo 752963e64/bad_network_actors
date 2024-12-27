@@ -4,38 +4,6 @@
   "region": "Central District",
   "country": "IL",
   "loc": "32.0956,34.9566",
-  "timezone": "Asia/Jerusalem",
-  "asn": {
-    "asn": "AS44709",
-    "name": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
-    "domain": "omc.co.il",
-    "route": "5.100.249.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
-    "domain": "omc.co.il",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "15 Madison Ave., New York City, New York, USA",
-    "country": "IL",
-    "email": "abuse@cloudwm.com",
-    "name": "Cloud Web Manage",
-    "network": "5.100.249.0/24",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS44709 O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+  "timezone": "Asia/Jerusalem"
 }

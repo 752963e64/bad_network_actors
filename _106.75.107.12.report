@@ -5,39 +5,7 @@
   "region": "Beijing",
   "country": "CN",
   "loc": "39.9075,116.3972",
+  "org": "AS23724 IDC, China Telecommunications Corporation",
   "postal": "100000",
-  "timezone": "Asia/Shanghai",
-  "asn": {
-    "asn": "AS23724",
-    "name": "IDC, China Telecommunications Corporation",
-    "domain": "chinatelecom.cn",
-    "route": "106.75.96.0/19",
-    "type": "business"
-  },
-  "company": {
-    "name": "Shanghai UCloud Information Technology Company Limited",
-    "domain": "ucloud.cn",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Beijing, China",
-    "country": "CN",
-    "email": "ipas@cnnic.cn",
-    "name": "ABUSE CNNICCN",
-    "network": "106.75.0.0/16",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Shanghai"
 }

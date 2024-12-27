@@ -4,38 +4,7 @@
   "region": "Samut Prakan",
   "country": "TH",
   "loc": "13.6417,100.8327",
+  "org": "AS131293 TOT Public Company Limited",
   "postal": "10560",
-  "timezone": "Asia/Bangkok",
-  "asn": {
-    "asn": "AS131293",
-    "name": "TOT Public Company Limited",
-    "domain": "tot.co.th",
-    "route": "1.179.128.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Office of Education Region 10 , Phetchaburi",
-    "domain": "totbb.net",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",
-    "country": "TH",
-    "email": "abuse@totisp.net",
-    "name": "ABUSE TOTTH",
-    "network": "1.179.128.120/29",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Bangkok"
 }

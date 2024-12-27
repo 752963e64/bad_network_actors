@@ -1,0 +1,42 @@
+{
+  "ip": "178.46.168.218",
+  "city": "Chelyabinsk",
+  "region": "Chelyabinsk",
+  "country": "RU",
+  "loc": "55.1540,61.4291",
+  "postal": "454000",
+  "timezone": "Asia/Yekaterinburg",
+  "asn": {
+    "asn": "AS12389",
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "route": "178.46.160.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Dynamic distribution IP's for broadband services",
+    "domain": "rt.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "PJSC Rostelecom Technical Team",
+    "network": "178.46.160.0/20",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

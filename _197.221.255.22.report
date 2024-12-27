@@ -4,43 +4,6 @@
   "region": "Bulawayo",
   "country": "ZW",
   "loc": "-20.1500,28.5833",
-  "timezone": "Africa/Harare",
-  "asn": {
-    "asn": "AS37204",
-    "name": "Telone PVT Ltd",
-    "domain": "telone.co.zw",
-    "route": "197.221.255.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "MPLS ADSL Broadband",
-    "domain": "telone.co.zw",
-    "type": "isp"
-  },
-  "carrier": {
-    "name": "Econet",
-    "mcc": "648",
-    "mnc": "04"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "107 Kwame Nkrumah Ave, Harare Zimbabwe, Harare, Zimbabwe",
-    "country": "ZW",
-    "email": "tafara.chipunza@telone.co.zw",
-    "name": "Tafara Chipunza",
-    "network": "197.221.240.0/20",
-    "phone": "tel:+263-242795575"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS37204 Telone PVT Ltd",
+  "timezone": "Africa/Harare"
 }

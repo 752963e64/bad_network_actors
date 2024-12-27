@@ -5,39 +5,7 @@
   "region": "Hesse",
   "country": "DE",
   "loc": "50.1155,8.6842",
+  "org": "AS210644 AEZA INTERNATIONAL LTD",
   "postal": "60306",
-  "timezone": "Europe/Berlin",
-  "asn": {
-    "asn": "AS210644",
-    "name": "AEZA INTERNATIONAL LTD",
-    "domain": "aeza.net",
-    "route": "176.124.198.0/23",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Aeza International LTD",
-    "domain": "aeza.net",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "311 Shoreham Street, Sheffield, S2 4FA, United Kingdom",
-    "country": "GB",
-    "email": "abuse@aeza.net",
-    "name": "Aeza International LTD",
-    "network": "176.124.198.0/23",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Berlin"
 }

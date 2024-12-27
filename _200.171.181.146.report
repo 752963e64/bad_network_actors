@@ -5,39 +5,7 @@
   "region": "São Paulo",
   "country": "BR",
   "loc": "-22.9056,-47.0608",
+  "org": "AS27699 TELEFÔNICA BRASIL S.A",
   "postal": "13000-000",
-  "timezone": "America/Sao_Paulo",
-  "asn": {
-    "asn": "AS27699",
-    "name": "TELEFÔNICA BRASIL S.A",
-    "domain": "telefonica.com.br",
-    "route": "200.171.128.0/18",
-    "type": "isp"
-  },
-  "company": {
-    "name": "TELEFÔNICA BRASIL S.A",
-    "domain": "telefonica.com.br",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "",
-    "country": "BR",
-    "email": "abuse.br@telefonica.com",
-    "name": "CSIRT TELEFONICA BR",
-    "network": "200.171.128.0/18",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Sao_Paulo"
 }

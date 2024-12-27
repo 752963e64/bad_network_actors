@@ -5,39 +5,7 @@
   "region": "Khanty-Mansia",
   "country": "RU",
   "loc": "61.2576,73.4177",
+  "org": "AS12389 PJSC Rostelecom",
   "postal": "628400",
-  "timezone": "Asia/Yekaterinburg",
-  "asn": {
-    "asn": "AS12389",
-    "name": "PJSC Rostelecom",
-    "domain": "rt.ru",
-    "route": "176.211.0.0/16",
-    "type": "isp"
-  },
-  "company": {
-    "name": "PJSC Rostelecom",
-    "domain": "rt.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PJSC Rostelecom, Russian Federation",
-    "country": "RU",
-    "email": "abuse@rt.ru",
-    "name": "PJSC Rostelecom Technical Team",
-    "network": "176.211.0.0/17",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Yekaterinburg"
 }

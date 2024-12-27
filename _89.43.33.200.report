@@ -5,7 +5,39 @@
   "region": "Hesse",
   "country": "DE",
   "loc": "50.1155,8.6842",
-  "org": "AS202448 MVPS LTD",
   "postal": "60306",
-  "timezone": "Europe/Berlin"
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS202448",
+    "name": "MVPS LTD",
+    "domain": "mvps.net",
+    "route": "89.43.33.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "MVPS LTD",
+    "domain": "mvps.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Medousis 26, Katsiantonis and Charalambous court, Flat 202, 6059, Larnaca, CYPRUS",
+    "country": "CY",
+    "email": "abuses@mvps.net",
+    "name": "Abuse-C Role",
+    "network": "89.43.33.128/25",
+    "phone": "+35796794575"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

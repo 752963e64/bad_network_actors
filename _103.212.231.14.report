@@ -4,45 +4,7 @@
   "region": "Guangdong",
   "country": "CN",
   "loc": "22.5455,114.0683",
+  "org": "AS135357 HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",
   "postal": "518000",
-  "timezone": "Asia/Shanghai",
-  "asn": {
-    "asn": "AS135357",
-    "name": "HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",
-    "domain": "rtat.net",
-    "route": "103.212.228.0/22",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "HONG KONG KOWLOON TELECOMMUNICATIONS CO.,LIMITED",
-    "domain": "rtat.net",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "baoanquxixiangjiedaobieshu313, Shenzhen",
-    "country": "CN",
-    "email": "harry.soyx@gmail.com",
-    "name": "ABUSE SGMHECCLCN",
-    "network": "103.212.228.0/22",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "ip": "103.212.231.14",
-    "total": 9,
-    "domains": [
-      "662696.com",
-      "662686.com",
-      "665696.com",
-      "362999.com",
-      "gydhz.pw"
-    ]
-  }
+  "timezone": "Asia/Shanghai"
 }

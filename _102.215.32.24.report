@@ -1,0 +1,43 @@
+{
+  "ip": "102.215.32.24",
+  "hostname": "mymanga.co.ke",
+  "city": "Isiolo",
+  "region": "Isiolo County",
+  "country": "KE",
+  "loc": "0.3546,37.5822",
+  "postal": "60300",
+  "timezone": "Africa/Nairobi",
+  "asn": {
+    "asn": "AS329029",
+    "name": "Mymanga Networks",
+    "domain": "mymanga.co.ke",
+    "route": "102.215.32.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Mymanga Networks",
+    "domain": "mymanga.co.ke",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Mashiara Park, Loresho, Nairobi 00100, Kenya",
+    "country": "KE",
+    "email": "abuse@mymanga.co.ke",
+    "name": "Barnabie Opiyo",
+    "network": "102.215.32.0/24",
+    "phone": "tel:+254-702-163459"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

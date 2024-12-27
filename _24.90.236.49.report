@@ -5,7 +5,39 @@
   "region": "New York",
   "country": "US",
   "loc": "40.7975,-73.9683",
-  "org": "AS12271 Charter Communications Inc",
   "postal": "10025",
-  "timezone": "America/New_York"
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS12271",
+    "name": "Charter Communications Inc",
+    "domain": "charter.com",
+    "route": "24.90.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Charter Communications Inc",
+    "domain": "charter.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, CO, Greenwood Village, P.O. Box 4987, 80155",
+    "country": "US",
+    "email": "abuse@charter.net",
+    "name": "Abuse",
+    "network": "24.90.0.0/16",
+    "phone": "+1-877-777-2263"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

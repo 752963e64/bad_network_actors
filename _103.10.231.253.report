@@ -1,0 +1,42 @@
+{
+  "ip": "103.10.231.253",
+  "city": "Ban Chang",
+  "region": "Rayong",
+  "country": "TH",
+  "loc": "12.7254,101.0553",
+  "postal": "21130",
+  "timezone": "Asia/Bangkok",
+  "asn": {
+    "asn": "AS131090",
+    "name": "CAT TELECOM Public Company Ltd,CAT",
+    "domain": "cinternetbycat.com",
+    "route": "103.10.231.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CAT Telecom Public Company Limited",
+    "domain": "cattelecom.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "National Telecom Public Company Limited (CAT), NT Tower Bangkok Bangkok 10500, Thailand",
+    "country": "TH",
+    "email": "noc@cat.net.th",
+    "name": "ABUSE CATTH",
+    "network": "103.10.231.0/24",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

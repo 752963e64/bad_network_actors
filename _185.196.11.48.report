@@ -5,7 +5,41 @@
   "region": "Hesse",
   "country": "DE",
   "loc": "50.1155,8.6842",
-  "org": "AS42624 Global-Data System IT Corporation",
   "postal": "60306",
-  "timezone": "Europe/Berlin"
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS42624",
+    "name": "Global-Data System IT Corporation",
+    "domain": "globaldata-cloud.com",
+    "route": "185.196.11.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Global-Data System IT Corporation",
+    "domain": "globaldata-cloud.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "SEYCHELLES, Mahe, 0000, House of Francis, Room 303, Ile Du Port,",
+    "country": "SC",
+    "email": "abuse@globaldata-cloud.com",
+    "name": "Abuse-C Role",
+    "network": "185.196.8.0/22",
+    "phone": "+447864538641"
+  },
+  "domains": {
+    "ip": "185.196.11.48",
+    "total": 1,
+    "domains": [
+      "scannir.fans"
+    ]
+  }
 }

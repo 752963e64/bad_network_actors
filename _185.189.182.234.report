@@ -5,7 +5,39 @@
   "region": "South Holland",
   "country": "NL",
   "loc": "51.9225,4.4792",
-  "org": "AS49544 i3D.net B.V",
   "postal": "3011",
-  "timezone": "Europe/Amsterdam"
+  "timezone": "Europe/Amsterdam",
+  "asn": {
+    "asn": "AS49544",
+    "name": "i3D.net B.V",
+    "domain": "i3d.net",
+    "route": "185.189.182.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Connect-to-cloud",
+    "domain": "connect-to-cloud.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Guljestraat 8, Helmond, 5701 AS",
+    "country": "NL",
+    "email": "support@connect-to-cloud.net",
+    "name": "Abuse contact role object",
+    "network": "185.189.182.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

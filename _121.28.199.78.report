@@ -1,0 +1,43 @@
+{
+  "ip": "121.28.199.78",
+  "hostname": "hebei.28.121.in-addr.arpa",
+  "city": "Shijiazhuang",
+  "region": "Hebei",
+  "country": "CN",
+  "loc": "38.0414,114.4786",
+  "postal": "050000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4837",
+    "name": "CHINA UNICOM China169 Backbone",
+    "domain": "chinaunicom.cn",
+    "route": "121.28.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Gov,ShiJiaZhuang City,HeBei Province",
+    "domain": "chinaunicom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "45, Guang An Street, Shi Jiazhuang City, HeBei Province,050011,CN",
+    "country": "CN",
+    "email": "konglf5@chinaunicom.cn",
+    "name": "Kong Lingfei",
+    "network": "121.28.199.72/29",
+    "phone": "+86-311-86681601"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

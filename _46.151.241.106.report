@@ -4,39 +4,7 @@
   "region": "Krasnodar Krai",
   "country": "RU",
   "loc": "44.2626,38.8585",
+  "org": "AS52043 LLC \"Multiservice\"",
   "postal": "352855",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS52043",
-    "name": "LLC \"Multiservice\"",
-    "domain": "taiget.ru",
-    "route": "46.151.240.0/21",
-    "type": "isp"
-  },
-  "company": {
-    "name": "LLC Multiservice",
-    "domain": "taiget.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Russian Federation, 352800, Krasnodar area,, Tuapse, 9 Rabfakovskaya st.",
-    "country": "RU",
-    "email": "info@taiget.ru",
-    "name": "Abuse-C Role",
-    "network": "46.151.240.0/21",
-    "phone": "+79184337437"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Moscow"
 }

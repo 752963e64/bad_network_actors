@@ -5,39 +5,7 @@
   "region": "Bavaria",
   "country": "DE",
   "loc": "49.4453,11.0222",
+  "org": "AS197540 netcup GmbH",
   "postal": "90431",
-  "timezone": "Europe/Berlin",
-  "asn": {
-    "asn": "AS197540",
-    "name": "netcup GmbH",
-    "domain": "netcup.de",
-    "route": "91.132.144.0/22",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "netcup GmbH",
-    "domain": "netcup.de",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "netcup GmbH, Daimlerstrasse 25, 76185 Karlsruhe, GERMANY",
-    "country": "DE",
-    "email": "abuse@netcup.de",
-    "name": "NETCUP ABUSE",
-    "network": "91.132.146.0/23",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Berlin"
 }

@@ -4,39 +4,7 @@
   "region": "Prachuap Khiri Khan",
   "country": "TH",
   "loc": "12.5707,99.9588",
+  "org": "AS23969 TOT Public Company Limited",
   "postal": "77110",
-  "timezone": "Asia/Bangkok",
-  "asn": {
-    "asn": "AS23969",
-    "name": "TOT Public Company Limited",
-    "domain": "ntplc.co.th",
-    "route": "1.20.220.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "TOT Mobile Co LTD",
-    "domain": "tot.co.th",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",
-    "country": "TH",
-    "email": "abuse@totidc.net",
-    "name": "ABUSE TOTMOBILETH",
-    "network": "1.20.0.0/16",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Bangkok"
 }

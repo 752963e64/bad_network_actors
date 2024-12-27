@@ -4,39 +4,7 @@
   "region": "Uusimaa",
   "country": "FI",
   "loc": "60.1695,24.9354",
+  "org": "AS44477 STARK INDUSTRIES SOLUTIONS LTD",
   "postal": "00100",
-  "timezone": "Europe/Helsinki",
-  "asn": {
-    "asn": "AS44477",
-    "name": "STARK INDUSTRIES SOLUTIONS LTD",
-    "domain": "pq.hosting",
-    "route": "185.153.181.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "STARK INDUSTRIES SOLUTIONS LTD.",
-    "domain": "stark-industries.solutions",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "UNITED KINGDOM, WC2H 9JQ, London, Covent Garden, 71-75, Shelton Street",
-    "country": "GB",
-    "email": "abuse@stark-industries.solutions",
-    "name": "Stark Industries Solutions NOC",
-    "network": "185.153.181.0/24",
-    "phone": "+441234416080"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Helsinki"
 }

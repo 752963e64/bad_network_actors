@@ -1,0 +1,42 @@
+{
+  "ip": "190.114.255.238",
+  "city": "Santiago",
+  "region": "Santiago Metropolitan",
+  "country": "CL",
+  "loc": "-33.4569,-70.6483",
+  "postal": "8320000",
+  "timezone": "America/Santiago",
+  "asn": {
+    "asn": "AS52368",
+    "name": "ZAM LTDA.",
+    "domain": "haulmer.com",
+    "route": "190.114.255.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "ZAM LTDA.",
+    "domain": "haulmer.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Prat, 527, Piso 3, 3341656 - Curicó - Curicó",
+    "country": "CL",
+    "email": "noc@haulmer.com",
+    "name": "NOC Haulmer",
+    "network": "190.114.252.0/22",
+    "phone": "+56  963000495"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

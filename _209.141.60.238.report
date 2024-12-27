@@ -1,0 +1,44 @@
+{
+  "ip": "209.141.60.238",
+  "city": "Paradise",
+  "region": "Nevada",
+  "country": "US",
+  "loc": "36.0972,-115.1467",
+  "postal": "89119",
+  "timezone": "America/Los_Angeles",
+  "asn": {
+    "asn": "AS53667",
+    "name": "FranTech Solutions",
+    "domain": "frantech.ca",
+    "route": "209.141.32.0/19",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "FranTech Solutions",
+    "domain": "frantech.ca",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CA, BC, Victoria, 3252 Glasgow Ave, Unit #401, V8X 1M2",
+    "country": "CA",
+    "email": "admin@frantech.ca",
+    "name": "Francisco Dias",
+    "network": "209.141.32.0/19",
+    "phone": "+1-778-977-8246"
+  },
+  "domains": {
+    "ip": "209.141.60.238",
+    "total": 1,
+    "domains": [
+      "nutrtips.com"
+    ]
+  }
+}

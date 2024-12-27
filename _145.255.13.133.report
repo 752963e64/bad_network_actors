@@ -5,7 +5,39 @@
   "region": "Bashkortostan Republic",
   "country": "RU",
   "loc": "54.7431,55.9678",
-  "org": "AS24955 JSC \"Ufanet\"",
   "postal": "450511",
-  "timezone": "Asia/Yekaterinburg"
+  "timezone": "Asia/Yekaterinburg",
+  "asn": {
+    "asn": "AS24955",
+    "name": "JSC \"Ufanet\"",
+    "domain": "ufanet.ru",
+    "route": "145.255.13.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "JSC Ufanet",
+    "domain": "ufanet.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "pr. Oktyabrya, 4/3, Ufa, Russia",
+    "country": "RU",
+    "email": "abuse@ufanet.ru",
+    "name": "JSC Ufanet",
+    "network": "145.255.0.0/20",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

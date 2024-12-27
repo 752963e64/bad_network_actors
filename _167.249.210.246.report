@@ -5,7 +5,38 @@
   "region": "Pará",
   "country": "BR",
   "loc": "-1.3656,-48.3722",
-  "org": "AS265175 AS SISTEMAS LTDA",
   "postal": "67000-000",
-  "timezone": "America/Belem"
+  "timezone": "America/Belem",
+  "asn": {
+    "asn": "AS265175",
+    "name": "AS SISTEMAS LTDA",
+    "domain": "assistemas.net.br",
+    "route": "167.249.210.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "NEW CITY TELECOM EIRELI",
+    "domain": "mktel.com.br",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "registrobr@mktel.com.br",
+    "name": "Markus Moacyr da Silva Cruz Alves",
+    "network": "167.249.210.240/29",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
 }

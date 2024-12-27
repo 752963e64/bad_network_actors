@@ -1,0 +1,42 @@
+{
+  "ip": "45.33.27.46",
+  "hostname": "45-33-27-46.ip.linodeusercontent.com",
+  "city": "Richardson",
+  "region": "Texas",
+  "country": "US",
+  "loc": "32.9482,-96.7297",
+  "postal": "75080",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS63949",
+    "name": "Akamai Connected Cloud",
+    "domain": "linode.com",
+    "route": "45.33.0.0/19",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Linode",
+    "domain": "linode.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, PA, Philadelphia, 249 Arch St, 19106",
+    "country": "US",
+    "email": "abuse@linode.com",
+    "name": "Linode Abuse Support",
+    "network": "45.33.0.0/17",
+    "phone": "+1-609-380-7100"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

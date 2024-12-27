@@ -1,0 +1,42 @@
+{
+  "ip": "52.187.114.78",
+  "city": "Singapore",
+  "region": "Singapore",
+  "country": "SG",
+  "loc": "1.2897,103.8501",
+  "postal": "018989",
+  "timezone": "Asia/Singapore",
+  "asn": {
+    "asn": "AS8075",
+    "name": "Microsoft Corporation",
+    "domain": "microsoft.com",
+    "route": "52.160.0.0/11",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Microsoft Corporation",
+    "domain": "microsoft.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, WA, Redmond, One Microsoft Way, 98052",
+    "country": "US",
+    "email": "abuse@microsoft.com",
+    "name": "Microsoft Abuse Contact",
+    "network": "52.145.0.0-52.191.255.255",
+    "phone": "+1-425-882-8080"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

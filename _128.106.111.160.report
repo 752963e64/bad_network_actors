@@ -5,7 +5,39 @@
   "region": "Singapore",
   "country": "SG",
   "loc": "1.3825,103.7497",
-  "org": "AS9506 Singtel Fibre Broadband",
   "postal": "668156",
-  "timezone": "Asia/Singapore"
+  "timezone": "Asia/Singapore",
+  "asn": {
+    "asn": "AS9506",
+    "name": "Singtel Fibre Broadband",
+    "domain": "magix.com.sg",
+    "route": "128.106.64.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SingNet Pte Ltd",
+    "domain": "singnet.com.sg",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "SingNet Engineering & Operations, 2 Stirling Road, # 03-00 Queenstown Exchange, Singapore 148943",
+    "country": "SG",
+    "email": "hostmaster@singnet.com.sg",
+    "name": "ABUSE SINGNETSG",
+    "network": "128.106.0.0/16",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

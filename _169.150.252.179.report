@@ -5,6 +5,37 @@
   "region": "Attica",
   "country": "GR",
   "loc": "37.9838,23.7278",
-  "org": "AS60068 Datacamp Limited",
-  "timezone": "Europe/Athens"
+  "timezone": "Europe/Athens",
+  "asn": {
+    "asn": "AS60068",
+    "name": "Datacamp Limited",
+    "domain": "cdn77.com",
+    "route": "169.150.252.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Datacamp Limited",
+    "domain": "datacamp.co.uk",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "IVPN"
+  },
+  "abuse": {
+    "address": "Datacamp Limited, Zdenek Cendra, 207 Regent Street, W1B 3HH, London, UNITED KINGDOM",
+    "country": "GB",
+    "email": "abuse@datacamp.co.uk",
+    "name": "Abuse Contact",
+    "network": "169.150.252.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
 }

@@ -4,39 +4,7 @@
   "region": "Nizhny Novgorod Oblast",
   "country": "RU",
   "loc": "56.3287,44.0020",
+  "org": "AS3216 PJSC \"Vimpelcom\"",
   "postal": "603000",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS3216",
-    "name": "PJSC \"Vimpelcom\"",
-    "domain": "beeline.ru",
-    "route": "195.239.0.0/16",
-    "type": "isp"
-  },
-  "company": {
-    "name": "PJSC Vimpelcom",
-    "domain": "sovintel.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "111250 Russia Moscow, Krasnokazarmennaya, 12",
-    "country": "RU",
-    "email": "abuse-b2b@beeline.ru",
-    "name": "Sovintel Abuse Department",
-    "network": "195.239.0.0/16",
-    "phone": "+7 495 7871000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Moscow"
 }

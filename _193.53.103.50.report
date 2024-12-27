@@ -5,39 +5,7 @@
   "region": "Bursa Province",
   "country": "TR",
   "loc": "40.1956,29.0601",
+  "org": "AS209711 MUV Bilisim ve Telekomunikasyon Hizmetleri Ltd. Sti.",
   "postal": "16250",
-  "timezone": "Europe/Istanbul",
-  "asn": {
-    "asn": "AS209711",
-    "name": "MUV Bilisim ve Telekomunikasyon Hizmetleri Ltd. Sti.",
-    "domain": "muv.com.tr",
-    "route": "193.53.103.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "MUV Bilisim ve Telekomunikasyon Hizmetleri Ltd. Sti.",
-    "domain": "muv.com.tr",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Serifali Mh. Buyukyavuz Sk. No.3/8 Umraniye, 34775, Istanbul, TURKEY",
-    "country": "TR",
-    "email": "abuse@muvhost.com",
-    "name": "Abuse-C Role",
-    "network": "193.53.103.0/24",
-    "phone": "+902166064972"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Istanbul"
 }

@@ -5,7 +5,39 @@
   "region": "North Rhine-Westphalia",
   "country": "DE",
   "loc": "51.2217,6.7762",
-  "org": "AS51167 Contabo GmbH",
   "postal": "40210",
-  "timezone": "Europe/Berlin"
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS51167",
+    "name": "Contabo GmbH",
+    "domain": "contabo.com",
+    "route": "75.119.128.0/19",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Contabo GmbH",
+    "domain": "contabo.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Contabo GmbH, Aschauer Str. 32a, 81549 Muenchen, Germany",
+    "country": "DE",
+    "email": "abuse@contabo.de",
+    "name": "CONTABO ABUSE DEPARTMENT",
+    "network": "75.119.144.0/20",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

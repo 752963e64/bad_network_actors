@@ -4,7 +4,44 @@
   "region": "Moscow",
   "country": "RU",
   "loc": "55.7522,37.6156",
-  "org": "AS25159 PJSC MegaFon",
   "postal": "101000",
-  "timezone": "Europe/Moscow"
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS25159",
+    "name": "PJSC MegaFon",
+    "domain": "megafon.ru",
+    "route": "178.176.72.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Metropolitan branch of PJSC MegaFon",
+    "domain": "megafon.ru",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "MegaFon",
+    "mcc": "250",
+    "mnc": "02"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC MegaFon, 41, Oruzheyniy lane, Moscow, 127006, Russian Federation",
+    "country": "RU",
+    "email": "abuse-mailbox@megafon.ru",
+    "name": "MegaFon PJSC - Internet Service Network Operation Center",
+    "network": "178.176.64.0/19",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

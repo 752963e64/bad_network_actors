@@ -4,39 +4,7 @@
   "region": "Rio Grande do Sul",
   "country": "BR",
   "loc": "-30.0328,-51.2302",
+  "org": "AS270764 Ecxon Datacenter LTDA",
   "postal": "90000-000",
-  "timezone": "America/Sao_Paulo",
-  "asn": {
-    "asn": "AS270764",
-    "name": "Ecxon Datacenter LTDA",
-    "domain": "ecxon.com.br",
-    "route": "45.40.99.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Ecxon Datacenter LTDA",
-    "domain": "ecxon.com.br",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "GB, Hertfordshire, St. Albans, Ground Floor,4 Victoria Square, AL1-3TF",
-    "country": "GB",
-    "email": "abuse@ipxo.com",
-    "name": "IPXO Abuse Management Team",
-    "network": "45.40.96.0/22",
-    "phone": "+1 (650) 934-1667"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Sao_Paulo"
 }

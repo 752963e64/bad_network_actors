@@ -1,0 +1,42 @@
+{
+  "ip": "102.164.210.220",
+  "city": "eMbalenhle",
+  "region": "Mpumalanga",
+  "country": "ZA",
+  "loc": "-26.5333,29.0667",
+  "postal": "2285",
+  "timezone": "Africa/Johannesburg",
+  "asn": {
+    "asn": "AS327750",
+    "name": "JENNY INTERNET (PTY) LTD",
+    "domain": "jenny.africa",
+    "route": "102.164.192.0/19",
+    "type": "isp"
+  },
+  "company": {
+    "name": "JENNY INTERNET (PTY) LTD",
+    "domain": "jenny.co.za",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "P O Box 21214",
+    "country": "ZA",
+    "email": "werner@jenny.co.za",
+    "name": "W Stucky",
+    "network": "102.164.192.0/19",
+    "phone": "+27726050035"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

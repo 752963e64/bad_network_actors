@@ -1,0 +1,43 @@
+{
+  "ip": "213.238.166.231",
+  "hostname": "ns1.telkoturk.net",
+  "city": "Istanbul",
+  "region": "Istanbul",
+  "country": "TR",
+  "loc": "41.0138,28.9497",
+  "postal": "34096",
+  "timezone": "Europe/Istanbul",
+  "asn": {
+    "asn": "AS209956",
+    "name": "Telkoturk Iletisim Hizmetleri A.S.",
+    "domain": "telkoturk.net",
+    "route": "213.238.166.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "TELKOTURK Iletisim Hizmetleri A.S.",
+    "domain": "telkoturk.com.tr",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "TURKEY, Istanbul, 34775, Serifali Mah Turgut Ozal Bulvari No154 D15 Quant Plaza",
+    "country": "TR",
+    "email": "emre.eskici@telkoturk.com.tr",
+    "name": "Abuse-C Role",
+    "network": "213.238.166.0/24",
+    "phone": "+908507778875"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

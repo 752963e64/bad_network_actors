@@ -5,7 +5,38 @@
   "region": "Bogota D.C.",
   "country": "CO",
   "loc": "4.6097,-74.0817",
-  "org": "AS19429 ETB - Colombia",
   "postal": "111411",
-  "timezone": "America/Bogota"
+  "timezone": "America/Bogota",
+  "asn": {
+    "asn": "AS19429",
+    "name": "ETB - Colombia",
+    "domain": "etb.com",
+    "route": "190.24.128.0/21",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CDA LA ISLA DE LA 52 S.A.S.",
+    "domain": "etb.net.co",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CRA 8, 20, 00, 9999 - Bogotá - CU",
+    "country": "CO",
+    "email": "seguridad@etb.net.co",
+    "name": "EMPRESA DE TELECOMUNICACIONES DE BOGOTA",
+    "network": "190.24.128.56/29",
+    "phone": "+057 01 2426038 [00]"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
 }

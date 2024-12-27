@@ -1,0 +1,42 @@
+{
+  "ip": "219.153.113.100",
+  "city": "Chongqing",
+  "region": "Chongqing",
+  "country": "CN",
+  "loc": "29.5603,106.5577",
+  "postal": "401100",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS134420",
+    "name": "Chongqing Telecom",
+    "domain": "chinatelecom.cn",
+    "route": "219.153.112.0/21",
+    "type": "business"
+  },
+  "company": {
+    "name": "CHINANET Chongqing  province network",
+    "domain": "cta.cq.cn",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.31 ,jingrong street,beijing, 100032",
+    "country": "CN",
+    "email": "anti-spam@chinatelecom.cn",
+    "name": "Chinanet Hostmaster",
+    "network": "219.151.128.0-219.153.255.255",
+    "phone": "+86-10-58501724"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "38.188.233.104",
+  "city": "Maturín",
+  "region": "Monagas",
+  "country": "VE",
+  "loc": "9.7457,-63.1832",
+  "timezone": "America/Caracas",
+  "asn": {
+    "asn": "AS273173",
+    "name": "TELECOM 3 C.A",
+    "domain": "adslsystem.com.ve",
+    "route": "38.188.233.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Cogent Communications",
+    "domain": "cogentco.com",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, DC, Washington, 2450 N street, NW, 20037",
+    "country": "US",
+    "email": "abuse@cogentco.com",
+    "name": "Cogent Abuse",
+    "network": "38.188.232.0/21",
+    "phone": "+1-877-875-4311"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

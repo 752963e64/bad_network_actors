@@ -4,7 +4,38 @@
   "region": "Seoul",
   "country": "KR",
   "loc": "37.5660,126.9784",
-  "org": "AS132203 Tencent Building, Kejizhongyi Avenue",
   "postal": "03141",
-  "timezone": "Asia/Seoul"
+  "timezone": "Asia/Seoul",
+  "asn": {
+    "asn": "AS132203",
+    "name": "Tencent Building, Kejizhongyi Avenue",
+    "domain": "tencent.com",
+    "route": "43.133.64.0/19",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Asia Pacific Network Information Center, Pty. Ltd.",
+    "domain": "apnic.net.",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "16 COLLYER QUAY, # 18-29, INCOME AT RAFFLES, SINGAPORE",
+    "country": "SG",
+    "email": "qcloud_net_duty@tencent.com",
+    "name": "ACEVILLE PTELTD administrator",
+    "network": "43.133.64.0/19",
+    "phone": "+8613923479936"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
 }

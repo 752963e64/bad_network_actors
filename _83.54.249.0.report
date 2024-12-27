@@ -1,0 +1,43 @@
+{
+  "ip": "83.54.249.0",
+  "hostname": "0.red-83-54-249.dynamicip.rima-tde.net",
+  "city": "Ponferrada",
+  "region": "Castille and León",
+  "country": "ES",
+  "loc": "42.5466,-6.5962",
+  "postal": "24400",
+  "timezone": "Europe/Madrid",
+  "asn": {
+    "asn": "AS3352",
+    "name": "TELEFONICA DE ESPANA S.A.U.",
+    "domain": "movistar.es",
+    "route": "83.54.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Telefonica de Espana SAU",
+    "domain": "movistar.es",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "C/ Ronda de la Comunicaci?n s/n",
+    "country": "ES",
+    "email": "nemesys@telefonica.es",
+    "name": "NEMESYS ABUSE TEAM",
+    "network": "83.52.0.0/14",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

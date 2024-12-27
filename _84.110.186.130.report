@@ -5,38 +5,6 @@
   "region": "Tel Aviv",
   "country": "IL",
   "loc": "32.0809,34.7806",
-  "timezone": "Asia/Jerusalem",
-  "asn": {
-    "asn": "AS8551",
-    "name": "Bezeq International Ltd.",
-    "domain": "bezeqint.net",
-    "route": "84.110.176.0/20",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Bezeq International Ltd.",
-    "domain": "bezeqint.net",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Bezeq International, 40 hashacham st., Petach Tikva 49170 Israel",
-    "country": "IL",
-    "email": "abuse@bezeqint.net",
-    "name": "BEZEQINT ABUSE TEAM",
-    "network": "84.110.176.0/20",
-    "phone": "+972 1 800014014"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS8551 Bezeq International Ltd.",
+  "timezone": "Asia/Jerusalem"
 }

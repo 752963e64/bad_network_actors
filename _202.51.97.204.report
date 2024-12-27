@@ -5,6 +5,38 @@
   "region": "Jakarta",
   "country": "ID",
   "loc": "-6.2146,106.8451",
-  "org": "AS17995 PT iForte Global Internet",
-  "timezone": "Asia/Jakarta"
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS17995",
+    "name": "PT iForte Global Internet",
+    "domain": "iforte.co.id",
+    "route": "202.51.97.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "PT. iForte Global Internet",
+    "domain": "iforte.net.id",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT iForte Global Internet, Menara BCA - 41th Floor, Jl. MH. Thamrin No. 1, Jakarta 10310 - Indonesia",
+    "country": "ID",
+    "email": "hostmaster@iforte.co.id",
+    "name": "Dedi Seprinra Arfie",
+    "network": "202.51.97.0/24",
+    "phone": "+62-21-23586320"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

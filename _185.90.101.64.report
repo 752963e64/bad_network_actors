@@ -1,0 +1,42 @@
+{
+  "ip": "185.90.101.64",
+  "hostname": "mail.lmnmed.ru",
+  "city": "Gatchina",
+  "region": "Leningradskaya Oblast'",
+  "country": "RU",
+  "loc": "59.5764,30.1283",
+  "postal": "188308",
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS47236",
+    "name": "CityLink Ltd",
+    "domain": "citylink.pro",
+    "route": "185.90.101.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Leningradskaya oblast, CL-Telecom",
+    "domain": "citylink.pro",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Petrozavodsk, Russia, Chapaeva st. 44",
+    "country": "RU",
+    "email": "abuse@citylink.pro",
+    "name": "Citylink Abuse",
+    "network": "185.90.101.0/24",
+    "phone": "+78142555777"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ip": "2.60.123.30",
+  "city": "Irkutsk",
+  "region": "Irkutsk Oblast",
+  "country": "RU",
+  "loc": "52.2978,104.2964",
+  "postal": "664000",
+  "timezone": "Asia/Irkutsk",
+  "asn": {
+    "asn": "AS12389",
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "route": "2.60.112.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "OJSC Sibirtelecom",
+    "domain": "sibirtelecom.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "OJSC Sibirtelecom",
+    "network": "2.60.96.0/19",
+    "phone": "+7 3812 241219"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

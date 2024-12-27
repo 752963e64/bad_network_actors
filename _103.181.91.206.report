@@ -4,7 +4,39 @@
   "region": "Delhi",
   "country": "IN",
   "loc": "28.5025,77.2312",
-  "org": "AS133676 Precious netcom pvt ltd",
   "postal": "110062",
-  "timezone": "Asia/Kolkata"
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS133676",
+    "name": "Precious netcom pvt ltd",
+    "domain": "preciousnetcom.in",
+    "route": "103.181.91.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Precious netcom pvt ltd",
+    "domain": "preciousnetcom.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "GZB 2C 344 VASUNDHARA GHAZIABAD ,Ghaziabad,Uttar Pradesh-201012",
+    "country": "IN",
+    "email": "premkush@gmail.com",
+    "name": "ABHISHEK YADAV",
+    "network": "103.181.90.0/23",
+    "phone": "+91 7065803803"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

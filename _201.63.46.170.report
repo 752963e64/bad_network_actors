@@ -5,44 +5,7 @@
   "region": "São Paulo",
   "country": "BR",
   "loc": "-22.8583,-47.2200",
+  "org": "AS10429 TELEFÔNICA BRASIL S.A",
   "postal": "13183-000",
-  "timezone": "America/Sao_Paulo",
-  "asn": {
-    "asn": "AS10429",
-    "name": "TELEFÔNICA BRASIL S.A",
-    "domain": "telefonica.com.br",
-    "route": "201.63.0.0/17",
-    "type": "isp"
-  },
-  "company": {
-    "name": "PREFEITURA MUNICIPAL DE HORTOLÂNDIA",
-    "domain": "hortolandia.sp.gov.br",
-    "type": "isp"
-  },
-  "carrier": {
-    "name": "Vivo",
-    "mcc": "724",
-    "mnc": "06"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "",
-    "country": "BR",
-    "email": "abuse.br@telefonica.com",
-    "name": "CSIRT TELEFONICA BR",
-    "network": "201.63.46.168/29",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Sao_Paulo"
 }

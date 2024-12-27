@@ -5,7 +5,39 @@
   "region": "Fukuoka",
   "country": "JP",
   "loc": "33.8518,130.8503",
-  "org": "AS7679 QTnet,Inc.",
   "postal": "803-0865",
-  "timezone": "Asia/Tokyo"
+  "timezone": "Asia/Tokyo",
+  "asn": {
+    "asn": "AS7679",
+    "name": "QTnet,Inc.",
+    "domain": "qtnet.co.jp",
+    "route": "49.156.192.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "QTnet, Inc.",
+    "domain": "qtnet.ad.jp",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",
+    "country": "JP",
+    "email": "hostmaster@nic.ad.jp",
+    "name": "",
+    "network": "49.156.192.0/18",
+    "phone": "+81-3-5297-2311"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

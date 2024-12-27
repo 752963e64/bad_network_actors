@@ -1,0 +1,41 @@
+{
+  "ip": "36.82.213.164",
+  "city": "Samarinda",
+  "region": "East Kalimantan",
+  "country": "ID",
+  "loc": "-0.4917,117.1458",
+  "timezone": "Asia/Makassar",
+  "asn": {
+    "asn": "AS7713",
+    "name": "PT Telekomunikasi Indonesia",
+    "domain": "telin.net",
+    "route": "36.82.208.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PT TELKOM INDONESIA Menara Multimedia Lt.7 Jl. Kebon sirih No.12 JAKARTA",
+    "domain": "telkom.co.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT. TELKOM INDONESIA, STO Telkom Gambir 3th Floor, Medan Merdeka Selatan, JAKARTA",
+    "country": "ID",
+    "email": "abuse@telkom.co.id",
+    "name": "ABUSE IDTELKOMID",
+    "network": "36.82.208.0/20",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

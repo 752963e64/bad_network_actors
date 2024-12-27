@@ -4,6 +4,38 @@
   "region": "Bulawayo",
   "country": "ZW",
   "loc": "-20.1500,28.5833",
-  "org": "AS30844 Liquid Telecommunications Ltd",
-  "timezone": "Africa/Harare"
+  "timezone": "Africa/Harare",
+  "asn": {
+    "asn": "AS30844",
+    "name": "Liquid Telecommunications Ltd",
+    "domain": "liquidtelecom.com",
+    "route": "41.174.104.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Liquid Telecommunications Operations Limited",
+    "domain": "liquid.tech",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Block A,, Sameer Office Business Park, address: Mombasa Road,, Nairobi, Kenya, Nairobi 00200, Kenya",
+    "country": "KE",
+    "email": "christopher.mwangi@liquidtelecom.com",
+    "name": "Christopher Mwangi",
+    "network": "41.174.0.0/17",
+    "phone": "tel:+254-20-5000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

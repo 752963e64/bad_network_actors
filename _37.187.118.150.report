@@ -5,39 +5,7 @@
   "region": "Hauts-de-France",
   "country": "FR",
   "loc": "50.9865,2.1281",
+  "org": "AS16276 OVH SAS",
   "postal": "59820",
-  "timezone": "Europe/Paris",
-  "asn": {
-    "asn": "AS16276",
-    "name": "OVH SAS",
-    "domain": "ovhcloud.com",
-    "route": "37.187.0.0/16",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "OVH SAS",
-    "domain": "ovh.net",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "OVH SAS, 2 Rue Kellermann, 59100 ROUBAIX, FRANCE",
-    "country": "FR",
-    "email": "abuse@ovh.net",
-    "name": "Abuse-C Role",
-    "network": "37.187.96.0/19",
-    "phone": "+33 9 74 53 13 23"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Paris"
 }

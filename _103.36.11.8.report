@@ -4,37 +4,6 @@
   "region": "Banten",
   "country": "ID",
   "loc": "-6.3591,106.2494",
-  "timezone": "Asia/Jakarta",
-  "asn": {
-    "asn": "AS133360",
-    "name": "PT Awinet Global Mandiri",
-    "domain": "awi.net.id",
-    "route": "103.36.11.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "PT Awinet Global Mandiri",
-    "domain": "awi.net.id",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PT Awinet Global Mandiri, Jl. Siliwangi No.29L RT.002/012, Lebak, Rangkasbitung, Banten",
-    "country": "ID",
-    "email": "admin@awi.net.id",
-    "name": "Nu'man Sumantri",
-    "network": "103.36.8.0/22",
-    "phone": "+62-253-501616"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS133360 PT Awinet Global Mandiri",
+  "timezone": "Asia/Jakarta"
 }

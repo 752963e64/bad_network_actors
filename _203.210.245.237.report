@@ -1,0 +1,43 @@
+{
+  "ip": "203.210.245.237",
+  "hostname": "adsl.hnpt.com.vn",
+  "city": "Phủ Lý",
+  "region": "Hà Nam Province",
+  "country": "VN",
+  "loc": "20.5453,105.9122",
+  "postal": "18151",
+  "timezone": "Asia/Bangkok",
+  "asn": {
+    "asn": "AS45899",
+    "name": "VNPT Corp",
+    "domain": "vnpt.vn",
+    "route": "203.210.240.0/20",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Vietnam Posts and Telecommunications Group",
+    "domain": "vnpt.com.vn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ha Noi, VietNam",
+    "country": "VN",
+    "email": "hm-changed@vnnic.vn",
+    "name": "Pham Tien Huy",
+    "network": "203.210.220.0-203.210.255.255",
+    "phone": "+84-24-35564944"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

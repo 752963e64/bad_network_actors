@@ -5,7 +5,39 @@
   "region": "Chelyabinsk",
   "country": "RU",
   "loc": "54.0979,61.5773",
-  "org": "AS20485 Joint Stock Company TransTeleCom",
   "postal": "457100",
-  "timezone": "Asia/Yekaterinburg"
+  "timezone": "Asia/Yekaterinburg",
+  "asn": {
+    "asn": "AS20485",
+    "name": "Joint Stock Company TransTeleCom",
+    "domain": "ttk.ru",
+    "route": "89.237.14.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Radioreleynaya svyaz Ltd, ISP",
+    "domain": "ttk.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Company TransTeleCom Network Operation Center, 29/134, Vereyskaya str., 121357 Moscow Russian Federation",
+    "country": "RU",
+    "email": "abuse@ttk.ru",
+    "name": "TTC NOC",
+    "network": "89.237.14.0/23",
+    "phone": "+7 495 7846677"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

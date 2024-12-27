@@ -4,39 +4,7 @@
   "region": "Maharashtra",
   "country": "IN",
   "loc": "19.0728,72.8826",
+  "org": "AS139482 Vilas Internet Services Pvt Ltd",
   "postal": "400017",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS139482",
-    "name": "Vilas Internet Services Pvt Ltd",
-    "domain": "vilnet.net",
-    "route": "103.177.181.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Comtel Services Pvt Ltd",
-    "domain": "comtelindia.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "405 A WING SAI SIDDHI CHS LTD BILDG NO 18 OPP KOHINOOR HOSPITALKIROL ROAD KURLA WEST,Mumbai,Maharashtra-400070",
-    "country": "IN",
-    "email": "VILASISP@GMAIL.COM",
-    "name": "VILAS JADHAV",
-    "network": "103.177.180.0/23",
-    "phone": "+91 9594698424"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

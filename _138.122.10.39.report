@@ -1,0 +1,42 @@
+{
+  "ip": "138.122.10.39",
+  "hostname": "10-122-138-39.grupojcc.com.br",
+  "city": "Xinguara",
+  "region": "Pará",
+  "country": "BR",
+  "loc": "-7.0983,-49.9435",
+  "postal": "68555-000",
+  "timezone": "America/Belem",
+  "asn": {
+    "asn": "AS262404",
+    "name": "JC SERVICOS DE INTERNET LTDA",
+    "domain": "jc.net.br",
+    "route": "138.122.10.0/23",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Jc Telecom-Filial Conceição",
+    "domain": "jc.net.br",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "",
+    "country": "BR",
+    "email": "cpd@jc.net.br",
+    "name": "JC TELECOM SERVIÇOS TELECOMUNICAÇÃO",
+    "network": "138.122.10.0/23",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

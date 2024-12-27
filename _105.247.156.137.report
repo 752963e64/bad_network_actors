@@ -5,39 +5,7 @@
   "region": "Mpumalanga",
   "country": "ZA",
   "loc": "-25.7751,29.4648",
+  "org": "AS36994 Vodacom",
   "postal": "1065",
-  "timezone": "Africa/Johannesburg",
-  "asn": {
-    "asn": "AS36994",
-    "name": "Vodacom",
-    "domain": "vodacom.com",
-    "route": "105.247.128.0/19",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Vodacom Business (ENS)",
-    "domain": "vodacom.co.za",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Vodacom PTY (Ltd)",
-    "country": "ZA",
-    "email": "abuse@vodacombusiness.co.za",
-    "name": "Vodacom Business (ENS)",
-    "network": "105.247.0.0/16",
-    "phone": "tel:+27-21-940-9498"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Africa/Johannesburg"
 }

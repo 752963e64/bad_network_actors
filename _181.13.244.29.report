@@ -5,7 +5,39 @@
   "region": "Santa Fe",
   "country": "AR",
   "loc": "-32.9468,-60.6393",
-  "org": "AS27823 Dattatec.com",
   "postal": "2000",
-  "timezone": "America/Argentina/Cordoba"
+  "timezone": "America/Argentina/Cordoba",
+  "asn": {
+    "asn": "AS27823",
+    "name": "Dattatec.com",
+    "domain": "donweb.com",
+    "route": "181.13.244.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Dattatec.com",
+    "domain": "donweb.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Cordoba, 3753,, 2000 - Rosario - SF",
+    "country": "AR",
+    "email": "ipmaster@HOSTMAR.COM",
+    "name": "Hostmar ISP",
+    "network": "181.13.244.0/24",
+    "phone": "+54 341 4360555 []"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

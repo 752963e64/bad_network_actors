@@ -5,37 +5,6 @@
   "region": "Taiwan",
   "country": "TW",
   "loc": "24.1469,120.6839",
-  "timezone": "Asia/Taipei",
-  "asn": {
-    "asn": "AS17809",
-    "name": "VEE TIME CORP.",
-    "domain": "vee.com.tw",
-    "route": "182.155.0.0/19",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Taiwan",
-    "domain": "statesrail.com",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "VEETIME CORP., 5F., No.159, Sec. 3, Wenxin Rd,Taichung City 407 Taiwan, Taichung City Taiwan",
-    "country": "TW",
-    "email": "frank@emax.net.tw",
-    "name": "Frank Chuang",
-    "network": "182.155.0.0/19",
-    "phone": "+886-4-2311-2178 ext. 5910"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS17809 VEE TIME CORP.",
+  "timezone": "Asia/Taipei"
 }

@@ -4,38 +4,7 @@
   "region": "Emilia-Romagna",
   "country": "IT",
   "loc": "44.4938,11.3387",
+  "org": "AS1267 WIND TRE S.P.A.",
   "postal": "40100",
-  "timezone": "Europe/Rome",
-  "asn": {
-    "asn": "AS1267",
-    "name": "WIND TRE S.P.A.",
-    "domain": "windtre.it",
-    "route": "151.69.0.0/16",
-    "type": "isp"
-  },
-  "company": {
-    "name": "WIND TRE S.P.A.",
-    "domain": "windtre.it",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Wind, Flavio Palumbo, largo metropolitana 5, RHO ( MILANO), ITALY",
-    "country": "IT",
-    "email": "abuse@wind.it",
-    "name": "Abuse-C Role",
-    "network": "151.3.0.0-151.79.255.255",
-    "phone": ""
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Rome"
 }

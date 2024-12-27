@@ -1,0 +1,42 @@
+{
+  "ip": "103.227.152.18",
+  "city": "Bel Air",
+  "region": "Metro Manila",
+  "country": "PH",
+  "loc": "14.5594,121.0258",
+  "postal": "1200",
+  "timezone": "Asia/Manila",
+  "asn": {
+    "asn": "AS55547",
+    "name": "WOODSNET-PH",
+    "domain": "rtat.net",
+    "route": "103.227.152.0/22",
+    "type": "business"
+  },
+  "company": {
+    "name": "WOODSNET-PH",
+    "domain": "rtat.net",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "VILLAGE LANDORA, P.O. BARA GAON, KARNAL, HARYANA 132041",
+    "country": "IN",
+    "email": "irana.mohsin@gmail.com",
+    "name": "ABUSE SNMPLIN",
+    "network": "103.227.152.0/22",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

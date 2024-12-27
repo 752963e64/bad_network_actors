@@ -1,0 +1,42 @@
+{
+  "ip": "202.104.139.250",
+  "city": "Shenzhen",
+  "region": "Guangdong",
+  "country": "CN",
+  "loc": "22.5455,114.0683",
+  "postal": "518000",
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4134",
+    "name": "CHINANET-BACKBONE",
+    "domain": "chinatelecom.com.cn",
+    "route": "202.104.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CHINANET Guangdong province network",
+    "domain": "chinatelecom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.31 ,jingrong street,beijing, 100032",
+    "country": "CN",
+    "email": "anti-spam@chinatelecom.cn",
+    "name": "ABUSE CHINANETCN",
+    "network": "202.104.0.0/16",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

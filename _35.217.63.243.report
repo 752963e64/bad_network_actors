@@ -5,39 +5,7 @@
   "region": "South Karelia",
   "country": "FI",
   "loc": "61.0587,28.1887",
+  "org": "AS15169 Google LLC",
   "postal": "53100",
-  "timezone": "Europe/Helsinki",
-  "asn": {
-    "asn": "AS15169",
-    "name": "Google LLC",
-    "domain": "google.com",
-    "route": "35.217.0.0/18",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Google LLC",
-    "domain": "google.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "US, CA, Mountain View, 1600 Amphitheatre Parkway, 94043",
-    "country": "US",
-    "email": "google-cloud-compliance@google.com",
-    "name": "GC Abuse",
-    "network": "35.208.0.0-35.247.255.255",
-    "phone": "+1-650-253-0000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Helsinki"
 }

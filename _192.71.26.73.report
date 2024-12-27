@@ -5,39 +5,7 @@
   "region": "Sicily",
   "country": "IT",
   "loc": "38.1166,13.3636",
+  "org": "AS57169 EDIS GmbH",
   "postal": "90100",
-  "timezone": "Europe/Rome",
-  "asn": {
-    "asn": "AS57169",
-    "name": "EDIS GmbH",
-    "domain": "edis.at",
-    "route": "192.71.26.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "EDIS Infrastructure In Sicily",
-    "domain": "edis.at",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": "VPNArea"
-  },
-  "abuse": {
-    "address": "EDIS GmbH",
-    "country": "AT",
-    "email": "abuse@edis.at",
-    "name": "Abuse handler 1224",
-    "network": "192.71.26.0/24",
-    "phone": "+43 316 827500300"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Rome"
 }

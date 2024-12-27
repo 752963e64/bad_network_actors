@@ -4,39 +4,7 @@
   "region": "Delhi",
   "country": "IN",
   "loc": "28.6214,77.2148",
+  "org": "AS151734 WEBYNE DATA CENTRE PRIVATE LIMITED",
   "postal": "110001",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS151734",
-    "name": "WEBYNE DATA CENTRE PRIVATE LIMITED",
-    "domain": "webyne.com",
-    "route": "103.173.98.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "S R FOODS",
-    "domain": "srfoods.ind.in",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "SALEMPUR RAJPUTANA PARGANA BHAGWANPUR,Haridwar,Uttarakhand-247667",
-    "country": "IN",
-    "email": "support@srfoods.ind.in",
-    "name": "SHASHI AGARWAL",
-    "network": "103.173.98.0/23",
-    "phone": "+91 8527867170"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

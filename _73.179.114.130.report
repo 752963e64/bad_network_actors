@@ -5,7 +5,39 @@
   "region": "Florida",
   "country": "US",
   "loc": "26.8234,-80.1386",
-  "org": "AS7922 Comcast Cable Communications, LLC",
   "postal": "33410",
-  "timezone": "America/New_York"
+  "timezone": "America/New_York",
+  "asn": {
+    "asn": "AS7922",
+    "name": "Comcast Cable Communications, LLC",
+    "domain": "comcast.com",
+    "route": "73.0.0.0/8",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Comcast IP Services, L.L.C.",
+    "domain": "comcast.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, NJ, Mount Laurel, 1800 Bishops Gate Blvd, 08054",
+    "country": "US",
+    "email": "abuse@comcast.net",
+    "name": "Network Abuse and Policy Observance",
+    "network": "73.179.0.0/16",
+    "phone": "+1-888-565-4329"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

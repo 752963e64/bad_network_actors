@@ -4,38 +4,7 @@
   "region": "Hong Kong",
   "country": "HK",
   "loc": "22.2783,114.1747",
+  "org": "AS136798 WUZHOUHULIAN INTERNATIONAL CO., LIMITED",
   "postal": "999077",
-  "timezone": "Asia/Hong_Kong",
-  "asn": {
-    "asn": "AS136798",
-    "name": "WUZHOUHULIAN INTERNATIONAL CO., LIMITED",
-    "domain": "wuzhouhulian.com",
-    "route": "103.96.128.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Asia Pacific Network Information Centre",
-    "domain": "apnic.net",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "FLAT/RM A 9/F, SILVERCORP INTERNATIONAL TOWER, 707-713 NATHAN RAOD, MONGKOK KL, HongKong HongKong 99",
-    "country": "HK",
-    "email": "wuzhouhulian@qq.com",
-    "name": "ABUSE WUZHOUHULIANHK",
-    "network": "103.96.128.0/22",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Hong_Kong"
 }

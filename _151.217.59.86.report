@@ -1,0 +1,42 @@
+{
+  "ip": "151.217.59.86",
+  "city": "Hamburg",
+  "region": "Hamburg",
+  "country": "DE",
+  "loc": "53.5507,9.9930",
+  "postal": "20038",
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS13020",
+    "name": "Chaos Computer Club Veranstaltungsgesellschaft mbH",
+    "domain": "ccc.de",
+    "route": "151.217.0.0/16",
+    "type": "business"
+  },
+  "company": {
+    "name": "Chaos Computer Club e.V.",
+    "domain": "ccc.de",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Zeiseweg 9, 22765 Hamburg-Altona, Germany",
+    "country": "DE",
+    "email": "abuse@ccc.de",
+    "name": "Chaos Computer Club e.V NOC",
+    "network": "151.217.0.0/16",
+    "phone": "+49 40 401801-0"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

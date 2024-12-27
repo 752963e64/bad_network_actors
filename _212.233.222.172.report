@@ -5,38 +5,7 @@
   "region": "Pleven",
   "country": "BG",
   "loc": "43.4167,24.6167",
+  "org": "AS29582 Optisprint OOD",
   "postal": "5800",
-  "timezone": "Europe/Sofia",
-  "asn": {
-    "asn": "AS29582",
-    "name": "Optisprint OOD",
-    "domain": "sprint-bg.net",
-    "route": "212.233.222.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Optisprint OOD",
-    "domain": "optisprint.net",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Doyran 158 Pleven",
-    "country": "BG",
-    "email": "abuse@optisprint.net",
-    "name": "Optisprint IT Department",
-    "network": "212.233.192.0/18",
-    "phone": "+359 64970102"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Sofia"
 }

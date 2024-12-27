@@ -4,7 +4,39 @@
   "region": "Shanghai",
   "country": "CN",
   "loc": "31.2222,121.4581",
-  "org": "AS4134 CHINANET-BACKBONE",
   "postal": "200000",
-  "timezone": "Asia/Shanghai"
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4134",
+    "name": "CHINANET-BACKBONE",
+    "domain": "chinatelecom.com.cn",
+    "route": "218.92.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "CHINANET jiangsu province network",
+    "domain": "chinatelecom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.31 ,jingrong street,beijing, 100032",
+    "country": "CN",
+    "email": "anti-spam@chinatelecom.cn",
+    "name": "Chinanet Hostmaster",
+    "network": "218.90.0.0-218.94.255.255",
+    "phone": "+86-10-58501724"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

@@ -1,0 +1,43 @@
+{
+  "ip": "148.244.108.2",
+  "hostname": "static-148-244-108-2.alestra.net.mx",
+  "city": "Celaya",
+  "region": "Guanajuato",
+  "country": "MX",
+  "loc": "20.5235,-100.8157",
+  "postal": "38033",
+  "timezone": "America/Mexico_City",
+  "asn": {
+    "asn": "AS11172",
+    "name": "Alestra, S. de R.L. de C.V.",
+    "domain": "alestra.com.mx",
+    "route": "148.244.104.0/21",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Alestra, S. de R.L. de C.V.",
+    "domain": "alestra.com.mx",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ave. Eugenio Clariond Garza, 175, Cuauhtemoc, 66450 - San Nicolas de los Garza - NL",
+    "country": "MX",
+    "email": "inetadmin@alestra.net.mx",
+    "name": "Inet Administrator",
+    "network": "148.244.0.0/16",
+    "phone": "+52 81 87486201 [6201]"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

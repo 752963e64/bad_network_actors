@@ -1,0 +1,43 @@
+{
+  "ip": "208.115.216.184",
+  "hostname": "184-216-115-208.static.reverse.lstn.net",
+  "city": "Chicago",
+  "region": "Illinois",
+  "country": "US",
+  "loc": "41.8500,-87.6500",
+  "postal": "60666",
+  "timezone": "America/Chicago",
+  "asn": {
+    "asn": "AS46475",
+    "name": "Limestone Networks, Inc.",
+    "domain": "limestonenetworks.com",
+    "route": "208.115.216.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Limestone Networks, Inc.",
+    "domain": "limestonenetworks.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, TX, Dallas, 400 S. Akard Street, Suite 200, 75202",
+    "country": "US",
+    "email": "abuse@limestonenetworks.com",
+    "name": "Abuse",
+    "network": "208.115.192.0/18",
+    "phone": "+1-214-586-0555"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

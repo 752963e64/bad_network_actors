@@ -1,0 +1,43 @@
+{
+  "ip": "194.156.155.240",
+  "hostname": "user-194-156-155-240.mad02.es.misaka.io",
+  "city": "Madrid",
+  "region": "Madrid",
+  "country": "ES",
+  "loc": "40.4165,-3.7026",
+  "postal": "28004",
+  "timezone": "Europe/Madrid",
+  "asn": {
+    "asn": "AS48386",
+    "name": "Misaka Network, Inc.",
+    "domain": "misaka.io",
+    "route": "194.156.155.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Misaka Network, Inc.",
+    "domain": "misaka.io",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Suite, 19901, Dover, UNITED STATES",
+    "country": "US",
+    "email": "abuse@misaka.email",
+    "name": "Misaka Network, Inc.",
+    "network": "194.156.155.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

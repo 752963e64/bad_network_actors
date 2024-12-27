@@ -5,39 +5,7 @@
   "region": "Grand Est",
   "country": "FR",
   "loc": "48.5839,7.7455",
+  "org": "AS29066 velia.net Internetdienste GmbH",
   "postal": "67000",
-  "timezone": "Europe/Paris",
-  "asn": {
-    "asn": "AS29066",
-    "name": "velia.net Internetdienste GmbH",
-    "domain": "velia.net",
-    "route": "217.172.190.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "BSB-SERVICE Dedicated Server Hosting",
-    "domain": "server4you.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Host Europe GmbH, Daimler Strasse 9-11, 50354 Huerth, Germany",
-    "country": "DE",
-    "email": "abuse@hosteurope.de",
-    "name": "HEG Mass Abuse Handling",
-    "network": "217.172.190.0/24",
-    "phone": "+49 2203 1045 0"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Paris"
 }

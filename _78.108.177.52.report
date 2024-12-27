@@ -4,7 +4,39 @@
   "region": "Prague",
   "country": "CZ",
   "loc": "50.0880,14.4208",
-  "org": "AS62160 WEB3 Leaders INC",
   "postal": "110 00",
-  "timezone": "Europe/Prague"
+  "timezone": "Europe/Prague",
+  "asn": {
+    "asn": "AS62160",
+    "name": "WEB3 Leaders INC",
+    "domain": "yeshost.cz",
+    "route": "78.108.176.0/20",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "WEB3 Leaders INC",
+    "domain": "yeshost.cz",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "CANADA, Vancouver, V6C 3E8, 885 W GEORGIA ST",
+    "country": "CA",
+    "email": "abuse@yeshost.cz",
+    "name": "Abuse-C Role",
+    "network": "78.108.176.0/20",
+    "phone": "+420773142030"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

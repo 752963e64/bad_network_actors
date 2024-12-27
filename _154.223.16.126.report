@@ -1,0 +1,42 @@
+{
+  "ip": "154.223.16.126",
+  "city": "Bogotá",
+  "region": "Bogota D.C.",
+  "country": "CO",
+  "loc": "4.6097,-74.0817",
+  "postal": "111411",
+  "timezone": "America/Bogota",
+  "asn": {
+    "asn": "AS138915",
+    "name": "Kaopu Cloud HK Limited",
+    "domain": "kaopucloud.com",
+    "route": "154.223.16.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Lightnode  Limited",
+    "domain": "cloudinnovation.org",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": "metrovpn"
+  },
+  "abuse": {
+    "address": "Ebene, MU, Mahe, Seychelles",
+    "country": "SC",
+    "email": "abuse@cloudinnovation.org",
+    "name": "Cloud Innovation Support",
+    "network": "154.223.16.0/24",
+    "phone": "tel:+248-4-610-795"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

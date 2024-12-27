@@ -4,7 +4,38 @@
   "region": "Hong Kong",
   "country": "HK",
   "loc": "22.2783,114.1747",
-  "org": "AS9381 HKBN Enterprise Solutions HK Limited",
   "postal": "999077",
-  "timezone": "Asia/Hong_Kong"
+  "timezone": "Asia/Hong_Kong",
+  "asn": {
+    "asn": "AS9381",
+    "name": "HKBN Enterprise Solutions HK Limited",
+    "domain": "hkbnes.net",
+    "route": "175.45.0.0/19",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "HKBN Enterprise Solutions HK Limited",
+    "domain": "hkbnes.net.hk",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Room 925, 9/F, KITEC, 1 Trademart Drive, Kowloon Bay, Hong Kong",
+    "country": "HK",
+    "email": "abuse-wtt@hkbn.com.hk",
+    "name": "ABUSE NEWTTHK",
+    "network": "175.45.0.0/18",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
 }

@@ -1,0 +1,42 @@
+{
+  "ip": "181.12.6.37",
+  "hostname": "srv29.siprosa.gob.ar",
+  "city": "San Miguel de Tucumán",
+  "region": "Tucuman",
+  "country": "AR",
+  "loc": "-26.8241,-65.2226",
+  "postal": "4000",
+  "timezone": "America/Argentina/Tucuman",
+  "asn": {
+    "asn": "AS7303",
+    "name": "Telecom Argentina S.A.",
+    "domain": "telecom.com.ar",
+    "route": "181.12.0.0/15",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Sistema Provincial de Salud Gob.Tucuman (SIPROSA)",
+    "domain": "siprosa.gob.ar",
+    "type": "business"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Alicia Moreau de Justo, 50, -, 1107 - Ciudad Autónoma de Buenos Aires -",
+    "country": "AR",
+    "email": "abuse@ta.telecom.com.ar",
+    "name": "Administrador Abuse",
+    "network": "181.12.6.32/29",
+    "phone": "+54  1149684000 [0000]"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

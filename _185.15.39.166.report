@@ -4,41 +4,7 @@
   "region": "Krasnodar Krai",
   "country": "RU",
   "loc": "45.0448,38.9760",
+  "org": "AS203451 K-telekom LLC",
   "postal": "350000",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS203451",
-    "name": "K-telekom LLC",
-    "domain": "mobile-win.ru",
-    "route": "185.15.39.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "K-telekom LLC",
-    "domain": "mobile-win.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Chekistov prospect,, 350089, Krasnodar, RUSSIAN FEDERATION",
-    "country": "RU",
-    "email": "lir@mobile-win.ru",
-    "name": "Abuse-C Role",
-    "network": "185.15.38.0/23",
-    "phone": ""
-  },
-  "domains": {
-    "ip": "185.15.39.166",
-    "total": 1,
-    "domains": [
-      "week-week.ru"
-    ]
-  }
+  "timezone": "Europe/Moscow"
 }

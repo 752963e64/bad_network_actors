@@ -5,38 +5,6 @@
   "region": "Podgorica",
   "country": "ME",
   "loc": "42.4411,19.2636",
-  "timezone": "Europe/Podgorica",
-  "asn": {
-    "asn": "AS8585",
-    "name": "Crnogorski Telekom a.d.Podgorica",
-    "domain": "telekom.me",
-    "route": "95.155.0.0/18",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Crnogorski Telekom a.d.Podgorica",
-    "domain": "telekom.me",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Crnogorski Telekom a.d. Podgorica, Sv. Petra Cetinjskog 3, 81000, Podgorica, MONTENEGRO",
-    "country": "ME",
-    "email": "abuse@telekom.me",
-    "name": "Abuse-C Role",
-    "network": "95.155.32.0/19",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS8585 Crnogorski Telekom a.d.Podgorica",
+  "timezone": "Europe/Podgorica"
 }

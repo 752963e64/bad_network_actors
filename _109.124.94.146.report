@@ -5,7 +5,39 @@
   "region": "St.-Petersburg",
   "country": "RU",
   "loc": "59.9386,30.3141",
-  "org": "AS20632 PJSC MegaFon",
   "postal": "195213",
-  "timezone": "Europe/Moscow"
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS20632",
+    "name": "PJSC MegaFon",
+    "domain": "megafon.ru",
+    "route": "109.124.64.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Kandalaksha Pervomaiskaya 83a",
+    "domain": "megafon.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC MegaFon, 41, Oruzheyniy lane, Moscow, 127006, Russian Federation",
+    "country": "RU",
+    "email": "abuse-mailbox@megafon.ru",
+    "name": "MegaFon PJSC - Internet Service Network Operation Center",
+    "network": "109.124.94.144/30",
+    "phone": "+7 812 329 9090"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

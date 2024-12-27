@@ -1,0 +1,40 @@
+{
+  "ip": "167.179.195.26",
+  "city": "Phnom Penh",
+  "region": "Phnom Penh",
+  "country": "KH",
+  "loc": "11.5625,104.9160",
+  "timezone": "Asia/Phnom_Penh",
+  "asn": {
+    "asn": "AS55769",
+    "name": "SOUTH EAST ASIA TELECOM (Cambodia) Co., LTD",
+    "domain": "yes.com.kh",
+    "route": "167.179.195.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "SOUTH EAST ASIA TELECOM (Cambodia) Co., LTD",
+    "domain": "yes.com.kh",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.149, St.432,Sangkat Beoung Trabek, Khan Chamkarmorn, Phnom Penh City",
+    "country": "KH",
+    "email": "sokleap@yes.com.kh",
+    "name": "ABUSE GICLKH",
+    "network": "167.179.192.0/22",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

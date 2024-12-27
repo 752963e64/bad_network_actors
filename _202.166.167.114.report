@@ -1,0 +1,42 @@
+{
+  "ip": "202.166.167.114",
+  "city": "Lahore",
+  "region": "Punjab",
+  "country": "PK",
+  "loc": "31.5580,74.3507",
+  "postal": "54000",
+  "timezone": "Asia/Karachi",
+  "asn": {
+    "asn": "AS55501",
+    "name": "141-143 Maulana Shaukat Ali Road",
+    "domain": "connectel.com.pk",
+    "route": "202.166.167.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ConnecTel Internet Services",
+    "domain": "connectel.com.pk",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "141-143, Shaukat Ali Road, near Jinnah Hospital, Lahore",
+    "country": "PK",
+    "email": "ipcontrol@connectel.com.pk",
+    "name": "IP Control",
+    "network": "202.166.166.0/23",
+    "phone": "+92-42 32530107"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

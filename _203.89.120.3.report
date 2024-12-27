@@ -1,0 +1,43 @@
+{
+  "ip": "203.89.120.3",
+  "hostname": "203.89.120.3.creativait.net",
+  "city": "Mymensingh",
+  "region": "Mymensingh Division",
+  "country": "BD",
+  "loc": "24.7564,90.4065",
+  "postal": "2210",
+  "timezone": "Asia/Dhaka",
+  "asn": {
+    "asn": "AS136214",
+    "name": "Creativa IT Mymensingh Bangladesh",
+    "domain": "creativa.asia",
+    "route": "203.89.120.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Creativa IT",
+    "domain": "creativa.asia",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": true,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "75/1 Sharoda Ghosh Road, 2nd Floor, Mymensingh Mymensingh 2200",
+    "country": "BD",
+    "email": "info@creativa.asia",
+    "name": "ABUSE CREATIVAITBD",
+    "network": "203.89.120.0/22",
+    "phone": "+000000000"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

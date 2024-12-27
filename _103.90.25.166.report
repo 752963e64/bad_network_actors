@@ -1,0 +1,41 @@
+{
+  "ip": "103.90.25.166",
+  "city": "Cileungsir",
+  "region": "West Java",
+  "country": "ID",
+  "loc": "-6.3947,106.9592",
+  "timezone": "Asia/Jakarta",
+  "asn": {
+    "asn": "AS63497",
+    "name": "PT. Arana Teknologi Indonesia",
+    "domain": "arana.net.id",
+    "route": "103.90.25.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "PT. Arana Teknologi Indonesia",
+    "domain": "arana.net.id",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PT. Arana Teknologi Indonesia, Ruko Orange Groove Blok SF-B No.18 Kota Wisata, Jl.Ciangsana, Gunung Putri - Bogor 16968, Indonesia",
+    "country": "ID",
+    "email": "ryan@arananetwork.co.id",
+    "name": "Ryan Ariyanto",
+    "network": "103.90.25.1-103.90.25.254",
+    "phone": "+62-21-22950597"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

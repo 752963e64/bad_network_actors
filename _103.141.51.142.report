@@ -1,0 +1,42 @@
+{
+  "ip": "103.141.51.142",
+  "city": "Karur",
+  "region": "Tamil Nadu",
+  "country": "IN",
+  "loc": "10.9577,78.0810",
+  "postal": "639102",
+  "timezone": "Asia/Kolkata",
+  "asn": {
+    "asn": "AS133693",
+    "name": "Sri Krishna Internet Services Private Limited",
+    "domain": "skisp.in",
+    "route": "103.141.51.0/24",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Sri Krishna Internet Services Private Limited",
+    "domain": "skisp.in",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "391/1, Sesha Towers, Vaiyapuri Nagar 1st Cross, Karur, Tamilnadu,Karur,Tamil Nadu-639002",
+    "country": "IN",
+    "email": "info@skisp.in",
+    "name": "Krishnamoorthi G",
+    "network": "103.141.50.0/23",
+    "phone": "+91 04324232233"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

@@ -4,37 +4,6 @@
   "region": "Almaty Oblysy",
   "country": "KZ",
   "loc": "43.3763,76.6246",
-  "timezone": "Asia/Almaty",
-  "asn": {
-    "asn": "AS8393",
-    "name": "\"ASTEL\" JSC",
-    "domain": "astel.kz",
-    "route": "91.203.21.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "ASTEL JSC",
-    "domain": "astel.kz",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "ASTEL JSCDaniysr SHamshiyev 67b Mametova str. 050004 Almaty KAZAKHSTAN",
-    "country": "KZ",
-    "email": "d.shamshiyev@astel.kz",
-    "name": "Abuse-C Role",
-    "network": "91.203.21.128/26",
-    "phone": ""
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS8393 \"ASTEL\" JSC",
+  "timezone": "Asia/Almaty"
 }

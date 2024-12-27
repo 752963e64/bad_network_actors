@@ -4,38 +4,7 @@
   "region": "Krasnodar Krai",
   "country": "RU",
   "loc": "44.7700,39.8725",
+  "org": "AS20870 Joint Stock Company TransTeleCom",
   "postal": "352630",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS20870",
-    "name": "Joint Stock Company TransTeleCom",
-    "domain": "transtelecom.net",
-    "route": "83.69.88.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Joint Stock Company TransTeleCom",
-    "domain": "transtelecom.net",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Company TransTeleCom Network Operation Center, 29/134, Vereyskaya str., 121357 Moscow Russian Federation",
-    "country": "RU",
-    "email": "abuse@ttk.ru",
-    "name": "TTC NOC",
-    "network": "83.69.88.0/24",
-    "phone": "+7 495 7846677"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Moscow"
 }

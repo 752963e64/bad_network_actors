@@ -5,39 +5,7 @@
   "region": "Kaliningrad Oblast",
   "country": "RU",
   "loc": "54.7065,20.5110",
+  "org": "AS31214 TIS Dialog LLC",
   "postal": "236000",
-  "timezone": "Europe/Kaliningrad",
-  "asn": {
-    "asn": "AS31214",
-    "name": "TIS Dialog LLC",
-    "domain": "tis-dialog.ru",
-    "route": "91.109.128.0/19",
-    "type": "isp"
-  },
-  "company": {
-    "name": "TIS Dialog LLC",
-    "domain": "tis-dialog.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Zarayskaya 17a, 236006, Kaliningrad, RUSSIAN FEDERATION",
-    "country": "RU",
-    "email": "abuse@tis-dialog.ru",
-    "name": "SFORM abuse handling",
-    "network": "91.109.136.0/21",
-    "phone": "+7 4012 705 705"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Kaliningrad"
 }

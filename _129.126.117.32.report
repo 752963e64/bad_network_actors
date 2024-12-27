@@ -4,39 +4,7 @@
   "region": "Singapore",
   "country": "SG",
   "loc": "1.2897,103.8501",
+  "org": "AS17547 M1 NET LTD",
   "postal": "018989",
-  "timezone": "Asia/Singapore",
-  "asn": {
-    "asn": "AS17547",
-    "name": "M1 NET LTD",
-    "domain": "m1net.com.sg",
-    "route": "129.126.0.0/17",
-    "type": "isp"
-  },
-  "company": {
-    "name": "M1 NET LTD",
-    "domain": "m1net.com.sg",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "10 International Business Park Singapore 609928",
-    "country": "SG",
-    "email": "abuse@m1net.sg",
-    "name": "ABUSE M1NETSG",
-    "network": "129.126.0.0/16",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Singapore"
 }

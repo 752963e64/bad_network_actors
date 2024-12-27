@@ -4,7 +4,39 @@
   "region": "Baki",
   "country": "AZ",
   "loc": "40.3777,49.8920",
-  "org": "AS29049 Delta Telecom Ltd",
   "postal": "AZ 1000",
-  "timezone": "Asia/Baku"
+  "timezone": "Asia/Baku",
+  "asn": {
+    "asn": "AS29049",
+    "name": "Delta Telecom Ltd",
+    "domain": "delta-telecom.net",
+    "route": "94.20.48.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "DELTA Broadband Network",
+    "domain": "delta-telecom.net",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Delta Telecom Ltd, 69 Muzaffar Hasanov str., AZ1012, Baku, AZERBAIJAN",
+    "country": "AZ",
+    "email": "abuse@delta-telecom.net",
+    "name": "Abuse-C Role",
+    "network": "94.20.0.0/17",
+    "phone": "+99412 4041212"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

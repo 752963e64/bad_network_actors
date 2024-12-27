@@ -4,38 +4,7 @@
   "region": "New Jersey",
   "country": "US",
   "loc": "40.7895,-74.0565",
+  "org": "AS216030 GoodLeaf Hosting & Development LLC",
   "postal": "07094",
-  "timezone": "America/New_York",
-  "asn": {
-    "asn": "AS216030",
-    "name": "GoodLeaf Hosting & Development LLC",
-    "domain": "goodleafhosting.com",
-    "route": "67.227.44.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "GoodLeaf Hosting and Development LLC",
-    "domain": "ipxo.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "5908 Hampton Oaks Pkwy",
-    "country": "US",
-    "email": "abuse@goodleafdev.com",
-    "name": "Abuse contact role object",
-    "network": "67.227.44.0/24",
-    "phone": ""
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/New_York"
 }

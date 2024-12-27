@@ -4,7 +4,39 @@
   "region": "Hesse",
   "country": "DE",
   "loc": "50.1155,8.6842",
-  "org": "AS398705 Censys, Inc.",
   "postal": "60306",
-  "timezone": "Europe/Berlin"
+  "timezone": "Europe/Berlin",
+  "asn": {
+    "asn": "AS398705",
+    "name": "Censys, Inc.",
+    "domain": "censys.io",
+    "route": "167.94.146.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Censys, Inc.",
+    "domain": "censys.com",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "US, MI, Ann Arbor, 116 1/2 S Main Street, 48104",
+    "country": "US",
+    "email": "scan-abuse@censys.com",
+    "name": "Censys Abuse Team",
+    "network": "167.94.145.0-167.94.146.255",
+    "phone": "+1-248-629-0125"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

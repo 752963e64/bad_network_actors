@@ -5,39 +5,7 @@
   "region": "Jharkhand",
   "country": "IN",
   "loc": "22.8028,86.1855",
+  "org": "AS134942 Ashok Secure Broadband Network Pvt Ltd",
   "postal": "831002",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS134942",
-    "name": "Ashok Secure Broadband Network Pvt Ltd",
-    "domain": "asbnetwork.co.in",
-    "route": "103.88.134.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Ashok Secure Broadband Network Pvt Ltd",
-    "domain": "abnetwork.co.in",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "17, A Block, teachers Colony, Bhalubasa,Jamshedpur,Jharkhand-831009",
-    "country": "IN",
-    "email": "sanjay.sahu@abnetwork.co.in",
-    "name": "manager admin",
-    "network": "103.88.132.0/22",
-    "phone": "+91 7360022401"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

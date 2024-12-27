@@ -4,41 +4,7 @@
   "region": "Hanoi",
   "country": "VN",
   "loc": "21.0245,105.8412",
+  "org": "AS131414 Long Van Soft Solution JSC",
   "postal": "10000",
-  "timezone": "Asia/Bangkok",
-  "asn": {
-    "asn": "AS131414",
-    "name": "Long Van Soft Solution JSC",
-    "domain": "longvan.net",
-    "route": "45.118.144.0/22",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Long Van Soft Solution JSC",
-    "domain": "longvan.net",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Ha Noi, VietNam",
-    "country": "VN",
-    "email": "hm-changed@vnnic.vn",
-    "name": "Quach Dinh Toan",
-    "network": "45.118.144.0/22",
-    "phone": "+84-24-35564944"
-  },
-  "domains": {
-    "ip": "45.118.144.54",
-    "total": 1,
-    "domains": [
-      "xfharmony.io.vn"
-    ]
-  }
+  "timezone": "Asia/Bangkok"
 }

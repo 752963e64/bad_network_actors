@@ -5,7 +5,39 @@
   "region": "Gauteng",
   "country": "ZA",
   "loc": "-26.2023,28.0436",
-  "org": "AS35487 Misaka Network, Inc.",
   "postal": "2041",
-  "timezone": "Africa/Johannesburg"
+  "timezone": "Africa/Johannesburg",
+  "asn": {
+    "asn": "AS35487",
+    "name": "Misaka Network, Inc.",
+    "domain": "misaka.io",
+    "route": "102.130.49.0/24",
+    "type": "hosting"
+  },
+  "company": {
+    "name": "Misaka.io Johannesburg",
+    "domain": "misaka.io",
+    "type": "hosting"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": true,
+    "service": ""
+  },
+  "abuse": {
+    "address": "1st Floor, Dekk House, Zippora Street, Providence Industrial Estate, Mahe, Seychelles",
+    "country": "SC",
+    "email": "abuse@xtom.com",
+    "name": "xTom Africa NOC",
+    "network": "102.130.49.0/24",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

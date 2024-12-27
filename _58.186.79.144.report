@@ -1,0 +1,43 @@
+{
+  "ip": "58.186.79.144",
+  "hostname": "58-186-79-xxx-dynamic.hcm.fpt.vn",
+  "city": "Đồng Hới",
+  "region": "Quảng Bình Province",
+  "country": "VN",
+  "loc": "17.4688,106.6223",
+  "postal": "20780",
+  "timezone": "Asia/Bangkok",
+  "asn": {
+    "asn": "AS18403",
+    "name": "FPT Telecom Company",
+    "domain": "fpt.vn",
+    "route": "58.186.76.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "FPT Telecom Company",
+    "domain": "fpt.net",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Ha Noi, VietNam",
+    "country": "VN",
+    "email": "hm-changed@vnnic.vn",
+    "name": "Luong Duy Phuong",
+    "network": "58.186.64.0/20",
+    "phone": "+84-24-35564944"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

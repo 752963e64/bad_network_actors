@@ -1,0 +1,43 @@
+{
+  "ip": "78.29.122.226",
+  "hostname": "pppoe-78-29-122-226.san.ru",
+  "city": "Saratov",
+  "region": "Saratov Oblast",
+  "country": "RU",
+  "loc": "51.5406,46.0086",
+  "postal": "410000",
+  "timezone": "Europe/Saratov",
+  "asn": {
+    "asn": "AS12389",
+    "name": "PJSC Rostelecom",
+    "domain": "rt.ru",
+    "route": "78.29.64.0/18",
+    "type": "isp"
+  },
+  "company": {
+    "name": "Network of Saratov branch of OJSC Volgatelecom",
+    "domain": "rt.ru",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "PJSC Rostelecom, Russian Federation",
+    "country": "RU",
+    "email": "abuse@rt.ru",
+    "name": "PJSC Rostelecom Technical Team",
+    "network": "78.29.96.0-78.29.125.255",
+    "phone": ""
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
+}

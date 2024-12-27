@@ -4,7 +4,39 @@
   "region": "Shanghai",
   "country": "CN",
   "loc": "31.2222,121.4581",
-  "org": "AS4837 CHINA UNICOM China169 Backbone",
   "postal": "200000",
-  "timezone": "Asia/Shanghai"
+  "timezone": "Asia/Shanghai",
+  "asn": {
+    "asn": "AS4837",
+    "name": "CHINA UNICOM China169 Backbone",
+    "domain": "chinaunicom.cn",
+    "route": "61.167.0.0/16",
+    "type": "isp"
+  },
+  "company": {
+    "name": "China Unicom Heilongjiang province network",
+    "domain": "chinaunicom.cn",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "No.21,Financial Street, Beijing,100033, P.R.China",
+    "country": "CN",
+    "email": "zhaoyz3@chinaunicom.cn",
+    "name": "ChinaUnicom Hostmaster",
+    "network": "61.167.0.0/16",
+    "phone": "+86-10-66259764"
+  },
+  "domains": {
+    "page": 0,
+    "total": 0,
+    "domains": []
+  }
 }

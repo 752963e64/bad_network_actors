@@ -4,38 +4,7 @@
   "region": "Chuvash Republic",
   "country": "RU",
   "loc": "56.1322,47.2519",
+  "org": "AS12714 PJSC MegaFon",
   "postal": "428000",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS12714",
-    "name": "PJSC MegaFon",
-    "domain": "wifire.ru",
-    "route": "109.95.224.0/21",
-    "type": "isp"
-  },
-  "company": {
-    "name": "PJSC MegaFon",
-    "domain": "megafon.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PJSC MegaFon, 41, Oruzheyniy lane, Moscow, 127006, Russian Federation",
-    "country": "RU",
-    "email": "abuse-mailbox@megafon.ru",
-    "name": "MegaFon PJSC - Internet Service Network Operation Center",
-    "network": "109.95.224.0/21",
-    "phone": ""
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Moscow"
 }

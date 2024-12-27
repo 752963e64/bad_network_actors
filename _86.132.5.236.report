@@ -1,0 +1,47 @@
+{
+  "ip": "86.132.5.236",
+  "hostname": "host86-132-5-236.range86-132.btcentralplus.com",
+  "city": "Rotherham",
+  "region": "England",
+  "country": "GB",
+  "loc": "53.4301,-1.3568",
+  "postal": "S60",
+  "timezone": "Europe/London",
+  "asn": {
+    "asn": "AS2856",
+    "name": "British Telecommunications PLC",
+    "domain": "bt.com",
+    "route": "86.128.0.0/12",
+    "type": "isp"
+  },
+  "company": {
+    "name": "BT Infrastructure Layer",
+    "domain": "bt.com",
+    "type": "isp"
+  },
+  "carrier": {
+    "name": "BT",
+    "mcc": "234",
+    "mnc": "00"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "BT Public Internet Service",
+    "country": "GB",
+    "email": "abuse@bt.com",
+    "name": "Abuse-C Role",
+    "network": "86.128.0.0/13",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
+}

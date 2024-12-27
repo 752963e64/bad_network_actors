@@ -5,38 +5,6 @@
   "region": "Jakarta",
   "country": "ID",
   "loc": "-6.2146,106.8451",
-  "timezone": "Asia/Jakarta",
-  "asn": {
-    "asn": "AS149675",
-    "name": "PT Garuda Lintas Cakrawala",
-    "domain": "dasarata.com",
-    "route": "103.184.18.0/23",
-    "type": "isp"
-  },
-  "company": {
-    "name": "PT Garuda Lintas Cakrawala",
-    "domain": "garuda.web.id",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "DASARATA, PT GARUDA LINTAS CAKRAWALA, JL. TERUSAN AMBARAWA NO. 41 E RT 005 RW 003, Kelurahan Sumbersari, Kec. Lowokwaru, Kota Malang, Provinsi Jawa Timur",
-    "country": "ID",
-    "email": "support@dasarata.com",
-    "name": "Ilham Saputra Wibowo",
-    "network": "103.184.18.0/23",
-    "phone": "+62 822-7783-7403"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS149675 PT Garuda Lintas Cakrawala",
+  "timezone": "Asia/Jakarta"
 }

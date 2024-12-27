@@ -4,7 +4,38 @@
   "region": "Belgorod Oblast",
   "country": "RU",
   "loc": "50.6107,36.5802",
-  "org": "AS208803 ACN LLC",
   "postal": "308000",
-  "timezone": "Europe/Moscow"
+  "timezone": "Europe/Moscow",
+  "asn": {
+    "asn": "AS208803",
+    "name": "ACN LLC",
+    "domain": "acn.group",
+    "route": "45.67.192.0/22",
+    "type": "isp"
+  },
+  "company": {
+    "name": "ACN LLC",
+    "domain": "acn.group",
+    "type": "isp"
+  },
+  "privacy": {
+    "vpn": false,
+    "proxy": false,
+    "tor": false,
+    "relay": false,
+    "hosting": false,
+    "service": ""
+  },
+  "abuse": {
+    "address": "Tolstogo str., 26A, 308019, Belgorod, RUSSIAN FEDERATION",
+    "country": "RU",
+    "email": "abuse@acn.group",
+    "name": "Abuse-C Role",
+    "network": "45.67.192.0/22",
+    "phone": ""
+  },
+  "domains": {
+    "total": 0,
+    "domains": []
+  }
 }
