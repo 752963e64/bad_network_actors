@@ -5,41 +5,7 @@
   "region": "California",
   "country": "US",
   "loc": "37.3541,-121.9552",
+  "org": "AS36352 HostPapa",
   "postal": "95050",
-  "timezone": "America/Los_Angeles",
-  "asn": {
-    "asn": "AS36352",
-    "name": "HostPapa",
-    "domain": "colocrossing.com",
-    "route": "23.94.223.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "RackNerd LLC",
-    "domain": "racknerd.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "US, CA, Rancho Cucamonga, 10602 N. Trademark Pkwy Suite #511, 91730",
-    "country": "US",
-    "email": "reportabuse@racknerd.com",
-    "name": "RackNerd Abuse Department",
-    "network": "23.94.223.0/24",
-    "phone": "+1-888-881-6373"
-  },
-  "domains": {
-    "ip": "23.94.223.24",
-    "total": 1,
-    "domains": [
-      "youmeik.top"
-    ]
-  }
+  "timezone": "America/Los_Angeles"
 }

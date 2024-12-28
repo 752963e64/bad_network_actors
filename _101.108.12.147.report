@@ -5,39 +5,7 @@
   "region": "Bangkok",
   "country": "TH",
   "loc": "13.7540,100.5014",
+  "org": "AS23969 TOT Public Company Limited",
   "postal": "10200",
-  "timezone": "Asia/Bangkok",
-  "asn": {
-    "asn": "AS23969",
-    "name": "TOT Public Company Limited",
-    "domain": "ntplc.co.th",
-    "route": "101.108.12.0/22",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Dynamic IP assignment for broadband service",
-    "domain": "tot.co.th",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "TOT Public Company Limited, 89/2 Moo 3 Chaengwattana Rd, Laksi,Bangkok 10210 THAILAND",
-    "country": "TH",
-    "email": "abuse@totisp.net",
-    "name": "ABUSE TOTTH",
-    "network": "101.108.0.0/16",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Bangkok"
 }

@@ -5,38 +5,6 @@
   "region": "Amman",
   "country": "JO",
   "loc": "31.9552,35.9450",
-  "timezone": "Asia/Amman",
-  "asn": {
-    "asn": "AS9038",
-    "name": "Batelco Jordan",
-    "domain": "umniah.com",
-    "route": "212.118.16.0/20",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Batelco Jordan",
-    "domain": "batelco.jo",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Batelco Jordan Fadi ali Al-Madeena Al-Munawara Street 11181 Amman JORDAN",
-    "country": "JO",
-    "email": "tac@umniah.com",
-    "name": "Abuse-C Role",
-    "network": "212.118.16.0/20",
-    "phone": "+962 6 5510101"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS9038 Batelco Jordan",
+  "timezone": "Asia/Amman"
 }

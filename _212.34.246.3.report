@@ -5,38 +5,6 @@
   "region": "Yerevan",
   "country": "AM",
   "loc": "40.1811,44.5136",
-  "timezone": "Asia/Yerevan",
-  "asn": {
-    "asn": "AS44395",
-    "name": "Ucom CJSC",
-    "domain": "ucom.am",
-    "route": "212.34.246.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Ucom CJSC",
-    "domain": "ucom.am",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Sayat-Nova 40/1, 0025 Yerevan, Armenia",
-    "country": "AM",
-    "email": "abuse@ucom.am",
-    "name": "Ucom CJSC",
-    "network": "212.34.240.0/20",
-    "phone": "+37411 444 444"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS44395 Ucom CJSC",
+  "timezone": "Asia/Yerevan"
 }

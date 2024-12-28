@@ -4,39 +4,7 @@
   "region": "North Holland",
   "country": "NL",
   "loc": "52.3630,4.8923",
+  "org": "AS213035 Des Capital B.V.",
   "postal": "1017",
-  "timezone": "Europe/Amsterdam",
-  "asn": {
-    "asn": "AS213035",
-    "name": "Des Capital B.V.",
-    "domain": "serverion.com",
-    "route": "41.216.181.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "DesiVPS",
-    "domain": "desivps.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Business Registration, PostNet,, Shop No. 3, The Circle Centre, Caledon Street, Somerset West 7130, South Africa",
-    "country": "ZA",
-    "email": "info@fasthosting.net.za",
-    "name": "Antony Last",
-    "network": "41.216.181.0/24",
-    "phone": "tel:+27-42-004-0100"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Amsterdam"
 }

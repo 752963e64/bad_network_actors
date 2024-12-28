@@ -4,39 +4,7 @@
   "region": "Moscow",
   "country": "RU",
   "loc": "55.7520,37.6150",
+  "org": "AS203493 Egor Timoshenko",
   "postal": "117485",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS203493",
-    "name": "Egor Timoshenko",
-    "domain": "yacolo.com",
-    "route": "194.87.209.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Ponaehali moscow",
-    "domain": "ponaehali.moscow",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "address: Sibiryakov-Gvardeycev, 106, address: 650004, Kemerovo, Russia",
-    "country": "RU",
-    "email": "ripe@interlir.com",
-    "name": "Abuse contact role object",
-    "network": "194.87.209.0/24",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Moscow"
 }

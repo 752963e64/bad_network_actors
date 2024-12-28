@@ -4,39 +4,7 @@
   "region": "West Bengal",
   "country": "IN",
   "loc": "22.5626,88.3630",
+  "org": "AS45775 WISH NET PRIVATE LIMITED",
   "postal": "700001",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS45775",
-    "name": "WISH NET PRIVATE LIMITED",
-    "domain": "wishnet.co.in",
-    "route": "45.250.48.0/23",
-    "type": "isp"
-  },
-  "company": {
-    "name": "LOKENATH ELECTRONICS PVT. LTD.",
-    "domain": "wishnet.co.in",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "EA/6,DESHBANDHU NAGAR,SUSHAMA APARTMENT,BAGUIATI(PATHSALA),Kolkata,West Bengal-700059",
-    "country": "IN",
-    "email": "lokenathabuse@wishnet.co.in",
-    "name": "ARINDOM MITRA",
-    "network": "45.250.48.0/22",
-    "phone": "+91-033-6606 2636"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

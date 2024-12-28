@@ -5,38 +5,6 @@
   "region": "Jakarta",
   "country": "ID",
   "loc": "-6.2146,106.8451",
-  "timezone": "Asia/Jakarta",
-  "asn": {
-    "asn": "AS9340",
-    "name": "INDO Internet, PT",
-    "domain": "indonet.co.id",
-    "route": "117.54.138.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "IndoInternet Network",
-    "domain": "indo.net.id",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PT. IndoInternet, Grha Citra Caraka Lt. M, Jl. Gatot Subroto Kav 52, Jakarta 12710",
-    "country": "ID",
-    "email": "abuse@indo.net.id",
-    "name": "IndoInternet Network",
-    "network": "117.54.0.0/16",
-    "phone": "+62-21-52960202"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS9340 INDO Internet, PT",
+  "timezone": "Asia/Jakarta"
 }

@@ -5,38 +5,6 @@
   "region": "Banten",
   "country": "ID",
   "loc": "-6.1781,106.6300",
-  "timezone": "Asia/Jakarta",
-  "asn": {
-    "asn": "AS17995",
-    "name": "PT iForte Global Internet",
-    "domain": "iforte.co.id",
-    "route": "124.158.146.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "PT iForte Global Internet",
-    "domain": "iforte.net.id",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PT iForte Global Internet, Menara BCA - 41th Floor, Jl. MH. Thamrin No. 1, Jakarta 10310 - Indonesia",
-    "country": "ID",
-    "email": "hostmaster@iforte.co.id",
-    "name": "Dedi Seprinra Arfie",
-    "network": "124.158.144.0/20",
-    "phone": "+62-21-23586320"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS17995 PT iForte Global Internet",
+  "timezone": "Asia/Jakarta"
 }

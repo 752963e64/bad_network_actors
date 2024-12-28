@@ -5,38 +5,7 @@
   "region": "Telangana",
   "country": "IN",
   "loc": "17.4849,78.4138",
+  "org": "AS150008 Pioneer Elabs Ltd.",
   "postal": "500072",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS150008",
-    "name": "Pioneer Elabs Ltd.",
-    "domain": "pioneer.co.in",
-    "route": "103.248.209.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Viswaroopa Info Services India Private Ltd",
-    "domain": "irinn.in",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Suit no:204,Sirimalle Towers,panjagutta",
-    "country": "IN",
-    "email": "john.achanta@gmail.com",
-    "name": "manager noc",
-    "network": "103.248.208.0/22",
-    "phone": "+91 04030606266"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

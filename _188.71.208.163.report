@@ -1,45 +1,9 @@
 {
   "ip": "188.71.208.163",
-  "city": "Ḩawallī",
-  "region": "Hawalli",
+  "city": "Al Aḩmadī",
+  "region": "Al Aḩmadī",
   "country": "KW",
-  "loc": "29.3328,48.0286",
-  "timezone": "Asia/Kuwait",
-  "asn": {
-    "asn": "AS29357",
-    "name": "NATIONAL MOBILE TELECOMMUNICATIONS COMPANY K.S.C.P.",
-    "domain": "ooredoo.com.kw",
-    "route": "188.71.208.0/23",
-    "type": "isp"
-  },
-  "company": {
-    "name": "NATIONAL MOBILE TELECOMMUNICATIONS COMPANY K.S.C.P.",
-    "domain": "ooredoo.com.kw",
-    "type": "isp"
-  },
-  "carrier": {
-    "name": "Ooredoo",
-    "mcc": "419",
-    "mnc": "03"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Ooredoo Kuwait Head Office, Soor Street, Mirqab, Kuwait 13007",
-    "country": "KW",
-    "email": "ripe-ooredookuwait-abuse@ooredoo.com.kw",
-    "name": "Abuse-C Role for OKW",
-    "network": "188.70.0.0/15",
-    "phone": "+965 1805555"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "loc": "29.0769,48.0839",
+  "org": "AS29357 NATIONAL MOBILE TELECOMMUNICATIONS COMPANY K.S.C.P.",
+  "timezone": "Asia/Kuwait"
 }

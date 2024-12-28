@@ -5,39 +5,7 @@
   "region": "California",
   "country": "US",
   "loc": "37.5483,-121.9886",
+  "org": "AS63949 Akamai Connected Cloud",
   "postal": "94536",
-  "timezone": "America/Los_Angeles",
-  "asn": {
-    "asn": "AS63949",
-    "name": "Akamai Connected Cloud",
-    "domain": "linode.com",
-    "route": "45.79.64.0/19",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Linode",
-    "domain": "linode.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "US, PA, Philadelphia, 249 Arch St, 19106",
-    "country": "US",
-    "email": "abuse@linode.com",
-    "name": "Linode Abuse Support",
-    "network": "45.79.0.0/16",
-    "phone": "+1-609-380-7100"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Los_Angeles"
 }

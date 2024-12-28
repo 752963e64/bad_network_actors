@@ -5,39 +5,7 @@
   "region": "Queensland",
   "country": "AU",
   "loc": "-27.4679,153.0281",
+  "org": "AS1221 Telstra Limited",
   "postal": "4000",
-  "timezone": "Australia/Brisbane",
-  "asn": {
-    "asn": "AS1221",
-    "name": "Telstra Limited",
-    "domain": "telstra.com.au",
-    "route": "101.160.0.0/11",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Telstra Limited",
-    "domain": "telstra.net",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Telstra Internet",
-    "country": "AU",
-    "email": "abuse@telstra.net",
-    "name": "Telstra Limited",
-    "network": "101.160.0.0/11",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Australia/Brisbane"
 }

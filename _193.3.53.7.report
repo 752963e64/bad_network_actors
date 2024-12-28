@@ -4,38 +4,7 @@
   "region": "Virginia",
   "country": "US",
   "loc": "39.0062,-77.4286",
+  "org": "AS211607 Securitytrails, LLC",
   "postal": "20163",
-  "timezone": "America/New_York",
-  "asn": {
-    "asn": "AS211607",
-    "name": "Securitytrails, LLC",
-    "domain": "securitytrails.com",
-    "route": "193.3.53.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Securitytrails, LLC",
-    "domain": "securitytrails.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Securitytrails, LLC, PO Box 515381, Los Angeles, CA 90051-6681, UNITED STATES",
-    "country": "US",
-    "email": "support@securitytrails.com",
-    "name": "Abuse-C Role",
-    "network": "193.3.53.0/24",
-    "phone": "+16175536400"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/New_York"
 }

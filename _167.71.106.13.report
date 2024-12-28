@@ -4,38 +4,7 @@
   "region": "New Jersey",
   "country": "US",
   "loc": "40.8344,-74.1377",
+  "org": "AS14061 DigitalOcean, LLC",
   "postal": "07014",
-  "timezone": "America/New_York",
-  "asn": {
-    "asn": "AS14061",
-    "name": "DigitalOcean, LLC",
-    "domain": "digitalocean.com",
-    "route": "167.71.96.0/20",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "DigitalOcean, LLC",
-    "domain": "digitalocean.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "US, NY, New York, 101, Ave of the Americas, 10013",
-    "country": "US",
-    "email": "abuse@digitalocean.com",
-    "name": "DigitalOcean Abuse",
-    "network": "167.71.0.0/16",
-    "phone": "+1-347-875-6044"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/New_York"
 }

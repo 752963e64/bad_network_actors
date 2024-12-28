@@ -1,11 +1,11 @@
 {
   "ip": "64.246.161.26",
   "hostname": "homer.nameintel.com",
-  "city": "Valencia",
-  "region": "Valencia",
-  "country": "ES",
-  "loc": "39.4739,-0.3797",
+  "city": "Auburn",
+  "region": "Washington",
+  "country": "US",
+  "loc": "47.3073,-122.2284",
   "org": "AS53939 Telx",
-  "postal": "46001",
-  "timezone": "Europe/Madrid"
+  "postal": "98071",
+  "timezone": "America/Los_Angeles"
 }

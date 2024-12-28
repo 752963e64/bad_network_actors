@@ -4,39 +4,7 @@
   "region": "Krasnoyarsk Krai",
   "country": "RU",
   "loc": "56.0267,92.9077",
+  "org": "AS43605 Severo-Eniseysk-Telecom LLC",
   "postal": "660004",
-  "timezone": "Asia/Krasnoyarsk",
-  "asn": {
-    "asn": "AS43605",
-    "name": "Severo-Eniseysk-Telecom LLC",
-    "domain": "set-se.ru",
-    "route": "193.46.77.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Severo-Eniseysk-Telecom LLC",
-    "domain": "set-se.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Krasnoyarskij kraj, Severo-Enisejskij rajon, gp Severo-Enisejskij, ul. Pushkina, zd.11",
-    "country": "RU",
-    "email": "abuse@set-se.ru",
-    "name": "Abuse-C Role",
-    "network": "193.46.77.0/24",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Krasnoyarsk"
 }

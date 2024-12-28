@@ -5,39 +5,7 @@
   "region": "Guangdong",
   "country": "CN",
   "loc": "23.1167,113.2500",
+  "org": "AS4134 CHINANET-BACKBONE",
   "postal": "510000",
-  "timezone": "Asia/Shanghai",
-  "asn": {
-    "asn": "AS4134",
-    "name": "CHINANET-BACKBONE",
-    "domain": "chinatelecom.com.cn",
-    "route": "61.140.0.0/14",
-    "type": "isp"
-  },
-  "company": {
-    "name": "CHINANET Guangdong province network",
-    "domain": "chinatelecom.cn",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "No.31 ,jingrong street,beijing, 100032",
-    "country": "CN",
-    "email": "anti-spam@chinatelecom.cn",
-    "name": "ABUSE CHINANETCN",
-    "network": "61.140.0.0-61.146.255.255",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Shanghai"
 }

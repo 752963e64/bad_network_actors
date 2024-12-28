@@ -5,44 +5,7 @@
   "region": "Uttar Pradesh",
   "country": "IN",
   "loc": "28.9800,77.7064",
+  "org": "AS24560 Bharti Airtel Ltd., Telemedia Services",
   "postal": "250002",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS24560",
-    "name": "Bharti Airtel Ltd., Telemedia Services",
-    "domain": "airtel.com",
-    "route": "223.233.76.0/22",
-    "type": "isp"
-  },
-  "company": {
-    "name": "ABTS DELHI, Bharti Airtel Ltd.,224, Okhla industrial Area Phase III New Delhi",
-    "domain": "airtel.com",
-    "type": "isp"
-  },
-  "carrier": {
-    "name": "Airtel",
-    "mcc": "404",
-    "mnc": "02"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Bharti Airtel Ltd.",
-    "country": "IN",
-    "email": "dsltac2north.unoc@airtel.com",
-    "name": "ABUSE BHARTITELEMEDIAIN",
-    "network": "223.233.64.0/18",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

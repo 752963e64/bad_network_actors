@@ -5,39 +5,7 @@
   "region": "Punjab",
   "country": "PK",
   "loc": "31.5580,74.3507",
+  "org": "AS135523 Multinet Broadband",
   "postal": "54000",
-  "timezone": "Asia/Karachi",
-  "asn": {
-    "asn": "AS135523",
-    "name": "Multinet Broadband",
-    "domain": "multinet.com.pk",
-    "route": "125.209.72.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Multinet Pakistan Pvt. Ltd.",
-    "domain": "multinet.com.pk",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "1D-203, Sector 30, Korangi Industrial Area, Karachi, Pakistan",
-    "country": "PK",
-    "email": "abuse@multinet.com.pk",
-    "name": "ABUSE MULTINETBROADBANDPK",
-    "network": "125.209.64.0/18",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Karachi"
 }

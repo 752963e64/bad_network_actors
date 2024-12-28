@@ -5,39 +5,7 @@
   "region": "Minas Gerais",
   "country": "BR",
   "loc": "-19.9864,-44.4278",
+  "org": "AS269051 UNIVERSO FIBER COMUNICACAO MULTIMIDIA",
   "postal": "35670-000",
-  "timezone": "America/Sao_Paulo",
-  "asn": {
-    "asn": "AS269051",
-    "name": "UNIVERSO FIBER COMUNICACAO MULTIMIDIA",
-    "domain": "universotecnologia.com.br",
-    "route": "45.178.251.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "UNIVERSO FIBER COMUNICACAO MULTIMIDIA",
-    "domain": "universofiber.com.br",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "",
-    "country": "BR",
-    "email": "maria@frx-internet.com.br",
-    "name": "MARIA DA SILVA RODRIGUES",
-    "network": "45.178.248.0/22",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Sao_Paulo"
 }

@@ -4,39 +4,7 @@
   "region": "Hesse",
   "country": "DE",
   "loc": "50.1155,8.6842",
+  "org": "AS44486 Oliver Horscht is trading as \"SYNLINQ\"",
   "postal": "60306",
-  "timezone": "Europe/Berlin",
-  "asn": {
-    "asn": "AS44486",
-    "name": "Oliver Horscht is trading as \"SYNLINQ\"",
-    "domain": "synlinq.de",
-    "route": "5.180.252.0/23",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Rene Roeth trading as ROETH & BECK GbR",
-    "domain": "roeth-und-beck.de",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Kleine Schmidtgasse 1, 63571, Gelnhausen, GERMANY",
-    "country": "DE",
-    "email": "abuse@roeth-und-beck.de",
-    "name": "Abuse-C Role",
-    "network": "5.180.252.0/23",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Berlin"
 }

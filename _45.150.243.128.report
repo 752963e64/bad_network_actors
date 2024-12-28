@@ -5,39 +5,7 @@
   "region": "Kyiv City",
   "country": "UA",
   "loc": "50.4547,30.5238",
+  "org": "AS35487 Misaka Network, Inc.",
   "postal": "03027",
-  "timezone": "Europe/Kyiv",
-  "asn": {
-    "asn": "AS35487",
-    "name": "Misaka Network, Inc.",
-    "domain": "misaka.io",
-    "route": "45.150.243.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Misaka Network, Inc.",
-    "domain": "misaka.io",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Suite, 19901, Dover, UNITED STATES",
-    "country": "US",
-    "email": "abuse@misaka.email",
-    "name": "Misaka Network, Inc.",
-    "network": "45.150.243.0/24",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Kyiv"
 }

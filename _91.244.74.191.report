@@ -5,39 +5,7 @@
   "region": "Orenburg Oblast",
   "country": "RU",
   "loc": "51.7727,55.0988",
+  "org": "AS49749 VostokMediaSvyaz Ltd.",
   "postal": "460000",
-  "timezone": "Asia/Yekaterinburg",
-  "asn": {
-    "asn": "AS49749",
-    "name": "VostokMediaSvyaz Ltd.",
-    "domain": "vms56.ru",
-    "route": "91.244.74.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "VostokMediaSvyaz Ltd.",
-    "domain": "vms56.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Russia, Orenburg, Montazhnikov 23",
-    "country": "RU",
-    "email": "support@vms56.ru",
-    "name": "ABUSE-C role",
-    "network": "91.244.72.0/21",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Yekaterinburg"
 }

@@ -4,39 +4,7 @@
   "region": "Ho Chi Minh",
   "country": "VN",
   "loc": "10.8230,106.6296",
+  "org": "AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
   "postal": "71606",
-  "timezone": "Asia/Ho_Chi_Minh",
-  "asn": {
-    "asn": "AS135377",
-    "name": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "domain": "ucloud.cn",
-    "route": "165.154.104.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
-    "domain": "ucloud.cn",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "FLAT/RM 603 6/F, LAWS COMMERCIAL PLAZA, 788 CHEUNG SHA WAN ROAD, KL,, Hong Kong",
-    "country": "HK",
-    "email": "hegui@ucloud.cn",
-    "name": "ABUSE UCLOUDHK",
-    "network": "165.154.104.0/23",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Ho_Chi_Minh"
 }

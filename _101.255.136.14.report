@@ -4,38 +4,6 @@
   "region": "Jakarta",
   "country": "ID",
   "loc": "-6.2146,106.8451",
-  "timezone": "Asia/Jakarta",
-  "asn": {
-    "asn": "AS38511",
-    "name": "PT Remala Abadi",
-    "domain": "tachyon.net.id",
-    "route": "101.255.136.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "FIBER KERUMAH INDONESIA",
-    "domain": "tachyon.net.id",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Graha Mustika Ratu., JL. Gatot Subroto Kav 74-75, Jakarta Selatan, 12870, Indonesia",
-    "country": "ID",
-    "email": "abuse@tachyon.net.id",
-    "name": "Budi Aditya",
-    "network": "101.255.136.0/22",
-    "phone": "+62 21 8611746"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS38511 PT Remala Abadi",
+  "timezone": "Asia/Jakarta"
 }

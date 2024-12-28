@@ -4,39 +4,7 @@
   "region": "Moscow",
   "country": "RU",
   "loc": "55.7522,37.6156",
+  "org": "AS59425 Chang Way Technologies Co. Limited",
   "postal": "101000",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS59425",
-    "name": "Chang Way Technologies Co. Limited",
-    "domain": "changway.hk",
-    "route": "80.64.30.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Horizon LLC",
-    "domain": "gorizontllc.ru",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Malyi Lyovshinskii per., d. 10, podv., pom. IV, kom. 2, of. 88-7, 119034 Moscow, Russia",
-    "country": "RU",
-    "email": "abuse@gorizontllc.ru",
-    "name": "Horizon LLC",
-    "network": "80.64.30.0/24",
-    "phone": "+7 495 0088736"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Moscow"
 }

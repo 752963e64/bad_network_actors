@@ -1,10 +1,10 @@
 {
   "ip": "195.239.102.126",
-  "city": "Nizhniy Novgorod",
-  "region": "Nizhny Novgorod Oblast",
+  "city": "Moscow",
+  "region": "Moscow",
   "country": "RU",
-  "loc": "56.3287,44.0020",
+  "loc": "55.7522,37.6156",
   "org": "AS3216 PJSC \"Vimpelcom\"",
-  "postal": "603000",
+  "postal": "101000",
   "timezone": "Europe/Moscow"
 }

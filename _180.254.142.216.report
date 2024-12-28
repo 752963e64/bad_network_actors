@@ -4,38 +4,6 @@
   "region": "South Kalimantan",
   "country": "ID",
   "loc": "-3.3199,114.5907",
-  "timezone": "Asia/Makassar",
-  "asn": {
-    "asn": "AS7713",
-    "name": "PT Telekomunikasi Indonesia",
-    "domain": "telin.net",
-    "route": "180.254.128.0/20",
-    "type": "isp"
-  },
-  "company": {
-    "name": "PT TELKOM INDONESIA",
-    "domain": "telkom.co.id",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PT. TELKOM INDONESIA, STO Telkom Gambir 3th Floor, Medan Merdeka Selatan, JAKARTA",
-    "country": "ID",
-    "email": "abuse@telkom.co.id",
-    "name": "ABUSE IDTELKOMID",
-    "network": "180.254.128.0/19",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS7713 PT Telekomunikasi Indonesia",
+  "timezone": "Asia/Makassar"
 }

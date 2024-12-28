@@ -5,44 +5,7 @@
   "region": "São Paulo",
   "country": "BR",
   "loc": "-20.5386,-47.4008",
+  "org": "AS16735 ALGAR TELECOM S/A",
   "postal": "14400-000",
-  "timezone": "America/Sao_Paulo",
-  "asn": {
-    "asn": "AS16735",
-    "name": "ALGAR TELECOM S/A",
-    "domain": "algartelecom.com.br",
-    "route": "189.112.0.0/16",
-    "type": "isp"
-  },
-  "company": {
-    "name": "ALGAR TELECOM S/A",
-    "domain": "algartelecom.com.br",
-    "type": "isp"
-  },
-  "carrier": {
-    "name": "Algar Telecom",
-    "mcc": "724",
-    "mnc": "32"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "",
-    "country": "BR",
-    "email": "abuse@algartelecom.com.br",
-    "name": "Computer Security Incident Response Team",
-    "network": "189.112.0.0/16",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Sao_Paulo"
 }

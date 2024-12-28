@@ -5,39 +5,7 @@
   "region": "Hesse",
   "country": "DE",
   "loc": "50.1155,8.6842",
+  "org": "AS16276 OVH SAS",
   "postal": "60306",
-  "timezone": "Europe/Berlin",
-  "asn": {
-    "asn": "AS16276",
-    "name": "OVH SAS",
-    "domain": "ovhcloud.com",
-    "route": "57.129.0.0/17",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "OVH GmbH",
-    "domain": "ovh.net",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "St. Johanner Str. 41-43",
-    "country": "FR",
-    "email": "abuse@ovh.net",
-    "name": "Abuse contact role object",
-    "network": "57.129.64.0/24",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Berlin"
 }

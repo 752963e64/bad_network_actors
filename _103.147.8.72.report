@@ -5,37 +5,6 @@
   "region": "West Java",
   "country": "ID",
   "loc": "-6.9222,107.6069",
-  "timezone": "Asia/Jakarta",
-  "asn": {
-    "asn": "AS55699",
-    "name": "PT. Cemerlang Multimedia",
-    "domain": "megavision.net.id",
-    "route": "103.147.8.0/23",
-    "type": "isp"
-  },
-  "company": {
-    "name": "PT Aksara Perdana Multimedia",
-    "domain": "corpnet.net.id",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PT Aksara Perdana Multimedia, Jl. AH Nasution A5 No. 10 Cipadung, Bandung 40619, Indonesia",
-    "country": "ID",
-    "email": "abuse@corpnet.net.id",
-    "name": "Sedi Sedi",
-    "network": "103.147.8.0/23",
-    "phone": "+62-22-2060391"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS55699 PT. Cemerlang Multimedia",
+  "timezone": "Asia/Jakarta"
 }

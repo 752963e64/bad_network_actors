@@ -5,39 +5,7 @@
   "region": "England",
   "country": "GB",
   "loc": "51.5085,-0.1257",
+  "org": "AS63949 Akamai Connected Cloud",
   "postal": "E1W",
-  "timezone": "Europe/London",
-  "asn": {
-    "asn": "AS63949",
-    "name": "Akamai Connected Cloud",
-    "domain": "linode.com",
-    "route": "176.58.96.0/19",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Linode, LLC",
-    "domain": "linode.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": "metrovpn"
-  },
-  "abuse": {
-    "address": "249 Arch Street, Philadelphia, PA 19106, USA",
-    "country": "GB",
-    "email": "abuse@linode.com",
-    "name": "Linode, LLC",
-    "network": "176.58.112.0/21",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/London"
 }

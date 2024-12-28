@@ -5,39 +5,7 @@
   "region": "Maharashtra",
   "country": "IN",
   "loc": "19.1970,72.9635",
+  "org": "AS137127 Navkar Supertech Pvt Ltd",
   "postal": "400601",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS137127",
-    "name": "Navkar Supertech Pvt Ltd",
-    "domain": "nstplnet.com",
-    "route": "103.183.24.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Asia Pacific Network Information Centre",
-    "domain": "apnic.net",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "H NO 1524 F LAT NO 704 BLDG NO 5 WING J ATLANTA RESIDENCY KAMATGHAR BHIWANDI,Thane,Maharashtra-421302",
-    "country": "IN",
-    "email": "sagar@nstplnet.com",
-    "name": "SAGAR PENTI",
-    "network": "103.183.24.0/23",
-    "phone": "+91 9175463330"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

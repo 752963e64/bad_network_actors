@@ -5,38 +5,7 @@
   "region": "Istanbul",
   "country": "TR",
   "loc": "41.0138,28.9497",
+  "org": "AS44477 STARK INDUSTRIES SOLUTIONS LTD",
   "postal": "34096",
-  "timezone": "Europe/Istanbul",
-  "asn": {
-    "asn": "AS44477",
-    "name": "STARK INDUSTRIES SOLUTIONS LTD",
-    "domain": "pq.hosting",
-    "route": "193.57.136.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "STARK INDUSTRIES SOLUTIONS LTD",
-    "domain": "stark-industries.solutions",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "UNITED KINGDOM, WC2H 9JQ, London, Covent Garden, 71-75, Shelton Street",
-    "country": "GB",
-    "email": "abuse@stark-industries.solutions",
-    "name": "Stark Industries Solutions NOC",
-    "network": "193.57.136.0/24",
-    "phone": "+441234416080"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Istanbul"
 }

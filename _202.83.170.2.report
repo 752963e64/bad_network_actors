@@ -5,39 +5,7 @@
   "region": "Punjab",
   "country": "PK",
   "loc": "31.5580,74.3507",
+  "org": "AS23888 National Telecommunication Corporation HQ,",
   "postal": "54000",
-  "timezone": "Asia/Karachi",
-  "asn": {
-    "asn": "AS23888",
-    "name": "National Telecommunication Corporation HQ,",
-    "domain": "ntc.net.pk",
-    "route": "202.83.170.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "National Telecom Corporation",
-    "domain": "ntc.net.pk",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Ntc Regional Hqs F-5/1 Islamabad",
-    "country": "PK",
-    "email": "zahir.abbas@ntc.org.pk",
-    "name": "ABUSE NTCISPPK",
-    "network": "202.83.160.0/20",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Karachi"
 }

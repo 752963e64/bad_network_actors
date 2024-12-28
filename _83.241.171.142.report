@@ -5,39 +5,7 @@
   "region": "Västmanland",
   "country": "SE",
   "loc": "59.6162,16.5528",
+  "org": "AS12552 GlobalConnect AB",
   "postal": "720 01",
-  "timezone": "Europe/Stockholm",
-  "asn": {
-    "asn": "AS12552",
-    "name": "GlobalConnect AB",
-    "domain": "globalconnect.se",
-    "route": "83.241.128.0/17",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Iver Sverige AB",
-    "domain": "iver.com",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "DGC Access AB, Sveavagen 145, S-104 35 Stockholm, Sweden",
-    "country": "SE",
-    "email": "abuse@globalconnect.se",
-    "name": "DGC Systems NOC",
-    "network": "83.241.128.0/17",
-    "phone": "+ 46 8 506 106 00"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Stockholm"
 }

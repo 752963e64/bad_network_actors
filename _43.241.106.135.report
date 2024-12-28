@@ -1,10 +1,10 @@
 {
   "ip": "43.241.106.135",
-  "city": "Seoul",
-  "region": "Seoul",
+  "city": "Daegu",
+  "region": "Daegu",
   "country": "KR",
-  "loc": "37.5660,126.9784",
+  "loc": "35.8703,128.5911",
   "org": "AS18033 CMB TAEGU BROADCASTING",
-  "postal": "03141",
+  "postal": "41581",
   "timezone": "Asia/Seoul"
 }

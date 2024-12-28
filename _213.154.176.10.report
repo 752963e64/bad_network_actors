@@ -5,41 +5,7 @@
   "region": "St.-Petersburg",
   "country": "RU",
   "loc": "59.9386,30.3141",
+  "org": "AS20632 PJSC MegaFon",
   "postal": "195213",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS20632",
-    "name": "PJSC MegaFon",
-    "domain": "megafon.ru",
-    "route": "213.154.176.0/21",
-    "type": "isp"
-  },
-  "company": {
-    "name": "ChOP Energiya, Vologda",
-    "domain": "megafonnw.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PJSC MegaFon, 41, Oruzheyniy lane, Moscow, 127006, Russian Federation",
-    "country": "RU",
-    "email": "abuse-mailbox@megafon.ru",
-    "name": "MegaFon PJSC - Internet Service Network Operation Center",
-    "network": "213.154.176.8/30",
-    "phone": "+71234567890"
-  },
-  "domains": {
-    "ip": "213.154.176.10",
-    "total": 1,
-    "domains": [
-      "vgd35.ru"
-    ]
-  }
+  "timezone": "Europe/Moscow"
 }

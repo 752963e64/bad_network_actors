@@ -5,39 +5,7 @@
   "region": "England",
   "country": "GB",
   "loc": "51.5085,-0.1257",
+  "org": "AS58313 Misaka Network, Inc.",
   "postal": "E1W",
-  "timezone": "Europe/London",
-  "asn": {
-    "asn": "AS58313",
-    "name": "Misaka Network, Inc.",
-    "domain": "misaka.io",
-    "route": "45.142.244.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Misaka Network, Inc.",
-    "domain": "misaka.io",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Suite, 19901, Dover, UNITED STATES",
-    "country": "US",
-    "email": "abuse@misaka.email",
-    "name": "Misaka Network, Inc.",
-    "network": "45.142.244.0/24",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/London"
 }

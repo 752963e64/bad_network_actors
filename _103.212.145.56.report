@@ -4,44 +4,7 @@
   "region": "Delhi",
   "country": "IN",
   "loc": "28.6519,77.2315",
+  "org": "AS133982 Excitel Broadband Private Limited",
   "postal": "110001",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS133982",
-    "name": "Excitel Broadband Private Limited",
-    "domain": "excitel.com",
-    "route": "103.212.145.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "PIYUSH NETWORKS",
-    "domain": "excitel.com",
-    "type": "isp"
-  },
-  "carrier": {
-    "name": "Jio",
-    "mcc": "405",
-    "mnc": "840"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Excitel Broadband Private Limited, Level 15, Eros Corporate Tower, Nehru Place, New Delhi - 110019, IN",
-    "country": "IN",
-    "email": "abuse@excitel.com",
-    "name": "Excitel IP Management",
-    "network": "103.212.144.0/22",
-    "phone": "+918010922000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

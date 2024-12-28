@@ -4,39 +4,7 @@
   "region": "Vladimir Oblast",
   "country": "RU",
   "loc": "56.1905,40.5231",
+  "org": "AS35645 Limited Liability Company \"VLADINFO\"",
   "postal": "601270",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS35645",
-    "name": "Limited Liability Company \"VLADINFO\"",
-    "domain": "vladinfo.ru",
-    "route": "95.66.196.0/23",
-    "type": "isp"
-  },
-  "company": {
-    "name": "IP Tanchuk Marina Nikolaevna",
-    "domain": "vladinfo.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "LTD VLADINFO, Dementyev Alexey, P.O.Box 93, 600017, Vladimir, RUSSIAN FEDERATION",
-    "country": "RU",
-    "email": "dementiev@vladinfo.ru",
-    "name": "Abuse-C Role",
-    "network": "95.66.197.0/24",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Moscow"
 }

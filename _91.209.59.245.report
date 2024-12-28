@@ -4,39 +4,7 @@
   "region": "St.-Petersburg",
   "country": "RU",
   "loc": "59.9386,30.3141",
+  "org": "AS48225 JSC Telsi",
   "postal": "195213",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS48225",
-    "name": "JSC Telsi",
-    "domain": "telsispb.ru",
-    "route": "91.209.59.0/24",
-    "type": "business"
-  },
-  "company": {
-    "name": "JSC Telsi",
-    "domain": "telsispb.ru",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Russia, Saint-Petersbur, nab. Obvodnogo kanala 13, office 302",
-    "country": "RU",
-    "email": "lir@rosprint.net",
-    "name": "Abuse-C Role",
-    "network": "91.209.59.0/24",
-    "phone": "+7(812)4959499"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Moscow"
 }

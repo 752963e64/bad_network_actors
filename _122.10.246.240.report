@@ -4,39 +4,7 @@
   "region": "West Bengal",
   "country": "IN",
   "loc": "22.5626,88.3630",
+  "org": "AS21859 Zenlayer Inc",
   "postal": "700001",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS21859",
-    "name": "Zenlayer Inc",
-    "domain": "zenlayer.com",
-    "route": "122.10.246.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Zenlayer (Singapore) PTE. LTD",
-    "domain": "zenlayer.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "67 Ubi Road 1, # 10-02, Oxley Bizhub, Singapore 408730, singapore singapore 408730",
-    "country": "SG",
-    "email": "abuse@zenlayer.com",
-    "name": "ABUSE ZENSG",
-    "network": "122.10.245.0-122.10.247.255",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

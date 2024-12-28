@@ -5,38 +5,7 @@
   "region": "Istanbul",
   "country": "TR",
   "loc": "41.0138,28.9497",
+  "org": "AS205463 Pembe Gul Isguzar Karagoz",
   "postal": "34096",
-  "timezone": "Europe/Istanbul",
-  "asn": {
-    "asn": "AS205463",
-    "name": "Pembe Gul Isguzar Karagoz",
-    "domain": "vdsmerkezi.com",
-    "route": "2.56.108.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "VDS GLOBAL YAZILIM ARGE GELISTIRME LIMITED SIRKETI",
-    "domain": "vdsturkiye.com",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "ALIPASA MAH. FATIH SULTAN MEHMET BLV. BEYAZ ENERJI NO: 12 -14 IC KAPI NO: 7 MERKEZ/ KUTAHYA",
-    "country": "TR",
-    "email": "abuse@vdsmerkezi.com",
-    "name": "Abuse contact role object",
-    "network": "2.56.108.0/24",
-    "phone": ""
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Istanbul"
 }

@@ -4,38 +4,6 @@
   "region": "Medina Region",
   "country": "SA",
   "loc": "24.0895,38.0618",
-  "timezone": "Asia/Riyadh",
-  "asn": {
-    "asn": "AS39891",
-    "name": "Saudi Telecom Company JSC",
-    "domain": "stc.com.sa",
-    "route": "188.53.230.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Saudi Telecom Company JSC",
-    "domain": "stc.com.sa",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Riyadh, Saudi Arabia",
-    "country": "SA",
-    "email": "registry@stc.com.sa",
-    "name": "STC ABUSE ROLE",
-    "network": "188.53.0.0/16",
-    "phone": "+966114525020"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS39891 Saudi Telecom Company JSC",
+  "timezone": "Asia/Riyadh"
 }

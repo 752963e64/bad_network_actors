@@ -4,39 +4,7 @@
   "region": "Moscow",
   "country": "RU",
   "loc": "55.7522,37.6156",
+  "org": "AS57375 VillaNet LLC",
   "postal": "101000",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS57375",
-    "name": "VillaNet LLC",
-    "domain": "villanet.ru",
-    "route": "185.232.233.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "VillaNet LLC",
-    "domain": "villanet.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Bianki st., 5, 172, 108811, Moscow, Moskovskiy, RUSSIAN FEDERATION",
-    "country": "RU",
-    "email": "info@villanet.ru",
-    "name": "Abuse-C Role",
-    "network": "185.232.233.0/24",
-    "phone": "+74956498881"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Moscow"
 }

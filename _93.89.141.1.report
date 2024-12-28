@@ -4,39 +4,7 @@
   "region": "England",
   "country": "GB",
   "loc": "51.4466,0.2142",
+  "org": "AS12496 Infinity Developments Limited",
   "postal": "DA1",
-  "timezone": "Europe/London",
-  "asn": {
-    "asn": "AS12496",
-    "name": "Infinity Developments Limited",
-    "domain": "idnet.com",
-    "route": "93.89.128.0/20",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Infinity Developments Limited",
-    "domain": "idnet.net",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "IDnet Simon Davies 1 Flint Road SG6 1HJ Letchworth, Herts UNITED KINGDOM",
-    "country": "GB",
-    "email": "hostmaster@idnet.net",
-    "name": "Abuse-C Role",
-    "network": "93.89.141.0/24",
-    "phone": "+441462480092"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/London"
 }

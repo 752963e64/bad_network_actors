@@ -4,37 +4,6 @@
   "region": "Tehran",
   "country": "IR",
   "loc": "35.6944,51.4215",
-  "timezone": "Asia/Tehran",
-  "asn": {
-    "asn": "AS58224",
-    "name": "Iran Telecommunication Company PJS",
-    "domain": "tci.ir",
-    "route": "85.185.250.0/23",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Telecommunication Company of Kermanshah",
-    "domain": "tci.ir",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Kermanshah - Telecommunication Company of Kermanshah",
-    "country": "IR",
-    "email": "n_rahimzadeh@tci.ir",
-    "name": "Abuse Contact",
-    "network": "85.185.251.136/29",
-    "phone": ""
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS58224 Iran Telecommunication Company PJS",
+  "timezone": "Asia/Tehran"
 }

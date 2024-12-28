@@ -5,38 +5,7 @@
   "region": "Pará",
   "country": "BR",
   "loc": "-8.0286,-50.0314",
+  "org": "AS262404 JC SERVICOS DE INTERNET LTDA",
   "postal": "68550-000",
-  "timezone": "America/Belem",
-  "asn": {
-    "asn": "AS262404",
-    "name": "JC SERVICOS DE INTERNET LTDA",
-    "domain": "jc.net.br",
-    "route": "177.36.248.0/21",
-    "type": "isp"
-  },
-  "company": {
-    "name": "JC SERVICOS DE INTERNET LTDA",
-    "domain": "jc.net.br",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "",
-    "country": "BR",
-    "email": "cpd@jc.net.br",
-    "name": "JC TELECOM SERVIÇOS TELECOMUNICAÇÃO",
-    "network": "177.36.240.0/20",
-    "phone": ""
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Belem"
 }

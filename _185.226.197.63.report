@@ -5,39 +5,7 @@
   "region": "Flevoland",
   "country": "NL",
   "loc": "52.5083,5.4750",
+  "org": "AS21859 Zenlayer Inc",
   "postal": "8224",
-  "timezone": "Europe/Amsterdam",
-  "asn": {
-    "asn": "AS21859",
-    "name": "Zenlayer Inc",
-    "domain": "zenlayer.com",
-    "route": "185.226.197.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "ICG-4-ZEN-AMS",
-    "domain": "nsec.pt",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Operations for Internet Census Group, https://internet-census.org",
-    "country": "US",
-    "email": "optout@internet-census.org",
-    "name": "Abuse-C Role",
-    "network": "185.226.197.0/24",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Amsterdam"
 }

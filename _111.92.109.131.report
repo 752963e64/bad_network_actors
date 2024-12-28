@@ -5,39 +5,7 @@
   "region": "Kerala",
   "country": "IN",
   "loc": "10.5167,76.2167",
+  "org": "AS17465 Cable ISP in India",
   "postal": "680001",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS17465",
-    "name": "Cable ISP in India",
-    "domain": "asianetbroadband.in",
-    "route": "111.92.109.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Asianet is a cable ISP providing",
-    "domain": "asianet.co.in",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "2 nd Floor , Leela Tower, Technopark,Kazhakuttam, Trivandrum, Kerala",
-    "country": "IN",
-    "email": "abuse-reports@asianet.co.in",
-    "name": "ABUSE ASIANETIN",
-    "network": "111.92.0.0/17",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

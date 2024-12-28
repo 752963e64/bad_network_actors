@@ -1,43 +1,11 @@
 {
   "ip": "49.249.75.134",
   "hostname": "static-134.75.249.49-tataidc.co.in",
-  "city": "Dādri",
+  "city": "Noida",
   "region": "Uttar Pradesh",
   "country": "IN",
-  "loc": "28.5526,77.5540",
-  "postal": "203207",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS45820",
-    "name": "Tata Teleservices ISP AS",
-    "domain": "tatatelebusiness.com",
-    "route": "49.249.72.0/21",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Tata Teleservices Limited -GSM Division",
-    "domain": "tatatel.co.in",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "TATA TELESERVICES, D26, TTC IND AREA,, MIDC SANPADA, TURBHE, NAVI MUMBAI",
-    "country": "IN",
-    "email": "ip.abuse@tatatel.co.in",
-    "name": "ABUSE TATADOCOMOIN",
-    "network": "49.249.64.0/18",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "loc": "28.5800,77.3300",
+  "org": "AS45820 Tata Teleservices ISP AS",
+  "postal": "201005",
+  "timezone": "Asia/Kolkata"
 }

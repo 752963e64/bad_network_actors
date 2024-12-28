@@ -4,39 +4,7 @@
   "region": "Constantine",
   "country": "DZ",
   "loc": "36.3650,6.6147",
+  "org": "AS36947 Telecom Algeria",
   "postal": "04011",
-  "timezone": "Africa/Algiers",
-  "asn": {
-    "asn": "AS36947",
-    "name": "Telecom Algeria",
-    "domain": "algerietelecom.dz",
-    "route": "105.109.96.0/19",
-    "type": "isp"
-  },
-  "company": {
-    "name": "fawri",
-    "domain": "djaweb.dz",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Alger",
-    "country": "DZ",
-    "email": "security@djaweb.dz",
-    "name": "Security Departement",
-    "network": "105.109.0.0/17",
-    "phone": "tel:+213-21-91-12-24"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Africa/Algiers"
 }

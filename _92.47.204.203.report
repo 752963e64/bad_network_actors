@@ -5,38 +5,6 @@
   "region": "Shymkent",
   "country": "KZ",
   "loc": "42.3000,69.6000",
-  "timezone": "Asia/Almaty",
-  "asn": {
-    "asn": "AS9198",
-    "name": "JSC Kazakhtelecom",
-    "domain": "online.kz",
-    "route": "92.47.204.0/22",
-    "type": "isp"
-  },
-  "company": {
-    "name": "JSC Kazakhtelecom",
-    "domain": "telecom.kz",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Kazakhtelecom Corporate sales administration, 129 Panfilov, Almaty 050000, Kazakhstan",
-    "country": "KZ",
-    "email": "abuse@telecom.kz",
-    "name": "JSC Kazakhtelecom",
-    "network": "92.47.204.0/23",
-    "phone": "+7 727 2588254"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS9198 JSC Kazakhtelecom",
+  "timezone": "Asia/Almaty"
 }

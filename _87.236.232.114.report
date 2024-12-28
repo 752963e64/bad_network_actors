@@ -4,38 +4,6 @@
   "region": "Amman",
   "country": "JO",
   "loc": "32.0107,35.8980",
-  "timezone": "Asia/Amman",
-  "asn": {
-    "asn": "AS35656",
-    "name": "Jordanian Universities Network L.L.C.",
-    "domain": "junet.edu.jo",
-    "route": "87.236.232.0/24",
-    "type": "education"
-  },
-  "company": {
-    "name": "JUNet Infra Structure",
-    "domain": "junet.edu.jo",
-    "type": "education"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "jordan - amman - university of jordan",
-    "country": "JO",
-    "email": "zaid@junet.edu.jo",
-    "name": "JUNet abuse contact info",
-    "network": "87.236.232.0/23",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS35656 Jordanian Universities Network L.L.C.",
+  "timezone": "Asia/Amman"
 }

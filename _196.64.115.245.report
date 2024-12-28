@@ -4,38 +4,7 @@
   "region": "Casablanca-Settat",
   "country": "MA",
   "loc": "33.5883,-7.6114",
+  "org": "AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
   "postal": "29640",
-  "timezone": "Africa/Casablanca",
-  "asn": {
-    "asn": "AS36903",
-    "name": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
-    "domain": "iam.net.ma",
-    "route": "196.64.112.0/21",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
-    "domain": "iam.net.ma",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Maroc Telecom, Rabat, Morocco",
-    "country": "MA",
-    "email": "nocmt@menara.ma",
-    "name": "Sektaoui Marouane",
-    "network": "196.64.0.0/11",
-    "phone": "tel:+212-5376-86318"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Africa/Casablanca"
 }

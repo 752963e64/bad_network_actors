@@ -4,39 +4,7 @@
   "region": "Rivne",
   "country": "UA",
   "loc": "51.3379,26.6019",
+  "org": "AS3255 State Enterprise Scientific and Telecommunication Centre \"Ukrainian Academic and Research Network\" of the Institute for Condensed Matter Physics of the National Academy of Science of Ukraine (UARNet)",
   "postal": "34500",
-  "timezone": "Europe/Kyiv",
-  "asn": {
-    "asn": "AS3255",
-    "name": "State Enterprise Scientific and Telecommunication Centre \"Ukrainian Academic and Research Network\" of the Institute for Condensed Matter Physics of the National Academy of Science of Ukraine (UARNet)",
-    "domain": "uar.net",
-    "route": "91.211.133.0/24",
-    "type": "education"
-  },
-  "company": {
-    "name": "State Enterprise Scientific and Telecommunication Centre \"Ukrainian Academic and Research Network\" of the Institute for Condensed Matter Physics of the National Academy of Science of Ukraine (UARNet)",
-    "domain": "uar.net",
-    "type": "education"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "1 Svientsitskii Str., 79011, Lviv, UKRAINE",
-    "country": "UA",
-    "email": "protslirabuse@gmail.com",
-    "name": "Abuse-C Role",
-    "network": "91.211.132.0/22",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Kyiv"
 }

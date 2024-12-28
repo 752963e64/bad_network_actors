@@ -1,11 +1,11 @@
 {
   "ip": "4.255.100.154",
   "hostname": "azpdesc33.stretchoid.com",
-  "city": "Sterling",
-  "region": "Virginia",
+  "city": "Washington",
+  "region": "District of Columbia",
   "country": "US",
-  "loc": "39.0062,-77.4286",
+  "loc": "38.8951,-77.0364",
   "org": "AS8075 Microsoft Corporation",
-  "postal": "20163",
+  "postal": "20004",
   "timezone": "America/New_York"
 }

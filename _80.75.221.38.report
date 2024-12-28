@@ -4,39 +4,7 @@
   "region": "São Paulo",
   "country": "BR",
   "loc": "-23.5475,-46.6361",
+  "org": "AS48925 VibeGAMES B.V.",
   "postal": "01000-000",
-  "timezone": "America/Sao_Paulo",
-  "asn": {
-    "asn": "AS48925",
-    "name": "VibeGAMES B.V.",
-    "domain": "vibegames.com",
-    "route": "80.75.221.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "MB Web3 rise",
-    "domain": "abuseradar.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "6th Floor 9 Appold Street London, EC2A 2AP",
-    "country": "LT",
-    "email": "report@abuseradar.com",
-    "name": "Internet Utilities Abuse Contact",
-    "network": "80.75.221.0/24",
-    "phone": "+37061600199"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Sao_Paulo"
 }

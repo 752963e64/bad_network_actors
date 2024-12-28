@@ -5,39 +5,7 @@
   "region": "North Rhine-Westphalia",
   "country": "DE",
   "loc": "50.7766,6.0834",
+  "org": "AS49581 Ferdinand Zink trading as Tube-Hosting",
   "postal": "52062",
-  "timezone": "Europe/Berlin",
-  "asn": {
-    "asn": "AS49581",
-    "name": "Ferdinand Zink trading as Tube-Hosting",
-    "domain": "tube-hosting.com",
-    "route": "45.13.227.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Tube-Hosting",
-    "domain": "tube-hosting.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Malteserweg 28, 97076 WÃ¼rzburg",
-    "country": "DE",
-    "email": "abuse@tube-hosting.de",
-    "name": "Abuse contact role object",
-    "network": "45.13.227.0/24",
-    "phone": "+4924045969470"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Berlin"
 }

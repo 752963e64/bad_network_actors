@@ -5,39 +5,7 @@
   "region": "District of Columbia",
   "country": "US",
   "loc": "38.8951,-77.0364",
+  "org": "AS8075 Microsoft Corporation",
   "postal": "20004",
-  "timezone": "America/New_York",
-  "asn": {
-    "asn": "AS8075",
-    "name": "Microsoft Corporation",
-    "domain": "microsoft.com",
-    "route": "57.152.0.0/14",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Microsoft Limited UK",
-    "domain": "microsoft.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "One Microsoft Way, Redmond, WA 98052",
-    "country": "US",
-    "email": "abuse@microsoft.com",
-    "name": "Microsoft Limited UK",
-    "network": "57.150.0.0-57.175.255.255",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/New_York"
 }

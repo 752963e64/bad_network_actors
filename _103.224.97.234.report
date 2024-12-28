@@ -4,38 +4,6 @@
   "region": "Taiwan",
   "country": "TW",
   "loc": "25.0531,121.5264",
-  "timezone": "Asia/Taipei",
-  "asn": {
-    "asn": "AS55547",
-    "name": "WOODSNET-PH",
-    "domain": "rtat.net",
-    "route": "103.224.97.0/24",
-    "type": "business"
-  },
-  "company": {
-    "name": "WOODSNET-PH",
-    "domain": "rtat.net",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Wisa Setia 23, 2nd Floor, Jalan Pemancha, Bandar Seri Begawan 8811",
-    "country": "BN",
-    "email": "stalla.lee@gmail.com",
-    "name": "ABUSE BEEMEECOLTDBN",
-    "network": "103.224.96.0/22",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS55547 WOODSNET-PH",
+  "timezone": "Asia/Taipei"
 }

@@ -5,39 +5,7 @@
   "region": "Montevideo Department",
   "country": "UY",
   "loc": "-34.9033,-56.1882",
+  "org": "AS6057 Administracion Nacional de Telecomunicaciones",
   "postal": "11100",
-  "timezone": "America/Montevideo",
-  "asn": {
-    "asn": "AS6057",
-    "name": "Administracion Nacional de Telecomunicaciones",
-    "domain": "antel.com.uy",
-    "route": "167.62.80.0/20",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Administracion Nacional de Telecomunicaciones",
-    "domain": "antel.com.uy",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "UY, , Montevideo, Potosi 1517, 11500",
-    "country": "UY",
-    "email": "abuse@lacnic.net",
-    "name": "LACNIC Whois Info",
-    "network": "167.62.0.0/16",
-    "phone": "+598-2604-2222"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Montevideo"
 }

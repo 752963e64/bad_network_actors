@@ -4,39 +4,7 @@
   "region": "Jiangsu",
   "country": "CN",
   "loc": "32.0617,118.7778",
+  "org": "AS56046 China Mobile communications corporation",
   "postal": "210000",
-  "timezone": "Asia/Shanghai",
-  "asn": {
-    "asn": "AS56046",
-    "name": "China Mobile communications corporation",
-    "domain": "chinamobile.com",
-    "route": "36.155.128.0/20",
-    "type": "isp"
-  },
-  "company": {
-    "name": "China Mobile Communications Corporation",
-    "domain": "chinamobile.com",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "China Mobile Communications Corporation, 29, Jinrong Ave., Xicheng District, Beijing, 100032",
-    "country": "CN",
-    "email": "abuse@chinamobile.com",
-    "name": "ABUSE CHINAMOBILE2CN",
-    "network": "36.128.0.0/10",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Shanghai"
 }

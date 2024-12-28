@@ -5,39 +5,7 @@
   "region": "Bashkortostan Republic",
   "country": "RU",
   "loc": "54.7431,55.9678",
+  "org": "AS28812 PJSC \"Bashinformsvyaz\"",
   "postal": "450511",
-  "timezone": "Asia/Yekaterinburg",
-  "asn": {
-    "asn": "AS28812",
-    "name": "PJSC \"Bashinformsvyaz\"",
-    "domain": "bashtel.ru",
-    "route": "109.187.0.0/16",
-    "type": "isp"
-  },
-  "company": {
-    "name": "PJSC Bashinformsvyaz",
-    "domain": "bashtelecom.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "CTE OJSC Bashinformsvyaz, Ilgiz Kalmetev, Lenin street, 30, 450000, Ufa, RUSSIAN FEDERATION",
-    "country": "RU",
-    "email": "abuse@bashtel.ru",
-    "name": "Abuse-C Role",
-    "network": "109.187.0.0-109.187.91.255",
-    "phone": "+7 3472 215999"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Yekaterinburg"
 }

@@ -4,37 +4,6 @@
   "region": "Astana",
   "country": "KZ",
   "loc": "51.1801,71.4460",
-  "timezone": "Asia/Almaty",
-  "asn": {
-    "asn": "AS9198",
-    "name": "JSC Kazakhtelecom",
-    "domain": "online.kz",
-    "route": "92.46.64.0/18",
-    "type": "isp"
-  },
-  "company": {
-    "name": "TOOBUKDINGRESOURCES",
-    "domain": "telecom.kz",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Kazakhtelecom Corporate sales administration, 129 Panfilov, Almaty 050000, Kazakhstan",
-    "country": "KZ",
-    "email": "abuse@telecom.kz",
-    "name": "Kazakhtelecom Network Information Center",
-    "network": "92.46.108.216/29",
-    "phone": "+7 727 2588254"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS9198 JSC Kazakhtelecom",
+  "timezone": "Asia/Almaty"
 }

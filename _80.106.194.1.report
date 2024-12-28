@@ -5,38 +5,6 @@
   "region": "Attica",
   "country": "GR",
   "loc": "37.9838,23.7278",
-  "timezone": "Europe/Athens",
-  "asn": {
-    "asn": "AS6799",
-    "name": "Ote SA (Hellenic Telecommunications Organisation)",
-    "domain": "ote.gr",
-    "route": "80.106.0.0/16",
-    "type": "isp"
-  },
-  "company": {
-    "name": "HELLENIC TELECOMMUNICATIONS ORGANIZATION",
-    "domain": "cosmote.gr",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Ote SA (Hellenic Telecommunications Organisation), Kifissias 99, GR-15124 Athens, Greece",
-    "country": "GR",
-    "email": "abuse@ote.gr",
-    "name": "OTE IP ADM",
-    "network": "80.106.0.0/15",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS6799 Ote SA (Hellenic Telecommunications Organisation)",
+  "timezone": "Europe/Athens"
 }

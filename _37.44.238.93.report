@@ -4,38 +4,7 @@
   "region": "Île-de-France",
   "country": "FR",
   "loc": "48.7820,2.1940",
+  "org": "AS34534 FBW NETWORKS SAS",
   "postal": "78140",
-  "timezone": "Europe/Paris",
-  "asn": {
-    "asn": "AS34534",
-    "name": "FBW NETWORKS SAS",
-    "domain": "harmony-hosting.com",
-    "route": "37.44.238.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "FBW NETWORKS SAS",
-    "domain": "fiberway.fr",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "FRANCE, VÃ©lizy Villacoublay, 78140, 16 rue Grange Dame Rose",
-    "country": "FR",
-    "email": "abuse@fiberway.fr",
-    "name": "Abuse-C Role",
-    "network": "37.44.236.0/22",
-    "phone": "+33184207217"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Paris"
 }

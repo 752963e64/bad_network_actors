@@ -5,39 +5,7 @@
   "region": "Tuscany",
   "country": "IT",
   "loc": "43.3182,11.3306",
+  "org": "AS49605 Digital Telecommunication Services S.r.l.",
   "postal": "53100",
-  "timezone": "Europe/Rome",
-  "asn": {
-    "asn": "AS49605",
-    "name": "Digital Telecommunication Services S.r.l.",
-    "domain": "ivo.it",
-    "route": "185.87.240.0/22",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Digital Telecommunication Services S.r.l.",
-    "domain": "dtssi.it",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "DIGITAL TELECOMMUNICATION SERVICES S.R.L., VIA MASSETANA ROMANA 58/D, 53100 Siena (SI)",
-    "country": "IT",
-    "email": "abuse@dtssi.it",
-    "name": "IPNOC AS49605",
-    "network": "185.87.240.0/22",
-    "phone": "+39 0577 588292"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Rome"
 }

@@ -4,39 +4,7 @@
   "region": "Yaroslavl Oblast",
   "country": "RU",
   "loc": "57.1908,39.4131",
+  "org": "AS12389 PJSC Rostelecom",
   "postal": "152120",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS12389",
-    "name": "PJSC Rostelecom",
-    "domain": "rt.ru",
-    "route": "2.60.0.0/14",
-    "type": "isp"
-  },
-  "company": {
-    "name": "JSC Rostelecom . Rostov",
-    "domain": "rt.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PJSC Rostelecom, Russian Federation",
-    "country": "RU",
-    "email": "abuse@rt.ru",
-    "name": "PJSC Rostelecom Technical Team",
-    "network": "2.63.128.0/17",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Moscow"
 }

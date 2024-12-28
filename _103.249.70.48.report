@@ -1,44 +1,12 @@
 {
   "ip": "103.249.70.48",
   "hostname": "node-103-249-70-48.reverse.x4b.me",
-  "city": "Miami",
-  "region": "Florida",
+  "city": "New York City",
+  "region": "New York",
   "country": "US",
-  "loc": "25.7743,-80.1937",
-  "postal": "33101",
+  "loc": "40.7143,-74.0060",
+  "org": "AS136165 X4B DDoS Protected Announcements",
+  "postal": "10001",
   "timezone": "America/New_York",
-  "anycast": true,
-  "asn": {
-    "asn": "AS136165",
-    "name": "X4B DDoS Protected Announcements",
-    "domain": "x4b.net",
-    "route": "103.249.70.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "X4B Anycast (Premium)",
-    "domain": "x4b.net",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "3 sheffie court, shepparton Victoria 3630",
-    "country": "AU",
-    "email": "abuse@x4b.net",
-    "name": "ABUSE X4BAU",
-    "network": "103.249.70.0/24",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "anycast": true
 }

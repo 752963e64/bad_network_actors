@@ -4,39 +4,7 @@
   "region": "Telangana",
   "country": "IN",
   "loc": "17.4849,78.4138",
+  "org": "AS134859 IMPERIAL TECH SERVICES",
   "postal": "500072",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS134859",
-    "name": "IMPERIAL TECH SERVICES",
-    "domain": "",
-    "route": "103.205.15.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "IMPERIAL TECH SERVICES",
-    "domain": "imperialtechservices.com",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Plot No 633,Vaidehinagar,Vanasthalipuram,Hyderabad",
-    "country": "IN",
-    "email": "imperialtech.services@gmail.com",
-    "name": "Hussain ShaikMohd",
-    "network": "103.205.12.0/22",
-    "phone": "+91 9866011450"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

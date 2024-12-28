@@ -4,39 +4,7 @@
   "region": "Moscow",
   "country": "RU",
   "loc": "55.7520,37.6150",
+  "org": "AS34851 PENSION AND SOCIAL INSURANCE FUND OF THE RUSSIAN FEDERATION",
   "postal": "119049",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS34851",
-    "name": "PENSION AND SOCIAL INSURANCE FUND OF THE RUSSIAN FEDERATION",
-    "domain": "gov.ru",
-    "route": "193.148.44.0/24",
-    "type": "business"
-  },
-  "company": {
-    "name": "Pension and Social Insurance Fund of the Russian Federation",
-    "domain": "gov.ru",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Shabolovka str.,4, Moscow, Russia",
-    "country": "RU",
-    "email": "abuse@rtcomm.ru",
-    "name": "PFR NOC",
-    "network": "193.148.44.0/24",
-    "phone": "+7(495)987-81-56"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Moscow"
 }

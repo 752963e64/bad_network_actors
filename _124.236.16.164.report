@@ -4,39 +4,7 @@
   "region": "Hebei",
   "country": "CN",
   "loc": "38.0414,114.4786",
+  "org": "AS134760 Shijiazhuang IDC network, CHINANET Hebei province",
   "postal": "050000",
-  "timezone": "Asia/Shanghai",
-  "asn": {
-    "asn": "AS134760",
-    "name": "Shijiazhuang IDC network, CHINANET Hebei province",
-    "domain": "chinatelecom.cn",
-    "route": "124.236.0.0/17",
-    "type": "business"
-  },
-  "company": {
-    "name": "CHINANET hebei province network",
-    "domain": "chinatelecom.cn",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "No.31 ,jingrong street,beijing, 100032",
-    "country": "CN",
-    "email": "anti-spam@chinatelecom.cn",
-    "name": "ABUSE CHINANETCN",
-    "network": "124.236.0.0/14",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Shanghai"
 }

@@ -4,39 +4,7 @@
   "region": "Rio de Janeiro",
   "country": "BR",
   "loc": "-22.7642,-43.3994",
+  "org": "AS263033 LINKLI TELECOMUNICACOES LTDA",
   "postal": "26100-000",
-  "timezone": "America/Sao_Paulo",
-  "asn": {
-    "asn": "AS263033",
-    "name": "LINKLI TELECOMUNICACOES LTDA",
-    "domain": "linklitelecom.com.br",
-    "route": "177.12.182.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "LINKLI TELECOMUNICACOES LTDA",
-    "domain": "linxbr.com.br",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "",
-    "country": "BR",
-    "email": "lfontes@linklitelecom.com.br",
-    "name": "Leonardo Fontes Pra�a",
-    "network": "177.12.176.0/20",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Sao_Paulo"
 }

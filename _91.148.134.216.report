@@ -3,40 +3,8 @@
   "city": "Bogotá",
   "region": "Bogota D.C.",
   "country": "CO",
-  "loc": "4.6097,-74.0817",
-  "postal": "111411",
-  "timezone": "America/Bogota",
-  "asn": {
-    "asn": "AS136258",
-    "name": "BrainStorm Network, Inc",
-    "domain": "oneprovider.com",
-    "route": "91.148.134.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Oneprovider.com - Bogota Infrastructure",
-    "domain": "oneprovider.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": "FlowVPN"
-  },
-  "abuse": {
-    "address": "3275 Av Francis-Hughes H7L 5A5, Laval, Canada",
-    "country": "CA",
-    "email": "info@oneprovider.com",
-    "name": "Abuse contact role object",
-    "network": "91.148.134.0/24",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "loc": "4.6948,-74.1036",
+  "org": "AS136258 BrainStorm Network, Inc",
+  "postal": "111051",
+  "timezone": "America/Bogota"
 }

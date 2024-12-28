@@ -5,39 +5,7 @@
   "region": "Sverdlovsk Oblast",
   "country": "RU",
   "loc": "56.9705,60.5822",
+  "org": "AS42498 Gerkon LTD",
   "postal": "624090",
-  "timezone": "Asia/Yekaterinburg",
-  "asn": {
-    "asn": "AS42498",
-    "name": "Gerkon LTD",
-    "domain": "sevencom.ru",
-    "route": "91.192.168.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Gerkon LTD",
-    "domain": "sevencom.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Uspenskiy avenue, b 58a, of. 4, 624090, Verkhnyaya Pyshma, RUSSIAN FEDERATION",
-    "country": "RU",
-    "email": "info@sevencom.ru",
-    "name": "Abuse-C Role",
-    "network": "91.192.168.0/22",
-    "phone": "+7 34368 56-234"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Yekaterinburg"
 }

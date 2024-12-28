@@ -4,38 +4,6 @@
   "region": "Western Area",
   "country": "SL",
   "loc": "8.4871,-13.2356",
-  "timezone": "Africa/Freetown",
-  "asn": {
-    "asn": "AS329109",
-    "name": "Zoodlabs(SL) Limited",
-    "domain": "zoodlabs.com",
-    "route": "102.223.154.0/23",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Ministry of Information and Communications, Government of Sierra Leone",
-    "domain": "salcab.sl",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "8th Floor, Youyi Building, Brookfields, Free Town, Sierra Leone",
-    "country": "SL",
-    "email": "aiah@zoodlabs.com",
-    "name": "Aiah A. Kortequee",
-    "network": "102.223.154.0/23",
-    "phone": "tel:+232-78-694072"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS329109 Zoodlabs(SL) Limited",
+  "timezone": "Africa/Freetown"
 }

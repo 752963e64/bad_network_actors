@@ -4,38 +4,6 @@
   "region": "Jakarta",
   "country": "ID",
   "loc": "-6.2146,106.8451",
-  "timezone": "Asia/Jakarta",
-  "asn": {
-    "asn": "AS9341",
-    "name": "PT INDONESIA COMNETS PLUS",
-    "domain": "plniconplus.co.id",
-    "route": "103.144.180.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "PT Indonesia Comnets Plus",
-    "domain": "iconpln.net.id",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PT Indonesia Comnets Plus, JL PLN EHV Gandul Cinere, Depok 16512",
-    "country": "ID",
-    "email": "abuse@iconpln.net.id",
-    "name": "Comnets Admin",
-    "network": "103.144.180.0/24",
-    "phone": "+62-21-753-2488"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS9341 PT INDONESIA COMNETS PLUS",
+  "timezone": "Asia/Jakarta"
 }

@@ -4,44 +4,7 @@
   "region": "England",
   "country": "GB",
   "loc": "51.5085,-0.1257",
+  "org": "AS25135 Vodafone Limited",
   "postal": "E1W",
-  "timezone": "Europe/London",
-  "asn": {
-    "asn": "AS25135",
-    "name": "Vodafone Limited",
-    "domain": "vodafone.co.uk",
-    "route": "85.255.232.0/23",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Vodafone House",
-    "domain": "vodafone.com",
-    "type": "isp"
-  },
-  "carrier": {
-    "name": "Vodafone UK",
-    "mcc": "234",
-    "mnc": "15"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Vodafone UK Limited, The Connection, Newbury, RG14 2FN",
-    "country": "GB",
-    "email": "ipabuse@vodafone.co.uk",
-    "name": "Abuse-C Role",
-    "network": "85.255.224.0/20",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/London"
 }

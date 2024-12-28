@@ -1,43 +1,11 @@
 {
   "ip": "31.15.20.38",
   "hostname": "31.15.20.38.lease.net",
-  "city": "Sievierodonetsk",
-  "region": "Luhansk",
+  "city": "Henichesk",
+  "region": "Kherson",
   "country": "UA",
-  "loc": "48.9463,38.4862",
-  "postal": "93400",
-  "timezone": "Europe/Kyiv",
-  "asn": {
-    "asn": "AS215623",
-    "name": "OOO \"LUGALINK\"",
-    "domain": "lease.net",
-    "route": "31.15.20.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "OOO \"LUGALINK\"",
-    "domain": "lease.net",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Alchevsk, UL. LENINA, d.D. 86, kv.KV. 76",
-    "country": "RU",
-    "email": "ip-noc@yandex.ru",
-    "name": "Abuse contact role object",
-    "network": "31.15.20.0/24",
-    "phone": "+79591152394"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "loc": "46.1682,34.8086",
+  "org": "AS215623 OOO \"LUGALINK\"",
+  "postal": "75500",
+  "timezone": "Europe/Kyiv"
 }

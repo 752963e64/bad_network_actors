@@ -4,39 +4,7 @@
   "region": "Bursa Province",
   "country": "TR",
   "loc": "40.1956,29.0601",
+  "org": "AS15924 Vodafone Net Iletisim Hizmetler AS",
   "postal": "16250",
-  "timezone": "Europe/Istanbul",
-  "asn": {
-    "asn": "AS15924",
-    "name": "Vodafone Net Iletisim Hizmetler AS",
-    "domain": "vodafone.com.tr",
-    "route": "195.87.0.0/17",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Tofasoto Malatya Oto",
-    "domain": "tofas.com.tr",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Buyukdere Caddesi No:112, 34394 Esentepe, Istanbul - TURKEY",
-    "country": "TR",
-    "email": "abuse@vodafone.net.tr",
-    "name": "Borusan Telekom Backbone Group",
-    "network": "195.87.99.176/28",
-    "phone": "+90 212 355 5151"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Istanbul"
 }

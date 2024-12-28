@@ -4,38 +4,7 @@
   "region": "North Chungcheong",
   "country": "KR",
   "loc": "36.6372,127.4897",
+  "org": "AS9319 HCN CHUNGBUK CABLE TV SYSTEMS",
   "postal": "28507",
-  "timezone": "Asia/Seoul",
-  "asn": {
-    "asn": "AS9319",
-    "name": "HCN CHUNGBUK CABLE TV SYSTEMS",
-    "domain": "hcn.co.kr",
-    "route": "112.72.228.0/22",
-    "type": "isp"
-  },
-  "company": {
-    "name": "HYUNDAI COMMUNICATIONS   NETWORK",
-    "domain": "hcn.co.kr",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Jeollanam-do Naju-si Jinheung-gil",
-    "country": "KR",
-    "email": "irt@nic.or.kr",
-    "name": "IP Manager",
-    "network": "112.72.128.0/17",
-    "phone": "+82-70-8109-1661"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Seoul"
 }

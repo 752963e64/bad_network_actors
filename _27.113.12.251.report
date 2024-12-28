@@ -4,39 +4,7 @@
   "region": "Daegu",
   "country": "KR",
   "loc": "35.8703,128.5911",
+  "org": "AS9781 GREEN CABLE TELEVISION STATION",
   "postal": "41581",
-  "timezone": "Asia/Seoul",
-  "asn": {
-    "asn": "AS9781",
-    "name": "GREEN CABLE TELEVISION STATION",
-    "domain": "gcs.co.kr",
-    "route": "27.113.8.0/21",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Asia Pacific Network Information Centre",
-    "domain": "apnic.net",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Jeollanam-do Naju-si Jinheung-gil",
-    "country": "KR",
-    "email": "irt@nic.or.kr",
-    "name": "IP Manager",
-    "network": "27.113.0.0/17",
-    "phone": "+82-53-551-2009"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Seoul"
 }

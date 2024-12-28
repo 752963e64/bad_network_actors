@@ -1,41 +1,9 @@
 {
   "ip": "181.115.180.242",
-  "city": "La Paz",
-  "region": "La Paz Department",
+  "city": "Cochabamba",
+  "region": "Cochabamba",
   "country": "BO",
-  "loc": "-16.5000,-68.1500",
-  "timezone": "America/La_Paz",
-  "asn": {
-    "asn": "AS6568",
-    "name": "Entel S.A. - EntelNet",
-    "domain": "entel.bo",
-    "route": "181.115.176.0/20",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Entel S.A. - EntelNet",
-    "domain": "entelnet.bo",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Calle Ayacucho, zona central, 267, Piso 7, BO - La Paz - LP",
-    "country": "BO",
-    "email": "mmballiv@entel.bo",
-    "name": "Marco Ballivian Menacho",
-    "network": "181.115.128.0/17",
-    "phone": "+591  22141010 [2947]"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "loc": "-17.3895,-66.1568",
+  "org": "AS6568 Entel S.A. - EntelNet",
+  "timezone": "America/La_Paz"
 }

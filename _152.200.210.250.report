@@ -4,44 +4,7 @@
   "region": "Huila Department",
   "country": "CO",
   "loc": "3.3761,-74.8015",
+  "org": "AS3816 COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
   "postal": "411080",
-  "timezone": "America/Bogota",
-  "asn": {
-    "asn": "AS3816",
-    "name": "COLOMBIA TELECOMUNICACIONES S.A. ESP BIC",
-    "domain": "movistar.com.co",
-    "route": "152.200.208.0/22",
-    "type": "isp"
-  },
-  "company": {
-    "name": "COLOMBIA TELECOMUNICACIONES S.A. ESP",
-    "domain": "telefonica.co",
-    "type": "isp"
-  },
-  "carrier": {
-    "name": "Movistar",
-    "mcc": "732",
-    "mnc": "123"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "UY, , Montevideo, Potosi 1517, 11500",
-    "country": "UY",
-    "email": "abuse@lacnic.net",
-    "name": "LACNIC Whois Info",
-    "network": "152.200.0.0/16",
-    "phone": "+598-2604-2222"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Bogota"
 }

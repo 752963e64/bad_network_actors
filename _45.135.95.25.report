@@ -5,39 +5,7 @@
   "region": "St.-Petersburg",
   "country": "RU",
   "loc": "59.9386,30.3141",
+  "org": "AS12555 Data-center IMAQLIQ Ltd.",
   "postal": "195213",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS12555",
-    "name": "Data-center IMAQLIQ Ltd.",
-    "domain": "iqdata.center",
-    "route": "45.135.92.0/22",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Data-center IMAQLIQ Ltd.",
-    "domain": "iqdata.center",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Naberezhnaya Obvodnovo Kanala, 93, Lit.A, room 1215, 191119, Saint-Petersburg, RUSSIAN FEDERATION",
-    "country": "RU",
-    "email": "abuse@iqdata.center",
-    "name": "Abuse-C Role",
-    "network": "45.135.92.0/22",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Moscow"
 }

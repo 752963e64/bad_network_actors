@@ -4,41 +4,7 @@
   "region": "North Holland",
   "country": "NL",
   "loc": "52.3740,4.8897",
+  "org": "AS9123 TimeWeb Ltd.",
   "postal": "1012",
-  "timezone": "Europe/Amsterdam",
-  "asn": {
-    "asn": "AS9123",
-    "name": "TimeWeb Ltd.",
-    "domain": "timeweb.ru",
-    "route": "147.45.170.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "TimeWeb Ltd.",
-    "domain": "timeweb.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "22/2 lit.A,Zastavskaya str., 196006, Saint-Petersburg, Russia",
-    "country": "RU",
-    "email": "abuse@timeweb.ru",
-    "name": "TimeWeb Co. Ltd. Role Account",
-    "network": "147.45.170.0/24",
-    "phone": "+7 812 2481081"
-  },
-  "domains": {
-    "ip": "147.45.170.115",
-    "total": 1,
-    "domains": [
-      "nesads.ru"
-    ]
-  }
+  "timezone": "Europe/Amsterdam"
 }

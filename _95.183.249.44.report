@@ -4,39 +4,7 @@
   "region": "Van",
   "country": "TR",
   "loc": "38.4946,43.3832",
+  "org": "AS8517 National Academic Network and Information Center",
   "postal": "65220",
-  "timezone": "Europe/Istanbul",
-  "asn": {
-    "asn": "AS8517",
-    "name": "National Academic Network and Information Center",
-    "domain": "ulakbim.gov.tr",
-    "route": "95.183.128.0/17",
-    "type": "education"
-  },
-  "company": {
-    "name": "Van Yuzuncu Yil Universites",
-    "domain": "ulakbim.gov.tr",
-    "type": "education"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "TUBITAK ULAKBIM YOK Binasi B5-Blok 3 kat Bilkent 06539 ANKARA Turkey",
-    "country": "TR",
-    "email": "abuse@ulakbim.gov.tr",
-    "name": "Abuse-C Role",
-    "network": "95.183.248.0/23",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Istanbul"
 }

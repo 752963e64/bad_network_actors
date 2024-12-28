@@ -4,42 +4,8 @@
   "region": "București",
   "country": "RO",
   "loc": "44.4323,26.1063",
+  "org": "AS199414 Noah Kolossa",
   "postal": "050011",
   "timezone": "Europe/Bucharest",
-  "anycast": true,
-  "asn": {
-    "asn": "AS199414",
-    "name": "Noah Kolossa",
-    "domain": "neoprotect.net",
-    "route": "89.33.12.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Noah Kolossa",
-    "domain": "nko.sh",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Ehestorfer Weg 72, 21075, Hamburg, DE",
-    "country": "RO",
-    "email": "report@abuseradar.com",
-    "name": "Noah Kolossa",
-    "network": "89.33.12.0/24",
-    "phone": ""
-  },
-  "domains": {
-    "ip": "89.33.12.111",
-    "total": 1,
-    "domains": [
-      "unixgo.net"
-    ]
-  }
+  "anycast": true
 }

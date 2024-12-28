@@ -4,38 +4,6 @@
   "region": "Jambi",
   "country": "ID",
   "loc": "-1.6000,103.6167",
-  "timezone": "Asia/Jakarta",
-  "asn": {
-    "asn": "AS139971",
-    "name": "PT. Medialink Intercontinental",
-    "domain": "mdl.net.id",
-    "route": "103.147.236.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "PT. Medialink Intercontinental",
-    "domain": "mdl.net.id",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PT. Medialink Intercontinental, JL.Prof HMO. Bafadhal No. 9, Cempaka Putih, Jelutung, Kota Jambi 36134",
-    "country": "ID",
-    "email": "abuse@mdl.net.id",
-    "name": "Taslim Taslim",
-    "network": "103.147.236.0/23",
-    "phone": "+62-741-34964"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS139971 PT. Medialink Intercontinental",
+  "timezone": "Asia/Jakarta"
 }

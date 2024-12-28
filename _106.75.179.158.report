@@ -5,39 +5,7 @@
   "region": "Guangdong",
   "country": "CN",
   "loc": "22.5455,114.0683",
+  "org": "AS58466 CHINANET Guangdong province network",
   "postal": "518000",
-  "timezone": "Asia/Shanghai",
-  "asn": {
-    "asn": "AS58466",
-    "name": "CHINANET Guangdong province network",
-    "domain": "chinatelecom.cn",
-    "route": "106.75.176.0/20",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Shanghai UCloud Information Technology Company Limited",
-    "domain": "ucloud.cn",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Beijing, China",
-    "country": "CN",
-    "email": "ipas@cnnic.cn",
-    "name": "ABUSE CNNICCN",
-    "network": "106.75.0.0/16",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Shanghai"
 }

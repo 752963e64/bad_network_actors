@@ -5,39 +5,7 @@
   "region": "Illinois",
   "country": "US",
   "loc": "41.8500,-87.6500",
+  "org": "AS11878 tzulo, inc.",
   "postal": "60666",
-  "timezone": "America/Chicago",
-  "asn": {
-    "asn": "AS11878",
-    "name": "tzulo, inc.",
-    "domain": "tzulo.com",
-    "route": "68.235.46.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "tzulo, inc.",
-    "domain": "tzulo.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": "Mullvad"
-  },
-  "abuse": {
-    "address": "US, IL, Chicago, 427 South LaSalle Street, Suite 405, 60605",
-    "country": "US",
-    "email": "abuse@tzulo.com",
-    "name": "Abuse tzulo",
-    "network": "68.235.32.0/19",
-    "phone": "+1-847-847-2048"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Chicago"
 }

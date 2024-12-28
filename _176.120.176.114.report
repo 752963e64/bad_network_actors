@@ -5,39 +5,7 @@
   "region": "Tver Oblast",
   "country": "RU",
   "loc": "56.8584,35.9006",
+  "org": "AS51669 Home Computer Networks ltd.",
   "postal": "170000",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS51669",
-    "name": "Home Computer Networks ltd.",
-    "domain": "tvhost.ru",
-    "route": "176.120.176.0/22",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Home Computer Networks ltd.",
-    "domain": "tvhost.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "10 Rzhevskaya Street, 170023, Tver, RUSSIAN FEDERATION",
-    "country": "RU",
-    "email": "admin@tvhost.ru",
-    "name": "Abuse Contact",
-    "network": "176.120.176.0/20",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Moscow"
 }

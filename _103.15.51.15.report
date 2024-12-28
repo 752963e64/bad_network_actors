@@ -4,42 +4,7 @@
   "region": "Bà Rịa–Vũng Tàu Province",
   "country": "VN",
   "loc": "10.3460,107.0843",
+  "org": "AS45538 ODS Joint Stock Company",
   "postal": "78254",
-  "timezone": "Asia/Ho_Chi_Minh",
-  "asn": {
-    "asn": "AS45538",
-    "name": "ODS Joint Stock Company",
-    "domain": "ods.vn",
-    "route": "103.15.51.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Mat Bao Corp",
-    "domain": "matbao.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Ha Noi, VietNam",
-    "country": "VN",
-    "email": "hm-changed@vnnic.vn",
-    "name": "Nguyen Quoc Vinh",
-    "network": "103.15.48.0/22",
-    "phone": "+84-24-35564944"
-  },
-  "domains": {
-    "ip": "103.15.51.15",
-    "total": 2,
-    "domains": [
-      "vietactivegroup.com",
-      "nhatminhhieu.net"
-    ]
-  }
+  "timezone": "Asia/Ho_Chi_Minh"
 }

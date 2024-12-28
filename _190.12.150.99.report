@@ -5,39 +5,7 @@
   "region": "Santo Domingo de los Tsáchilas",
   "country": "EC",
   "loc": "-0.2530,-79.1754",
+  "org": "AS271795 SERVITELCONET CIA. LTDA.",
   "postal": "230101",
-  "timezone": "America/Guayaquil",
-  "asn": {
-    "asn": "AS271795",
-    "name": "SERVITELCONET CIA. LTDA.",
-    "domain": "one.com.ec",
-    "route": "190.12.150.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "SERVITELCONET CIA. LTDA.",
-    "domain": "one.net.ec",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Quito, 145,, - Quito -",
-    "country": "EC",
-    "email": "info@ecuatek.net",
-    "name": "Jerson Males",
-    "network": "190.12.148.0/22",
-    "phone": "+593  984853406"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Guayaquil"
 }

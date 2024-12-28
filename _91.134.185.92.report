@@ -5,39 +5,7 @@
   "region": "Hauts-de-France",
   "country": "FR",
   "loc": "50.6942,3.1746",
+  "org": "AS16276 OVH SAS",
   "postal": "59100",
-  "timezone": "Europe/Paris",
-  "asn": {
-    "asn": "AS16276",
-    "name": "OVH SAS",
-    "domain": "ovhcloud.com",
-    "route": "91.134.0.0/16",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "ONYPHE SAS",
-    "domain": "onyphe.io",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "1 bis rue d'Ouessant - BP 96241, 35762 SAINT GREGOIRE, FR",
-    "country": "PT",
-    "email": "abuse@onyphe.io",
-    "name": "Abuse contact role object",
-    "network": "91.134.185.80/28",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Paris"
 }

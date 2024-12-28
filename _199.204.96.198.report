@@ -4,39 +4,7 @@
   "region": "Kansas",
   "country": "US",
   "loc": "38.9822,-94.6708",
+  "org": "AS399045 DediOutlet, LLC",
   "postal": "66204",
-  "timezone": "America/Chicago",
-  "asn": {
-    "asn": "AS399045",
-    "name": "DediOutlet, LLC",
-    "domain": "dedioutlet.com",
-    "route": "199.204.96.0/22",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "DediOutlet, LLC",
-    "domain": "dedioutlet.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "US, MO, SMITHVILLE, 100 W Church St., 64089",
-    "country": "US",
-    "email": "abuse@dedioutlet.com",
-    "name": "DediOutlet Abuse Department",
-    "network": "199.204.96.0/22",
-    "phone": "+1-816-982-0614"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Chicago"
 }

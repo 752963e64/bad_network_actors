@@ -1,44 +1,10 @@
 {
   "ip": "103.175.217.100",
   "hostname": "ip-100-217-175-103.wjv-1.biznetg.io",
-  "city": "Jakarta",
-  "region": "Jakarta",
+  "city": "Pameungpeuk",
+  "region": "West Java",
   "country": "ID",
-  "loc": "-6.2146,106.8451",
-  "timezone": "Asia/Jakarta",
-  "asn": {
-    "asn": "AS133800",
-    "name": "PT Biznet Gio Nusantara",
-    "domain": "biznetgio.com",
-    "route": "103.175.216.0/23",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "PT Biznet Gio Nusantara",
-    "domain": "biznetgio.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PT Biznet Gio Nusantara, Jl. Jenderal Sudirman Kav.10-11, Midplaza 2, Lt.2. Karet Tengsin, Tanah Abang, Jakarta Pusat",
-    "country": "ID",
-    "email": "abuse@biznetgio.com",
-    "name": "NOC BiznetGIO",
-    "network": "103.175.217.0/24",
-    "phone": "+62-21-5714567"
-  },
-  "domains": {
-    "ip": "103.175.217.100",
-    "total": 1,
-    "domains": [
-      "boostepidemic.net"
-    ]
-  }
+  "loc": "-7.0183,107.6039",
+  "org": "AS133800 PT Biznet Gio Nusantara",
+  "timezone": "Asia/Jakarta"
 }

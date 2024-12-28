@@ -4,39 +4,7 @@
   "region": "Metro Manila",
   "country": "PH",
   "loc": "14.5832,121.0409",
+  "org": "AS55821 RADIUS TELECOMS, INC.",
   "postal": "1550",
-  "timezone": "Asia/Manila",
-  "asn": {
-    "asn": "AS55821",
-    "name": "RADIUS TELECOMS, INC.",
-    "domain": "radius.ph",
-    "route": "110.235.136.0/22",
-    "type": "isp"
-  },
-  "company": {
-    "name": "RADIUS TELECOMS, INC.",
-    "domain": "radius.ph",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "12F Tower 2 Rockwell Business , Pasig City NCR 1604",
-    "country": "PH",
-    "email": "abuse@radius.ph",
-    "name": "ABUSE RTIPH",
-    "network": "110.235.128.0/18",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Manila"
 }

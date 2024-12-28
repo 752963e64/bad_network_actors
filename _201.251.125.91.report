@@ -1,11 +1,11 @@
 {
   "ip": "201.251.125.91",
   "hostname": "201-251-125-91.static.speedy.com.ar",
-  "city": "Pontevedra",
-  "region": "Buenos Aires",
+  "city": "Buenos Aires",
+  "region": "Buenos Aires F.D.",
   "country": "AR",
-  "loc": "-34.7495,-58.7016",
+  "loc": "-34.6131,-58.3772",
   "org": "AS22927 Telefonica de Argentina",
-  "postal": "1761",
+  "postal": "1871",
   "timezone": "America/Argentina/Buenos_Aires"
 }

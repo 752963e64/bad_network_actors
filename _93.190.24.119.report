@@ -1,40 +1,9 @@
 {
   "ip": "93.190.24.119",
-  "city": "Yasuj",
-  "region": "Kohgiluyeh and Boyer-Ahmad",
+  "city": "Shiraz",
+  "region": "Fars",
   "country": "IR",
-  "loc": "30.6682,51.5880",
-  "timezone": "Asia/Tehran",
-  "asn": {
-    "asn": "AS47188",
-    "name": "PressTV",
-    "domain": "presstv.ir",
-    "route": "93.190.24.0/23",
-    "type": "business"
-  },
-  "company": {
-    "name": "Prs",
-    "domain": "prsrx.com",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Press TV Co., No. 6, East 2nd St., Farhang Blvd., Saadatabad, 19977-66411 Tehran, IR",
-    "country": "IR",
-    "email": "amir.naziri@presstv.ir",
-    "name": "Abuse-C Role",
-    "network": "93.190.24.0/23",
-    "phone": "+98 21 23011435"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "loc": "29.6103,52.5311",
+  "org": "AS47188 PressTV",
+  "timezone": "Asia/Tehran"
 }

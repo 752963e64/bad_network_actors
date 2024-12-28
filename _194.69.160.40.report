@@ -4,39 +4,7 @@
   "region": "Hesse",
   "country": "DE",
   "loc": "50.1155,8.6842",
+  "org": "AS19762 Physgun LLC",
   "postal": "60306",
-  "timezone": "Europe/Berlin",
-  "asn": {
-    "asn": "AS19762",
-    "name": "Physgun LLC",
-    "domain": "physgun.com",
-    "route": "194.69.160.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Physgun LLC",
-    "domain": "physgun.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Smolensko st. 10A, 03201, Vilnius, LITHUANIA",
-    "country": "LT",
-    "email": "info@xantho.lt",
-    "name": "Abuse-C Role",
-    "network": "194.69.160.0/24",
-    "phone": "+37067670060"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Berlin"
 }

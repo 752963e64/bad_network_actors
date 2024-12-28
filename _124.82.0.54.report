@@ -4,39 +4,7 @@
   "region": "Kuala Lumpur",
   "country": "MY",
   "loc": "3.1412,101.6865",
+  "org": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
   "postal": "50050",
-  "timezone": "Asia/Kuala_Lumpur",
-  "asn": {
-    "asn": "AS4788",
-    "name": "TM TECHNOLOGY SERVICES SDN. BHD.",
-    "domain": "tm.com.my",
-    "route": "124.82.0.0/18",
-    "type": "isp"
-  },
-  "company": {
-    "name": "HSBB-HOME",
-    "domain": "tm.com.my",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Menara TM, Jalan Pantai Baharu,, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
-    "country": "MY",
-    "email": "abuse@tm.com.my",
-    "name": "ABUSE MYWEBE",
-    "network": "124.82.0.0/20",
-    "phone": "+601110001000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kuala_Lumpur"
 }

@@ -4,39 +4,7 @@
   "region": "Île-de-France",
   "country": "FR",
   "loc": "48.8534,2.3488",
+  "org": "AS214961 Stellar Group SAS",
   "postal": "75000",
-  "timezone": "Europe/Paris",
-  "asn": {
-    "asn": "AS214961",
-    "name": "Stellar Group SAS",
-    "domain": "stellar-group.fr",
-    "route": "178.215.236.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Stellar Group SAS",
-    "domain": "stellar-group.fr",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "355 Avenue Eugène Mirabel Cabriès 13480, Bouches du Rhône FR",
-    "country": "FR",
-    "email": "contact@abuse-manager.com",
-    "name": "Abuse mailbox",
-    "network": "178.215.236.0/24",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Paris"
 }

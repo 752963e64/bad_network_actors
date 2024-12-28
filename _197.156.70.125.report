@@ -1,42 +1,10 @@
 {
   "ip": "197.156.70.125",
   "hostname": "girumhospital.com.et",
-  "city": "Addis Ababa",
-  "region": "Addis Ababa",
+  "city": "Fichē",
+  "region": "Oromiya",
   "country": "ET",
-  "loc": "9.0250,38.7469",
-  "timezone": "Africa/Addis_Ababa",
-  "asn": {
-    "asn": "AS24757",
-    "name": "Ethio Telecom",
-    "domain": "ethiotelecom.et",
-    "route": "197.156.70.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Ethio Telecom",
-    "domain": "ethiotelecom.et",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "ET4-AFRINIC",
-    "country": "ET",
-    "email": "abuse@ethiotelecom.et",
-    "name": "Ethio Telecom",
-    "network": "197.156.64.0/18",
-    "phone": "tel:+251-91-125-6562"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "loc": "9.8000,38.7333",
+  "org": "AS24757 Ethio Telecom",
+  "timezone": "Africa/Addis_Ababa"
 }

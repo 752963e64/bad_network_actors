@@ -4,38 +4,7 @@
   "region": "Maharashtra",
   "country": "IN",
   "loc": "19.0728,72.8826",
+  "org": "AS18229 CtrlS",
   "postal": "400017",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS18229",
-    "name": "CtrlS",
-    "domain": "ctrls.in",
-    "route": "45.113.189.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Pioneer Integrated Network Solutions Private Limited",
-    "domain": "pioneerintegrated.in",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "3D Samrat commercial complex, Saifabad, Hyderabad.",
-    "country": "IN",
-    "email": "abuse@pioneerintegrated.in",
-    "name": "Nagi Reddy",
-    "network": "45.113.188.0/22",
-    "phone": "+91-9676334442"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

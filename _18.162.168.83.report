@@ -5,38 +5,7 @@
   "region": "Hong Kong",
   "country": "HK",
   "loc": "22.2783,114.1747",
+  "org": "AS16509 Amazon.com, Inc.",
   "postal": "999077",
-  "timezone": "Asia/Hong_Kong",
-  "asn": {
-    "asn": "AS16509",
-    "name": "Amazon.com, Inc.",
-    "domain": "amazon.com",
-    "route": "18.162.0.0/16",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Amazon Data Services Hong Kong",
-    "domain": "amazon.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "US, WA, Seattle, Amazon Web Services Elastic Compute Cloud, EC2, 410 Terry Avenue North, 98109-5210",
-    "country": "US",
-    "email": "trustandsafety@support.aws.com",
-    "name": "Amazon EC2 Abuse",
-    "network": "18.162.0.0/16",
-    "phone": "+1-206-555-0000"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Hong_Kong"
 }

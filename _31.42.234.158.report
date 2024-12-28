@@ -5,39 +5,7 @@
   "region": "Tver Oblast",
   "country": "RU",
   "loc": "56.8584,35.9006",
+  "org": "AS50060 Annet Ltd.",
   "postal": "170000",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS50060",
-    "name": "Annet Ltd.",
-    "domain": "an-net.ru",
-    "route": "31.42.224.0/19",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Annet Ltd.",
-    "domain": "an-net.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "50 let Oktyabrya, h.3, Tver, Russia",
-    "country": "RU",
-    "email": "chuykovsi@an-net.ru",
-    "name": "Abuse-C Role",
-    "network": "31.42.224.0/19",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Moscow"
 }

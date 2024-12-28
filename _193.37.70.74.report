@@ -4,39 +4,7 @@
   "region": "Hesse",
   "country": "DE",
   "loc": "50.1153,8.6823",
+  "org": "AS199785 Cloud Hosting Solutions, Limited.",
   "postal": "60313",
-  "timezone": "Europe/Berlin",
-  "asn": {
-    "asn": "AS199785",
-    "name": "Cloud Hosting Solutions, Limited.",
-    "domain": "chosting.solutions",
-    "route": "193.37.70.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Cloud Hosting Solutions, Limited.",
-    "domain": "chosting.solutions",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "71-75, Shelton Street, WC2H 9JQ, London, UNITED KINGDOM",
-    "country": "GB",
-    "email": "abuse@chosting.solutions",
-    "name": "Cloud Hosting Solutions NOC",
-    "network": "193.37.70.0/24",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Berlin"
 }

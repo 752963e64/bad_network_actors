@@ -4,38 +4,7 @@
   "region": "Singapore",
   "country": "SG",
   "loc": "1.3342,103.7228",
+  "org": "AS174 Cogent Communications",
   "postal": "610063",
-  "timezone": "Asia/Singapore",
-  "asn": {
-    "asn": "AS174",
-    "name": "Cogent Communications",
-    "domain": "cogentco.com",
-    "route": "38.134.189.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "UltaHost",
-    "domain": "ultahost.com",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "US, DC, Washington, 2450 N street, NW, 20037",
-    "country": "US",
-    "email": "abuse@cogentco.com",
-    "name": "Cogent Abuse",
-    "network": "38.134.189.0/24",
-    "phone": "+1-877-875-4311"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Singapore"
 }

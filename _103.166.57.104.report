@@ -5,38 +5,7 @@
   "region": "Victoria",
   "country": "AU",
   "loc": "-37.8140,144.9633",
+  "org": "AS55581 BINARY NETWORKS PTY LTD",
   "postal": "3000",
-  "timezone": "Australia/Melbourne",
-  "asn": {
-    "asn": "AS55581",
-    "name": "BINARY NETWORKS PTY LTD",
-    "domain": "binarynetworks.com.au",
-    "route": "103.166.56.0/23",
-    "type": "isp"
-  },
-  "company": {
-    "name": "BINARY NETWORKS",
-    "domain": "nexttelecom.com.au",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Level 6, 56 Clarence Street, SYDNEY, NSW, AUSTRALIA, 2000",
-    "country": "AU",
-    "email": "data-abuse@commschoice.com",
-    "name": "ABUSE BINARYAU",
-    "network": "103.166.57.0/24",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Australia/Melbourne"
 }

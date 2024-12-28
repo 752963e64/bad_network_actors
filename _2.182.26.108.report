@@ -4,38 +4,6 @@
   "region": "Hamadan Province",
   "country": "IR",
   "loc": "34.7992,48.5146",
-  "timezone": "Asia/Tehran",
-  "asn": {
-    "asn": "AS58224",
-    "name": "Iran Telecommunication Company PJS",
-    "domain": "tci.ir",
-    "route": "2.182.0.0/19",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Information Technology Company (ITC)",
-    "domain": "ito.gov.ir",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Information Technology Company Ali Asghar Ansari Bayhaghi 1515674311 Teheran IRAN, ISLAMIC REPUBLIC OF",
-    "country": "IR",
-    "email": "abuse@ito.gov.ir",
-    "name": "Abuse-C Role",
-    "network": "2.182.0.0/19",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS58224 Iran Telecommunication Company PJS",
+  "timezone": "Asia/Tehran"
 }

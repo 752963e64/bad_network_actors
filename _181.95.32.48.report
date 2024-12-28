@@ -5,39 +5,7 @@
   "region": "Cordoba",
   "country": "AR",
   "loc": "-31.4135,-64.1810",
+  "org": "AS7303 Telecom Argentina S.A.",
   "postal": "5000",
-  "timezone": "America/Argentina/Cordoba",
-  "asn": {
-    "asn": "AS7303",
-    "name": "Telecom Argentina S.A.",
-    "domain": "telecom.com.ar",
-    "route": "181.94.0.0/15",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Telecom Argentina S.A.",
-    "domain": "telecom.com.ar",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Dorrego, 2502, piso 11, 1425 - Buenos Aires -",
-    "country": "AR",
-    "email": "abuse@teco.com.ar",
-    "name": "Administrador IP",
-    "network": "181.95.0.0/16",
-    "phone": "+54 11 4968 [4975]"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Argentina/Cordoba"
 }

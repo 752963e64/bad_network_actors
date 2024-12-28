@@ -4,39 +4,7 @@
   "region": "Delhi",
   "country": "IN",
   "loc": "28.6519,77.2315",
+  "org": "AS151734 WEBYNE DATA CENTRE PRIVATE LIMITED",
   "postal": "110001",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS151734",
-    "name": "WEBYNE DATA CENTRE PRIVATE LIMITED",
-    "domain": "webyne.com",
-    "route": "168.220.239.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Netmagic IT Services Pvt Ltd",
-    "domain": "netmagicsolutions.com",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Light Hall Block C Wing,Hiranandani Business Park,Saki Vihar Road,Chandivali Near Balagi Studio Sakinaka,Andheri (e),Mumbai,Maharashtra-400072",
-    "country": "IN",
-    "email": "abuse@netmagicsolutions.com",
-    "name": "Sanjay Liman",
-    "network": "168.220.224.0/19",
-    "phone": "+91-9821078497"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

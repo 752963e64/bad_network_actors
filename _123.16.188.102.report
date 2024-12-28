@@ -5,39 +5,7 @@
   "region": "Hanoi",
   "country": "VN",
   "loc": "21.0690,105.8105",
+  "org": "AS45899 VNPT Corp",
   "postal": "11250",
-  "timezone": "Asia/Bangkok",
-  "asn": {
-    "asn": "AS45899",
-    "name": "VNPT Corp",
-    "domain": "vnpt.vn",
-    "route": "123.16.176.0/20",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Vietnam Posts and Telecommunications Group",
-    "domain": "vnpt.com.vn",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Ha Noi, VietNam",
-    "country": "VN",
-    "email": "hm-changed@vnnic.vn",
-    "name": "Pham Tien Huy",
-    "network": "123.16.0.0/12",
-    "phone": "+84-24-35564944"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Bangkok"
 }

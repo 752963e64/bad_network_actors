@@ -4,44 +4,7 @@
   "region": "Chelyabinsk",
   "country": "RU",
   "loc": "55.1540,61.4291",
+  "org": "AS48190 T2 Mobile LLC",
   "postal": "454000",
-  "timezone": "Asia/Yekaterinburg",
-  "asn": {
-    "asn": "AS48190",
-    "name": "T2 Mobile LLC",
-    "domain": "t2.ru",
-    "route": "176.59.192.0/19",
-    "type": "isp"
-  },
-  "company": {
-    "name": "T2 Russia IP Network (EKB)",
-    "domain": "t2.ru",
-    "type": "isp"
-  },
-  "carrier": {
-    "name": "Tele2",
-    "mcc": "250",
-    "mnc": "20"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "T2 Mobile LLC, Kievskoe shosse, 22 km, 6, bld 1, 108811 Moscow, RUSSIAN FEDERATION",
-    "country": "RU",
-    "email": "abuse_ripe@t2.ru",
-    "name": "Abuse-C Role",
-    "network": "176.59.192.0/19",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Yekaterinburg"
 }

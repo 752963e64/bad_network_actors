@@ -5,38 +5,6 @@
   "region": "West Java",
   "country": "ID",
   "loc": "-6.1703,106.5303",
-  "timezone": "Asia/Jakarta",
-  "asn": {
-    "asn": "AS138089",
-    "name": "PT.Global Media Data Prima",
-    "domain": "gmdp.net.id",
-    "route": "103.124.137.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "PT.Global Media Data Prima",
-    "domain": "gmdp.net.id",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PT.Global Media Data Prima, Safira Town House, Magesti B No.6, Mayang, Gatak, Sukoharjo, Sukoharjo, Jawa Tengah",
-    "country": "ID",
-    "email": "abuse@gmdp.net.id",
-    "name": "Bravo Drajat Niti Totowibowo",
-    "network": "103.124.136.0/22",
-    "phone": "+62-271-643029"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS138089 PT.Global Media Data Prima",
+  "timezone": "Asia/Jakarta"
 }

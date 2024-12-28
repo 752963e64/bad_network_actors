@@ -5,39 +5,7 @@
   "region": "Maranhão",
   "country": "BR",
   "loc": "-5.2900,-44.4900",
+  "org": "AS263546 TURBONETT TELECOMUNICACOES LTDA. - ME",
   "postal": "65760-000",
-  "timezone": "America/Fortaleza",
-  "asn": {
-    "asn": "AS263546",
-    "name": "TURBONETT TELECOMUNICACOES LTDA. - ME",
-    "domain": "turbonett.com.br",
-    "route": "191.6.22.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "TURBONETT TELECOMUNICACOES LTDA. - ME",
-    "domain": "turbonett.com.br",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "",
-    "country": "BR",
-    "email": "marcos@turbonett.com.br",
-    "name": "Marcos Oliveira",
-    "network": "191.6.16.0/20",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Fortaleza"
 }

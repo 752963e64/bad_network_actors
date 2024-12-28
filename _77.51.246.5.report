@@ -5,39 +5,7 @@
   "region": "Moscow",
   "country": "RU",
   "loc": "55.7522,37.6156",
+  "org": "AS25515 PJSC Rostelecom",
   "postal": "101000",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS25515",
-    "name": "PJSC Rostelecom",
-    "domain": "rostelecom.ru",
-    "route": "77.51.0.0/16",
-    "type": "isp"
-  },
-  "company": {
-    "name": "PJSC Rostelecom",
-    "domain": "rt.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PJSC Rostelecom, Russian Federation",
-    "country": "RU",
-    "email": "abuse@rt.ru",
-    "name": "PJSC Rostelecom Technical Team",
-    "network": "77.51.246.0/24",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Moscow"
 }

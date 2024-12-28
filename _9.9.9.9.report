@@ -1,0 +1,12 @@
+{
+  "ip": "9.9.9.9",
+  "hostname": "dns9.quad9.net",
+  "city": "Zürich",
+  "region": "Zurich",
+  "country": "CH",
+  "loc": "47.3789,8.5204",
+  "org": "AS19281 Quad9",
+  "postal": "8004",
+  "timezone": "Europe/Zurich",
+  "anycast": true
+}

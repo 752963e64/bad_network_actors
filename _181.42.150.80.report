@@ -5,39 +5,7 @@
   "region": "Santiago Metropolitan",
   "country": "CL",
   "loc": "-33.4569,-70.6483",
+  "org": "AS27651 ENTEL CHILE S.A.",
   "postal": "8320000",
-  "timezone": "America/Santiago",
-  "asn": {
-    "asn": "AS27651",
-    "name": "ENTEL CHILE S.A.",
-    "domain": "entel.cl",
-    "route": "181.42.150.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Entel PCS Telecomunicaciones S.A.",
-    "domain": "entel.cl",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Amunategui 20, Piso7, 20, -, 8340516 - Santiago - RM",
-    "country": "CL",
-    "email": "ccatalan@entel.cl",
-    "name": "Carlos Catalán Rodriguez",
-    "network": "181.42.0.0/16",
-    "phone": "+56  223600000 [0]"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Santiago"
 }

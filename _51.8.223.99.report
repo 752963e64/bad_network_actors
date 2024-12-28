@@ -1,43 +1,11 @@
 {
   "ip": "51.8.223.99",
   "hostname": "azpdesb16.stretchoid.com",
-  "city": "Washington",
-  "region": "District of Columbia",
+  "city": "Sterling",
+  "region": "Virginia",
   "country": "US",
-  "loc": "38.8951,-77.0364",
-  "postal": "20004",
-  "timezone": "America/New_York",
-  "asn": {
-    "asn": "AS8075",
-    "name": "Microsoft Corporation",
-    "domain": "microsoft.com",
-    "route": "51.8.0.0/16",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Microsoft Deutschland MCIO GmbH",
-    "domain": "microsoft.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "One Microsoft Way, Redmond, WA 98052",
-    "country": "US",
-    "email": "abuse@microsoft.com",
-    "name": "Microsoft Abuse Contact",
-    "network": "51.8.0.0/16",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "loc": "39.0062,-77.4286",
+  "org": "AS8075 Microsoft Corporation",
+  "postal": "20163",
+  "timezone": "America/New_York"
 }

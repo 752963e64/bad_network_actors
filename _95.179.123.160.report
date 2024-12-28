@@ -1,43 +1,11 @@
 {
   "ip": "95.179.123.160",
   "hostname": "x160.bbn2-123.lipetsk.ru",
-  "city": "Gryazi",
+  "city": "Lipetsk",
   "region": "Lipetsk Oblast",
   "country": "RU",
-  "loc": "52.4954,39.9403",
-  "postal": "399050",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS12389",
-    "name": "PJSC Rostelecom",
-    "domain": "rt.ru",
-    "route": "95.179.122.0/23",
-    "type": "isp"
-  },
-  "company": {
-    "name": "OJSC Rostelecom, Lipetsk Branch",
-    "domain": "lipetsk.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PJSC Rostelecom, Russian Federation",
-    "country": "RU",
-    "email": "abuse@rt.ru",
-    "name": "PJSC Rostelecom Technical Team",
-    "network": "95.179.120.0/21",
-    "phone": "+7 4742 470909"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "loc": "52.6031,39.5708",
+  "org": "AS12389 PJSC Rostelecom",
+  "postal": "398000",
+  "timezone": "Europe/Moscow"
 }

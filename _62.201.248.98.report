@@ -4,38 +4,6 @@
   "region": "Baghdad",
   "country": "IQ",
   "loc": "33.3406,44.4009",
-  "timezone": "Asia/Baghdad",
-  "asn": {
-    "asn": "AS62419",
-    "name": "I.Q Online for Internet Services and Communications LLC",
-    "domain": "iq.group",
-    "route": "62.201.248.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "IQ Networks Baghdad",
-    "domain": "iq.group",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Handren Street 37, Sulaymania, Iraq",
-    "country": "IQ",
-    "email": "abuse@iq.email",
-    "name": "IQ networks Registry",
-    "network": "62.201.248.0/24",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS62419 I.Q Online for Internet Services and Communications LLC",
+  "timezone": "Asia/Baghdad"
 }

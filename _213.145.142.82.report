@@ -5,38 +5,6 @@
   "region": "Bishkek",
   "country": "KG",
   "loc": "42.8700,74.5900",
-  "timezone": "Asia/Bishkek",
-  "asn": {
-    "asn": "AS12997",
-    "name": "OJSC Kyrgyztelecom",
-    "domain": "kt.kg",
-    "route": "213.145.128.0/20",
-    "type": "isp"
-  },
-  "company": {
-    "name": "OJSC Kyrgyztelecom",
-    "domain": "kt.kg",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "96, Chuy avenue Bishkek Kyrgyzstan 720000",
-    "country": "KG",
-    "email": "azolotko@kt.kg",
-    "name": "OJSC Kyrgyztelecom Contact Role",
-    "network": "213.145.142.0/24",
-    "phone": "+996 312 620042"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS12997 OJSC Kyrgyztelecom",
+  "timezone": "Asia/Bishkek"
 }

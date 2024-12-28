@@ -5,39 +5,7 @@
   "region": "California",
   "country": "US",
   "loc": "37.3394,-121.8950",
+  "org": "AS917 Misaka Network, Inc.",
   "postal": "95103",
-  "timezone": "America/Los_Angeles",
-  "asn": {
-    "asn": "AS917",
-    "name": "Misaka Network, Inc.",
-    "domain": "misaka.io",
-    "route": "209.209.57.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Misaka Network, Inc.",
-    "domain": "misaka.io",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "US, DE, Dover, 8 The Green, Suite 6288, 19901",
-    "country": "US",
-    "email": "abuse-arin@misaka.email",
-    "name": "Abuse",
-    "network": "209.209.56.0/22",
-    "phone": "+1-302-659-8081"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Los_Angeles"
 }

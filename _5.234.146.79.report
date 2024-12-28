@@ -4,38 +4,6 @@
   "region": "West Azerbaijan",
   "country": "IR",
   "loc": "37.5527,45.0761",
-  "timezone": "Asia/Tehran",
-  "asn": {
-    "asn": "AS58224",
-    "name": "Iran Telecommunication Company PJS",
-    "domain": "tci.ir",
-    "route": "5.234.128.0/19",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Telecommunication Company of Azarbayejan Gharbi",
-    "domain": "tci.ir",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Azar Bayejan Gharbi -Telecommunication Company of Azarbayejan Gharbi",
-    "country": "IR",
-    "email": "av.borhani@tci.ir",
-    "name": "Abuse Contact",
-    "network": "5.234.96.0-5.234.191.255",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS58224 Iran Telecommunication Company PJS",
+  "timezone": "Asia/Tehran"
 }

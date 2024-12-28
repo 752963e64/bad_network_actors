@@ -4,38 +4,6 @@
   "region": "Red Sea",
   "country": "SD",
   "loc": "19.6175,37.2164",
-  "timezone": "Africa/Khartoum",
-  "asn": {
-    "asn": "AS15706",
-    "name": "Sudatel (Sudan Telecom Co. Ltd)",
-    "domain": "sudatel.sd",
-    "route": "196.1.221.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "CAPITAL-MOTORS-COMPANY-ATBARA",
-    "domain": "sudani.sd",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Sudatel Khartoum  Sudan, Khartoum, Sudan",
-    "country": "SD",
-    "email": "Abdelrahmanai@sudani.sd",
-    "name": "Abdelrahman Abdelgaoum Ibrahim Abdelrahmanai",
-    "network": "196.1.221.124/31",
-    "phone": "tel:+249-12-012-3834"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS15706 Sudatel (Sudan Telecom Co. Ltd)",
+  "timezone": "Africa/Khartoum"
 }

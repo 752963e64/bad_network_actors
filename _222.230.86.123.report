@@ -5,39 +5,7 @@
   "region": "Osaka",
   "country": "JP",
   "loc": "34.6938,135.5011",
+  "org": "AS2519 ARTERIA Networks Corporation",
   "postal": "543-0062",
-  "timezone": "Asia/Tokyo",
-  "asn": {
-    "asn": "AS2519",
-    "name": "ARTERIA Networks Corporation",
-    "domain": "arteria-net.com",
-    "route": "222.230.0.0/16",
-    "type": "isp"
-  },
-  "company": {
-    "name": "GMO Internet,Inc.",
-    "domain": "gmo.jp",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Uchikanda OS Bldg 4F, 2-12-6 Uchi-Kanda, Chiyoda-ku, Tokyo 101-0047, japan",
-    "country": "JP",
-    "email": "hostmaster@nic.ad.jp",
-    "name": "",
-    "network": "222.230.0.0/16",
-    "phone": "+81-3-5297-2311"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Tokyo"
 }

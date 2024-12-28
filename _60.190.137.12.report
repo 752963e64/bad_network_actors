@@ -4,39 +4,7 @@
   "region": "Zhejiang",
   "country": "CN",
   "loc": "30.7522,120.7500",
+  "org": "AS4134 CHINANET-BACKBONE",
   "postal": "314000",
-  "timezone": "Asia/Shanghai",
-  "asn": {
-    "asn": "AS4134",
-    "name": "CHINANET-BACKBONE",
-    "domain": "chinatelecom.com.cn",
-    "route": "60.176.0.0/12",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Chenyi Electron (Jiaxing) Co.,LTD",
-    "domain": "hz.zj.cn",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Chayuan Road ,Jiaxing,Zhejiang.Postcode:314000",
-    "country": "CN",
-    "email": "anti-spam@mail.jxptt.zj.cn",
-    "name": "Guangming Yang",
-    "network": "60.190.137.8/29",
-    "phone": "+86-13705734000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Shanghai"
 }

@@ -4,39 +4,7 @@
   "region": "Nonthaburi",
   "country": "TH",
   "loc": "13.8607,100.5148",
+  "org": "AS56309 Siamdata Communication Co.,Ltd.",
   "postal": "10250",
-  "timezone": "Asia/Bangkok",
-  "asn": {
-    "asn": "AS56309",
-    "name": "Siamdata Communication Co.,Ltd.",
-    "domain": "readyidc.com",
-    "route": "45.154.24.0/22",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "ReadyIDC Co., Ltd.",
-    "domain": "readyidc.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": "Windscribe"
-  },
-  "abuse": {
-    "address": "391/2 Bond Street Rd., Bangpood, Pakkret, 11120 Nonthaburi, Thailand",
-    "country": "TH",
-    "email": "admin@readyidc.com",
-    "name": "ReadyIDC Co., Ltd. abuse handling",
-    "network": "45.154.26.0/23",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Bangkok"
 }

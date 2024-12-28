@@ -4,39 +4,7 @@
   "region": "Zhejiang",
   "country": "CN",
   "loc": "29.8782,121.5494",
+  "org": "AS4134 CHINANET-BACKBONE",
   "postal": "315000",
-  "timezone": "Asia/Shanghai",
-  "asn": {
-    "asn": "AS4134",
-    "name": "CHINANET-BACKBONE",
-    "domain": "chinatelecom.com.cn",
-    "route": "122.224.0.0/12",
-    "type": "isp"
-  },
-  "company": {
-    "name": "CHINANET Zhejiang province network",
-    "domain": "chinatelecom.cn",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Hangzhou, 288 fucun Road, China",
-    "country": "CN",
-    "email": "antispam_zjnoc@163.com",
-    "name": "ABUSE CHINANETZJ",
-    "network": "122.224.0.0/12",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Shanghai"
 }

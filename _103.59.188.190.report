@@ -4,39 +4,7 @@
   "region": "Maharashtra",
   "country": "IN",
   "loc": "19.0728,72.8826",
+  "org": "AS58678 Intech Online Private Limited",
   "postal": "400017",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS58678",
-    "name": "Intech Online Private Limited",
-    "domain": "intechonline.net",
-    "route": "103.59.188.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Intech Online Private Limited",
-    "domain": "intechonline.net",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "B 401 wing B Nirmal Heights Nandi Stop Ausa Road Above Swagat Medical Store Latur,Latur,Maharashtra-413531",
-    "country": "IN",
-    "email": "flashbb.pvt@gmail.com",
-    "name": "Sangmeshwar Patil",
-    "network": "103.59.188.0/22",
-    "phone": "+91 02265210000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

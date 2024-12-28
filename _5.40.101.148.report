@@ -5,38 +5,7 @@
   "region": "Castille and León",
   "country": "ES",
   "loc": "40.9331,-5.6503",
+  "org": "AS6739 VODAFONE ONO, S.A.",
   "postal": "37188",
-  "timezone": "Europe/Madrid",
-  "asn": {
-    "asn": "AS6739",
-    "name": "VODAFONE ONO, S.A.",
-    "domain": "ono.es",
-    "route": "5.40.0.0/16",
-    "type": "isp"
-  },
-  "company": {
-    "name": "C/ Doctor Fleming, 75 37188 Carbajosa de la Sagrada - Salamanca",
-    "domain": "movistar.es",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Barcelona",
-    "country": "ES",
-    "email": "abuse@corp.vodafone.es",
-    "name": "VODAFONE ONO ABUSE",
-    "network": "5.40.101.0/24",
-    "phone": "+34 679793404"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Madrid"
 }

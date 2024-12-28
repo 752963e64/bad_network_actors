@@ -5,39 +5,7 @@
   "region": "Moravskoslezský",
   "country": "CZ",
   "loc": "49.8347,18.2820",
+  "org": "AS13036 T-Mobile Czech Republic a.s.",
   "postal": "710 00",
-  "timezone": "Europe/Prague",
-  "asn": {
-    "asn": "AS13036",
-    "name": "T-Mobile Czech Republic a.s.",
-    "domain": "t-mobile.cz",
-    "route": "89.24.0.0/16",
-    "type": "isp"
-  },
-  "company": {
-    "name": "staticaly assigned addresses for mobile terminals",
-    "domain": "t-mobile.cz",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "T-Mobile Czech Republic a.s., Tomickova 2144/1, Praha 4, 149 00, Czech Republic",
-    "country": "CZ",
-    "email": "abuse@t-mobile.cz",
-    "name": "Hostmaster T-Mobile Czech Republic",
-    "network": "89.24.64.0/21",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Prague"
 }

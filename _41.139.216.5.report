@@ -5,39 +5,7 @@
   "region": "Nakuru County",
   "country": "KE",
   "loc": "-0.3072,36.0722",
+  "org": "AS37061 Safaricom Limited",
   "postal": "20100",
-  "timezone": "Africa/Nairobi",
-  "asn": {
-    "asn": "AS37061",
-    "name": "Safaricom Limited",
-    "domain": "safaricom.co.ke",
-    "route": "41.139.192.0/19",
-    "type": "isp"
-  },
-  "company": {
-    "name": "For Converged services Western Region",
-    "domain": "onecom.co.ke",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "P.O Box 66827, 00800, Nairobi, Kenya, Nairobi, Kenya",
-    "country": "KE",
-    "email": "CorePSPlanningTeam@Safaricom.co.ke",
-    "name": "John Muita",
-    "network": "41.139.192.0/19",
-    "phone": "tel:+254-722-002829"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Africa/Nairobi"
 }

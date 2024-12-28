@@ -4,41 +4,7 @@
   "region": "Hong Kong",
   "country": "HK",
   "loc": "22.2783,114.1747",
+  "org": "AS134365 Ansheng Network Technology Co., Limited",
   "postal": "999077",
-  "timezone": "Asia/Hong_Kong",
-  "asn": {
-    "asn": "AS134365",
-    "name": "Ansheng Network Technology Co., Limited",
-    "domain": "158.hk",
-    "route": "107.151.206.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "VpsQuan L.L.C.",
-    "domain": "hkcloudx.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "HK, hongkong, kwai chung, 7F,World peace center,55 wo tong tsui st,kwai chung, 999077",
-    "country": "HK",
-    "email": "admin@hkcloudx.com",
-    "name": "qu ming",
-    "network": "107.151.192.0/18",
-    "phone": "+852-62079672"
-  },
-  "domains": {
-    "ip": "107.151.206.122",
-    "total": 1,
-    "domains": [
-      "5678ok.com"
-    ]
-  }
+  "timezone": "Asia/Hong_Kong"
 }

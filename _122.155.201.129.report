@@ -4,39 +4,7 @@
   "region": "Bangkok",
   "country": "TH",
   "loc": "13.7540,100.5014",
+  "org": "AS9335 CAT Telecom Public Company Limited",
   "postal": "10200",
-  "timezone": "Asia/Bangkok",
-  "asn": {
-    "asn": "AS9335",
-    "name": "CAT Telecom Public Company Limited",
-    "domain": "cattelecom.com",
-    "route": "122.155.201.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "CAT IDC Nonthaburi",
-    "domain": "ntplc.co.th",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "National Telecom Public Company Limited (CAT), NT Tower Bangkok Bangkok 10500, Thailand",
-    "country": "TH",
-    "email": "noc@cat.net.th",
-    "name": "ABUSE CATTH",
-    "network": "122.155.192.0/19",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Bangkok"
 }

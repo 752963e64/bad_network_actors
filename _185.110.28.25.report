@@ -4,38 +4,6 @@
   "region": "Fars",
   "country": "IR",
   "loc": "29.6103,52.5311",
-  "timezone": "Asia/Tehran",
-  "asn": {
-    "asn": "AS62284",
-    "name": "ARIYA NET ABAZAR PJSC",
-    "domain": "",
-    "route": "185.110.28.0/24",
-    "type": "business"
-  },
-  "company": {
-    "name": "ARIYA NET ABAZAR PJSC",
-    "domain": "",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "2nd bell, no. 22, 25th St, Saadat abaad St, 1998817133, Tehran, IRAN, ISLAMIC REPUBLIC OF",
-    "country": "IR",
-    "email": "arman.zamzam@yahoo.com",
-    "name": "Abuse-C Role",
-    "network": "185.110.28.0/22",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS62284 ARIYA NET ABAZAR PJSC",
+  "timezone": "Asia/Tehran"
 }

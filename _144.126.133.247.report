@@ -5,39 +5,7 @@
   "region": "Missouri",
   "country": "US",
   "loc": "38.6273,-90.1979",
+  "org": "AS40021 Nubes, LLC",
   "postal": "63101",
-  "timezone": "America/Chicago",
-  "asn": {
-    "asn": "AS40021",
-    "name": "Nubes, LLC",
-    "domain": "nubes-llc.com",
-    "route": "144.126.128.0/20",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Contabo Inc.",
-    "domain": "contabo.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "DE, , Munich, Aschauer Str. 32a, 81549",
-    "country": "DE",
-    "email": "abuse@contabo.de",
-    "name": "Contabo Abuse Department",
-    "network": "144.126.128.0/19",
-    "phone": "+498921268372"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Chicago"
 }

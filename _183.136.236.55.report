@@ -4,39 +4,7 @@
   "region": "Zhejiang",
   "country": "CN",
   "loc": "30.7522,120.7500",
+  "org": "AS58461 CT-HangZhou-IDC",
   "postal": "314000",
-  "timezone": "Asia/Shanghai",
-  "asn": {
-    "asn": "AS58461",
-    "name": "CT-HangZhou-IDC",
-    "domain": "chinatelecom.cn",
-    "route": "183.136.236.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "CHINANET-ZJ Hangzhou node network",
-    "domain": "hz.zj.cn",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Hangzhou, 288 fucun Road, China",
-    "country": "CN",
-    "email": "antispam_zjnoc@163.com",
-    "name": "ABUSE CHINANETZJ",
-    "network": "183.136.236.0/22",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Shanghai"
 }

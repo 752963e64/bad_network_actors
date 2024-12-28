@@ -4,38 +4,6 @@
   "region": "Alto Paraná",
   "country": "PY",
   "loc": "-25.5097,-54.6111",
-  "timezone": "America/Asuncion",
-  "asn": {
-    "asn": "AS27669",
-    "name": "E-life Paraguay S.A.",
-    "domain": "rieder.net.py",
-    "route": "200.108.143.0/24",
-    "type": "business"
-  },
-  "company": {
-    "name": "E-life Paraguay S.A.",
-    "domain": "rieder.net.py",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Avda. Artigas, 1945, -, 00000 - Asuncion -",
-    "country": "PY",
-    "email": "abuse@lobos-networking.com",
-    "name": "Gustavo Brusquetti",
-    "network": "200.108.128.0/20",
-    "phone": "+595  212190523 [001]"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS27669 E-life Paraguay S.A.",
+  "timezone": "America/Asuncion"
 }

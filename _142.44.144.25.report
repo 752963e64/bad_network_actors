@@ -5,39 +5,7 @@
   "region": "Quebec",
   "country": "CA",
   "loc": "45.5088,-73.5878",
+  "org": "AS16276 OVH SAS",
   "postal": "H3H",
-  "timezone": "America/Toronto",
-  "asn": {
-    "asn": "AS16276",
-    "name": "OVH SAS",
-    "domain": "ovhcloud.com",
-    "route": "142.44.128.0/17",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "OVH Hosting, Inc.",
-    "domain": "ovh.net",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "CA, QC, Montreal, 800-1801 McGill College, H3A 2N4",
-    "country": "CA",
-    "email": "abuse@ovh.ca",
-    "name": "Abuse",
-    "network": "142.44.144.0/24",
-    "phone": "+1-855-684-5463"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Toronto"
 }

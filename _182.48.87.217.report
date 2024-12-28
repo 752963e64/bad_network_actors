@@ -5,39 +5,7 @@
   "region": "Dhaka Division",
   "country": "BD",
   "loc": "23.7104,90.4074",
+  "org": "AS58715 EARTH TELECOMMUNICATION (Pvt) LTD.",
   "postal": "1000",
-  "timezone": "Asia/Dhaka",
-  "asn": {
-    "asn": "AS58715",
-    "name": "EARTH TELECOMMUNICATION (Pvt) LTD.",
-    "domain": "earth.net.bd",
-    "route": "182.48.87.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "RaceOnline-Ltd",
-    "domain": "race.net.bd",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Khawaja Tower (9th Floor), 95, Mohakhali C/A, Dhaka-1212, Bir Uttam A.K. Khndakar Sharak, Dhaka-1212",
-    "country": "BD",
-    "email": "abuse@earth.net.bd",
-    "name": "ABUSE EARTHTELECOMMUNICATIONBD",
-    "network": "182.48.87.0/24",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Dhaka"
 }

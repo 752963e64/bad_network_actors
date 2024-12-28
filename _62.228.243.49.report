@@ -5,39 +5,7 @@
   "region": "Nicosia",
   "country": "CY",
   "loc": "35.1753,33.3642",
+  "org": "AS200649 ANCORIA BANK LIMITED",
   "postal": "1010",
-  "timezone": "Asia/Nicosia",
-  "asn": {
-    "asn": "AS200649",
-    "name": "ANCORIA BANK LIMITED",
-    "domain": "ancoriabank.com",
-    "route": "62.228.243.0/24",
-    "type": "business"
-  },
-  "company": {
-    "name": "ANCORIA BANK LIMITED",
-    "domain": "ancoriabank.com",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "10-12 Dimostheni Severi Str,, Nicosia, Cyprus",
-    "country": "CY",
-    "email": "admin@ancoriabank.com",
-    "name": "Abuse-C Role",
-    "network": "62.228.243.0/24",
-    "phone": "+357 22551568"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Nicosia"
 }

@@ -5,38 +5,7 @@
   "region": "Texas",
   "country": "US",
   "loc": "29.4241,-98.4936",
+  "org": "AS8075 Microsoft Corporation",
   "postal": "78205",
-  "timezone": "America/Chicago",
-  "asn": {
-    "asn": "AS8075",
-    "name": "Microsoft Corporation",
-    "domain": "microsoft.com",
-    "route": "20.64.0.0/10",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Microsoft Corporation",
-    "domain": "microsoft.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "US, WA, Redmond, One Microsoft Way, 98052",
-    "country": "US",
-    "email": "abuse@microsoft.com",
-    "name": "Microsoft Abuse Contact",
-    "network": "20.33.0.0-20.128.255.255",
-    "phone": "+1-425-882-8080"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Chicago"
 }

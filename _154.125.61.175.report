@@ -4,38 +4,6 @@
   "region": "Dakar",
   "country": "SN",
   "loc": "14.6937,-17.4441",
-  "timezone": "Africa/Dakar",
-  "asn": {
-    "asn": "AS8346",
-    "name": "SONATEL-AS Autonomous System",
-    "domain": "sonatel.com",
-    "route": "154.125.0.0/18",
-    "type": "isp"
-  },
-  "company": {
-    "name": "SONATEL Societe Nationale Des Telecommunications Du Senegal",
-    "domain": "sonatel.sn",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Sonatel, Direction des Reseaux, 64, Voie de Dégagement Nord ( VDN), BP: 69 Dakar, Dakar 11000, Sénégal, Dakar, Senegal",
-    "country": "SN",
-    "email": "alpha.mbodj@orange-sonatel.com",
-    "name": "Alpha Mbodj",
-    "network": "154.125.60.0/22",
-    "phone": "tel:+221-33-879-32-22"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS8346 SONATEL-AS Autonomous System",
+  "timezone": "Africa/Dakar"
 }

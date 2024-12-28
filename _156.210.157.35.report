@@ -5,38 +5,6 @@
   "region": "Cairo",
   "country": "EG",
   "loc": "30.0626,31.2497",
-  "timezone": "Africa/Cairo",
-  "asn": {
-    "asn": "AS8452",
-    "name": "TE-AS",
-    "domain": "te.eg",
-    "route": "156.210.128.0/19",
-    "type": "isp"
-  },
-  "company": {
-    "name": "TE Data",
-    "domain": "tedata.net",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "MU, , Ebene, Level 11ABC, Raffles Tower, Lot 19, Cybercity, ",
-    "country": "MU",
-    "email": "abusepoc@afrinic.net",
-    "name": "Generic POC",
-    "network": "156.210.0.0/16",
-    "phone": "+230 4666616"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS8452 TE-AS",
+  "timezone": "Africa/Cairo"
 }

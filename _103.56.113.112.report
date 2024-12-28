@@ -4,39 +4,7 @@
   "region": "Hong Kong",
   "country": "HK",
   "loc": "22.2783,114.1747",
+  "org": "AS55933 Cloudie Limited",
   "postal": "999077",
-  "timezone": "Asia/Hong_Kong",
-  "asn": {
-    "asn": "AS55933",
-    "name": "Cloudie Limited",
-    "domain": "worria.com",
-    "route": "103.56.112.0/23",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Cloudie Limited",
-    "domain": "worria.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "UNIT D 12/F SEABRIGHT PLAZA 9-23 SHELL ST NORTH POINT, HongKong HongKong",
-    "country": "HK",
-    "email": "digitalbasedsystem@gmail.com",
-    "name": "ABUSE DBSCLHK",
-    "network": "103.56.112.0/22",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Hong_Kong"
 }

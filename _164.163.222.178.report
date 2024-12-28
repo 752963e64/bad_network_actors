@@ -4,39 +4,7 @@
   "region": "Pará",
   "country": "BR",
   "loc": "-6.0675,-49.9022",
+  "org": "AS267455 FIBRACOM TELECOMUNICACOES E SERVICOS EIRELI - ME",
   "postal": "68515-000",
-  "timezone": "America/Belem",
-  "asn": {
-    "asn": "AS267455",
-    "name": "FIBRACOM TELECOMUNICACOES E SERVICOS EIRELI - ME",
-    "domain": "lhstelecom.com.br",
-    "route": "164.163.222.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "FIBRACOM TELECOMUNICACOES E SERVICOS EIRELI - ME",
-    "domain": "lhstelecom.com.br",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "",
-    "country": "BR",
-    "email": "adolfo@lhstelecom.com.br",
-    "name": "ADOLFO SILVA JUNIOR",
-    "network": "164.163.220.0/22",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/Belem"
 }

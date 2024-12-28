@@ -4,39 +4,7 @@
   "region": "Guangdong",
   "country": "CN",
   "loc": "22.5455,114.0683",
+  "org": "AS4816 China Telecom (Group)",
   "postal": "518000",
-  "timezone": "Asia/Shanghai",
-  "asn": {
-    "asn": "AS4816",
-    "name": "China Telecom (Group)",
-    "domain": "chinatelecom.com.cn",
-    "route": "43.254.156.0/22",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Shenzhen ESIN Technology Co., Ltd",
-    "domain": "esinidc.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Beijing, China",
-    "country": "CN",
-    "email": "ipas@cnnic.cn",
-    "name": "ABUSE CNNICCN",
-    "network": "43.254.156.0/22",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Shanghai"
 }

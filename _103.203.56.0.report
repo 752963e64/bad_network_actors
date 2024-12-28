@@ -5,39 +5,7 @@
   "region": "Hong Kong",
   "country": "HK",
   "loc": "22.2783,114.1747",
+  "org": "AS136180 Beijing Tiantexin Tech. Co., Ltd.",
   "postal": "999077",
-  "timezone": "Asia/Hong_Kong",
-  "asn": {
-    "asn": "AS136180",
-    "name": "Beijing Tiantexin Tech. Co., Ltd.",
-    "domain": "ipip.net",
-    "route": "103.203.56.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Beijing Tiantexin Tech. Co., Ltd.",
-    "domain": "ipip.net",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Baiziwan Xili, No. 402 - 1706, Chaoyang District, Beijing Beijing 100100",
-    "country": "CN",
-    "email": "noc@ipip.net",
-    "name": "ABUSE IPIPCN",
-    "network": "103.203.56.0/22",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Hong_Kong"
 }

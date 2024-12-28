@@ -4,39 +4,7 @@
   "region": "Punjab",
   "country": "PK",
   "loc": "30.1968,71.4782",
+  "org": "AS135003 Multan Cable & Internet Services (Pvt) Ltd",
   "postal": "60700",
-  "timezone": "Asia/Karachi",
-  "asn": {
-    "asn": "AS135003",
-    "name": "Multan Cable & Internet Services (Pvt) Ltd",
-    "domain": "mispl.pk",
-    "route": "103.86.135.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "MISPL Internet Services (Pvt) Ltd",
-    "domain": "mispl.pk",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Farooqpura Chowk, Old Shujabad Road, Multan Punjab/Pakistan 60000",
-    "country": "PK",
-    "email": "ip.abuse@mispl.pk",
-    "name": "ABUSE MULTANPK",
-    "network": "103.86.135.0/24",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Karachi"
 }

@@ -5,39 +5,7 @@
   "region": "Zaporizhzhia",
   "country": "UA",
   "loc": "46.8473,35.3820",
+  "org": "AS201776 Miranda-Media Ltd",
   "postal": "72300",
-  "timezone": "Europe/Kyiv",
-  "asn": {
-    "asn": "AS201776",
-    "name": "Miranda-Media Ltd",
-    "domain": "miranda-media.ru",
-    "route": "217.197.172.0/22",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Miranda-Media Ltd",
-    "domain": "miranda-media.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "295011 Simferopol 9, Geroev Adzhimushkaya st.",
-    "country": "RU",
-    "email": "abuse@miranda-media.ru",
-    "name": "MIRANDA-MEDIA LTD. Technical Team",
-    "network": "217.197.172.0/22",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Kyiv"
 }

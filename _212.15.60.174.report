@@ -5,39 +5,7 @@
   "region": "Khakasiya Republic",
   "country": "RU",
   "loc": "53.0875,91.3997",
+  "org": "AS61118 Vikom Ltd.",
   "postal": "655791",
-  "timezone": "Asia/Krasnoyarsk",
-  "asn": {
-    "asn": "AS61118",
-    "name": "Vikom Ltd.",
-    "domain": "vikomtel.ru",
-    "route": "212.15.60.0/24",
-    "type": "business"
-  },
-  "company": {
-    "name": "Vikom Ltd.",
-    "domain": "vikomtel.ru",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "1B Gorkogo st., Beya, Khakassia, Russia",
-    "country": "RU",
-    "email": "office@vikomtel.ru",
-    "name": "Vikom Ltd. NOC",
-    "network": "212.15.60.0/24",
-    "phone": "+7-383-2205080"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Krasnoyarsk"
 }

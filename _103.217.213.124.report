@@ -4,39 +4,7 @@
   "region": "Andhra Pradesh",
   "country": "IN",
   "loc": "16.2997,80.4573",
+  "org": "AS45582 VAINAVI INDUSTIES LTD, INTERNET SERVICE PROVIDER, INDIA",
   "postal": "522438",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS45582",
-    "name": "VAINAVI INDUSTIES LTD, INTERNET SERVICE PROVIDER, INDIA",
-    "domain": "dvpl.in",
-    "route": "103.217.213.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "E Net Entertainment Pvt Ltd",
-    "domain": "e-net.in",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Viswasubha complex,opp sitharamaiah High School,Main Road Lakshmipuram,Guntur-522002,Guntur,Andhra Pradesh-522002",
-    "country": "IN",
-    "email": "ganta2809@efibernet.in",
-    "name": "PRASANT KUMAR",
-    "network": "103.217.212.0/22",
-    "phone": "+91 08632377914"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

@@ -4,37 +4,6 @@
   "region": "West Java",
   "country": "ID",
   "loc": "-6.9222,107.6069",
-  "timezone": "Asia/Jakarta",
-  "asn": {
-    "asn": "AS7713",
-    "name": "PT Telekomunikasi Indonesia",
-    "domain": "telin.net",
-    "route": "118.96.255.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "PT TELKOM INDONESIA",
-    "domain": "telkom.co.id",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PT. TELKOM INDONESIA, STO Telkom Gambir 3th Floor, Medan Merdeka Selatan, JAKARTA",
-    "country": "ID",
-    "email": "abuse@telkom.co.id",
-    "name": "ABUSE IDTELKOMID",
-    "network": "118.96.240.0/20",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS7713 PT Telekomunikasi Indonesia",
+  "timezone": "Asia/Jakarta"
 }

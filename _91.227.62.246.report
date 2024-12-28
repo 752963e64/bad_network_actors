@@ -4,39 +4,7 @@
   "region": "North Rhine-Westphalia",
   "country": "DE",
   "loc": "50.7766,6.0834",
+  "org": "AS213993 FEMBOY PROXY SOLUTIONS HOLDINGS LLC",
   "postal": "52062",
-  "timezone": "Europe/Berlin",
-  "asn": {
-    "asn": "AS213993",
-    "name": "FEMBOY PROXY SOLUTIONS HOLDINGS LLC",
-    "domain": "femboys.ink",
-    "route": "91.227.62.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "FEMBOY PROXY SOLUTIONS HOLDINGS LLC",
-    "domain": "femboys.ink",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Lilienstraße 5, 94051 Hauzenberg",
-    "country": "LT",
-    "email": "abuse@pfcloud.io",
-    "name": "Admin",
-    "network": "91.227.62.0/24",
-    "phone": "+37067670060"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Berlin"
 }

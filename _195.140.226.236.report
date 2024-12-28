@@ -4,39 +4,7 @@
   "region": "Kharkivs’ka Oblast’",
   "country": "UA",
   "loc": "49.9808,36.2527",
+  "org": "AS56465 Therecom Ltd",
   "postal": "61000",
-  "timezone": "Europe/Kyiv",
-  "asn": {
-    "asn": "AS56465",
-    "name": "Therecom Ltd",
-    "domain": "therecom.net",
-    "route": "195.140.226.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Therecom Ltd",
-    "domain": "therecom.net",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Shakespeara, 12A, 11, 61045, Kharkiv, UKRAINE",
-    "country": "UA",
-    "email": "abuse@therecom.net",
-    "name": "Abuse-C Role",
-    "network": "195.140.224.0/22",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Kyiv"
 }

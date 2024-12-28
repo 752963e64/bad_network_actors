@@ -4,38 +4,6 @@
   "region": "Tunis Governorate",
   "country": "TN",
   "loc": "36.8190,10.1658",
-  "timezone": "Africa/Tunis",
-  "asn": {
-    "asn": "AS31245",
-    "name": "ATI - Agence Tunisienne Internet",
-    "domain": "ati.tn",
-    "route": "41.227.8.0/22",
-    "type": "isp"
-  },
-  "company": {
-    "name": "ATI - Agence Tunisienne Internet",
-    "domain": "ati.tn",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "13 Avenue Jugurtha, Tunis 1002, Tunisia",
-    "country": "TN",
-    "email": "adel@ati.tn",
-    "name": "Adel Houas",
-    "network": "41.224.0.0/13",
-    "phone": "tel:+216-71-843-843"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS31245 ATI - Agence Tunisienne Internet",
+  "timezone": "Africa/Tunis"
 }

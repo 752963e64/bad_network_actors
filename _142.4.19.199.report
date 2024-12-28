@@ -5,41 +5,7 @@
   "region": "Utah",
   "country": "US",
   "loc": "40.3544,-110.7101",
+  "org": "AS46606 Unified Layer",
   "postal": "84072",
-  "timezone": "America/Denver",
-  "asn": {
-    "asn": "AS46606",
-    "name": "Unified Layer",
-    "domain": "endurance.com",
-    "route": "142.4.0.0/19",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Unified Layer",
-    "domain": "unifiedlayer.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "US, UT, Provo, 1958 South 950 East, 84606",
-    "country": "US",
-    "email": "abuse@bluehost.com",
-    "name": "Network Operations Center",
-    "network": "142.4.0.0/19",
-    "phone": "+1-801-765-9400"
-  },
-  "domains": {
-    "ip": "142.4.19.199",
-    "total": 1,
-    "domains": [
-      "dbassa.com"
-    ]
-  }
+  "timezone": "America/Denver"
 }

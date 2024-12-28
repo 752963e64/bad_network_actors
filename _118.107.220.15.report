@@ -4,38 +4,7 @@
   "region": "Selangor",
   "country": "MY",
   "loc": "2.6931,101.7498",
+  "org": "AS55720 Gigabit Hosting Sdn Bhd",
   "postal": "43900",
-  "timezone": "Asia/Kuala_Lumpur",
-  "asn": {
-    "asn": "AS55720",
-    "name": "Gigabit Hosting Sdn Bhd",
-    "domain": "thegigabit.com",
-    "route": "118.107.220.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Gigabit Hosting Sdn Bhd",
-    "domain": "thegigabit.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": "Windscribe"
-  },
-  "abuse": {
-    "address": "Australia",
-    "country": "AU",
-    "email": "noc@cnc-int.com",
-    "name": "ABUSE COLOMY",
-    "network": "118.107.216.0/21",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kuala_Lumpur"
 }

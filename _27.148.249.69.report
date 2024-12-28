@@ -4,39 +4,7 @@
   "region": "Fujian",
   "country": "CN",
   "loc": "24.4798,118.0819",
+  "org": "AS4809 China Telecom Next Generation Carrier Network",
   "postal": "361000",
-  "timezone": "Asia/Shanghai",
-  "asn": {
-    "asn": "AS4809",
-    "name": "China Telecom Next Generation Carrier Network",
-    "domain": "chinatelecom.com.cn",
-    "route": "27.148.248.0/21",
-    "type": "isp"
-  },
-  "company": {
-    "name": "CHINANET CN2 FUJIAN PROVINCE NETWORK",
-    "domain": "fz.fj.cn",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "no.7,dongjie road,fuzhou,fujian,china",
-    "country": "CN",
-    "email": "fjnic@fjdcb.fz.fj.cn",
-    "name": "ABUSE CHINANETFJ",
-    "network": "27.148.248.0/21",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Shanghai"
 }

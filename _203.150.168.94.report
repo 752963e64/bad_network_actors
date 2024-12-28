@@ -5,39 +5,7 @@
   "region": "Bangkok",
   "country": "TH",
   "loc": "13.7540,100.5014",
+  "org": "AS4618 Internet Thailand Company Limited",
   "postal": "10200",
-  "timezone": "Asia/Bangkok",
-  "asn": {
-    "asn": "AS4618",
-    "name": "Internet Thailand Company Limited",
-    "domain": "inet.co.th",
-    "route": "203.150.168.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "INEXT Broadband Company Limited",
-    "domain": "inext.co.th",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "INEXT Broadband Company Limited, 1768 Thai Summit Tower, 10th Fl., New Petchaburi Road, Khwaeng Bang Kapi, Khet Huay Khwang, Bangkok 10310",
-    "country": "TH",
-    "email": "op-bb@inet.co.th",
-    "name": "ABUSE INETIBBTH",
-    "network": "203.150.160.0/20",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Bangkok"
 }

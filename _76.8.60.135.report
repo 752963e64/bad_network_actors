@@ -5,39 +5,7 @@
   "region": "Pennsylvania",
   "country": "US",
   "loc": "39.9524,-75.1636",
+  "org": "AS397384 LaunchVPS, LLC",
   "postal": "19099",
-  "timezone": "America/New_York",
-  "asn": {
-    "asn": "AS397384",
-    "name": "LaunchVPS, LLC",
-    "domain": "launchvps.com",
-    "route": "76.8.60.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "LaunchVPS, LLC",
-    "domain": "launchvps.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "US, PA, Kennett Square, 873 E. Baltimore Pike, Suite 424, 19348",
-    "country": "US",
-    "email": "abuse@launchvps.com",
-    "name": "Abuse Department",
-    "network": "76.8.60.0/24",
-    "phone": "+1-484-393-5877"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/New_York"
 }

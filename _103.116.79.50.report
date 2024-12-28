@@ -4,39 +4,7 @@
   "region": "Shanghai",
   "country": "CN",
   "loc": "31.2222,121.4581",
+  "org": "AS17621 China Unicom Shanghai network",
   "postal": "200000",
-  "timezone": "Asia/Shanghai",
-  "asn": {
-    "asn": "AS17621",
-    "name": "China Unicom Shanghai network",
-    "domain": "chinaunicom.cn",
-    "route": "103.116.79.0/24",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Shanghai GongQi Network Technology Co., Ltd",
-    "domain": "igongqi.com",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Beijing, China",
-    "country": "CN",
-    "email": "ipas@cnnic.cn",
-    "name": "ABUSE CNNICCN",
-    "network": "103.116.76.0/22",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Shanghai"
 }

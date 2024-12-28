@@ -5,39 +5,7 @@
   "region": "Penza Oblast",
   "country": "RU",
   "loc": "53.2007,45.0046",
+  "org": "AS12389 PJSC Rostelecom",
   "postal": "440513",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS12389",
-    "name": "PJSC Rostelecom",
-    "domain": "rt.ru",
-    "route": "85.237.32.0/19",
-    "type": "isp"
-  },
-  "company": {
-    "name": "PJSC Rostelecom, Penza branch",
-    "domain": "penza.net",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PJSC Rostelecom, Russian Federation",
-    "country": "RU",
-    "email": "abuse@rt.ru",
-    "name": "PJSC Rostelecom Technical Team",
-    "network": "85.237.60.0/22",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Moscow"
 }

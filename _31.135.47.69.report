@@ -4,38 +4,7 @@
   "region": "Kuzbass",
   "country": "RU",
   "loc": "53.7557,87.1099",
+  "org": "AS48327 Ray-Svyaz Ltd.",
   "postal": "654000",
-  "timezone": "Asia/Novokuznetsk",
-  "asn": {
-    "asn": "AS48327",
-    "name": "Ray-Svyaz Ltd.",
-    "domain": "mycentra.ru",
-    "route": "31.135.40.0/21",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Ray-Svyaz Ltd.",
-    "domain": "mycentra.ru",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "LLC \"Kuzbass phone networks\", Talesh Askarov, Kurako, 51, 65027, Novokuznetsk, RUSSIAN FEDERATION",
-    "country": "RU",
-    "email": "admc@mycentra.ru",
-    "name": "Abuse-C Role",
-    "network": "31.135.32.0/19",
-    "phone": ""
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Novokuznetsk"
 }

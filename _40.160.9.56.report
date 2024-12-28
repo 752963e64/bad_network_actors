@@ -4,38 +4,7 @@
   "region": "Virginia",
   "country": "US",
   "loc": "39.0437,-77.4875",
+  "org": "AS16276 OVH SAS",
   "postal": "20147",
-  "timezone": "America/New_York",
-  "asn": {
-    "asn": "AS16276",
-    "name": "OVH SAS",
-    "domain": "ovhcloud.com",
-    "route": "40.160.0.0/17",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "OVH US LLC",
-    "domain": "ovhcloud.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "US, VA, Reston, 11950 Democracy Drive, 20190",
-    "country": "US",
-    "email": "abuse@ovh.us",
-    "name": "ABUSE",
-    "network": "40.160.8.0/22",
-    "phone": "+1-855-684-5463"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "America/New_York"
 }

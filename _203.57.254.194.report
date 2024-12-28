@@ -4,39 +4,7 @@
   "region": "Chongqing",
   "country": "CN",
   "loc": "29.5603,106.5577",
+  "org": "AS58519 Cloud Computing Corporation",
   "postal": "401100",
-  "timezone": "Asia/Shanghai",
-  "asn": {
-    "asn": "AS58519",
-    "name": "Cloud Computing Corporation",
-    "domain": "chinatelecom.cn",
-    "route": "203.57.254.0/23",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "CHINANET FUJIAN PROVINCE NETWORK",
-    "domain": "chinatelecom.cn",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "No.31 ,jingrong street,beijing, 100032",
-    "country": "CN",
-    "email": "anti-spam@chinatelecom.cn",
-    "name": "ABUSE CHINANETCN",
-    "network": "203.57.254.0/23",
-    "phone": "+000000000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Shanghai"
 }

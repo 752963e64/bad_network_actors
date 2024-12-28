@@ -4,39 +4,7 @@
   "region": "Sverdlovsk Oblast",
   "country": "RU",
   "loc": "56.8519,60.6122",
+  "org": "AS48642 Joint stock company \"For\"",
   "postal": "620000",
-  "timezone": "Asia/Yekaterinburg",
-  "asn": {
-    "asn": "AS48642",
-    "name": "Joint stock company \"For\"",
-    "domain": "k-telecom.org",
-    "route": "88.218.212.0/22",
-    "type": "isp"
-  },
-  "company": {
-    "name": "Joint stock company \"For\"",
-    "domain": "k-telecom.org",
-    "type": "isp"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "Tehnologycheskaya 10, of. 18, 620049, Ekaterinburg, RUSSIAN FEDERATION",
-    "country": "RU",
-    "email": "abuse_contact@mail.ru",
-    "name": "Abuse-C Role",
-    "network": "88.218.214.0/23",
-    "phone": ""
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Yekaterinburg"
 }

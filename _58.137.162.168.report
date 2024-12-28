@@ -4,39 +4,7 @@
   "region": "Bangkok",
   "country": "TH",
   "loc": "13.7540,100.5014",
+  "org": "AS4750 CS LOXINFO PUBLIC COMPANY LIMITED",
   "postal": "10200",
-  "timezone": "Asia/Bangkok",
-  "asn": {
-    "asn": "AS4750",
-    "name": "CS LOXINFO PUBLIC COMPANY LIMITED",
-    "domain": "csloxinfo.net",
-    "route": "58.137.162.0/23",
-    "type": "isp"
-  },
-  "company": {
-    "name": "reassign to Royal Thai Armed Forces Headquarters",
-    "domain": "csl.co.th",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "CW Tower, Ratchadapisek Road, Huai Khwang, Bangkok 10310",
-    "country": "TH",
-    "email": "ip_admin@csl.co.th",
-    "name": "ABUSE CSLOXINFOTH",
-    "network": "58.137.162.160/28",
-    "phone": "+66 2 2638000"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Bangkok"
 }

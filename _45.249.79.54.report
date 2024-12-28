@@ -5,39 +5,7 @@
   "region": "Andhra Pradesh",
   "country": "IN",
   "loc": "16.4833,80.6000",
+  "org": "AS18229 CtrlS",
   "postal": "522501",
-  "timezone": "Asia/Kolkata",
-  "asn": {
-    "asn": "AS18229",
-    "name": "CtrlS",
-    "domain": "ctrls.in",
-    "route": "45.249.79.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "CtrlS",
-    "domain": "ctrls.in",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "12-125 adarsh nagar idpl colony ,balajinagar,hyderabad,Hyderabad,Andhra Pradesh-500037",
-    "country": "IN",
-    "email": "tejasri545@gmail.com",
-    "name": "manager admin",
-    "network": "45.249.76.0/22",
-    "phone": "+91 04064640545"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Kolkata"
 }

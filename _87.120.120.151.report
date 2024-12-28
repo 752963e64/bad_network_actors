@@ -1,10 +1,10 @@
 {
   "ip": "87.120.120.151",
-  "city": "Lelystad",
-  "region": "Flevoland",
-  "country": "NL",
-  "loc": "52.5083,5.4750",
+  "city": "Owatonna",
+  "region": "Minnesota",
+  "country": "US",
+  "loc": "44.0838,-93.2260",
   "org": "AS401109 Zhongguancun LLC",
-  "postal": "8224",
-  "timezone": "Europe/Amsterdam"
+  "postal": "55060",
+  "timezone": "America/Chicago"
 }

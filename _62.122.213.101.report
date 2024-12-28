@@ -5,39 +5,7 @@
   "region": "Moscow",
   "country": "RU",
   "loc": "55.7522,37.6156",
+  "org": "AS197309 RS-Media LLC",
   "postal": "101000",
-  "timezone": "Europe/Moscow",
-  "asn": {
-    "asn": "AS197309",
-    "name": "RS-Media LLC",
-    "domain": "rs-media.ru",
-    "route": "62.122.213.0/24",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "RS-Media LLC",
-    "domain": "rs-media.ru",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "125130, g. Moskva, Ul. Zoi i Aleksandra Kosmodem'janskih, d. 9, korp. 2, pom. 1, komn. 3",
-    "country": "RU",
-    "email": "info@rs-media.ru",
-    "name": "Abuse-C Role",
-    "network": "62.122.213.0/24",
-    "phone": "+74955808292"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Europe/Moscow"
 }

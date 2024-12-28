@@ -4,39 +4,7 @@
   "region": "Seoul",
   "country": "KR",
   "loc": "37.5308,126.8751",
+  "org": "AS31898 Oracle Corporation",
   "postal": "07991",
-  "timezone": "Asia/Seoul",
-  "asn": {
-    "asn": "AS31898",
-    "name": "Oracle Corporation",
-    "domain": "oracle.com",
-    "route": "146.56.128.0/18",
-    "type": "hosting"
-  },
-  "company": {
-    "name": "Oracle Corporation , Global software solutions , California , USA",
-    "domain": "oracle.com",
-    "type": "hosting"
-  },
-  "privacy": {
-    "vpn": false,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": true,
-    "service": ""
-  },
-  "abuse": {
-    "address": "500 Oracle Parkway, M/S 501ip3",
-    "country": "US",
-    "email": "domain-contact_ww_grp@oracle.com",
-    "name": "ORACLE CORPORATION - network administrator",
-    "network": "146.56.0.0/16",
-    "phone": "+1.6505062220"
-  },
-  "domains": {
-    "page": 0,
-    "total": 0,
-    "domains": []
-  }
+  "timezone": "Asia/Seoul"
 }

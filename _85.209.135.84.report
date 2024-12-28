@@ -1,10 +1,10 @@
 {
   "ip": "85.209.135.84",
-  "city": "McLean",
-  "region": "Virginia",
+  "city": "Washington",
+  "region": "District of Columbia",
   "country": "US",
-  "loc": "38.9343,-77.1775",
+  "loc": "38.8951,-77.0364",
   "org": "AS200080 Ravnix LLC",
-  "postal": "22101",
+  "postal": "20004",
   "timezone": "America/New_York"
 }

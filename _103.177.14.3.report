@@ -4,37 +4,6 @@
   "region": "North Sumatra",
   "country": "ID",
   "loc": "3.6253,98.8640",
-  "timezone": "Asia/Jakarta",
-  "asn": {
-    "asn": "AS147138",
-    "name": "PT Angkasa Pura Sarana Digital",
-    "domain": "apsdigital.id",
-    "route": "103.177.14.0/24",
-    "type": "business"
-  },
-  "company": {
-    "name": "PT Angkasa Pura Sarana Digital",
-    "domain": "apsdigital.id",
-    "type": "business"
-  },
-  "privacy": {
-    "vpn": true,
-    "proxy": false,
-    "tor": false,
-    "relay": false,
-    "hosting": false,
-    "service": ""
-  },
-  "abuse": {
-    "address": "PT. ANGKASA PURA SARANA DIGITAL, Terminal 1A Keberangkatan Ruang AOD006, Bandara Soekarno Hatta, Kota Tangerang, Banten 15126",
-    "country": "ID",
-    "email": "abuse@apsdigital.id",
-    "name": "PT Angkasa Pura Sarana Digital",
-    "network": "103.177.14.0/23",
-    "phone": "+62-21-80822282"
-  },
-  "domains": {
-    "total": 0,
-    "domains": []
-  }
+  "org": "AS147138 PT Angkasa Pura Sarana Digital",
+  "timezone": "Asia/Jakarta"
 }
